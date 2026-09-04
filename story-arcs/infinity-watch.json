@@ -1,0 +1,80 @@
+{
+ "arc": "Infinity Watch",
+ "slug": "infinity-watch",
+ "issue_count": 9,
+ "owned_count": 2,
+ "entries": [
+  {
+   "order": 1,
+   "series": "Thanos Annual",
+   "issue": "1",
+   "volume": "2024",
+   "year": "2024",
+   "owned": false
+  },
+  {
+   "order": 2,
+   "series": "The Amazing Spider-Man Annual",
+   "issue": "1",
+   "volume": "2024",
+   "year": "2024",
+   "owned": false
+  },
+  {
+   "order": 3,
+   "series": "Immortal Thor Annual",
+   "issue": "1",
+   "volume": "2024",
+   "year": "2024",
+   "owned": false
+  },
+  {
+   "order": 4,
+   "series": "Ms. Marvel Annual",
+   "issue": "1",
+   "volume": "2024",
+   "year": "2024",
+   "owned": false
+  },
+  {
+   "order": 5,
+   "series": "Wolverine Annual",
+   "issue": "1",
+   "volume": "2024",
+   "year": "2024",
+   "owned": false
+  },
+  {
+   "order": 6,
+   "series": "The Incredible Hulk Annual",
+   "issue": "1",
+   "volume": "2024",
+   "year": "2024",
+   "owned": false
+  },
+  {
+   "order": 7,
+   "series": "Moon Knight Annual",
+   "issue": "1",
+   "volume": "2024",
+   "year": "2024",
+   "owned": true
+  },
+  {
+   "order": 8,
+   "series": "Spider-Boy Annual",
+   "issue": "1",
+   "volume": "2024",
+   "year": "2024",
+   "owned": false
+  },
+  {
+   "order": 9,
+   "series": "Avengers Annual",
+   "issue": "1",
+   "volume": "2024",
+   "year": "2024",
+   "owned": true
+  }
+ ]
+}

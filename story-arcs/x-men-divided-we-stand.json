@@ -1,0 +1,328 @@
+{
+ "arc": "X-Men Divided We Stand",
+ "slug": "x-men-divided-we-stand",
+ "issue_count": 40,
+ "owned_count": 12,
+ "entries": [
+  {
+   "order": 1,
+   "series": "The Uncanny X-Men",
+   "issue": "495",
+   "volume": "1981",
+   "year": "2008",
+   "owned": false
+  },
+  {
+   "order": 2,
+   "series": "The Uncanny X-Men",
+   "issue": "496",
+   "volume": "1981",
+   "year": "2008",
+   "owned": false
+  },
+  {
+   "order": 3,
+   "series": "The Uncanny X-Men",
+   "issue": "497",
+   "volume": "1981",
+   "year": "2008",
+   "owned": false
+  },
+  {
+   "order": 4,
+   "series": "The Uncanny X-Men",
+   "issue": "498",
+   "volume": "1981",
+   "year": "2008",
+   "owned": false
+  },
+  {
+   "order": 5,
+   "series": "The Uncanny X-Men",
+   "issue": "499",
+   "volume": "1981",
+   "year": "2008",
+   "owned": false
+  },
+  {
+   "order": 6,
+   "series": "X-Men: Legacy",
+   "issue": "208",
+   "volume": "2008",
+   "year": "2008",
+   "owned": true
+  },
+  {
+   "order": 7,
+   "series": "X-Men: Legacy",
+   "issue": "209",
+   "volume": "2008",
+   "year": "2008",
+   "owned": false
+  },
+  {
+   "order": 8,
+   "series": "X-Men: Legacy",
+   "issue": "210",
+   "volume": "2008",
+   "year": "2008",
+   "owned": false
+  },
+  {
+   "order": 9,
+   "series": "X-Men: Legacy",
+   "issue": "211",
+   "volume": "2008",
+   "year": "2008",
+   "owned": false
+  },
+  {
+   "order": 10,
+   "series": "X-Men: Legacy",
+   "issue": "212",
+   "volume": "2008",
+   "year": "2008",
+   "owned": false
+  },
+  {
+   "order": 11,
+   "series": "X-Men: Legacy",
+   "issue": "213",
+   "volume": "2008",
+   "year": "2008",
+   "owned": false
+  },
+  {
+   "order": 12,
+   "series": "X-Men: Legacy",
+   "issue": "214",
+   "volume": "2008",
+   "year": "2008",
+   "owned": false
+  },
+  {
+   "order": 13,
+   "series": "X-Factor",
+   "issue": "28",
+   "volume": "2006",
+   "year": "2008",
+   "owned": false
+  },
+  {
+   "order": 14,
+   "series": "X-Factor",
+   "issue": "29",
+   "volume": "2006",
+   "year": "2008",
+   "owned": false
+  },
+  {
+   "order": 15,
+   "series": "X-Factor",
+   "issue": "30",
+   "volume": "2006",
+   "year": "2008",
+   "owned": false
+  },
+  {
+   "order": 16,
+   "series": "X-Factor",
+   "issue": "31",
+   "volume": "2006",
+   "year": "2008",
+   "owned": false
+  },
+  {
+   "order": 17,
+   "series": "X-Factor",
+   "issue": "32",
+   "volume": "2006",
+   "year": "2008",
+   "owned": false
+  },
+  {
+   "order": 18,
+   "series": "X-Force",
+   "issue": "1",
+   "volume": "2008",
+   "year": "2008",
+   "owned": true
+  },
+  {
+   "order": 19,
+   "series": "X-Force",
+   "issue": "2",
+   "volume": "2008",
+   "year": "2008",
+   "owned": true
+  },
+  {
+   "order": 20,
+   "series": "X-Force",
+   "issue": "3",
+   "volume": "2008",
+   "year": "2008",
+   "owned": true
+  },
+  {
+   "order": 21,
+   "series": "X-Force",
+   "issue": "4",
+   "volume": "2008",
+   "year": "2008",
+   "owned": true
+  },
+  {
+   "order": 22,
+   "series": "X-Force",
+   "issue": "5",
+   "volume": "2008",
+   "year": "2008",
+   "owned": true
+  },
+  {
+   "order": 23,
+   "series": "X-Force",
+   "issue": "6",
+   "volume": "2008",
+   "year": "2008",
+   "owned": true
+  },
+  {
+   "order": 24,
+   "series": "Wolverine",
+   "issue": "62",
+   "volume": "2003",
+   "year": "2008",
+   "owned": true
+  },
+  {
+   "order": 25,
+   "series": "Wolverine",
+   "issue": "63",
+   "volume": "2003",
+   "year": "2008",
+   "owned": true
+  },
+  {
+   "order": 26,
+   "series": "Wolverine",
+   "issue": "64",
+   "volume": "2003",
+   "year": "2008",
+   "owned": true
+  },
+  {
+   "order": 27,
+   "series": "Wolverine",
+   "issue": "65",
+   "volume": "2003",
+   "year": "2008",
+   "owned": false
+  },
+  {
+   "order": 28,
+   "series": "Cable",
+   "issue": "1",
+   "volume": "2008",
+   "year": "2008",
+   "owned": true
+  },
+  {
+   "order": 29,
+   "series": "Cable",
+   "issue": "2",
+   "volume": "2008",
+   "year": "2008",
+   "owned": true
+  },
+  {
+   "order": 30,
+   "series": "Cable",
+   "issue": "3",
+   "volume": "2008",
+   "year": "2008",
+   "owned": false
+  },
+  {
+   "order": 31,
+   "series": "Cable",
+   "issue": "4",
+   "volume": "2008",
+   "year": "2008",
+   "owned": false
+  },
+  {
+   "order": 32,
+   "series": "Cable",
+   "issue": "5",
+   "volume": "2008",
+   "year": "2008",
+   "owned": false
+  },
+  {
+   "order": 33,
+   "series": "King-Size Cable Spectacular",
+   "issue": "1",
+   "volume": "2008",
+   "year": "2008",
+   "owned": false
+  },
+  {
+   "order": 34,
+   "series": "X-Men: Divided We Stand",
+   "issue": "1",
+   "volume": "2008",
+   "year": "2008",
+   "owned": false
+  },
+  {
+   "order": 35,
+   "series": "X-Men: Divided We Stand",
+   "issue": "2",
+   "volume": "2008",
+   "year": "2008",
+   "owned": false
+  },
+  {
+   "order": 36,
+   "series": "Young X-Men",
+   "issue": "1",
+   "volume": "2008",
+   "year": "2008",
+   "owned": false
+  },
+  {
+   "order": 37,
+   "series": "Young X-Men",
+   "issue": "2",
+   "volume": "2008",
+   "year": "2008",
+   "owned": false
+  },
+  {
+   "order": 38,
+   "series": "Young X-Men",
+   "issue": "3",
+   "volume": "2008",
+   "year": "2008",
+   "owned": false
+  },
+  {
+   "order": 39,
+   "series": "Young X-Men",
+   "issue": "4",
+   "volume": "2008",
+   "year": "2008",
+   "owned": false
+  },
+  {
+   "order": 40,
+   "series": "Young X-Men",
+   "issue": "5",
+   "volume": "2008",
+   "year": "2008",
+   "owned": false
+  }
+ ]
+}

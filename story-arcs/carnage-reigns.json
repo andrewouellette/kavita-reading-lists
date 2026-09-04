@@ -1,0 +1,64 @@
+{
+ "arc": "Carnage Reigns",
+ "slug": "carnage-reigns",
+ "issue_count": 7,
+ "owned_count": 7,
+ "entries": [
+  {
+   "order": 1,
+   "series": "Carnage Reigns: Alpha",
+   "issue": "1",
+   "volume": "2023",
+   "year": "2023",
+   "owned": true
+  },
+  {
+   "order": 2,
+   "series": "Miles Morales: Spider-Man",
+   "issue": "6",
+   "volume": "2022",
+   "year": "2023",
+   "owned": true
+  },
+  {
+   "order": 3,
+   "series": "Carnage",
+   "issue": "13",
+   "volume": "2022",
+   "year": "2023",
+   "owned": true
+  },
+  {
+   "order": 4,
+   "series": "Red Goblin",
+   "issue": "5",
+   "volume": "2023",
+   "year": "2023",
+   "owned": true
+  },
+  {
+   "order": 5,
+   "series": "Carnage",
+   "issue": "14",
+   "volume": "2022",
+   "year": "2023",
+   "owned": true
+  },
+  {
+   "order": 6,
+   "series": "Miles Morales: Spider-Man",
+   "issue": "7",
+   "volume": "2022",
+   "year": "2023",
+   "owned": true
+  },
+  {
+   "order": 7,
+   "series": "Carnage Reigns Omega",
+   "issue": "1",
+   "volume": "2023",
+   "year": "2023",
+   "owned": true
+  }
+ ]
+}

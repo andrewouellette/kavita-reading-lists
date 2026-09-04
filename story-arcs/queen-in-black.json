@@ -1,0 +1,208 @@
+{
+ "arc": "Queen in Black",
+ "slug": "queen-in-black",
+ "issue_count": 25,
+ "owned_count": 2,
+ "entries": [
+  {
+   "order": 1,
+   "series": "Knull",
+   "issue": "1",
+   "volume": "2026",
+   "year": "2026",
+   "owned": false
+  },
+  {
+   "order": 2,
+   "series": "Knull",
+   "issue": "2",
+   "volume": "2026",
+   "year": "2026",
+   "owned": false
+  },
+  {
+   "order": 3,
+   "series": "Knull",
+   "issue": "3",
+   "volume": "2026",
+   "year": "2026",
+   "owned": false
+  },
+  {
+   "order": 4,
+   "series": "Knull",
+   "issue": "4",
+   "volume": "2026",
+   "year": "2026",
+   "owned": false
+  },
+  {
+   "order": 5,
+   "series": "Knull",
+   "issue": "5",
+   "volume": "2026",
+   "year": "2026",
+   "owned": false
+  },
+  {
+   "order": 6,
+   "series": "Comics Giveaway Day 2026: Amazing Spider-Man/Queen in Black",
+   "issue": "1",
+   "volume": "2026",
+   "year": "2026",
+   "owned": false
+  },
+  {
+   "order": 7,
+   "series": "Venom",
+   "issue": "259",
+   "volume": "2024",
+   "year": "2026",
+   "owned": true
+  },
+  {
+   "order": 8,
+   "series": "Queen in Black",
+   "issue": "1",
+   "volume": "2026",
+   "year": "2026",
+   "owned": false
+  },
+  {
+   "order": 9,
+   "series": "Queen in Black: Venom Unchained",
+   "issue": "1",
+   "volume": "2026",
+   "year": "2026",
+   "owned": false
+  },
+  {
+   "order": 10,
+   "series": "Queen in Black: Defenders of Light and Dark",
+   "issue": "1",
+   "volume": "2026",
+   "year": "2026",
+   "owned": false
+  },
+  {
+   "order": 11,
+   "series": "Queen in Black",
+   "issue": "2",
+   "volume": "2026",
+   "year": "2026",
+   "owned": false
+  },
+  {
+   "order": 12,
+   "series": "Venom",
+   "issue": "260",
+   "volume": "2024",
+   "year": "2026",
+   "owned": true
+  },
+  {
+   "order": 13,
+   "series": "Queen in Black: Venom Unchained",
+   "issue": "2",
+   "volume": "2026",
+   "year": "2026",
+   "owned": false
+  },
+  {
+   "order": 14,
+   "series": "Queen in Black: Defenders of Light and Dark",
+   "issue": "2",
+   "volume": "2026",
+   "year": "2026",
+   "owned": false
+  },
+  {
+   "order": 15,
+   "series": "Queen in Black: Hela",
+   "issue": "1",
+   "volume": "2026",
+   "year": "2026",
+   "owned": false
+  },
+  {
+   "order": 16,
+   "series": "Queen in Black",
+   "issue": "3",
+   "volume": "2026",
+   "year": "2026",
+   "owned": false
+  },
+  {
+   "order": 17,
+   "series": "Black Cat",
+   "issue": "14",
+   "volume": "2025",
+   "year": "2026",
+   "owned": false
+  },
+  {
+   "order": 18,
+   "series": "Venom",
+   "issue": "261",
+   "volume": "2024",
+   "year": "2026",
+   "owned": false
+  },
+  {
+   "order": 19,
+   "series": "Queen in Black: Venom Unchained",
+   "issue": "3",
+   "volume": "2026",
+   "year": "2026",
+   "owned": false
+  },
+  {
+   "order": 20,
+   "series": "Queen in Black: Defenders of Light and Dark",
+   "issue": "3",
+   "volume": "2026",
+   "year": "2026",
+   "owned": false
+  },
+  {
+   "order": 21,
+   "series": "Queen in Black: Thor",
+   "issue": "1",
+   "volume": "2026",
+   "year": "2026",
+   "owned": false
+  },
+  {
+   "order": 22,
+   "series": "Queen in Black",
+   "issue": "4",
+   "volume": "2026",
+   "year": "2026",
+   "owned": false
+  },
+  {
+   "order": 23,
+   "series": "Venom",
+   "issue": "262",
+   "volume": "2024",
+   "year": "2026",
+   "owned": false
+  },
+  {
+   "order": 24,
+   "series": "Queen in Black",
+   "issue": "5",
+   "volume": "2026",
+   "year": "2026",
+   "owned": false
+  },
+  {
+   "order": 25,
+   "series": "Amazing Venom",
+   "issue": "1",
+   "volume": "2026",
+   "year": "2026",
+   "owned": false
+  }
+ ]
+}

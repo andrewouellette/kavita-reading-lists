@@ -1,0 +1,104 @@
+{
+ "arc": "Death of Doctor Strange",
+ "slug": "death-of-doctor-strange",
+ "issue_count": 12,
+ "owned_count": 12,
+ "entries": [
+  {
+   "order": 1,
+   "series": "Death of Doctor Strange",
+   "issue": "1",
+   "volume": "2021",
+   "year": "2021",
+   "owned": true
+  },
+  {
+   "order": 2,
+   "series": "Death of Doctor Strange",
+   "issue": "2",
+   "volume": "2021",
+   "year": "2021",
+   "owned": true
+  },
+  {
+   "order": 3,
+   "series": "Death of Doctor Strange: The Avengers",
+   "issue": "1",
+   "volume": "2021",
+   "year": "2022",
+   "owned": true
+  },
+  {
+   "order": 4,
+   "series": "Strange Academy Presents: The Death of Doctor Strange",
+   "issue": "1",
+   "volume": "2021",
+   "year": "2022",
+   "owned": true
+  },
+  {
+   "order": 5,
+   "series": "Death of Doctor Strange",
+   "issue": "3",
+   "volume": "2021",
+   "year": "2022",
+   "owned": true
+  },
+  {
+   "order": 6,
+   "series": "Death of Doctor Strange: Spider-Man",
+   "issue": "1",
+   "volume": "2021",
+   "year": "2022",
+   "owned": true
+  },
+  {
+   "order": 7,
+   "series": "Death of Doctor Strange: White Fox",
+   "issue": "1",
+   "volume": "2021",
+   "year": "2022",
+   "owned": true
+  },
+  {
+   "order": 8,
+   "series": "Death of Doctor Strange: Blade",
+   "issue": "1",
+   "volume": "2021",
+   "year": "2022",
+   "owned": true
+  },
+  {
+   "order": 9,
+   "series": "Death of Doctor Strange",
+   "issue": "4",
+   "volume": "2021",
+   "year": "2022",
+   "owned": true
+  },
+  {
+   "order": 10,
+   "series": "Death of Doctor Strange: Bloodstone",
+   "issue": "1",
+   "volume": "2022",
+   "year": "2022",
+   "owned": true
+  },
+  {
+   "order": 11,
+   "series": "Death of Doctor Strange: X-Men/Black Knight",
+   "issue": "1",
+   "volume": "2022",
+   "year": "2022",
+   "owned": true
+  },
+  {
+   "order": 12,
+   "series": "Death of Doctor Strange",
+   "issue": "5",
+   "volume": "2021",
+   "year": "2022",
+   "owned": true
+  }
+ ]
+}

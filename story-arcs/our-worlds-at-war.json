@@ -1,0 +1,336 @@
+{
+ "arc": "Our Worlds at War",
+ "slug": "our-worlds-at-war",
+ "issue_count": 41,
+ "owned_count": 0,
+ "entries": [
+  {
+   "order": 1,
+   "series": "Superman",
+   "issue": "171",
+   "volume": "1987",
+   "year": "2001",
+   "owned": false
+  },
+  {
+   "order": 2,
+   "series": "Green Lantern: Our Worlds At War",
+   "issue": "1",
+   "volume": "2001",
+   "year": "2001",
+   "owned": false
+  },
+  {
+   "order": 3,
+   "series": "Adventures of Superman",
+   "issue": "593",
+   "volume": "1987",
+   "year": "2001",
+   "owned": false
+  },
+  {
+   "order": 4,
+   "series": "Batman: Our Worlds at War",
+   "issue": "1",
+   "volume": "2001",
+   "year": "2001",
+   "owned": false
+  },
+  {
+   "order": 5,
+   "series": "Superman: The Man of Steel",
+   "issue": "115",
+   "volume": "1991",
+   "year": "2001",
+   "owned": false
+  },
+  {
+   "order": 6,
+   "series": "Young Justice: Our Worlds at War",
+   "issue": "1",
+   "volume": "2001",
+   "year": "2001",
+   "owned": false
+  },
+  {
+   "order": 7,
+   "series": "Superboy",
+   "issue": "89",
+   "volume": "1994",
+   "year": "2001",
+   "owned": false
+  },
+  {
+   "order": 8,
+   "series": "Action Comics",
+   "issue": "780",
+   "volume": "1938",
+   "year": "2001",
+   "owned": false
+  },
+  {
+   "order": 9,
+   "series": "Wonder Woman",
+   "issue": "171",
+   "volume": "1987",
+   "year": "2001",
+   "owned": false
+  },
+  {
+   "order": 10,
+   "series": "Supergirl",
+   "issue": "59",
+   "volume": "1996",
+   "year": "2001",
+   "owned": false
+  },
+  {
+   "order": 11,
+   "series": "Superman: Our Worlds at War Secret Files",
+   "issue": "1",
+   "volume": "2001",
+   "year": "2001",
+   "owned": false
+  },
+  {
+   "order": 12,
+   "series": "Superman",
+   "issue": "172",
+   "volume": "1987",
+   "year": "2001",
+   "owned": false
+  },
+  {
+   "order": 13,
+   "series": "JLA: Our Worlds at War",
+   "issue": "1",
+   "volume": "2001",
+   "year": "2001",
+   "owned": false
+  },
+  {
+   "order": 14,
+   "series": "Young Justice",
+   "issue": "35",
+   "volume": "1998",
+   "year": "2001",
+   "owned": false
+  },
+  {
+   "order": 15,
+   "series": "Adventures of Superman",
+   "issue": "594",
+   "volume": "1987",
+   "year": "2001",
+   "owned": false
+  },
+  {
+   "order": 16,
+   "series": "Nightwing: Our Worlds at War",
+   "issue": "1",
+   "volume": "2001",
+   "year": "2001",
+   "owned": false
+  },
+  {
+   "order": 17,
+   "series": "Superman: The Man of Steel",
+   "issue": "116",
+   "volume": "1991",
+   "year": "2001",
+   "owned": false
+  },
+  {
+   "order": 18,
+   "series": "Superboy",
+   "issue": "90",
+   "volume": "1994",
+   "year": "2001",
+   "owned": false
+  },
+  {
+   "order": 19,
+   "series": "JSA: Our Worlds at War",
+   "issue": "1",
+   "volume": "2001",
+   "year": "2001",
+   "owned": false
+  },
+  {
+   "order": 20,
+   "series": "Action Comics",
+   "issue": "781",
+   "volume": "1938",
+   "year": "2001",
+   "owned": false
+  },
+  {
+   "order": 21,
+   "series": "Batman",
+   "issue": "593",
+   "volume": "1940",
+   "year": "2001",
+   "owned": false
+  },
+  {
+   "order": 22,
+   "series": "Supergirl",
+   "issue": "60",
+   "volume": "1996",
+   "year": "2001",
+   "owned": false
+  },
+  {
+   "order": 23,
+   "series": "Wonder Woman",
+   "issue": "172",
+   "volume": "1987",
+   "year": "2001",
+   "owned": false
+  },
+  {
+   "order": 24,
+   "series": "Wonder Woman: Our Worlds at War",
+   "issue": "1",
+   "volume": "2001",
+   "year": "2001",
+   "owned": false
+  },
+  {
+   "order": 25,
+   "series": "Superman",
+   "issue": "173",
+   "volume": "1987",
+   "year": "2001",
+   "owned": false
+  },
+  {
+   "order": 26,
+   "series": "Young Justice",
+   "issue": "36",
+   "volume": "1998",
+   "year": "2001",
+   "owned": false
+  },
+  {
+   "order": 27,
+   "series": "Adventures of Superman",
+   "issue": "595",
+   "volume": "1987",
+   "year": "2001",
+   "owned": false
+  },
+  {
+   "order": 28,
+   "series": "Flash: Our Worlds at War",
+   "issue": "1",
+   "volume": "2001",
+   "year": "2001",
+   "owned": false
+  },
+  {
+   "order": 29,
+   "series": "Impulse",
+   "issue": "77",
+   "volume": "1995",
+   "year": "2001",
+   "owned": false
+  },
+  {
+   "order": 30,
+   "series": "Superman: The Man of Steel",
+   "issue": "117",
+   "volume": "1991",
+   "year": "2001",
+   "owned": false
+  },
+  {
+   "order": 31,
+   "series": "Harley Quinn: Our Worlds at War",
+   "issue": "1",
+   "volume": "2001",
+   "year": "2001",
+   "owned": false
+  },
+  {
+   "order": 32,
+   "series": "Superboy",
+   "issue": "91",
+   "volume": "1994",
+   "year": "2001",
+   "owned": false
+  },
+  {
+   "order": 33,
+   "series": "Action Comics",
+   "issue": "782",
+   "volume": "1938",
+   "year": "2001",
+   "owned": false
+  },
+  {
+   "order": 34,
+   "series": "Wonder Woman",
+   "issue": "173",
+   "volume": "1987",
+   "year": "2001",
+   "owned": false
+  },
+  {
+   "order": 35,
+   "series": "Supergirl",
+   "issue": "61",
+   "volume": "1996",
+   "year": "2001",
+   "owned": false
+  },
+  {
+   "order": 36,
+   "series": "Batman",
+   "issue": "594",
+   "volume": "1940",
+   "year": "2001",
+   "owned": false
+  },
+  {
+   "order": 37,
+   "series": "World's Finest: Our Worlds at War",
+   "issue": "1",
+   "volume": "2001",
+   "year": "2001",
+   "owned": false
+  },
+  {
+   "order": 38,
+   "series": "Superman/Batman",
+   "issue": "68",
+   "volume": "2003",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 39,
+   "series": "Superman/Batman",
+   "issue": "69",
+   "volume": "2003",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 40,
+   "series": "Superman/Batman",
+   "issue": "70",
+   "volume": "2003",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 41,
+   "series": "Superman/Batman",
+   "issue": "71",
+   "volume": "2003",
+   "year": "2010",
+   "owned": false
+  }
+ ]
+}

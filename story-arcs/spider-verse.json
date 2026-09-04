@@ -1,0 +1,272 @@
+{
+ "arc": "Spider-Verse",
+ "slug": "spider-verse",
+ "issue_count": 33,
+ "owned_count": 18,
+ "entries": [
+  {
+   "order": 1,
+   "series": "Guardians of the Galaxy: Free Comic Book Day",
+   "issue": "1",
+   "volume": "2014",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 2,
+   "series": "Superior Spider-Man",
+   "issue": "32",
+   "volume": "2013",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 3,
+   "series": "Superior Spider-Man",
+   "issue": "33",
+   "volume": "2013",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 4,
+   "series": "The Amazing Spider-Man",
+   "issue": "7",
+   "volume": "2014",
+   "year": "2014",
+   "owned": true
+  },
+  {
+   "order": 5,
+   "series": "The Amazing Spider-Man",
+   "issue": "8",
+   "volume": "2014",
+   "year": "2014",
+   "owned": true
+  },
+  {
+   "order": 6,
+   "series": "Edge of Spider-Verse",
+   "issue": "1",
+   "volume": "2014",
+   "year": "2014",
+   "owned": true
+  },
+  {
+   "order": 7,
+   "series": "Edge of Spider-Verse",
+   "issue": "2",
+   "volume": "2014",
+   "year": "2014",
+   "owned": true
+  },
+  {
+   "order": 8,
+   "series": "Edge of Spider-Verse",
+   "issue": "3",
+   "volume": "2014",
+   "year": "2014",
+   "owned": true
+  },
+  {
+   "order": 9,
+   "series": "Edge of Spider-Verse",
+   "issue": "4",
+   "volume": "2014",
+   "year": "2014",
+   "owned": true
+  },
+  {
+   "order": 10,
+   "series": "Edge of Spider-Verse",
+   "issue": "5",
+   "volume": "2014",
+   "year": "2014",
+   "owned": true
+  },
+  {
+   "order": 11,
+   "series": "Spider-Man 2099",
+   "issue": "5",
+   "volume": "2014",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 12,
+   "series": "Spider-Verse Team-Up",
+   "issue": "1",
+   "volume": "2014",
+   "year": "2015",
+   "owned": false
+  },
+  {
+   "order": 13,
+   "series": "Spider-Verse",
+   "issue": "1",
+   "volume": "2014",
+   "year": "2015",
+   "owned": false
+  },
+  {
+   "order": 14,
+   "series": "Spider-Verse",
+   "issue": "2",
+   "volume": "2014",
+   "year": "2015",
+   "owned": false
+  },
+  {
+   "order": 15,
+   "series": "The Amazing Spider-Man",
+   "issue": "9",
+   "volume": "2014",
+   "year": "2015",
+   "owned": true
+  },
+  {
+   "order": 16,
+   "series": "The Amazing Spider-Man",
+   "issue": "10",
+   "volume": "2014",
+   "year": "2015",
+   "owned": true
+  },
+  {
+   "order": 17,
+   "series": "Spider-Man 2099",
+   "issue": "6",
+   "volume": "2014",
+   "year": "2015",
+   "owned": false
+  },
+  {
+   "order": 18,
+   "series": "Scarlet Spiders",
+   "issue": "1",
+   "volume": "2014",
+   "year": "2015",
+   "owned": false
+  },
+  {
+   "order": 19,
+   "series": "Scarlet Spiders",
+   "issue": "2",
+   "volume": "2014",
+   "year": "2015",
+   "owned": false
+  },
+  {
+   "order": 20,
+   "series": "The Amazing Spider-Man",
+   "issue": "11",
+   "volume": "2014",
+   "year": "2015",
+   "owned": true
+  },
+  {
+   "order": 21,
+   "series": "Spider-Verse Team-Up",
+   "issue": "2",
+   "volume": "2014",
+   "year": "2015",
+   "owned": false
+  },
+  {
+   "order": 22,
+   "series": "Spider-Woman",
+   "issue": "1",
+   "volume": "2014",
+   "year": "2015",
+   "owned": true
+  },
+  {
+   "order": 23,
+   "series": "Spider-Woman",
+   "issue": "2",
+   "volume": "2014",
+   "year": "2015",
+   "owned": true
+  },
+  {
+   "order": 24,
+   "series": "The Amazing Spider-Man",
+   "issue": "12",
+   "volume": "2014",
+   "year": "2015",
+   "owned": true
+  },
+  {
+   "order": 25,
+   "series": "Spider-Man 2099",
+   "issue": "7",
+   "volume": "2014",
+   "year": "2015",
+   "owned": false
+  },
+  {
+   "order": 26,
+   "series": "Scarlet Spiders",
+   "issue": "3",
+   "volume": "2014",
+   "year": "2015",
+   "owned": false
+  },
+  {
+   "order": 27,
+   "series": "Spider-Woman",
+   "issue": "3",
+   "volume": "2014",
+   "year": "2015",
+   "owned": true
+  },
+  {
+   "order": 28,
+   "series": "The Amazing Spider-Man",
+   "issue": "13",
+   "volume": "2014",
+   "year": "2015",
+   "owned": true
+  },
+  {
+   "order": 29,
+   "series": "Spider-Verse Team-Up",
+   "issue": "3",
+   "volume": "2014",
+   "year": "2015",
+   "owned": false
+  },
+  {
+   "order": 30,
+   "series": "Spider-Woman",
+   "issue": "4",
+   "volume": "2014",
+   "year": "2015",
+   "owned": true
+  },
+  {
+   "order": 31,
+   "series": "Spider-Man 2099",
+   "issue": "8",
+   "volume": "2014",
+   "year": "2015",
+   "owned": false
+  },
+  {
+   "order": 32,
+   "series": "The Amazing Spider-Man",
+   "issue": "14",
+   "volume": "2014",
+   "year": "2015",
+   "owned": true
+  },
+  {
+   "order": 33,
+   "series": "The Amazing Spider-Man",
+   "issue": "15",
+   "volume": "2014",
+   "year": "2015",
+   "owned": true
+  }
+ ]
+}

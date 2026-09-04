@@ -1,0 +1,424 @@
+{
+ "arc": "Age of Revelation",
+ "slug": "age-of-revelation",
+ "issue_count": 52,
+ "owned_count": 33,
+ "entries": [
+  {
+   "order": 1,
+   "series": "X-Men: Age of Revelation",
+   "issue": "0",
+   "volume": "2025",
+   "year": "2025",
+   "owned": true
+  },
+  {
+   "order": 2,
+   "series": "X-Men: Age of Revelation Overture",
+   "issue": "1",
+   "volume": "2025",
+   "year": "2025",
+   "owned": true
+  },
+  {
+   "order": 3,
+   "series": "Amazing X-Men",
+   "issue": "1",
+   "volume": "2025",
+   "year": "2025",
+   "owned": false
+  },
+  {
+   "order": 4,
+   "series": "Binary",
+   "issue": "1",
+   "volume": "2025",
+   "year": "2025",
+   "owned": true
+  },
+  {
+   "order": 5,
+   "series": "Laura Kinney: Sabretooth",
+   "issue": "1",
+   "volume": "2025",
+   "year": "2025",
+   "owned": false
+  },
+  {
+   "order": 6,
+   "series": "Longshots",
+   "issue": "1",
+   "volume": "2025",
+   "year": "2025",
+   "owned": false
+  },
+  {
+   "order": 7,
+   "series": "World of Revelation",
+   "issue": "1",
+   "volume": "2025",
+   "year": "2025",
+   "owned": false
+  },
+  {
+   "order": 8,
+   "series": "Iron & Frost",
+   "issue": "1",
+   "volume": "2025",
+   "year": "2025",
+   "owned": true
+  },
+  {
+   "order": 9,
+   "series": "Rogue Storm",
+   "issue": "1",
+   "volume": "2025",
+   "year": "2025",
+   "owned": true
+  },
+  {
+   "order": 10,
+   "series": "Sinister's Six",
+   "issue": "1",
+   "volume": "2025",
+   "year": "2025",
+   "owned": true
+  },
+  {
+   "order": 11,
+   "series": "Unbreakable X-Men",
+   "issue": "1",
+   "volume": "2025",
+   "year": "2025",
+   "owned": true
+  },
+  {
+   "order": 12,
+   "series": "Omega Kids",
+   "issue": "1",
+   "volume": "2025",
+   "year": "2025",
+   "owned": true
+  },
+  {
+   "order": 13,
+   "series": "Radioactive Spider-Man",
+   "issue": "1",
+   "volume": "2025",
+   "year": "2025",
+   "owned": true
+  },
+  {
+   "order": 14,
+   "series": "The Last Wolverine",
+   "issue": "1",
+   "volume": "2025",
+   "year": "2025",
+   "owned": true
+  },
+  {
+   "order": 15,
+   "series": "X-Men: Book of Revelation",
+   "issue": "1",
+   "volume": "2025",
+   "year": "2025",
+   "owned": true
+  },
+  {
+   "order": 16,
+   "series": "Cloak or Dagger",
+   "issue": "1",
+   "volume": "2025",
+   "year": "2025",
+   "owned": true
+  },
+  {
+   "order": 17,
+   "series": "Expatriate X-Men",
+   "issue": "1",
+   "volume": "2025",
+   "year": "2025",
+   "owned": true
+  },
+  {
+   "order": 18,
+   "series": "Undeadpool",
+   "issue": "1",
+   "volume": "2025",
+   "year": "2025",
+   "owned": true
+  },
+  {
+   "order": 19,
+   "series": "X-Vengers",
+   "issue": "1",
+   "volume": "2025",
+   "year": "2025",
+   "owned": true
+  },
+  {
+   "order": 20,
+   "series": "Amazing X-Men",
+   "issue": "2",
+   "volume": "2025",
+   "year": "2025",
+   "owned": false
+  },
+  {
+   "order": 21,
+   "series": "Binary",
+   "issue": "2",
+   "volume": "2025",
+   "year": "2025",
+   "owned": true
+  },
+  {
+   "order": 22,
+   "series": "Laura Kinney: Sabretooth",
+   "issue": "2",
+   "volume": "2025",
+   "year": "2025",
+   "owned": true
+  },
+  {
+   "order": 23,
+   "series": "Longshots",
+   "issue": "2",
+   "volume": "2025",
+   "year": "2025",
+   "owned": true
+  },
+  {
+   "order": 24,
+   "series": "Iron & Frost",
+   "issue": "2",
+   "volume": "2025",
+   "year": "2025",
+   "owned": false
+  },
+  {
+   "order": 25,
+   "series": "Rogue Storm",
+   "issue": "2",
+   "volume": "2025",
+   "year": "2025",
+   "owned": false
+  },
+  {
+   "order": 26,
+   "series": "Sinister's Six",
+   "issue": "2",
+   "volume": "2025",
+   "year": "2025",
+   "owned": false
+  },
+  {
+   "order": 27,
+   "series": "Unbreakable X-Men",
+   "issue": "2",
+   "volume": "2025",
+   "year": "2025",
+   "owned": false
+  },
+  {
+   "order": 28,
+   "series": "Omega Kids",
+   "issue": "2",
+   "volume": "2025",
+   "year": "2025",
+   "owned": true
+  },
+  {
+   "order": 29,
+   "series": "Radioactive Spider-Man",
+   "issue": "2",
+   "volume": "2025",
+   "year": "2025",
+   "owned": false
+  },
+  {
+   "order": 30,
+   "series": "The Last Wolverine",
+   "issue": "2",
+   "volume": "2025",
+   "year": "2025",
+   "owned": false
+  },
+  {
+   "order": 31,
+   "series": "X-Men: Book of Revelation",
+   "issue": "2",
+   "volume": "2025",
+   "year": "2025",
+   "owned": false
+  },
+  {
+   "order": 32,
+   "series": "Cloak or Dagger",
+   "issue": "2",
+   "volume": "2025",
+   "year": "2025",
+   "owned": true
+  },
+  {
+   "order": 33,
+   "series": "Expatriate X-Men",
+   "issue": "2",
+   "volume": "2025",
+   "year": "2025",
+   "owned": false
+  },
+  {
+   "order": 34,
+   "series": "Undeadpool",
+   "issue": "2",
+   "volume": "2025",
+   "year": "2025",
+   "owned": true
+  },
+  {
+   "order": 35,
+   "series": "X-Vengers",
+   "issue": "2",
+   "volume": "2025",
+   "year": "2025",
+   "owned": false
+  },
+  {
+   "order": 36,
+   "series": "Amazing X-Men",
+   "issue": "3",
+   "volume": "2025",
+   "year": "2025",
+   "owned": false
+  },
+  {
+   "order": 37,
+   "series": "Binary",
+   "issue": "3",
+   "volume": "2025",
+   "year": "2025",
+   "owned": true
+  },
+  {
+   "order": 38,
+   "series": "Laura Kinney: Sabretooth",
+   "issue": "3",
+   "volume": "2025",
+   "year": "2025",
+   "owned": true
+  },
+  {
+   "order": 39,
+   "series": "Longshots",
+   "issue": "3",
+   "volume": "2025",
+   "year": "2025",
+   "owned": true
+  },
+  {
+   "order": 40,
+   "series": "Iron & Frost",
+   "issue": "3",
+   "volume": "2025",
+   "year": "2025",
+   "owned": true
+  },
+  {
+   "order": 41,
+   "series": "Rogue Storm",
+   "issue": "3",
+   "volume": "2025",
+   "year": "2025",
+   "owned": false
+  },
+  {
+   "order": 42,
+   "series": "Sinister's Six",
+   "issue": "3",
+   "volume": "2025",
+   "year": "2025",
+   "owned": true
+  },
+  {
+   "order": 43,
+   "series": "Unbreakable X-Men",
+   "issue": "3",
+   "volume": "2025",
+   "year": "2025",
+   "owned": true
+  },
+  {
+   "order": 44,
+   "series": "Omega Kids",
+   "issue": "3",
+   "volume": "2025",
+   "year": "2025",
+   "owned": true
+  },
+  {
+   "order": 45,
+   "series": "Radioactive Spider-Man",
+   "issue": "3",
+   "volume": "2025",
+   "year": "2025",
+   "owned": false
+  },
+  {
+   "order": 46,
+   "series": "The Last Wolverine",
+   "issue": "3",
+   "volume": "2025",
+   "year": "2025",
+   "owned": true
+  },
+  {
+   "order": 47,
+   "series": "X-Men: Book of Revelation",
+   "issue": "3",
+   "volume": "2025",
+   "year": "2025",
+   "owned": false
+  },
+  {
+   "order": 48,
+   "series": "Cloak or Dagger",
+   "issue": "3",
+   "volume": "2025",
+   "year": "2025",
+   "owned": true
+  },
+  {
+   "order": 49,
+   "series": "Expatriate X-Men",
+   "issue": "3",
+   "volume": "2025",
+   "year": "2025",
+   "owned": true
+  },
+  {
+   "order": 50,
+   "series": "Undeadpool",
+   "issue": "3",
+   "volume": "2025",
+   "year": "2025",
+   "owned": true
+  },
+  {
+   "order": 51,
+   "series": "X-Vengers",
+   "issue": "3",
+   "volume": "2025",
+   "year": "2025",
+   "owned": true
+  },
+  {
+   "order": 52,
+   "series": "X-Men: Age of Revelation Finale",
+   "issue": "1",
+   "volume": "2025",
+   "year": "2025",
+   "owned": false
+  }
+ ]
+}

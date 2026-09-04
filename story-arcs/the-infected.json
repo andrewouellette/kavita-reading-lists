@@ -1,0 +1,192 @@
+{
+ "arc": "The Infected",
+ "slug": "the-infected",
+ "issue_count": 23,
+ "owned_count": 23,
+ "entries": [
+  {
+   "order": 1,
+   "series": "Batman/Superman",
+   "issue": "1",
+   "volume": "2019",
+   "year": "2019",
+   "owned": true
+  },
+  {
+   "order": 2,
+   "series": "Batman/Superman",
+   "issue": "2",
+   "volume": "2019",
+   "year": "2019",
+   "owned": true
+  },
+  {
+   "order": 3,
+   "series": "The Infected: King Shazam",
+   "issue": "1",
+   "volume": "2019",
+   "year": "2020",
+   "owned": true
+  },
+  {
+   "order": 4,
+   "series": "Black Adam: Year of the Villain",
+   "issue": "1",
+   "volume": "2019",
+   "year": "2019",
+   "owned": true
+  },
+  {
+   "order": 5,
+   "series": "Batman/Superman",
+   "issue": "3",
+   "volume": "2019",
+   "year": "2019",
+   "owned": true
+  },
+  {
+   "order": 6,
+   "series": "The Infected: Scarab",
+   "issue": "1",
+   "volume": "2019",
+   "year": "2020",
+   "owned": true
+  },
+  {
+   "order": 7,
+   "series": "Hawkman",
+   "issue": "18",
+   "volume": "2018",
+   "year": "2020",
+   "owned": true
+  },
+  {
+   "order": 8,
+   "series": "Batman/Superman",
+   "issue": "4",
+   "volume": "2019",
+   "year": "2020",
+   "owned": true
+  },
+  {
+   "order": 9,
+   "series": "Supergirl",
+   "issue": "36",
+   "volume": "2016",
+   "year": "2020",
+   "owned": true
+  },
+  {
+   "order": 10,
+   "series": "The Infected: Deathbringer",
+   "issue": "1",
+   "volume": "2019",
+   "year": "2020",
+   "owned": true
+  },
+  {
+   "order": 11,
+   "series": "Hawkman",
+   "issue": "19",
+   "volume": "2018",
+   "year": "2020",
+   "owned": true
+  },
+  {
+   "order": 12,
+   "series": "Supergirl",
+   "issue": "37",
+   "volume": "2016",
+   "year": "2020",
+   "owned": true
+  },
+  {
+   "order": 13,
+   "series": "Supergirl Annual",
+   "issue": "2",
+   "volume": "2016",
+   "year": "2020",
+   "owned": true
+  },
+  {
+   "order": 14,
+   "series": "Batman/Superman",
+   "issue": "5",
+   "volume": "2019",
+   "year": "2020",
+   "owned": true
+  },
+  {
+   "order": 15,
+   "series": "The Infected: The Commissioner",
+   "issue": "1",
+   "volume": "2019",
+   "year": "2020",
+   "owned": true
+  },
+  {
+   "order": 16,
+   "series": "Supergirl",
+   "issue": "38",
+   "volume": "2016",
+   "year": "2020",
+   "owned": true
+  },
+  {
+   "order": 17,
+   "series": "Hawkman",
+   "issue": "20",
+   "volume": "2018",
+   "year": "2020",
+   "owned": true
+  },
+  {
+   "order": 18,
+   "series": "Batman/Superman",
+   "issue": "6",
+   "volume": "2019",
+   "year": "2020",
+   "owned": true
+  },
+  {
+   "order": 19,
+   "series": "Supergirl",
+   "issue": "39",
+   "volume": "2016",
+   "year": "2020",
+   "owned": true
+  },
+  {
+   "order": 20,
+   "series": "Supergirl",
+   "issue": "40",
+   "volume": "2016",
+   "year": "2020",
+   "owned": true
+  },
+  {
+   "order": 21,
+   "series": "Hawkman",
+   "issue": "21",
+   "volume": "2018",
+   "year": "2020",
+   "owned": true
+  },
+  {
+   "order": 22,
+   "series": "Hawkman",
+   "issue": "22",
+   "volume": "2018",
+   "year": "2020",
+   "owned": true
+  },
+  {
+   "order": 23,
+   "series": "Hawkman",
+   "issue": "23",
+   "volume": "2018",
+   "year": "2020",
+   "owned": true
+  }
+ ]
+}

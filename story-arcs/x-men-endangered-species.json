@@ -1,0 +1,144 @@
+{
+ "arc": "X-Men Endangered Species",
+ "slug": "x-men-endangered-species",
+ "issue_count": 17,
+ "owned_count": 2,
+ "entries": [
+  {
+   "order": 1,
+   "series": "X-Men: Endangered Species",
+   "issue": "1",
+   "volume": "2008",
+   "year": "2008",
+   "owned": false
+  },
+  {
+   "order": 2,
+   "series": "X-Men",
+   "issue": "200",
+   "volume": "2004",
+   "year": "2007",
+   "owned": false
+  },
+  {
+   "order": 3,
+   "series": "The Uncanny X-Men",
+   "issue": "488",
+   "volume": "1981",
+   "year": "2007",
+   "owned": false
+  },
+  {
+   "order": 4,
+   "series": "X-Factor",
+   "issue": "21",
+   "volume": "2006",
+   "year": "2007",
+   "owned": false
+  },
+  {
+   "order": 5,
+   "series": "New X-Men",
+   "issue": "40",
+   "volume": "2004",
+   "year": "2007",
+   "owned": false
+  },
+  {
+   "order": 6,
+   "series": "X-Men",
+   "issue": "201",
+   "volume": "2004",
+   "year": "2007",
+   "owned": true
+  },
+  {
+   "order": 7,
+   "series": "The Uncanny X-Men",
+   "issue": "489",
+   "volume": "1981",
+   "year": "2007",
+   "owned": false
+  },
+  {
+   "order": 8,
+   "series": "X-Factor",
+   "issue": "22",
+   "volume": "2006",
+   "year": "2007",
+   "owned": false
+  },
+  {
+   "order": 9,
+   "series": "New X-Men",
+   "issue": "41",
+   "volume": "2004",
+   "year": "2007",
+   "owned": false
+  },
+  {
+   "order": 10,
+   "series": "X-Men",
+   "issue": "202",
+   "volume": "2004",
+   "year": "2007",
+   "owned": false
+  },
+  {
+   "order": 11,
+   "series": "The Uncanny X-Men",
+   "issue": "490",
+   "volume": "1981",
+   "year": "2007",
+   "owned": false
+  },
+  {
+   "order": 12,
+   "series": "X-Factor",
+   "issue": "23",
+   "volume": "2006",
+   "year": "2007",
+   "owned": false
+  },
+  {
+   "order": 13,
+   "series": "New X-Men",
+   "issue": "42",
+   "volume": "2004",
+   "year": "2007",
+   "owned": false
+  },
+  {
+   "order": 14,
+   "series": "X-Men",
+   "issue": "203",
+   "volume": "2004",
+   "year": "2007",
+   "owned": false
+  },
+  {
+   "order": 15,
+   "series": "The Uncanny X-Men",
+   "issue": "491",
+   "volume": "1981",
+   "year": "2007",
+   "owned": false
+  },
+  {
+   "order": 16,
+   "series": "X-Factor",
+   "issue": "24",
+   "volume": "2006",
+   "year": "2007",
+   "owned": false
+  },
+  {
+   "order": 17,
+   "series": "X-Men",
+   "issue": "204",
+   "volume": "2004",
+   "year": "2007",
+   "owned": true
+  }
+ ]
+}

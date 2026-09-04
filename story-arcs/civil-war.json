@@ -1,0 +1,1064 @@
+{
+ "arc": "Civil War",
+ "slug": "civil-war",
+ "issue_count": 132,
+ "owned_count": 16,
+ "entries": [
+  {
+   "order": 1,
+   "series": "The Amazing Spider-Man",
+   "issue": "529",
+   "volume": "1963",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 2,
+   "series": "The Amazing Spider-Man",
+   "issue": "530",
+   "volume": "1963",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 3,
+   "series": "The Amazing Spider-Man",
+   "issue": "531",
+   "volume": "1963",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 4,
+   "series": "The New Avengers: Illuminati",
+   "issue": "1",
+   "volume": "2006",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 5,
+   "series": "Fantastic Four",
+   "issue": "536",
+   "volume": "1998",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 6,
+   "series": "Fantastic Four",
+   "issue": "537",
+   "volume": "1998",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 7,
+   "series": "Civil War: Opening Shot Sketchbook",
+   "issue": "1",
+   "volume": "2006",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 8,
+   "series": "Civil War",
+   "issue": "1",
+   "volume": "2006",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 9,
+   "series": "Wolverine",
+   "issue": "42",
+   "volume": "2003",
+   "year": "2006",
+   "owned": true
+  },
+  {
+   "order": 10,
+   "series": "Wolverine",
+   "issue": "43",
+   "volume": "2003",
+   "year": "2006",
+   "owned": true
+  },
+  {
+   "order": 11,
+   "series": "Wolverine",
+   "issue": "44",
+   "volume": "2003",
+   "year": "2006",
+   "owned": true
+  },
+  {
+   "order": 12,
+   "series": "Wolverine",
+   "issue": "45",
+   "volume": "2003",
+   "year": "2006",
+   "owned": true
+  },
+  {
+   "order": 13,
+   "series": "She-Hulk",
+   "issue": "8",
+   "volume": "2005",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 14,
+   "series": "X-Factor",
+   "issue": "8",
+   "volume": "2006",
+   "year": "2006",
+   "owned": true
+  },
+  {
+   "order": 15,
+   "series": "New Avengers",
+   "issue": "21",
+   "volume": "2004",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 16,
+   "series": "New Avengers",
+   "issue": "22",
+   "volume": "2004",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 17,
+   "series": "New X-Men",
+   "issue": "28",
+   "volume": "2004",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 18,
+   "series": "Civil War: Front Line",
+   "issue": "1",
+   "volume": "2006",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 19,
+   "series": "Civil War",
+   "issue": "2",
+   "volume": "2006",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 20,
+   "series": "The Amazing Spider-Man",
+   "issue": "532",
+   "volume": "1963",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 21,
+   "series": "The Amazing Spider-Man",
+   "issue": "533",
+   "volume": "1963",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 22,
+   "series": "Thunderbolts",
+   "issue": "103",
+   "volume": "2006",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 23,
+   "series": "Civil War: Front Line",
+   "issue": "2",
+   "volume": "2006",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 24,
+   "series": "The Sensational Spider-Man",
+   "issue": "28",
+   "volume": "2006",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 25,
+   "series": "The Sensational Spider-Man",
+   "issue": "29",
+   "volume": "2006",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 26,
+   "series": "The Sensational Spider-Man",
+   "issue": "30",
+   "volume": "2006",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 27,
+   "series": "The Sensational Spider-Man",
+   "issue": "31",
+   "volume": "2006",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 28,
+   "series": "She-Hulk",
+   "issue": "9",
+   "volume": "2005",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 29,
+   "series": "Fantastic Four",
+   "issue": "538",
+   "volume": "1998",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 30,
+   "series": "Fantastic Four",
+   "issue": "539",
+   "volume": "1998",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 31,
+   "series": "The Amazing Spider-Man",
+   "issue": "534",
+   "volume": "1963",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 32,
+   "series": "Civil War: Front Line",
+   "issue": "3",
+   "volume": "2006",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 33,
+   "series": "Iron Man",
+   "issue": "13",
+   "volume": "2004",
+   "year": "2006",
+   "owned": true
+  },
+  {
+   "order": 34,
+   "series": "Ms. Marvel",
+   "issue": "6",
+   "volume": "2006",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 35,
+   "series": "Ms. Marvel",
+   "issue": "7",
+   "volume": "2006",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 36,
+   "series": "Ms. Marvel",
+   "issue": "8",
+   "volume": "2006",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 37,
+   "series": "Ms. Marvel",
+   "issue": "9",
+   "volume": "2006",
+   "year": "2007",
+   "owned": false
+  },
+  {
+   "order": 38,
+   "series": "Ms. Marvel",
+   "issue": "10",
+   "volume": "2006",
+   "year": "2007",
+   "owned": false
+  },
+  {
+   "order": 39,
+   "series": "Thunderbolts",
+   "issue": "104",
+   "volume": "2006",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 40,
+   "series": "Thunderbolts",
+   "issue": "105",
+   "volume": "2006",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 41,
+   "series": "New X-Men",
+   "issue": "29",
+   "volume": "2004",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 42,
+   "series": "New X-Men",
+   "issue": "30",
+   "volume": "2004",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 43,
+   "series": "New X-Men",
+   "issue": "31",
+   "volume": "2004",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 44,
+   "series": "Black Panther",
+   "issue": "18",
+   "volume": "2005",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 45,
+   "series": "Black Panther",
+   "issue": "19",
+   "volume": "2005",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 46,
+   "series": "Black Panther",
+   "issue": "20",
+   "volume": "2005",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 47,
+   "series": "Black Panther",
+   "issue": "21",
+   "volume": "2005",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 48,
+   "series": "Black Panther",
+   "issue": "22",
+   "volume": "2005",
+   "year": "2007",
+   "owned": false
+  },
+  {
+   "order": 49,
+   "series": "Civil War: X-Men",
+   "issue": "1",
+   "volume": "2006",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 50,
+   "series": "Heroes for Hire",
+   "issue": "1",
+   "volume": "2006",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 51,
+   "series": "Civil War",
+   "issue": "3",
+   "volume": "2006",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 52,
+   "series": "Civil War",
+   "issue": "4",
+   "volume": "2006",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 53,
+   "series": "Civil War: X-Men",
+   "issue": "2",
+   "volume": "2006",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 54,
+   "series": "Civil War: X-Men",
+   "issue": "3",
+   "volume": "2006",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 55,
+   "series": "Civil War: X-Men",
+   "issue": "4",
+   "volume": "2006",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 56,
+   "series": "Black Panther",
+   "issue": "23",
+   "volume": "2005",
+   "year": "2007",
+   "owned": false
+  },
+  {
+   "order": 57,
+   "series": "Cable & Deadpool",
+   "issue": "30",
+   "volume": "2004",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 58,
+   "series": "Cable & Deadpool",
+   "issue": "31",
+   "volume": "2004",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 59,
+   "series": "Cable & Deadpool",
+   "issue": "32",
+   "volume": "2004",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 60,
+   "series": "Civil War: Young Avengers & Runaways",
+   "issue": "1",
+   "volume": "2006",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 61,
+   "series": "Civil War: Young Avengers & Runaways",
+   "issue": "2",
+   "volume": "2006",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 62,
+   "series": "Civil War: Young Avengers & Runaways",
+   "issue": "3",
+   "volume": "2006",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 63,
+   "series": "Civil War: Young Avengers & Runaways",
+   "issue": "4",
+   "volume": "2006",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 64,
+   "series": "Daily Bugle Civil War Newspaper Special",
+   "issue": "1",
+   "volume": "2006",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 65,
+   "series": "Civil War: Front Line",
+   "issue": "4",
+   "volume": "2006",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 66,
+   "series": "X-Factor",
+   "issue": "9",
+   "volume": "2006",
+   "year": "2006",
+   "owned": true
+  },
+  {
+   "order": 67,
+   "series": "Civil War: Front Line",
+   "issue": "5",
+   "volume": "2006",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 68,
+   "series": "Heroes for Hire",
+   "issue": "2",
+   "volume": "2006",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 69,
+   "series": "Heroes for Hire",
+   "issue": "3",
+   "volume": "2006",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 70,
+   "series": "New Avengers",
+   "issue": "23",
+   "volume": "2004",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 71,
+   "series": "Iron Man/Captain America: Casualties of War",
+   "issue": "1",
+   "volume": "2007",
+   "year": "2007",
+   "owned": false
+  },
+  {
+   "order": 72,
+   "series": "Civil War Files",
+   "issue": "1",
+   "volume": "2006",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 73,
+   "series": "Wolverine",
+   "issue": "46",
+   "volume": "2003",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 74,
+   "series": "Wolverine",
+   "issue": "47",
+   "volume": "2003",
+   "year": "2006",
+   "owned": true
+  },
+  {
+   "order": 75,
+   "series": "Captain America",
+   "issue": "22",
+   "volume": "2004",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 76,
+   "series": "Captain America",
+   "issue": "23",
+   "volume": "2004",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 77,
+   "series": "Captain America",
+   "issue": "24",
+   "volume": "2004",
+   "year": "2007",
+   "owned": false
+  },
+  {
+   "order": 78,
+   "series": "Civil War: Front Line",
+   "issue": "6",
+   "volume": "2006",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 79,
+   "series": "Civil War: Front Line",
+   "issue": "7",
+   "volume": "2006",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 80,
+   "series": "Civil War: Choosing Sides",
+   "issue": "1",
+   "volume": "2006",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 81,
+   "series": "New Avengers",
+   "issue": "24",
+   "volume": "2004",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 82,
+   "series": "Fantastic Four",
+   "issue": "540",
+   "volume": "1998",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 83,
+   "series": "The Amazing Spider-Man",
+   "issue": "535",
+   "volume": "1963",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 84,
+   "series": "Civil War",
+   "issue": "5",
+   "volume": "2006",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 85,
+   "series": "The Amazing Spider-Man",
+   "issue": "536",
+   "volume": "1963",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 86,
+   "series": "Punisher War Journal",
+   "issue": "1",
+   "volume": "2007",
+   "year": "2007",
+   "owned": false
+  },
+  {
+   "order": 87,
+   "series": "The Sensational Spider-Man",
+   "issue": "32",
+   "volume": "2006",
+   "year": "2007",
+   "owned": false
+  },
+  {
+   "order": 88,
+   "series": "The Sensational Spider-Man",
+   "issue": "33",
+   "volume": "2006",
+   "year": "2007",
+   "owned": false
+  },
+  {
+   "order": 89,
+   "series": "The Sensational Spider-Man",
+   "issue": "34",
+   "volume": "2006",
+   "year": "2007",
+   "owned": false
+  },
+  {
+   "order": 90,
+   "series": "New Avengers",
+   "issue": "25",
+   "volume": "2004",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 91,
+   "series": "Civil War: Front Line",
+   "issue": "8",
+   "volume": "2006",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 92,
+   "series": "Civil War: Front Line",
+   "issue": "9",
+   "volume": "2006",
+   "year": "2007",
+   "owned": false
+  },
+  {
+   "order": 93,
+   "series": "Civil War: Front Line",
+   "issue": "10",
+   "volume": "2006",
+   "year": "2007",
+   "owned": false
+  },
+  {
+   "order": 94,
+   "series": "Wolverine",
+   "issue": "48",
+   "volume": "2003",
+   "year": "2007",
+   "owned": true
+  },
+  {
+   "order": 95,
+   "series": "Civil War: War Crimes",
+   "issue": "1",
+   "volume": "2007",
+   "year": "2007",
+   "owned": false
+  },
+  {
+   "order": 96,
+   "series": "Iron Man",
+   "issue": "14",
+   "volume": "2004",
+   "year": "2007",
+   "owned": true
+  },
+  {
+   "order": 97,
+   "series": "Fantastic Four",
+   "issue": "541",
+   "volume": "1998",
+   "year": "2007",
+   "owned": false
+  },
+  {
+   "order": 98,
+   "series": "Fantastic Four",
+   "issue": "542",
+   "volume": "1998",
+   "year": "2007",
+   "owned": false
+  },
+  {
+   "order": 99,
+   "series": "Thunderbolts",
+   "issue": "106",
+   "volume": "2006",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 100,
+   "series": "Thunderbolts",
+   "issue": "107",
+   "volume": "2006",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 101,
+   "series": "Thunderbolts",
+   "issue": "108",
+   "volume": "2006",
+   "year": "2007",
+   "owned": false
+  },
+  {
+   "order": 102,
+   "series": "Winter Soldier:  Winter Kills",
+   "issue": "1",
+   "volume": "2007",
+   "year": "2007",
+   "owned": false
+  },
+  {
+   "order": 103,
+   "series": "Blade",
+   "issue": "5",
+   "volume": "2006",
+   "year": "2007",
+   "owned": false
+  },
+  {
+   "order": 104,
+   "series": "Civil War: The Return",
+   "issue": "1",
+   "volume": "2007",
+   "year": "2007",
+   "owned": false
+  },
+  {
+   "order": 105,
+   "series": "Black Panther",
+   "issue": "24",
+   "volume": "2005",
+   "year": "2007",
+   "owned": false
+  },
+  {
+   "order": 106,
+   "series": "Moon Knight",
+   "issue": "7",
+   "volume": "2006",
+   "year": "2007",
+   "owned": true
+  },
+  {
+   "order": 107,
+   "series": "Moon Knight",
+   "issue": "8",
+   "volume": "2006",
+   "year": "2007",
+   "owned": true
+  },
+  {
+   "order": 108,
+   "series": "Moon Knight",
+   "issue": "9",
+   "volume": "2006",
+   "year": "2007",
+   "owned": true
+  },
+  {
+   "order": 109,
+   "series": "Moon Knight",
+   "issue": "10",
+   "volume": "2006",
+   "year": "2007",
+   "owned": true
+  },
+  {
+   "order": 110,
+   "series": "Moon Knight",
+   "issue": "11",
+   "volume": "2006",
+   "year": "2007",
+   "owned": true
+  },
+  {
+   "order": 111,
+   "series": "Moon Knight",
+   "issue": "12",
+   "volume": "2006",
+   "year": "2007",
+   "owned": true
+  },
+  {
+   "order": 112,
+   "series": "The Amazing Spider-Man",
+   "issue": "537",
+   "volume": "1963",
+   "year": "2007",
+   "owned": false
+  },
+  {
+   "order": 113,
+   "series": "Civil War",
+   "issue": "6",
+   "volume": "2006",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 114,
+   "series": "Civil War",
+   "issue": "7",
+   "volume": "2006",
+   "year": "2007",
+   "owned": false
+  },
+  {
+   "order": 115,
+   "series": "Black Panther",
+   "issue": "25",
+   "volume": "2005",
+   "year": "2007",
+   "owned": false
+  },
+  {
+   "order": 116,
+   "series": "The Amazing Spider-Man",
+   "issue": "538",
+   "volume": "1963",
+   "year": "2007",
+   "owned": false
+  },
+  {
+   "order": 117,
+   "series": "The Amazing Spider-Man",
+   "issue": "539",
+   "volume": "1963",
+   "year": "2007",
+   "owned": false
+  },
+  {
+   "order": 118,
+   "series": "Punisher War Journal",
+   "issue": "2",
+   "volume": "2007",
+   "year": "2007",
+   "owned": false
+  },
+  {
+   "order": 119,
+   "series": "Punisher War Journal",
+   "issue": "3",
+   "volume": "2007",
+   "year": "2007",
+   "owned": false
+  },
+  {
+   "order": 120,
+   "series": "Punisher War Journal",
+   "issue": "4",
+   "volume": "2007",
+   "year": "2007",
+   "owned": false
+  },
+  {
+   "order": 121,
+   "series": "Civil War: Front Line",
+   "issue": "11",
+   "volume": "2006",
+   "year": "2007",
+   "owned": false
+  },
+  {
+   "order": 122,
+   "series": "Captain America",
+   "issue": "25",
+   "volume": "2004",
+   "year": "2007",
+   "owned": false
+  },
+  {
+   "order": 123,
+   "series": "Punisher War Journal",
+   "issue": "5",
+   "volume": "2007",
+   "year": "2007",
+   "owned": false
+  },
+  {
+   "order": 124,
+   "series": "Civil War: The Confession",
+   "issue": "1",
+   "volume": "2007",
+   "year": "2007",
+   "owned": false
+  },
+  {
+   "order": 125,
+   "series": "Civil War: The Initiative",
+   "issue": "1",
+   "volume": "2007",
+   "year": "2007",
+   "owned": false
+  },
+  {
+   "order": 126,
+   "series": "Fallen Son: The Death of Captain America",
+   "issue": "1",
+   "volume": "2007",
+   "year": "2007",
+   "owned": false
+  },
+  {
+   "order": 127,
+   "series": "Fallen Son: The Death of Captain America",
+   "issue": "2",
+   "volume": "2007",
+   "year": "2007",
+   "owned": false
+  },
+  {
+   "order": 128,
+   "series": "Fallen Son: The Death of Captain America",
+   "issue": "3",
+   "volume": "2007",
+   "year": "2007",
+   "owned": false
+  },
+  {
+   "order": 129,
+   "series": "Fallen Son: The Death of Captain America",
+   "issue": "4",
+   "volume": "2007",
+   "year": "2007",
+   "owned": false
+  },
+  {
+   "order": 130,
+   "series": "Fallen Son: The Death of Captain America",
+   "issue": "5",
+   "volume": "2007",
+   "year": "2007",
+   "owned": false
+  },
+  {
+   "order": 131,
+   "series": "Fantastic Four",
+   "issue": "543",
+   "volume": "1998",
+   "year": "2007",
+   "owned": false
+  },
+  {
+   "order": 132,
+   "series": "Civil War: Battle Damage Report",
+   "issue": "1",
+   "volume": "2007",
+   "year": "2007",
+   "owned": false
+  }
+ ]
+}

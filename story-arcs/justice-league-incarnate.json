@@ -1,0 +1,48 @@
+{
+ "arc": "Justice League Incarnate",
+ "slug": "justice-league-incarnate",
+ "issue_count": 5,
+ "owned_count": 0,
+ "entries": [
+  {
+   "order": 1,
+   "series": "Justice League Incarnate",
+   "issue": "1",
+   "volume": "2021",
+   "year": "2022",
+   "owned": false
+  },
+  {
+   "order": 2,
+   "series": "Justice League Incarnate",
+   "issue": "2",
+   "volume": "2021",
+   "year": "2022",
+   "owned": false
+  },
+  {
+   "order": 3,
+   "series": "Justice League Incarnate",
+   "issue": "3",
+   "volume": "2021",
+   "year": "2022",
+   "owned": false
+  },
+  {
+   "order": 4,
+   "series": "Justice League Incarnate",
+   "issue": "4",
+   "volume": "2021",
+   "year": "2022",
+   "owned": false
+  },
+  {
+   "order": 5,
+   "series": "Justice League Incarnate",
+   "issue": "5",
+   "volume": "2021",
+   "year": "2022",
+   "owned": false
+  }
+ ]
+}

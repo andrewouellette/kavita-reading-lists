@@ -1,0 +1,136 @@
+{
+ "arc": "Infinity Countdown",
+ "slug": "infinity-countdown",
+ "issue_count": 16,
+ "owned_count": 5,
+ "entries": [
+  {
+   "order": 1,
+   "series": "Infinity Countdown: Adam Warlock",
+   "issue": "1",
+   "volume": "2018",
+   "year": "2018",
+   "owned": false
+  },
+  {
+   "order": 2,
+   "series": "Infinity Countdown Prime",
+   "issue": "1",
+   "volume": "2018",
+   "year": "2018",
+   "owned": false
+  },
+  {
+   "order": 3,
+   "series": "Infinity Countdown",
+   "issue": "1",
+   "volume": "2018",
+   "year": "2018",
+   "owned": true
+  },
+  {
+   "order": 4,
+   "series": "Infinity Countdown",
+   "issue": "2",
+   "volume": "2018",
+   "year": "2018",
+   "owned": true
+  },
+  {
+   "order": 5,
+   "series": "Infinity Countdown",
+   "issue": "3",
+   "volume": "2018",
+   "year": "2018",
+   "owned": true
+  },
+  {
+   "order": 6,
+   "series": "Infinity Countdown: Captain Marvel",
+   "issue": "1",
+   "volume": "2018",
+   "year": "2018",
+   "owned": false
+  },
+  {
+   "order": 7,
+   "series": "Infinity Countdown: Daredevil",
+   "issue": "1",
+   "volume": "2018",
+   "year": "2018",
+   "owned": false
+  },
+  {
+   "order": 8,
+   "series": "Infinity Countdown: Darkhawk",
+   "issue": "1",
+   "volume": "2018",
+   "year": "2018",
+   "owned": false
+  },
+  {
+   "order": 9,
+   "series": "Infinity Countdown: Darkhawk",
+   "issue": "2",
+   "volume": "2018",
+   "year": "2018",
+   "owned": false
+  },
+  {
+   "order": 10,
+   "series": "Infinity Countdown: Darkhawk",
+   "issue": "3",
+   "volume": "2018",
+   "year": "2018",
+   "owned": false
+  },
+  {
+   "order": 11,
+   "series": "Infinity Countdown: Darkhawk",
+   "issue": "4",
+   "volume": "2018",
+   "year": "2018",
+   "owned": false
+  },
+  {
+   "order": 12,
+   "series": "Infinity Countdown: Black Widow",
+   "issue": "1",
+   "volume": "2018",
+   "year": "2018",
+   "owned": false
+  },
+  {
+   "order": 13,
+   "series": "Infinity Countdown: Champions",
+   "issue": "1",
+   "volume": "2018",
+   "year": "2018",
+   "owned": false
+  },
+  {
+   "order": 14,
+   "series": "Infinity Countdown: Champions",
+   "issue": "2",
+   "volume": "2018",
+   "year": "2018",
+   "owned": false
+  },
+  {
+   "order": 15,
+   "series": "Infinity Countdown",
+   "issue": "4",
+   "volume": "2018",
+   "year": "2018",
+   "owned": true
+  },
+  {
+   "order": 16,
+   "series": "Infinity Countdown",
+   "issue": "5",
+   "volume": "2018",
+   "year": "2018",
+   "owned": true
+  }
+ ]
+}

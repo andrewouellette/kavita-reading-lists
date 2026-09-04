@@ -1,0 +1,296 @@
+{
+ "arc": "Venom War",
+ "slug": "venom-war",
+ "issue_count": 36,
+ "owned_count": 10,
+ "entries": [
+  {
+   "order": 1,
+   "series": "Carnage",
+   "issue": "8",
+   "volume": "2023",
+   "year": "2024",
+   "owned": true
+  },
+  {
+   "order": 2,
+   "series": "Venom",
+   "issue": "35",
+   "volume": "2021",
+   "year": "2024",
+   "owned": true
+  },
+  {
+   "order": 3,
+   "series": "Black Widow: Venomous",
+   "issue": "1",
+   "volume": "2024",
+   "year": "2024",
+   "owned": false
+  },
+  {
+   "order": 4,
+   "series": "Venom War: Carnage",
+   "issue": "1",
+   "volume": "2024",
+   "year": "2024",
+   "owned": false
+  },
+  {
+   "order": 5,
+   "series": "Venom War: Carnage",
+   "issue": "2",
+   "volume": "2024",
+   "year": "2024",
+   "owned": false
+  },
+  {
+   "order": 6,
+   "series": "Venom War: Carnage",
+   "issue": "3",
+   "volume": "2024",
+   "year": "2024",
+   "owned": false
+  },
+  {
+   "order": 7,
+   "series": "Venom War: Venomous",
+   "issue": "1",
+   "volume": "2024",
+   "year": "2024",
+   "owned": false
+  },
+  {
+   "order": 8,
+   "series": "Venom War: Spider-Man",
+   "issue": "1",
+   "volume": "2024",
+   "year": "2024",
+   "owned": false
+  },
+  {
+   "order": 9,
+   "series": "Venom War: Spider-Man",
+   "issue": "2",
+   "volume": "2024",
+   "year": "2024",
+   "owned": false
+  },
+  {
+   "order": 10,
+   "series": "Venom War",
+   "issue": "1",
+   "volume": "2024",
+   "year": "2024",
+   "owned": true
+  },
+  {
+   "order": 11,
+   "series": "Venom War: Wolverine",
+   "issue": "1",
+   "volume": "2024",
+   "year": "2024",
+   "owned": false
+  },
+  {
+   "order": 12,
+   "series": "Venom War: Wolverine",
+   "issue": "2",
+   "volume": "2024",
+   "year": "2024",
+   "owned": false
+  },
+  {
+   "order": 13,
+   "series": "Venom War: Wolverine",
+   "issue": "3",
+   "volume": "2024",
+   "year": "2024",
+   "owned": false
+  },
+  {
+   "order": 14,
+   "series": "Venom",
+   "issue": "36",
+   "volume": "2021",
+   "year": "2024",
+   "owned": true
+  },
+  {
+   "order": 15,
+   "series": "Venom War: Zombiotes",
+   "issue": "1",
+   "volume": "2024",
+   "year": "2024",
+   "owned": false
+  },
+  {
+   "order": 16,
+   "series": "Venom War: Zombiotes",
+   "issue": "2",
+   "volume": "2024",
+   "year": "2024",
+   "owned": false
+  },
+  {
+   "order": 17,
+   "series": "Venom War: Zombiotes",
+   "issue": "3",
+   "volume": "2024",
+   "year": "2024",
+   "owned": false
+  },
+  {
+   "order": 18,
+   "series": "Venom War: Daredevil",
+   "issue": "1",
+   "volume": "2024",
+   "year": "2024",
+   "owned": false
+  },
+  {
+   "order": 19,
+   "series": "Venom War",
+   "issue": "2",
+   "volume": "2024",
+   "year": "2024",
+   "owned": true
+  },
+  {
+   "order": 20,
+   "series": "Venom",
+   "issue": "37",
+   "volume": "2021",
+   "year": "2024",
+   "owned": true
+  },
+  {
+   "order": 21,
+   "series": "Venom War: Venomous",
+   "issue": "2",
+   "volume": "2024",
+   "year": "2024",
+   "owned": false
+  },
+  {
+   "order": 22,
+   "series": "Venom War: Lethal Protectors",
+   "issue": "1",
+   "volume": "2024",
+   "year": "2024",
+   "owned": false
+  },
+  {
+   "order": 23,
+   "series": "Venom War: Lethal Protectors",
+   "issue": "2",
+   "volume": "2024",
+   "year": "2024",
+   "owned": false
+  },
+  {
+   "order": 24,
+   "series": "Venom War: Lethal Protectors",
+   "issue": "3",
+   "volume": "2024",
+   "year": "2024",
+   "owned": false
+  },
+  {
+   "order": 25,
+   "series": "Venom War",
+   "issue": "3",
+   "volume": "2024",
+   "year": "2024",
+   "owned": true
+  },
+  {
+   "order": 26,
+   "series": "Venom War: Fantastic Four",
+   "issue": "1",
+   "volume": "2024",
+   "year": "2024",
+   "owned": false
+  },
+  {
+   "order": 27,
+   "series": "Venom War: Spider-Man",
+   "issue": "3",
+   "volume": "2024",
+   "year": "2024",
+   "owned": false
+  },
+  {
+   "order": 28,
+   "series": "Venom",
+   "issue": "38",
+   "volume": "2021",
+   "year": "2024",
+   "owned": true
+  },
+  {
+   "order": 29,
+   "series": "Venom War: Venomous",
+   "issue": "3",
+   "volume": "2024",
+   "year": "2024",
+   "owned": false
+  },
+  {
+   "order": 30,
+   "series": "Venom War",
+   "issue": "4",
+   "volume": "2024",
+   "year": "2024",
+   "owned": false
+  },
+  {
+   "order": 31,
+   "series": "Venom",
+   "issue": "39",
+   "volume": "2021",
+   "year": "2024",
+   "owned": true
+  },
+  {
+   "order": 32,
+   "series": "Venom War: Spider-Man",
+   "issue": "4",
+   "volume": "2024",
+   "year": "2024",
+   "owned": false
+  },
+  {
+   "order": 33,
+   "series": "Venom War: Deadpool",
+   "issue": "1",
+   "volume": "2024",
+   "year": "2024",
+   "owned": false
+  },
+  {
+   "order": 34,
+   "series": "Venom War: Deadpool",
+   "issue": "2",
+   "volume": "2024",
+   "year": "2024",
+   "owned": false
+  },
+  {
+   "order": 35,
+   "series": "Venom War: Deadpool",
+   "issue": "3",
+   "volume": "2024",
+   "year": "2024",
+   "owned": false
+  },
+  {
+   "order": 36,
+   "series": "Venom War",
+   "issue": "5",
+   "volume": "2024",
+   "year": "2024",
+   "owned": true
+  }
+ ]
+}

@@ -1,0 +1,88 @@
+{
+ "arc": "Superman Savage Dawn",
+ "slug": "superman-savage-dawn",
+ "issue_count": 10,
+ "owned_count": 0,
+ "entries": [
+  {
+   "order": 1,
+   "series": "Superman Annual",
+   "issue": "3",
+   "volume": "2012",
+   "year": "2016",
+   "owned": false
+  },
+  {
+   "order": 2,
+   "series": "Action Comics",
+   "issue": "48",
+   "volume": "2011",
+   "year": "2016",
+   "owned": false
+  },
+  {
+   "order": 3,
+   "series": "Superman/Wonder Woman",
+   "issue": "25",
+   "volume": "2013",
+   "year": "2016",
+   "owned": false
+  },
+  {
+   "order": 4,
+   "series": "Superman",
+   "issue": "48",
+   "volume": "2011",
+   "year": "2016",
+   "owned": false
+  },
+  {
+   "order": 5,
+   "series": "Action Comics",
+   "issue": "49",
+   "volume": "2011",
+   "year": "2016",
+   "owned": false
+  },
+  {
+   "order": 6,
+   "series": "Superman/Wonder Woman",
+   "issue": "26",
+   "volume": "2013",
+   "year": "2016",
+   "owned": false
+  },
+  {
+   "order": 7,
+   "series": "Superman",
+   "issue": "49",
+   "volume": "2011",
+   "year": "2016",
+   "owned": false
+  },
+  {
+   "order": 8,
+   "series": "Action Comics",
+   "issue": "50",
+   "volume": "2011",
+   "year": "2016",
+   "owned": false
+  },
+  {
+   "order": 9,
+   "series": "Superman/Wonder Woman",
+   "issue": "27",
+   "volume": "2013",
+   "year": "2016",
+   "owned": false
+  },
+  {
+   "order": 10,
+   "series": "Superman",
+   "issue": "50",
+   "volume": "2011",
+   "year": "2016",
+   "owned": false
+  }
+ ]
+}

@@ -1,0 +1,424 @@
+{
+ "arc": "World War Hulk",
+ "slug": "world-war-hulk",
+ "issue_count": 52,
+ "owned_count": 4,
+ "entries": [
+  {
+   "order": 1,
+   "series": "Incredible Hulk",
+   "issue": "106",
+   "volume": "2000",
+   "year": "2007",
+   "owned": false
+  },
+  {
+   "order": 2,
+   "series": "World War Hulk Prologue: World Breaker",
+   "issue": "1",
+   "volume": "2007",
+   "year": "2007",
+   "owned": false
+  },
+  {
+   "order": 3,
+   "series": "World War Hulk",
+   "issue": "1",
+   "volume": "2007",
+   "year": "2007",
+   "owned": false
+  },
+  {
+   "order": 4,
+   "series": "Iron Man",
+   "issue": "19",
+   "volume": "2004",
+   "year": "2007",
+   "owned": true
+  },
+  {
+   "order": 5,
+   "series": "Heroes for Hire",
+   "issue": "11",
+   "volume": "2006",
+   "year": "2007",
+   "owned": false
+  },
+  {
+   "order": 6,
+   "series": "Heroes for Hire",
+   "issue": "12",
+   "volume": "2006",
+   "year": "2007",
+   "owned": false
+  },
+  {
+   "order": 7,
+   "series": "Heroes for Hire",
+   "issue": "13",
+   "volume": "2006",
+   "year": "2007",
+   "owned": false
+  },
+  {
+   "order": 8,
+   "series": "The Irredeemable Ant-Man",
+   "issue": "10",
+   "volume": "2006",
+   "year": "2007",
+   "owned": false
+  },
+  {
+   "order": 9,
+   "series": "Ghost Rider",
+   "issue": "12",
+   "volume": "2006",
+   "year": "2007",
+   "owned": true
+  },
+  {
+   "order": 10,
+   "series": "Ghost Rider",
+   "issue": "13",
+   "volume": "2006",
+   "year": "2007",
+   "owned": true
+  },
+  {
+   "order": 11,
+   "series": "World War Hulk: Front Line",
+   "issue": "1",
+   "volume": "2007",
+   "year": "2007",
+   "owned": false
+  },
+  {
+   "order": 12,
+   "series": "World War Hulk: Gamma Corps",
+   "issue": "1",
+   "volume": "2007",
+   "year": "2007",
+   "owned": false
+  },
+  {
+   "order": 13,
+   "series": "World War Hulk: Gamma Corps",
+   "issue": "2",
+   "volume": "2007",
+   "year": "2007",
+   "owned": false
+  },
+  {
+   "order": 14,
+   "series": "World War Hulk: Gamma Corps",
+   "issue": "3",
+   "volume": "2007",
+   "year": "2007",
+   "owned": false
+  },
+  {
+   "order": 15,
+   "series": "World War Hulk: Gamma Corps",
+   "issue": "4",
+   "volume": "2007",
+   "year": "2008",
+   "owned": false
+  },
+  {
+   "order": 16,
+   "series": "Iron Man",
+   "issue": "20",
+   "volume": "2004",
+   "year": "2007",
+   "owned": true
+  },
+  {
+   "order": 17,
+   "series": "World War Hulk: X-Men",
+   "issue": "1",
+   "volume": "2007",
+   "year": "2007",
+   "owned": false
+  },
+  {
+   "order": 18,
+   "series": "World War Hulk: X-Men",
+   "issue": "2",
+   "volume": "2007",
+   "year": "2007",
+   "owned": false
+  },
+  {
+   "order": 19,
+   "series": "World War Hulk: X-Men",
+   "issue": "3",
+   "volume": "2007",
+   "year": "2007",
+   "owned": false
+  },
+  {
+   "order": 20,
+   "series": "World War Hulk",
+   "issue": "2",
+   "volume": "2007",
+   "year": "2007",
+   "owned": false
+  },
+  {
+   "order": 21,
+   "series": "Incredible Hulk",
+   "issue": "107",
+   "volume": "2000",
+   "year": "2007",
+   "owned": false
+  },
+  {
+   "order": 22,
+   "series": "Incredible Hulk",
+   "issue": "108",
+   "volume": "2000",
+   "year": "2007",
+   "owned": false
+  },
+  {
+   "order": 23,
+   "series": "World War Hulk: Front Line",
+   "issue": "2",
+   "volume": "2007",
+   "year": "2007",
+   "owned": false
+  },
+  {
+   "order": 24,
+   "series": "Punisher War Journal",
+   "issue": "12",
+   "volume": "2007",
+   "year": "2007",
+   "owned": false
+  },
+  {
+   "order": 25,
+   "series": "Avengers: The Initiative",
+   "issue": "4",
+   "volume": "2007",
+   "year": "2007",
+   "owned": false
+  },
+  {
+   "order": 26,
+   "series": "Avengers: The Initiative",
+   "issue": "5",
+   "volume": "2007",
+   "year": "2007",
+   "owned": false
+  },
+  {
+   "order": 27,
+   "series": "World War Hulk: Front Line",
+   "issue": "3",
+   "volume": "2007",
+   "year": "2007",
+   "owned": false
+  },
+  {
+   "order": 28,
+   "series": "World War Hulk",
+   "issue": "3",
+   "volume": "2007",
+   "year": "2007",
+   "owned": false
+  },
+  {
+   "order": 29,
+   "series": "Incredible Hulk",
+   "issue": "109",
+   "volume": "2000",
+   "year": "2007",
+   "owned": false
+  },
+  {
+   "order": 30,
+   "series": "Incredible Hulk",
+   "issue": "110",
+   "volume": "2000",
+   "year": "2007",
+   "owned": false
+  },
+  {
+   "order": 31,
+   "series": "Heroes for Hire",
+   "issue": "14",
+   "volume": "2006",
+   "year": "2007",
+   "owned": false
+  },
+  {
+   "order": 32,
+   "series": "Heroes for Hire",
+   "issue": "15",
+   "volume": "2006",
+   "year": "2007",
+   "owned": false
+  },
+  {
+   "order": 33,
+   "series": "World War Hulk",
+   "issue": "4",
+   "volume": "2007",
+   "year": "2007",
+   "owned": false
+  },
+  {
+   "order": 34,
+   "series": "World War Hulk: Front Line",
+   "issue": "4",
+   "volume": "2007",
+   "year": "2007",
+   "owned": false
+  },
+  {
+   "order": 35,
+   "series": "World War Hulk: Front Line",
+   "issue": "5",
+   "volume": "2007",
+   "year": "2007",
+   "owned": false
+  },
+  {
+   "order": 36,
+   "series": "World War Hulk",
+   "issue": "5",
+   "volume": "2007",
+   "year": "2008",
+   "owned": false
+  },
+  {
+   "order": 37,
+   "series": "Incredible Hulk",
+   "issue": "111",
+   "volume": "2000",
+   "year": "2007",
+   "owned": false
+  },
+  {
+   "order": 38,
+   "series": "World War Hulk: Front Line",
+   "issue": "6",
+   "volume": "2007",
+   "year": "2007",
+   "owned": false
+  },
+  {
+   "order": 39,
+   "series": "What If? Planet Hulk",
+   "issue": "1",
+   "volume": "2007",
+   "year": "2007",
+   "owned": false
+  },
+  {
+   "order": 40,
+   "series": "World War Hulk: Aftersmash",
+   "issue": "1",
+   "volume": "2008",
+   "year": "2008",
+   "owned": false
+  },
+  {
+   "order": 41,
+   "series": "Incredible Hulk",
+   "issue": "112",
+   "volume": "2000",
+   "year": "2008",
+   "owned": false
+  },
+  {
+   "order": 42,
+   "series": "Incredible Hercules",
+   "issue": "113",
+   "volume": "2008",
+   "year": "2008",
+   "owned": false
+  },
+  {
+   "order": 43,
+   "series": "Incredible Hercules",
+   "issue": "114",
+   "volume": "2008",
+   "year": "2008",
+   "owned": false
+  },
+  {
+   "order": 44,
+   "series": "Incredible Hercules",
+   "issue": "115",
+   "volume": "2008",
+   "year": "2008",
+   "owned": false
+  },
+  {
+   "order": 45,
+   "series": "World War Hulk Aftersmash: Damage Control",
+   "issue": "1",
+   "volume": "2008",
+   "year": "2008",
+   "owned": false
+  },
+  {
+   "order": 46,
+   "series": "World War Hulk Aftersmash: Damage Control",
+   "issue": "2",
+   "volume": "2008",
+   "year": "2008",
+   "owned": false
+  },
+  {
+   "order": 47,
+   "series": "World War Hulk Aftersmash: Damage Control",
+   "issue": "3",
+   "volume": "2008",
+   "year": "2008",
+   "owned": false
+  },
+  {
+   "order": 48,
+   "series": "World War Hulk Aftersmash: Warbound",
+   "issue": "1",
+   "volume": "2008",
+   "year": "2008",
+   "owned": false
+  },
+  {
+   "order": 49,
+   "series": "World War Hulk Aftersmash: Warbound",
+   "issue": "2",
+   "volume": "2008",
+   "year": "2008",
+   "owned": false
+  },
+  {
+   "order": 50,
+   "series": "World War Hulk Aftersmash: Warbound",
+   "issue": "3",
+   "volume": "2008",
+   "year": "2008",
+   "owned": false
+  },
+  {
+   "order": 51,
+   "series": "World War Hulk Aftersmash: Warbound",
+   "issue": "4",
+   "volume": "2008",
+   "year": "2008",
+   "owned": false
+  },
+  {
+   "order": 52,
+   "series": "World War Hulk Aftersmash: Warbound",
+   "issue": "5",
+   "volume": "2008",
+   "year": "2008",
+   "owned": false
+  }
+ ]
+}

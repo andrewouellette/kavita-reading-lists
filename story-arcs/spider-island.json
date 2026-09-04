@@ -1,0 +1,288 @@
+{
+ "arc": "Spider-Island",
+ "slug": "spider-island",
+ "issue_count": 35,
+ "owned_count": 3,
+ "entries": [
+  {
+   "order": 1,
+   "series": "Free Comic Book Day 2011 (Spider-Man)",
+   "issue": "1",
+   "volume": "2011",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 2,
+   "series": "The Amazing Spider-Man",
+   "issue": "659",
+   "volume": "1963",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 3,
+   "series": "The Amazing Spider-Man",
+   "issue": "660",
+   "volume": "1963",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 4,
+   "series": "The Amazing Spider-Man",
+   "issue": "662",
+   "volume": "1963",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 5,
+   "series": "The Amazing Spider-Man",
+   "issue": "663",
+   "volume": "1963",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 6,
+   "series": "The Amazing Spider-Man",
+   "issue": "664",
+   "volume": "1963",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 7,
+   "series": "The Amazing Spider-Man",
+   "issue": "665",
+   "volume": "1963",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 8,
+   "series": "The Amazing Spider-Man",
+   "issue": "666",
+   "volume": "1963",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 9,
+   "series": "The Amazing Spider-Man",
+   "issue": "667",
+   "volume": "1963",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 10,
+   "series": "Spider-Island: Cloak & Dagger",
+   "issue": "1",
+   "volume": "2011",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 11,
+   "series": "The Amazing Spider-Man",
+   "issue": "668",
+   "volume": "2011",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 12,
+   "series": "Spider-Island: Deadly Hands of Kung Fu",
+   "issue": "1",
+   "volume": "2011",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 13,
+   "series": "Spider-Island: Deadly Hands of Kung Fu",
+   "issue": "2",
+   "volume": "2011",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 14,
+   "series": "Spider-Island: Deadly Hands of Kung Fu",
+   "issue": "3",
+   "volume": "2011",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 15,
+   "series": "Spider-Island: Deadly Foes",
+   "issue": "1",
+   "volume": "2011",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 16,
+   "series": "Black Panther: The Most Dangerous Man Alive",
+   "issue": "524",
+   "volume": "2011",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 17,
+   "series": "Spider-Island: The Amazing Spider-Girl",
+   "issue": "1",
+   "volume": "2011",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 18,
+   "series": "Spider-Island: The Amazing Spider-Girl",
+   "issue": "2",
+   "volume": "2011",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 19,
+   "series": "Herc",
+   "issue": "7",
+   "volume": "2011",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 20,
+   "series": "Herc",
+   "issue": "8",
+   "volume": "2011",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 21,
+   "series": "Spider-Island: I Love New York City",
+   "issue": "1",
+   "volume": "2011",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 22,
+   "series": "Spider-Island: The Avengers",
+   "issue": "1",
+   "volume": "2011",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 23,
+   "series": "The Amazing Spider-Man",
+   "issue": "669",
+   "volume": "2011",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 24,
+   "series": "Venom",
+   "issue": "6",
+   "volume": "2011",
+   "year": "2011",
+   "owned": true
+  },
+  {
+   "order": 25,
+   "series": "Spider-Island: Heroes For Hire",
+   "issue": "1",
+   "volume": "2011",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 26,
+   "series": "Spider-Island: Spider-Woman",
+   "issue": "1",
+   "volume": "2011",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 27,
+   "series": "The Amazing Spider-Man",
+   "issue": "670",
+   "volume": "1999",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 28,
+   "series": "Venom",
+   "issue": "7",
+   "volume": "2011",
+   "year": "2011",
+   "owned": true
+  },
+  {
+   "order": 29,
+   "series": "Spider-Island: Cloak & Dagger",
+   "issue": "2",
+   "volume": "2011",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 30,
+   "series": "Spider-Island: Cloak & Dagger",
+   "issue": "3",
+   "volume": "2011",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 31,
+   "series": "The Amazing Spider-Man",
+   "issue": "671",
+   "volume": "1999",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 32,
+   "series": "Venom",
+   "issue": "8",
+   "volume": "2011",
+   "year": "2011",
+   "owned": true
+  },
+  {
+   "order": 33,
+   "series": "Spider-Island: The Amazing Spider-Girl",
+   "issue": "3",
+   "volume": "2011",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 34,
+   "series": "The Amazing Spider-Man",
+   "issue": "672",
+   "volume": "2011",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 35,
+   "series": "The Amazing Spider-Man",
+   "issue": "673",
+   "volume": "2012",
+   "year": "2012",
+   "owned": false
+  }
+ ]
+}

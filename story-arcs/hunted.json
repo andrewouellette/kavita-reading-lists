@@ -1,0 +1,192 @@
+{
+ "arc": "Hunted",
+ "slug": "hunted",
+ "issue_count": 23,
+ "owned_count": 18,
+ "entries": [
+  {
+   "order": 1,
+   "series": "The Amazing Spider-Man",
+   "issue": "8",
+   "volume": "2018",
+   "year": "2018",
+   "owned": true
+  },
+  {
+   "order": 2,
+   "series": "The Amazing Spider-Man",
+   "issue": "9",
+   "volume": "2018",
+   "year": "2019",
+   "owned": true
+  },
+  {
+   "order": 3,
+   "series": "The Amazing Spider-Man",
+   "issue": "10",
+   "volume": "2018",
+   "year": "2019",
+   "owned": true
+  },
+  {
+   "order": 4,
+   "series": "The Amazing Spider-Man",
+   "issue": "11",
+   "volume": "2018",
+   "year": "2019",
+   "owned": true
+  },
+  {
+   "order": 5,
+   "series": "The Amazing Spider-Man",
+   "issue": "12",
+   "volume": "2018",
+   "year": "2019",
+   "owned": true
+  },
+  {
+   "order": 6,
+   "series": "The Amazing Spider-Man",
+   "issue": "13",
+   "volume": "2018",
+   "year": "2019",
+   "owned": true
+  },
+  {
+   "order": 7,
+   "series": "Friendly Neighborhood Spider-Man",
+   "issue": "1",
+   "volume": "2019",
+   "year": "2019",
+   "owned": false
+  },
+  {
+   "order": 8,
+   "series": "Friendly Neighborhood Spider-Man",
+   "issue": "2",
+   "volume": "2019",
+   "year": "2019",
+   "owned": false
+  },
+  {
+   "order": 9,
+   "series": "Friendly Neighborhood Spider-Man",
+   "issue": "3",
+   "volume": "2019",
+   "year": "2019",
+   "owned": false
+  },
+  {
+   "order": 10,
+   "series": "Friendly Neighborhood Spider-Man",
+   "issue": "4",
+   "volume": "2019",
+   "year": "2019",
+   "owned": false
+  },
+  {
+   "order": 11,
+   "series": "Friendly Neighborhood Spider-Man",
+   "issue": "5",
+   "volume": "2019",
+   "year": "2019",
+   "owned": false
+  },
+  {
+   "order": 12,
+   "series": "The Amazing Spider-Man",
+   "issue": "14",
+   "volume": "2018",
+   "year": "2019",
+   "owned": true
+  },
+  {
+   "order": 13,
+   "series": "The Amazing Spider-Man",
+   "issue": "15",
+   "volume": "2018",
+   "year": "2019",
+   "owned": true
+  },
+  {
+   "order": 14,
+   "series": "The Amazing Spider-Man",
+   "issue": "16",
+   "volume": "2018",
+   "year": "2019",
+   "owned": true
+  },
+  {
+   "order": 15,
+   "series": "The Amazing Spider-Man",
+   "issue": "17",
+   "volume": "2018",
+   "year": "2019",
+   "owned": true
+  },
+  {
+   "order": 16,
+   "series": "The Amazing Spider-Man",
+   "issue": "18",
+   "volume": "2018",
+   "year": "2019",
+   "owned": true
+  },
+  {
+   "order": 17,
+   "series": "The Amazing Spider-Man",
+   "issue": "19",
+   "volume": "2018",
+   "year": "2019",
+   "owned": true
+  },
+  {
+   "order": 18,
+   "series": "The Amazing Spider-Man",
+   "issue": "20",
+   "volume": "2018",
+   "year": "2019",
+   "owned": true
+  },
+  {
+   "order": 19,
+   "series": "The Amazing Spider-Man",
+   "issue": "21",
+   "volume": "2018",
+   "year": "2019",
+   "owned": true
+  },
+  {
+   "order": 20,
+   "series": "The Amazing Spider-Man",
+   "issue": "22",
+   "volume": "2018",
+   "year": "2019",
+   "owned": true
+  },
+  {
+   "order": 21,
+   "series": "The Amazing Spider-Man",
+   "issue": "23",
+   "volume": "2018",
+   "year": "2019",
+   "owned": true
+  },
+  {
+   "order": 22,
+   "series": "The Amazing Spider-Man",
+   "issue": "24",
+   "volume": "2018",
+   "year": "2019",
+   "owned": true
+  },
+  {
+   "order": 23,
+   "series": "The Amazing Spider-Man",
+   "issue": "25",
+   "volume": "2018",
+   "year": "2019",
+   "owned": true
+  }
+ ]
+}

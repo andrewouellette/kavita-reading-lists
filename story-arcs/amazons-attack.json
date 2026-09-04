@@ -1,0 +1,160 @@
+{
+ "arc": "Amazons Attack",
+ "slug": "amazons-attack",
+ "issue_count": 19,
+ "owned_count": 9,
+ "entries": [
+  {
+   "order": 1,
+   "series": "Wonder Woman",
+   "issue": "6",
+   "volume": "2006",
+   "year": "2007",
+   "owned": true
+  },
+  {
+   "order": 2,
+   "series": "Wonder Woman",
+   "issue": "7",
+   "volume": "2006",
+   "year": "2007",
+   "owned": true
+  },
+  {
+   "order": 3,
+   "series": "Wonder Woman",
+   "issue": "8",
+   "volume": "2006",
+   "year": "2007",
+   "owned": true
+  },
+  {
+   "order": 4,
+   "series": "Amazons Attack!",
+   "issue": "1",
+   "volume": "2007",
+   "year": "2007",
+   "owned": false
+  },
+  {
+   "order": 5,
+   "series": "Wonder Woman",
+   "issue": "9",
+   "volume": "2006",
+   "year": "2007",
+   "owned": true
+  },
+  {
+   "order": 6,
+   "series": "Amazons Attack!",
+   "issue": "2",
+   "volume": "2007",
+   "year": "2007",
+   "owned": false
+  },
+  {
+   "order": 7,
+   "series": "Wonder Woman",
+   "issue": "10",
+   "volume": "2006",
+   "year": "2007",
+   "owned": true
+  },
+  {
+   "order": 8,
+   "series": "Amazons Attack!",
+   "issue": "3",
+   "volume": "2007",
+   "year": "2007",
+   "owned": false
+  },
+  {
+   "order": 9,
+   "series": "Teen Titans",
+   "issue": "48",
+   "volume": "2003",
+   "year": "2007",
+   "owned": false
+  },
+  {
+   "order": 10,
+   "series": "Teen Titans",
+   "issue": "49",
+   "volume": "2003",
+   "year": "2007",
+   "owned": false
+  },
+  {
+   "order": 11,
+   "series": "Amazons Attack!",
+   "issue": "4",
+   "volume": "2007",
+   "year": "2007",
+   "owned": false
+  },
+  {
+   "order": 12,
+   "series": "Catwoman",
+   "issue": "69",
+   "volume": "2002",
+   "year": "2007",
+   "owned": false
+  },
+  {
+   "order": 13,
+   "series": "Catwoman",
+   "issue": "70",
+   "volume": "2002",
+   "year": "2007",
+   "owned": true
+  },
+  {
+   "order": 14,
+   "series": "Supergirl",
+   "issue": "20",
+   "volume": "2005",
+   "year": "2007",
+   "owned": false
+  },
+  {
+   "order": 15,
+   "series": "Wonder Woman",
+   "issue": "11",
+   "volume": "2006",
+   "year": "2007",
+   "owned": true
+  },
+  {
+   "order": 16,
+   "series": "Amazons Attack!",
+   "issue": "5",
+   "volume": "2007",
+   "year": "2007",
+   "owned": false
+  },
+  {
+   "order": 17,
+   "series": "Amazons Attack!",
+   "issue": "6",
+   "volume": "2007",
+   "year": "2007",
+   "owned": false
+  },
+  {
+   "order": 18,
+   "series": "Wonder Woman",
+   "issue": "12",
+   "volume": "2006",
+   "year": "2007",
+   "owned": true
+  },
+  {
+   "order": 19,
+   "series": "Wonder Woman",
+   "issue": "13",
+   "volume": "2006",
+   "year": "2007",
+   "owned": true
+  }
+ ]
+}

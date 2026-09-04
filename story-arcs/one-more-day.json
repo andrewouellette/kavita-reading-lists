@@ -1,0 +1,40 @@
+{
+ "arc": "One More Day",
+ "slug": "one-more-day",
+ "issue_count": 4,
+ "owned_count": 0,
+ "entries": [
+  {
+   "order": 1,
+   "series": "The Amazing Spider-Man",
+   "issue": "544",
+   "volume": "1963",
+   "year": "2007",
+   "owned": false
+  },
+  {
+   "order": 2,
+   "series": "Friendly Neighborhood Spider-Man",
+   "issue": "24",
+   "volume": "2005",
+   "year": "2007",
+   "owned": false
+  },
+  {
+   "order": 3,
+   "series": "The Sensational Spider-Man",
+   "issue": "41",
+   "volume": "2006",
+   "year": "2007",
+   "owned": false
+  },
+  {
+   "order": 4,
+   "series": "The Amazing Spider-Man",
+   "issue": "545",
+   "volume": "1963",
+   "year": "2008",
+   "owned": false
+  }
+ ]
+}

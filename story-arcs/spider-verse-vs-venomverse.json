@@ -1,0 +1,64 @@
+{
+ "arc": "Spider-Verse vs Venomverse",
+ "slug": "spider-verse-vs-venomverse",
+ "issue_count": 7,
+ "owned_count": 2,
+ "entries": [
+  {
+   "order": 1,
+   "series": "Web of Spider-Verse: New Blood",
+   "issue": "1",
+   "volume": "2025",
+   "year": "2025",
+   "owned": false
+  },
+  {
+   "order": 2,
+   "series": "Web of Venomverse: Fresh Brains",
+   "issue": "1",
+   "volume": "2025",
+   "year": "2025",
+   "owned": false
+  },
+  {
+   "order": 3,
+   "series": "Spider-Verse vs. Venomverse",
+   "issue": "1",
+   "volume": "2025",
+   "year": "2025",
+   "owned": false
+  },
+  {
+   "order": 4,
+   "series": "Spider-Verse vs. Venomverse",
+   "issue": "2",
+   "volume": "2025",
+   "year": "2025",
+   "owned": false
+  },
+  {
+   "order": 5,
+   "series": "Spider-Verse vs. Venomverse",
+   "issue": "3",
+   "volume": "2025",
+   "year": "2025",
+   "owned": false
+  },
+  {
+   "order": 6,
+   "series": "Spider-Verse vs. Venomverse",
+   "issue": "4",
+   "volume": "2025",
+   "year": "2025",
+   "owned": true
+  },
+  {
+   "order": 7,
+   "series": "Spider-Verse vs. Venomverse",
+   "issue": "5",
+   "volume": "2025",
+   "year": "2025",
+   "owned": true
+  }
+ ]
+}

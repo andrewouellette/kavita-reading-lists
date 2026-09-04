@@ -1,0 +1,72 @@
+{
+ "arc": "Fantastic Four: Reckoning War",
+ "slug": "fantastic-four-reckoning-war",
+ "issue_count": 8,
+ "owned_count": 8,
+ "entries": [
+  {
+   "order": 1,
+   "series": "Fantastic Four: Reckoning War Alpha",
+   "issue": "1",
+   "volume": "2022",
+   "year": "2022",
+   "owned": true
+  },
+  {
+   "order": 2,
+   "series": "Fantastic Four",
+   "issue": "40",
+   "volume": "2018",
+   "year": "2022",
+   "owned": true
+  },
+  {
+   "order": 3,
+   "series": "Fantastic Four",
+   "issue": "41",
+   "volume": "2018",
+   "year": "2022",
+   "owned": true
+  },
+  {
+   "order": 4,
+   "series": "Reckoning War: Trial of the Watcher",
+   "issue": "1",
+   "volume": "2022",
+   "year": "2022",
+   "owned": true
+  },
+  {
+   "order": 5,
+   "series": "Fantastic Four",
+   "issue": "42",
+   "volume": "2018",
+   "year": "2022",
+   "owned": true
+  },
+  {
+   "order": 6,
+   "series": "Fantastic Four",
+   "issue": "43",
+   "volume": "2018",
+   "year": "2022",
+   "owned": true
+  },
+  {
+   "order": 7,
+   "series": "Fantastic Four",
+   "issue": "44",
+   "volume": "2018",
+   "year": "2022",
+   "owned": true
+  },
+  {
+   "order": 8,
+   "series": "Fantastic Four",
+   "issue": "45",
+   "volume": "2018",
+   "year": "2022",
+   "owned": true
+  }
+ ]
+}

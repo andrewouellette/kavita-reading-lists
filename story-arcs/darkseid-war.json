@@ -1,0 +1,160 @@
+{
+ "arc": "Darkseid War",
+ "slug": "darkseid-war",
+ "issue_count": 19,
+ "owned_count": 11,
+ "entries": [
+  {
+   "order": 1,
+   "series": "Divergence FCBD Special Edition",
+   "issue": "1",
+   "volume": "2015",
+   "year": "2015",
+   "owned": false
+  },
+  {
+   "order": 2,
+   "series": "Justice League",
+   "issue": "40",
+   "volume": "2011",
+   "year": "2015",
+   "owned": true
+  },
+  {
+   "order": 3,
+   "series": "Justice League",
+   "issue": "41",
+   "volume": "2011",
+   "year": "2015",
+   "owned": true
+  },
+  {
+   "order": 4,
+   "series": "Justice League",
+   "issue": "42",
+   "volume": "2011",
+   "year": "2015",
+   "owned": true
+  },
+  {
+   "order": 5,
+   "series": "Justice League",
+   "issue": "43",
+   "volume": "2011",
+   "year": "2015",
+   "owned": true
+  },
+  {
+   "order": 6,
+   "series": "Justice League",
+   "issue": "44",
+   "volume": "2011",
+   "year": "2015",
+   "owned": true
+  },
+  {
+   "order": 7,
+   "series": "Justice League",
+   "issue": "45",
+   "volume": "2011",
+   "year": "2015",
+   "owned": true
+  },
+  {
+   "order": 8,
+   "series": "Justice League: Darkseid War: Batman",
+   "issue": "1",
+   "volume": "2015",
+   "year": "2015",
+   "owned": false
+  },
+  {
+   "order": 9,
+   "series": "Justice League: Darkseid War: Flash",
+   "issue": "1",
+   "volume": "2015",
+   "year": "2016",
+   "owned": false
+  },
+  {
+   "order": 10,
+   "series": "Justice League: Darkseid War: Superman",
+   "issue": "1",
+   "volume": "2015",
+   "year": "2016",
+   "owned": false
+  },
+  {
+   "order": 11,
+   "series": "Justice League: Darkseid War: Green Lantern",
+   "issue": "1",
+   "volume": "2015",
+   "year": "2016",
+   "owned": false
+  },
+  {
+   "order": 12,
+   "series": "Justice League: Darkseid War: Shazam",
+   "issue": "1",
+   "volume": "2015",
+   "year": "2016",
+   "owned": false
+  },
+  {
+   "order": 13,
+   "series": "Justice League: Darkseid War: Lex Luthor",
+   "issue": "1",
+   "volume": "2015",
+   "year": "2016",
+   "owned": false
+  },
+  {
+   "order": 14,
+   "series": "Justice League",
+   "issue": "46",
+   "volume": "2011",
+   "year": "2016",
+   "owned": true
+  },
+  {
+   "order": 15,
+   "series": "Justice League",
+   "issue": "47",
+   "volume": "2011",
+   "year": "2016",
+   "owned": true
+  },
+  {
+   "order": 16,
+   "series": "Justice League",
+   "issue": "48",
+   "volume": "2011",
+   "year": "2016",
+   "owned": true
+  },
+  {
+   "order": 17,
+   "series": "Justice League Darkseid War Special",
+   "issue": "1",
+   "volume": "2016",
+   "year": "2016",
+   "owned": false
+  },
+  {
+   "order": 18,
+   "series": "Justice League",
+   "issue": "49",
+   "volume": "2011",
+   "year": "2016",
+   "owned": true
+  },
+  {
+   "order": 19,
+   "series": "Justice League",
+   "issue": "50",
+   "volume": "2011",
+   "year": "2016",
+   "owned": true
+  }
+ ]
+}

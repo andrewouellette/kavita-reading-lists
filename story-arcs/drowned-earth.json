@@ -1,0 +1,72 @@
+{
+ "arc": "Drowned Earth",
+ "slug": "drowned-earth",
+ "issue_count": 8,
+ "owned_count": 4,
+ "entries": [
+  {
+   "order": 1,
+   "series": "Justice League",
+   "issue": "10",
+   "volume": "2018",
+   "year": "2018",
+   "owned": true
+  },
+  {
+   "order": 2,
+   "series": "Aquaman",
+   "issue": "41",
+   "volume": "2016",
+   "year": "2018",
+   "owned": false
+  },
+  {
+   "order": 3,
+   "series": "Titans",
+   "issue": "28",
+   "volume": "2016",
+   "year": "2018",
+   "owned": true
+  },
+  {
+   "order": 4,
+   "series": "Justice League/Aquaman: Drowned Earth",
+   "issue": "1",
+   "volume": "2018",
+   "year": "2018",
+   "owned": false
+  },
+  {
+   "order": 5,
+   "series": "Justice League",
+   "issue": "11",
+   "volume": "2018",
+   "year": "2019",
+   "owned": true
+  },
+  {
+   "order": 6,
+   "series": "Aquaman",
+   "issue": "42",
+   "volume": "2016",
+   "year": "2019",
+   "owned": false
+  },
+  {
+   "order": 7,
+   "series": "Justice League",
+   "issue": "12",
+   "volume": "2018",
+   "year": "2019",
+   "owned": true
+  },
+  {
+   "order": 8,
+   "series": "Aquaman/Justice League: Drowned Earth Special",
+   "issue": "1",
+   "volume": "2018",
+   "year": "2019",
+   "owned": false
+  }
+ ]
+}

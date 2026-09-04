@@ -1,0 +1,72 @@
+{
+ "arc": "Batman: Face the Face",
+ "slug": "batman-face-the-face",
+ "issue_count": 8,
+ "owned_count": 0,
+ "entries": [
+  {
+   "order": 1,
+   "series": "Detective Comics",
+   "issue": "817",
+   "volume": "1937",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 2,
+   "series": "Batman",
+   "issue": "651",
+   "volume": "1940",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 3,
+   "series": "Detective Comics",
+   "issue": "818",
+   "volume": "1937",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 4,
+   "series": "Batman",
+   "issue": "652",
+   "volume": "1940",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 5,
+   "series": "Detective Comics",
+   "issue": "819",
+   "volume": "1937",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 6,
+   "series": "Batman",
+   "issue": "653",
+   "volume": "1940",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 7,
+   "series": "Detective Comics",
+   "issue": "820",
+   "volume": "1937",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 8,
+   "series": "Batman",
+   "issue": "654",
+   "volume": "1940",
+   "year": "2006",
+   "owned": false
+  }
+ ]
+}

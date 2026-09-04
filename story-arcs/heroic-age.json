@@ -1,0 +1,936 @@
+{
+ "arc": "Heroic Age",
+ "slug": "heroic-age",
+ "issue_count": 116,
+ "owned_count": 19,
+ "entries": [
+  {
+   "order": 1,
+   "series": "Avengers: Prime",
+   "issue": "1",
+   "volume": "2010",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 2,
+   "series": "Avengers: Prime",
+   "issue": "2",
+   "volume": "2010",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 3,
+   "series": "Avengers: Prime",
+   "issue": "3",
+   "volume": "2010",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 4,
+   "series": "Avengers: Prime",
+   "issue": "4",
+   "volume": "2010",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 5,
+   "series": "Avengers: Prime",
+   "issue": "5",
+   "volume": "2010",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 6,
+   "series": "Enter The Heroic Age",
+   "issue": "1",
+   "volume": "2010",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 7,
+   "series": "The Heroic Age: Super Heroes",
+   "issue": "1",
+   "volume": "2010",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 8,
+   "series": "The Heroic Age: Villains",
+   "issue": "1",
+   "volume": "2010",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 9,
+   "series": "Heroic Age: One Month to Live",
+   "issue": "1",
+   "volume": "2010",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 10,
+   "series": "Heroic Age: One Month to Live",
+   "issue": "2",
+   "volume": "2010",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 11,
+   "series": "Heroic Age: One Month to Live",
+   "issue": "3",
+   "volume": "2010",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 12,
+   "series": "Heroic Age: One Month to Live",
+   "issue": "4",
+   "volume": "2010",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 13,
+   "series": "Heroic Age: One Month to Live",
+   "issue": "5",
+   "volume": "2010",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 14,
+   "series": "Heroic Age: Prince of Power",
+   "issue": "1",
+   "volume": "2010",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 15,
+   "series": "Heroic Age: Prince of Power",
+   "issue": "2",
+   "volume": "2010",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 16,
+   "series": "Heroic Age: Prince of Power",
+   "issue": "3",
+   "volume": "2010",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 17,
+   "series": "Heroic Age: Prince of Power",
+   "issue": "4",
+   "volume": "2010",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 18,
+   "series": "Avengers",
+   "issue": "1",
+   "volume": "2010",
+   "year": "2010",
+   "owned": true
+  },
+  {
+   "order": 19,
+   "series": "Avengers",
+   "issue": "2",
+   "volume": "2010",
+   "year": "2010",
+   "owned": true
+  },
+  {
+   "order": 20,
+   "series": "Avengers",
+   "issue": "3",
+   "volume": "2010",
+   "year": "2010",
+   "owned": true
+  },
+  {
+   "order": 21,
+   "series": "Avengers",
+   "issue": "4",
+   "volume": "2010",
+   "year": "2010",
+   "owned": true
+  },
+  {
+   "order": 22,
+   "series": "Avengers",
+   "issue": "5",
+   "volume": "2010",
+   "year": "2010",
+   "owned": true
+  },
+  {
+   "order": 23,
+   "series": "Avengers",
+   "issue": "6",
+   "volume": "2010",
+   "year": "2010",
+   "owned": true
+  },
+  {
+   "order": 24,
+   "series": "Avengers Academy",
+   "issue": "1",
+   "volume": "2010",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 25,
+   "series": "Avengers Academy",
+   "issue": "2",
+   "volume": "2010",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 26,
+   "series": "New Avengers",
+   "issue": "1",
+   "volume": "2010",
+   "year": "2010",
+   "owned": true
+  },
+  {
+   "order": 27,
+   "series": "New Avengers",
+   "issue": "2",
+   "volume": "2010",
+   "year": "2010",
+   "owned": true
+  },
+  {
+   "order": 28,
+   "series": "New Avengers",
+   "issue": "3",
+   "volume": "2010",
+   "year": "2010",
+   "owned": true
+  },
+  {
+   "order": 29,
+   "series": "New Avengers",
+   "issue": "4",
+   "volume": "2010",
+   "year": "2010",
+   "owned": true
+  },
+  {
+   "order": 30,
+   "series": "New Avengers",
+   "issue": "5",
+   "volume": "2010",
+   "year": "2010",
+   "owned": true
+  },
+  {
+   "order": 31,
+   "series": "New Avengers",
+   "issue": "6",
+   "volume": "2010",
+   "year": "2011",
+   "owned": true
+  },
+  {
+   "order": 32,
+   "series": "Vengeance of the Moon Knight",
+   "issue": "9",
+   "volume": "2009",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 33,
+   "series": "Vengeance of the Moon Knight",
+   "issue": "10",
+   "volume": "2009",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 34,
+   "series": "Secret Avengers",
+   "issue": "1",
+   "volume": "2010",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 35,
+   "series": "Secret Avengers",
+   "issue": "2",
+   "volume": "2010",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 36,
+   "series": "Secret Avengers",
+   "issue": "3",
+   "volume": "2010",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 37,
+   "series": "Secret Avengers",
+   "issue": "4",
+   "volume": "2010",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 38,
+   "series": "Secret Avengers",
+   "issue": "5",
+   "volume": "2010",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 39,
+   "series": "Age of Heroes",
+   "issue": "1",
+   "volume": "2010",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 40,
+   "series": "Age of Heroes",
+   "issue": "2",
+   "volume": "2010",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 41,
+   "series": "Age of Heroes",
+   "issue": "3",
+   "volume": "2010",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 42,
+   "series": "Age of Heroes",
+   "issue": "4",
+   "volume": "2010",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 43,
+   "series": "Hawkeye & Mockingbird",
+   "issue": "1",
+   "volume": "2010",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 44,
+   "series": "Hawkeye & Mockingbird",
+   "issue": "2",
+   "volume": "2010",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 45,
+   "series": "Hawkeye & Mockingbird",
+   "issue": "3",
+   "volume": "2010",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 46,
+   "series": "Hawkeye & Mockingbird",
+   "issue": "4",
+   "volume": "2010",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 47,
+   "series": "Hawkeye & Mockingbird",
+   "issue": "5",
+   "volume": "2010",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 48,
+   "series": "Hawkeye & Mockingbird",
+   "issue": "6",
+   "volume": "2010",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 49,
+   "series": "Young Allies",
+   "issue": "1",
+   "volume": "2010",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 50,
+   "series": "Young Allies",
+   "issue": "2",
+   "volume": "2010",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 51,
+   "series": "Young Allies",
+   "issue": "3",
+   "volume": "2010",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 52,
+   "series": "Young Allies",
+   "issue": "4",
+   "volume": "2010",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 53,
+   "series": "Young Allies",
+   "issue": "5",
+   "volume": "2010",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 54,
+   "series": "Young Allies",
+   "issue": "6",
+   "volume": "2010",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 55,
+   "series": "Astonishing Spider-Man & Wolverine",
+   "issue": "1",
+   "volume": "2010",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 56,
+   "series": "Astonishing Spider-Man & Wolverine",
+   "issue": "2",
+   "volume": "2010",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 57,
+   "series": "Astonishing Spider-Man & Wolverine",
+   "issue": "3",
+   "volume": "2010",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 58,
+   "series": "Astonishing Spider-Man & Wolverine",
+   "issue": "4",
+   "volume": "2010",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 59,
+   "series": "Astonishing Spider-Man & Wolverine",
+   "issue": "5",
+   "volume": "2010",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 60,
+   "series": "Astonishing Spider-Man & Wolverine",
+   "issue": "6",
+   "volume": "2010",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 61,
+   "series": "Captain America",
+   "issue": "606",
+   "volume": "2004",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 62,
+   "series": "Captain America",
+   "issue": "607",
+   "volume": "2004",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 63,
+   "series": "Captain America",
+   "issue": "608",
+   "volume": "2004",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 64,
+   "series": "Captain America",
+   "issue": "609",
+   "volume": "2004",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 65,
+   "series": "Captain America",
+   "issue": "610",
+   "volume": "2004",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 66,
+   "series": "Steve Rogers: Super Soldier",
+   "issue": "1",
+   "volume": "2010",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 67,
+   "series": "Steve Rogers: Super Soldier",
+   "issue": "2",
+   "volume": "2010",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 68,
+   "series": "Steve Rogers: Super Soldier",
+   "issue": "3",
+   "volume": "2010",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 69,
+   "series": "Steve Rogers: Super Soldier",
+   "issue": "4",
+   "volume": "2010",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 70,
+   "series": "Death of Dracula",
+   "issue": "1",
+   "volume": "2010",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 71,
+   "series": "Uncanny X-Men: The Heroic Age",
+   "issue": "1",
+   "volume": "2010",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 72,
+   "series": "The Uncanny X-Men",
+   "issue": "526",
+   "volume": "1981",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 73,
+   "series": "The Uncanny X-Men",
+   "issue": "527",
+   "volume": "1981",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 74,
+   "series": "The Uncanny X-Men",
+   "issue": "528",
+   "volume": "1981",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 75,
+   "series": "The Uncanny X-Men",
+   "issue": "529",
+   "volume": "1981",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 76,
+   "series": "New Mutants",
+   "issue": "15",
+   "volume": "2009",
+   "year": "2010",
+   "owned": true
+  },
+  {
+   "order": 77,
+   "series": "New Mutants",
+   "issue": "16",
+   "volume": "2009",
+   "year": "2010",
+   "owned": true
+  },
+  {
+   "order": 78,
+   "series": "New Mutants",
+   "issue": "17",
+   "volume": "2009",
+   "year": "2010",
+   "owned": true
+  },
+  {
+   "order": 79,
+   "series": "New Mutants",
+   "issue": "18",
+   "volume": "2009",
+   "year": "2010",
+   "owned": true
+  },
+  {
+   "order": 80,
+   "series": "New Mutants",
+   "issue": "19",
+   "volume": "2009",
+   "year": "2011",
+   "owned": true
+  },
+  {
+   "order": 81,
+   "series": "New Mutants",
+   "issue": "20",
+   "volume": "2009",
+   "year": "2011",
+   "owned": true
+  },
+  {
+   "order": 82,
+   "series": "New Mutants",
+   "issue": "21",
+   "volume": "2009",
+   "year": "2011",
+   "owned": true
+  },
+  {
+   "order": 83,
+   "series": "Deadpool",
+   "issue": "23",
+   "volume": "2008",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 84,
+   "series": "Deadpool",
+   "issue": "24",
+   "volume": "2008",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 85,
+   "series": "Deadpool",
+   "issue": "25",
+   "volume": "2008",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 86,
+   "series": "Fantastic Four",
+   "issue": "579",
+   "volume": "1998",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 87,
+   "series": "Fantastic Four",
+   "issue": "580",
+   "volume": "1998",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 88,
+   "series": "Fantastic Four",
+   "issue": "581",
+   "volume": "1998",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 89,
+   "series": "Fantastic Four",
+   "issue": "582",
+   "volume": "1998",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 90,
+   "series": "Secret Warriors",
+   "issue": "17",
+   "volume": "2009",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 91,
+   "series": "Secret Warriors",
+   "issue": "18",
+   "volume": "2009",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 92,
+   "series": "Secret Warriors",
+   "issue": "19",
+   "volume": "2009",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 93,
+   "series": "Thunderbolts",
+   "issue": "144",
+   "volume": "2006",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 94,
+   "series": "Thunderbolts",
+   "issue": "145",
+   "volume": "2006",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 95,
+   "series": "Thunderbolts",
+   "issue": "146",
+   "volume": "2006",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 96,
+   "series": "Thunderbolts",
+   "issue": "147",
+   "volume": "2006",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 97,
+   "series": "Avengers Academy",
+   "issue": "3",
+   "volume": "2010",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 98,
+   "series": "Avengers Academy",
+   "issue": "4",
+   "volume": "2010",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 99,
+   "series": "Invincible Iron Man",
+   "issue": "25",
+   "volume": "2008",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 100,
+   "series": "Invincible Iron Man",
+   "issue": "26",
+   "volume": "2008",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 101,
+   "series": "Invincible Iron Man",
+   "issue": "27",
+   "volume": "2008",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 102,
+   "series": "Invincible Iron Man",
+   "issue": "28",
+   "volume": "2008",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 103,
+   "series": "Invincible Iron Man",
+   "issue": "29",
+   "volume": "2008",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 104,
+   "series": "Invincible Iron Man",
+   "issue": "30",
+   "volume": "2008",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 105,
+   "series": "Invincible Iron Man",
+   "issue": "31",
+   "volume": "2008",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 106,
+   "series": "Invincible Iron Man",
+   "issue": "32",
+   "volume": "2008",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 107,
+   "series": "Invincible Iron Man",
+   "issue": "33",
+   "volume": "2008",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 108,
+   "series": "X-Men: Legacy",
+   "issue": "238",
+   "volume": "2008",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 109,
+   "series": "X-Men: Legacy",
+   "issue": "239",
+   "volume": "2008",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 110,
+   "series": "X-Men: Legacy",
+   "issue": "240",
+   "volume": "2008",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 111,
+   "series": "X-Men: Legacy",
+   "issue": "241",
+   "volume": "2008",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 112,
+   "series": "Atlas",
+   "issue": "1",
+   "volume": "2010",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 113,
+   "series": "Atlas",
+   "issue": "2",
+   "volume": "2010",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 114,
+   "series": "Atlas",
+   "issue": "3",
+   "volume": "2010",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 115,
+   "series": "Atlas",
+   "issue": "4",
+   "volume": "2010",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 116,
+   "series": "Atlas",
+   "issue": "5",
+   "volume": "2010",
+   "year": "2010",
+   "owned": false
+  }
+ ]
+}

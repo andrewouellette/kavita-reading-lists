@@ -1,0 +1,232 @@
+{
+ "arc": "Maximum Security",
+ "slug": "maximum-security",
+ "issue_count": 28,
+ "owned_count": 6,
+ "entries": [
+  {
+   "order": 1,
+   "series": "Maximum Security Dangerous Planet",
+   "issue": "1",
+   "volume": "2000",
+   "year": "2000",
+   "owned": false
+  },
+  {
+   "order": 2,
+   "series": "The Amazing Spider-Man",
+   "issue": "22",
+   "volume": "1999",
+   "year": "2000",
+   "owned": true
+  },
+  {
+   "order": 3,
+   "series": "The Amazing Spider-Man",
+   "issue": "23",
+   "volume": "1999",
+   "year": "2000",
+   "owned": true
+  },
+  {
+   "order": 4,
+   "series": "The Amazing Spider-Man",
+   "issue": "24",
+   "volume": "1999",
+   "year": "2000",
+   "owned": true
+  },
+  {
+   "order": 5,
+   "series": "Iron Man",
+   "issue": "33",
+   "volume": "1998",
+   "year": "2000",
+   "owned": false
+  },
+  {
+   "order": 6,
+   "series": "Iron Man",
+   "issue": "34",
+   "volume": "1998",
+   "year": "2000",
+   "owned": false
+  },
+  {
+   "order": 7,
+   "series": "Peter Parker: Spider-Man",
+   "issue": "23",
+   "volume": "1999",
+   "year": "2000",
+   "owned": false
+  },
+  {
+   "order": 8,
+   "series": "Peter Parker: Spider-Man",
+   "issue": "24",
+   "volume": "1999",
+   "year": "2000",
+   "owned": false
+  },
+  {
+   "order": 9,
+   "series": "Captain America",
+   "issue": "36",
+   "volume": "1998",
+   "year": "2000",
+   "owned": false
+  },
+  {
+   "order": 10,
+   "series": "Maximum Security",
+   "issue": "1",
+   "volume": "2000",
+   "year": "2000",
+   "owned": false
+  },
+  {
+   "order": 11,
+   "series": "Thor",
+   "issue": "30",
+   "volume": "1998",
+   "year": "2000",
+   "owned": true
+  },
+  {
+   "order": 12,
+   "series": "The Uncanny X-Men",
+   "issue": "387",
+   "volume": "1981",
+   "year": "2000",
+   "owned": false
+  },
+  {
+   "order": 13,
+   "series": "Black Panther",
+   "issue": "25",
+   "volume": "1998",
+   "year": "2000",
+   "owned": false
+  },
+  {
+   "order": 14,
+   "series": "Captain Marvel",
+   "issue": "12",
+   "volume": "2000",
+   "year": "2000",
+   "owned": true
+  },
+  {
+   "order": 15,
+   "series": "Captain Marvel",
+   "issue": "13",
+   "volume": "2000",
+   "year": "2001",
+   "owned": true
+  },
+  {
+   "order": 16,
+   "series": "Incredible Hulk",
+   "issue": "21",
+   "volume": "2000",
+   "year": "2000",
+   "owned": false
+  },
+  {
+   "order": 17,
+   "series": "Iron Man",
+   "issue": "35",
+   "volume": "1998",
+   "year": "2000",
+   "owned": false
+  },
+  {
+   "order": 18,
+   "series": "Bishop: The Last X-Man",
+   "issue": "15",
+   "volume": "1999",
+   "year": "2000",
+   "owned": false
+  },
+  {
+   "order": 19,
+   "series": "Maximum Security",
+   "issue": "2",
+   "volume": "2000",
+   "year": "2000",
+   "owned": false
+  },
+  {
+   "order": 20,
+   "series": "Thunderbolts",
+   "issue": "45",
+   "volume": "1997",
+   "year": "2000",
+   "owned": false
+  },
+  {
+   "order": 21,
+   "series": "Thunderbolts",
+   "issue": "46",
+   "volume": "1997",
+   "year": "2001",
+   "owned": false
+  },
+  {
+   "order": 22,
+   "series": "Thunderbolts",
+   "issue": "47",
+   "volume": "1997",
+   "year": "2001",
+   "owned": false
+  },
+  {
+   "order": 23,
+   "series": "Marvel Knights",
+   "issue": "6",
+   "volume": "2000",
+   "year": "2000",
+   "owned": false
+  },
+  {
+   "order": 24,
+   "series": "Gambit",
+   "issue": "23",
+   "volume": "1999",
+   "year": "2000",
+   "owned": false
+  },
+  {
+   "order": 25,
+   "series": "X-Men",
+   "issue": "107",
+   "volume": "1991",
+   "year": "2000",
+   "owned": false
+  },
+  {
+   "order": 26,
+   "series": "X-Men Unlimited",
+   "issue": "29",
+   "volume": "1993",
+   "year": "2000",
+   "owned": false
+  },
+  {
+   "order": 27,
+   "series": "Avengers",
+   "issue": "35",
+   "volume": "1998",
+   "year": "2000",
+   "owned": false
+  },
+  {
+   "order": 28,
+   "series": "Maximum Security",
+   "issue": "3",
+   "volume": "2000",
+   "year": "2001",
+   "owned": false
+  }
+ ]
+}

@@ -1,0 +1,192 @@
+{
+ "arc": "Identity Crisis",
+ "slug": "identity-crisis",
+ "issue_count": 23,
+ "owned_count": 0,
+ "entries": [
+  {
+   "order": 1,
+   "series": "Identity Crisis",
+   "issue": "1",
+   "volume": "2004",
+   "year": "2004",
+   "owned": false
+  },
+  {
+   "order": 2,
+   "series": "Identity Crisis",
+   "issue": "2",
+   "volume": "2004",
+   "year": "2004",
+   "owned": false
+  },
+  {
+   "order": 3,
+   "series": "Identity Crisis",
+   "issue": "3",
+   "volume": "2004",
+   "year": "2004",
+   "owned": false
+  },
+  {
+   "order": 4,
+   "series": "The Flash",
+   "issue": "214",
+   "volume": "1987",
+   "year": "2004",
+   "owned": false
+  },
+  {
+   "order": 5,
+   "series": "Identity Crisis",
+   "issue": "4",
+   "volume": "2004",
+   "year": "2004",
+   "owned": false
+  },
+  {
+   "order": 6,
+   "series": "The Flash",
+   "issue": "215",
+   "volume": "1987",
+   "year": "2004",
+   "owned": false
+  },
+  {
+   "order": 7,
+   "series": "Identity Crisis",
+   "issue": "5",
+   "volume": "2004",
+   "year": "2004",
+   "owned": false
+  },
+  {
+   "order": 8,
+   "series": "Firestorm",
+   "issue": "6",
+   "volume": "2004",
+   "year": "2004",
+   "owned": false
+  },
+  {
+   "order": 9,
+   "series": "The Flash",
+   "issue": "216",
+   "volume": "1987",
+   "year": "2005",
+   "owned": false
+  },
+  {
+   "order": 10,
+   "series": "JSA",
+   "issue": "67",
+   "volume": "1999",
+   "year": "2005",
+   "owned": false
+  },
+  {
+   "order": 11,
+   "series": "The Flash",
+   "issue": "217",
+   "volume": "1987",
+   "year": "2005",
+   "owned": false
+  },
+  {
+   "order": 12,
+   "series": "Identity Crisis",
+   "issue": "6",
+   "volume": "2004",
+   "year": "2005",
+   "owned": false
+  },
+  {
+   "order": 13,
+   "series": "Identity Crisis",
+   "issue": "7",
+   "volume": "2004",
+   "year": "2005",
+   "owned": false
+  },
+  {
+   "order": 14,
+   "series": "Teen Titans",
+   "issue": "20",
+   "volume": "2003",
+   "year": "2005",
+   "owned": false
+  },
+  {
+   "order": 15,
+   "series": "Teen Titans",
+   "issue": "21",
+   "volume": "2003",
+   "year": "2005",
+   "owned": false
+  },
+  {
+   "order": 16,
+   "series": "Teen Titans",
+   "issue": "22",
+   "volume": "2003",
+   "year": "2005",
+   "owned": false
+  },
+  {
+   "order": 17,
+   "series": "Teen Titans",
+   "issue": "23",
+   "volume": "2003",
+   "year": "2005",
+   "owned": false
+  },
+  {
+   "order": 18,
+   "series": "JLA",
+   "issue": "115",
+   "volume": "1997",
+   "year": "2005",
+   "owned": false
+  },
+  {
+   "order": 19,
+   "series": "JLA",
+   "issue": "116",
+   "volume": "1997",
+   "year": "2005",
+   "owned": false
+  },
+  {
+   "order": 20,
+   "series": "JLA",
+   "issue": "117",
+   "volume": "1997",
+   "year": "2005",
+   "owned": false
+  },
+  {
+   "order": 21,
+   "series": "JLA",
+   "issue": "118",
+   "volume": "1997",
+   "year": "2005",
+   "owned": false
+  },
+  {
+   "order": 22,
+   "series": "JLA",
+   "issue": "119",
+   "volume": "1997",
+   "year": "2005",
+   "owned": false
+  },
+  {
+   "order": 23,
+   "series": "Manhunter",
+   "issue": "5",
+   "volume": "2004",
+   "year": "2005",
+   "owned": false
+  }
+ ]
+}

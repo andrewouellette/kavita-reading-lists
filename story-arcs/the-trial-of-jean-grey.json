@@ -1,0 +1,56 @@
+{
+ "arc": "The Trial of Jean Grey",
+ "slug": "the-trial-of-jean-grey",
+ "issue_count": 6,
+ "owned_count": 4,
+ "entries": [
+  {
+   "order": 1,
+   "series": "All-New X-Men",
+   "issue": "22",
+   "volume": "2012",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 2,
+   "series": "Guardians of the Galaxy",
+   "issue": "11",
+   "volume": "2013",
+   "year": "2014",
+   "owned": true
+  },
+  {
+   "order": 3,
+   "series": "All-New X-Men",
+   "issue": "23",
+   "volume": "2012",
+   "year": "2014",
+   "owned": true
+  },
+  {
+   "order": 4,
+   "series": "Guardians of the Galaxy",
+   "issue": "12",
+   "volume": "2013",
+   "year": "2014",
+   "owned": true
+  },
+  {
+   "order": 5,
+   "series": "All-New X-Men",
+   "issue": "24",
+   "volume": "2012",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 6,
+   "series": "Guardians of the Galaxy",
+   "issue": "13",
+   "volume": "2013",
+   "year": "2014",
+   "owned": true
+  }
+ ]
+}

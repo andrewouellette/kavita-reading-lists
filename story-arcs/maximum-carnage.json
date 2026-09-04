@@ -1,0 +1,120 @@
+{
+ "arc": "Maximum Carnage",
+ "slug": "maximum-carnage",
+ "issue_count": 14,
+ "owned_count": 0,
+ "entries": [
+  {
+   "order": 1,
+   "series": "Spider-Man Unlimited",
+   "issue": "1",
+   "volume": "1993",
+   "year": "1993",
+   "owned": false
+  },
+  {
+   "order": 2,
+   "series": "Web of Spider-Man",
+   "issue": "101",
+   "volume": "1985",
+   "year": "1993",
+   "owned": false
+  },
+  {
+   "order": 3,
+   "series": "The Amazing Spider-Man",
+   "issue": "378",
+   "volume": "1963",
+   "year": "1993",
+   "owned": false
+  },
+  {
+   "order": 4,
+   "series": "Spider-Man",
+   "issue": "35",
+   "volume": "1990",
+   "year": "1993",
+   "owned": false
+  },
+  {
+   "order": 5,
+   "series": "The Spectacular Spider-Man",
+   "issue": "201",
+   "volume": "1976",
+   "year": "1993",
+   "owned": false
+  },
+  {
+   "order": 6,
+   "series": "Web of Spider-Man",
+   "issue": "102",
+   "volume": "1985",
+   "year": "1993",
+   "owned": false
+  },
+  {
+   "order": 7,
+   "series": "The Amazing Spider-Man",
+   "issue": "379",
+   "volume": "1963",
+   "year": "1993",
+   "owned": false
+  },
+  {
+   "order": 8,
+   "series": "Spider-Man",
+   "issue": "36",
+   "volume": "1990",
+   "year": "1993",
+   "owned": false
+  },
+  {
+   "order": 9,
+   "series": "The Spectacular Spider-Man",
+   "issue": "202",
+   "volume": "1976",
+   "year": "1993",
+   "owned": false
+  },
+  {
+   "order": 10,
+   "series": "Web of Spider-Man",
+   "issue": "103",
+   "volume": "1985",
+   "year": "1993",
+   "owned": false
+  },
+  {
+   "order": 11,
+   "series": "The Amazing Spider-Man",
+   "issue": "380",
+   "volume": "1963",
+   "year": "1993",
+   "owned": false
+  },
+  {
+   "order": 12,
+   "series": "Spider-Man",
+   "issue": "37",
+   "volume": "1990",
+   "year": "1993",
+   "owned": false
+  },
+  {
+   "order": 13,
+   "series": "The Spectacular Spider-Man",
+   "issue": "203",
+   "volume": "1976",
+   "year": "1993",
+   "owned": false
+  },
+  {
+   "order": 14,
+   "series": "Spider-Man Unlimited",
+   "issue": "2",
+   "volume": "1993",
+   "year": "1993",
+   "owned": false
+  }
+ ]
+}

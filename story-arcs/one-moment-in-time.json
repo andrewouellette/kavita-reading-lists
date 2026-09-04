@@ -1,0 +1,40 @@
+{
+ "arc": "One Moment in Time",
+ "slug": "one-moment-in-time",
+ "issue_count": 4,
+ "owned_count": 0,
+ "entries": [
+  {
+   "order": 1,
+   "series": "The Amazing Spider-Man",
+   "issue": "640",
+   "volume": "1963",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 2,
+   "series": "The Amazing Spider-Man",
+   "issue": "638",
+   "volume": "1963",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 3,
+   "series": "The Amazing Spider-Man",
+   "issue": "639",
+   "volume": "1963",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 4,
+   "series": "The Amazing Spider-Man",
+   "issue": "641",
+   "volume": "1963",
+   "year": "2010",
+   "owned": false
+  }
+ ]
+}

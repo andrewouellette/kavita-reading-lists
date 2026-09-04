@@ -1,0 +1,192 @@
+{
+ "arc": "Planet Hulk",
+ "slug": "planet-hulk",
+ "issue_count": 23,
+ "owned_count": 0,
+ "entries": [
+  {
+   "order": 1,
+   "series": "Fantastic Four",
+   "issue": "533",
+   "volume": "1998",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 2,
+   "series": "Fantastic Four",
+   "issue": "534",
+   "volume": "1998",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 3,
+   "series": "Fantastic Four",
+   "issue": "535",
+   "volume": "1998",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 4,
+   "series": "The New Avengers: Illuminati",
+   "issue": "1",
+   "volume": "2006",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 5,
+   "series": "Incredible Hulk",
+   "issue": "88",
+   "volume": "2000",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 6,
+   "series": "Incredible Hulk",
+   "issue": "89",
+   "volume": "2000",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 7,
+   "series": "Incredible Hulk",
+   "issue": "90",
+   "volume": "2000",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 8,
+   "series": "Incredible Hulk",
+   "issue": "91",
+   "volume": "2000",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 9,
+   "series": "Incredible Hulk",
+   "issue": "92",
+   "volume": "2000",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 10,
+   "series": "Incredible Hulk",
+   "issue": "93",
+   "volume": "2000",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 11,
+   "series": "Incredible Hulk",
+   "issue": "94",
+   "volume": "2000",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 12,
+   "series": "Incredible Hulk",
+   "issue": "95",
+   "volume": "2000",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 13,
+   "series": "Giant-Size Hulk",
+   "issue": "1",
+   "volume": "2006",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 14,
+   "series": "Incredible Hulk",
+   "issue": "96",
+   "volume": "2000",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 15,
+   "series": "Incredible Hulk",
+   "issue": "97",
+   "volume": "2000",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 16,
+   "series": "Incredible Hulk",
+   "issue": "98",
+   "volume": "2000",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 17,
+   "series": "Incredible Hulk",
+   "issue": "99",
+   "volume": "2000",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 18,
+   "series": "Incredible Hulk",
+   "issue": "100",
+   "volume": "2000",
+   "year": "2007",
+   "owned": false
+  },
+  {
+   "order": 19,
+   "series": "Incredible Hulk",
+   "issue": "101",
+   "volume": "2000",
+   "year": "2007",
+   "owned": false
+  },
+  {
+   "order": 20,
+   "series": "Incredible Hulk",
+   "issue": "102",
+   "volume": "2000",
+   "year": "2007",
+   "owned": false
+  },
+  {
+   "order": 21,
+   "series": "Incredible Hulk",
+   "issue": "103",
+   "volume": "2000",
+   "year": "2007",
+   "owned": false
+  },
+  {
+   "order": 22,
+   "series": "Incredible Hulk",
+   "issue": "104",
+   "volume": "2000",
+   "year": "2007",
+   "owned": false
+  },
+  {
+   "order": 23,
+   "series": "Incredible Hulk",
+   "issue": "105",
+   "volume": "2000",
+   "year": "2007",
+   "owned": false
+  }
+ ]
+}

@@ -1,0 +1,536 @@
+{
+ "arc": "War of the Realms",
+ "slug": "war-of-the-realms",
+ "issue_count": 66,
+ "owned_count": 20,
+ "entries": [
+  {
+   "order": 1,
+   "series": "Tony Stark: Iron Man",
+   "issue": "12",
+   "volume": "2018",
+   "year": "2019",
+   "owned": false
+  },
+  {
+   "order": 2,
+   "series": "Tony Stark: Iron Man",
+   "issue": "13",
+   "volume": "2018",
+   "year": "2019",
+   "owned": false
+  },
+  {
+   "order": 3,
+   "series": "War of the Realms",
+   "issue": "1",
+   "volume": "2019",
+   "year": "2019",
+   "owned": false
+  },
+  {
+   "order": 4,
+   "series": "War of the Realms: Punisher",
+   "issue": "1",
+   "volume": "2019",
+   "year": "2019",
+   "owned": false
+  },
+  {
+   "order": 5,
+   "series": "War of the Realms: Punisher",
+   "issue": "2",
+   "volume": "2019",
+   "year": "2019",
+   "owned": false
+  },
+  {
+   "order": 6,
+   "series": "War of the Realms: Punisher",
+   "issue": "3",
+   "volume": "2019",
+   "year": "2019",
+   "owned": false
+  },
+  {
+   "order": 7,
+   "series": "War of the Realms: Journey Into Mystery",
+   "issue": "1",
+   "volume": "2019",
+   "year": "2019",
+   "owned": false
+  },
+  {
+   "order": 8,
+   "series": "The Unbeatable Squirrel Girl",
+   "issue": "43",
+   "volume": "2015",
+   "year": "2019",
+   "owned": false
+  },
+  {
+   "order": 9,
+   "series": "Asgardians of the Galaxy",
+   "issue": "8",
+   "volume": "2018",
+   "year": "2019",
+   "owned": true
+  },
+  {
+   "order": 10,
+   "series": "Fantastic Four",
+   "issue": "10",
+   "volume": "2018",
+   "year": "2019",
+   "owned": true
+  },
+  {
+   "order": 11,
+   "series": "Venom",
+   "issue": "13",
+   "volume": "2018",
+   "year": "2019",
+   "owned": true
+  },
+  {
+   "order": 12,
+   "series": "Venom",
+   "issue": "14",
+   "volume": "2018",
+   "year": "2019",
+   "owned": true
+  },
+  {
+   "order": 13,
+   "series": "Venom",
+   "issue": "15",
+   "volume": "2018",
+   "year": "2019",
+   "owned": true
+  },
+  {
+   "order": 14,
+   "series": "Thor",
+   "issue": "12",
+   "volume": "2018",
+   "year": "2019",
+   "owned": true
+  },
+  {
+   "order": 15,
+   "series": "War of the Realms",
+   "issue": "2",
+   "volume": "2019",
+   "year": "2019",
+   "owned": false
+  },
+  {
+   "order": 16,
+   "series": "Asgardians of the Galaxy",
+   "issue": "9",
+   "volume": "2018",
+   "year": "2019",
+   "owned": true
+  },
+  {
+   "order": 17,
+   "series": "Avengers",
+   "issue": "18",
+   "volume": "2018",
+   "year": "2019",
+   "owned": true
+  },
+  {
+   "order": 18,
+   "series": "Avengers",
+   "issue": "19",
+   "volume": "2018",
+   "year": "2019",
+   "owned": true
+  },
+  {
+   "order": 19,
+   "series": "War of the Realms: Uncanny X-Men",
+   "issue": "1",
+   "volume": "2019",
+   "year": "2019",
+   "owned": false
+  },
+  {
+   "order": 20,
+   "series": "Giant-Man",
+   "issue": "1",
+   "volume": "2019",
+   "year": "2019",
+   "owned": false
+  },
+  {
+   "order": 21,
+   "series": "Giant-Man",
+   "issue": "2",
+   "volume": "2019",
+   "year": "2019",
+   "owned": false
+  },
+  {
+   "order": 22,
+   "series": "Giant-Man",
+   "issue": "3",
+   "volume": "2019",
+   "year": "2019",
+   "owned": false
+  },
+  {
+   "order": 23,
+   "series": "War of the Realms",
+   "issue": "3",
+   "volume": "2019",
+   "year": "2019",
+   "owned": false
+  },
+  {
+   "order": 24,
+   "series": "War of the Realms Strikeforce: The Dark Elf Realm",
+   "issue": "1",
+   "volume": "2019",
+   "year": "2019",
+   "owned": false
+  },
+  {
+   "order": 25,
+   "series": "War of the Realms Strikeforce: The War Avengers",
+   "issue": "1",
+   "volume": "2019",
+   "year": "2019",
+   "owned": false
+  },
+  {
+   "order": 26,
+   "series": "War of the Realms Strikeforce: The Land of Giants",
+   "issue": "1",
+   "volume": "2019",
+   "year": "2019",
+   "owned": false
+  },
+  {
+   "order": 27,
+   "series": "Superior Spider-Man",
+   "issue": "7",
+   "volume": "2018",
+   "year": "2019",
+   "owned": false
+  },
+  {
+   "order": 28,
+   "series": "Superior Spider-Man",
+   "issue": "8",
+   "volume": "2018",
+   "year": "2019",
+   "owned": false
+  },
+  {
+   "order": 29,
+   "series": "Moon Girl and Devil Dinosaur",
+   "issue": "43",
+   "volume": "2015",
+   "year": "2019",
+   "owned": false
+  },
+  {
+   "order": 30,
+   "series": "War of the Realms: Journey Into Mystery",
+   "issue": "2",
+   "volume": "2019",
+   "year": "2019",
+   "owned": false
+  },
+  {
+   "order": 31,
+   "series": "War of the Realms: Journey Into Mystery",
+   "issue": "3",
+   "volume": "2019",
+   "year": "2019",
+   "owned": false
+  },
+  {
+   "order": 32,
+   "series": "War of the Realms: Journey Into Mystery",
+   "issue": "4",
+   "volume": "2019",
+   "year": "2019",
+   "owned": false
+  },
+  {
+   "order": 33,
+   "series": "War of the Realms: New Agents of Atlas",
+   "issue": "1",
+   "volume": "2019",
+   "year": "2019",
+   "owned": false
+  },
+  {
+   "order": 34,
+   "series": "War of the Realms: New Agents of Atlas",
+   "issue": "2",
+   "volume": "2019",
+   "year": "2019",
+   "owned": false
+  },
+  {
+   "order": 35,
+   "series": "Champions",
+   "issue": "5",
+   "volume": "2019",
+   "year": "2019",
+   "owned": true
+  },
+  {
+   "order": 36,
+   "series": "The Unbeatable Squirrel Girl",
+   "issue": "44",
+   "volume": "2015",
+   "year": "2019",
+   "owned": false
+  },
+  {
+   "order": 37,
+   "series": "The Unbeatable Squirrel Girl",
+   "issue": "45",
+   "volume": "2015",
+   "year": "2019",
+   "owned": false
+  },
+  {
+   "order": 38,
+   "series": "The Unbeatable Squirrel Girl",
+   "issue": "46",
+   "volume": "2015",
+   "year": "2019",
+   "owned": false
+  },
+  {
+   "order": 39,
+   "series": "War of the Realms",
+   "issue": "4",
+   "volume": "2019",
+   "year": "2019",
+   "owned": false
+  },
+  {
+   "order": 40,
+   "series": "Thor",
+   "issue": "13",
+   "volume": "2018",
+   "year": "2019",
+   "owned": true
+  },
+  {
+   "order": 41,
+   "series": "War of the Realms: Uncanny X-Men",
+   "issue": "2",
+   "volume": "2019",
+   "year": "2019",
+   "owned": false
+  },
+  {
+   "order": 42,
+   "series": "War of the Realms: Uncanny X-Men",
+   "issue": "3",
+   "volume": "2019",
+   "year": "2019",
+   "owned": false
+  },
+  {
+   "order": 43,
+   "series": "War of the Realms",
+   "issue": "5",
+   "volume": "2019",
+   "year": "2019",
+   "owned": false
+  },
+  {
+   "order": 44,
+   "series": "War of the Realms: War Scrolls",
+   "issue": "1",
+   "volume": "2019",
+   "year": "2019",
+   "owned": false
+  },
+  {
+   "order": 45,
+   "series": "War of the Realms: War Scrolls",
+   "issue": "2",
+   "volume": "2019",
+   "year": "2019",
+   "owned": false
+  },
+  {
+   "order": 46,
+   "series": "War of the Realms: War Scrolls",
+   "issue": "3",
+   "volume": "2019",
+   "year": "2019",
+   "owned": false
+  },
+  {
+   "order": 47,
+   "series": "War of the Realms: Journey Into Mystery",
+   "issue": "5",
+   "volume": "2019",
+   "year": "2019",
+   "owned": false
+  },
+  {
+   "order": 48,
+   "series": "Champions",
+   "issue": "6",
+   "volume": "2019",
+   "year": "2019",
+   "owned": true
+  },
+  {
+   "order": 49,
+   "series": "Deadpool",
+   "issue": "13",
+   "volume": "2018",
+   "year": "2019",
+   "owned": true
+  },
+  {
+   "order": 50,
+   "series": "Deadpool",
+   "issue": "14",
+   "volume": "2018",
+   "year": "2019",
+   "owned": true
+  },
+  {
+   "order": 51,
+   "series": "War of the Realms: New Agents of Atlas",
+   "issue": "3",
+   "volume": "2019",
+   "year": "2019",
+   "owned": false
+  },
+  {
+   "order": 52,
+   "series": "War of the Realms: New Agents of Atlas",
+   "issue": "4",
+   "volume": "2019",
+   "year": "2019",
+   "owned": false
+  },
+  {
+   "order": 53,
+   "series": "War of the Realms: Spider-Man & the League of Realms",
+   "issue": "1",
+   "volume": "2019",
+   "year": "2019",
+   "owned": false
+  },
+  {
+   "order": 54,
+   "series": "War of the Realms: Spider-Man & the League of Realms",
+   "issue": "2",
+   "volume": "2019",
+   "year": "2019",
+   "owned": false
+  },
+  {
+   "order": 55,
+   "series": "War of the Realms: Spider-Man & the League of Realms",
+   "issue": "3",
+   "volume": "2019",
+   "year": "2019",
+   "owned": false
+  },
+  {
+   "order": 56,
+   "series": "Captain Marvel",
+   "issue": "6",
+   "volume": "2019",
+   "year": "2019",
+   "owned": true
+  },
+  {
+   "order": 57,
+   "series": "Captain Marvel",
+   "issue": "7",
+   "volume": "2019",
+   "year": "2019",
+   "owned": true
+  },
+  {
+   "order": 58,
+   "series": "Avengers",
+   "issue": "20",
+   "volume": "2018",
+   "year": "2019",
+   "owned": true
+  },
+  {
+   "order": 59,
+   "series": "Asgardians of the Galaxy",
+   "issue": "10",
+   "volume": "2018",
+   "year": "2019",
+   "owned": true
+  },
+  {
+   "order": 60,
+   "series": "War of the Realms",
+   "issue": "6",
+   "volume": "2019",
+   "year": "2019",
+   "owned": false
+  },
+  {
+   "order": 61,
+   "series": "Thor",
+   "issue": "14",
+   "volume": "2018",
+   "year": "2019",
+   "owned": true
+  },
+  {
+   "order": 62,
+   "series": "Thor",
+   "issue": "15",
+   "volume": "2018",
+   "year": "2019",
+   "owned": true
+  },
+  {
+   "order": 63,
+   "series": "Loki",
+   "issue": "1",
+   "volume": "2019",
+   "year": "2019",
+   "owned": false
+  },
+  {
+   "order": 64,
+   "series": "Valkyrie: Jane Foster",
+   "issue": "1",
+   "volume": "2019",
+   "year": "2019",
+   "owned": false
+  },
+  {
+   "order": 65,
+   "series": "Punisher Kill Krew",
+   "issue": "1",
+   "volume": "2019",
+   "year": "2019",
+   "owned": false
+  },
+  {
+   "order": 66,
+   "series": "War of the Realms Omega",
+   "issue": "1",
+   "volume": "2019",
+   "year": "2019",
+   "owned": false
+  }
+ ]
+}

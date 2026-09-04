@@ -1,0 +1,64 @@
+{
+ "arc": "The Last Annihilation",
+ "slug": "the-last-annihilation",
+ "issue_count": 7,
+ "owned_count": 7,
+ "entries": [
+  {
+   "order": 1,
+   "series": "Guardians of the Galaxy",
+   "issue": "16",
+   "volume": "2020",
+   "year": "2021",
+   "owned": true
+  },
+  {
+   "order": 2,
+   "series": "S.W.O.R.D.",
+   "issue": "7",
+   "volume": "2020",
+   "year": "2021",
+   "owned": true
+  },
+  {
+   "order": 3,
+   "series": "Guardians of the Galaxy",
+   "issue": "17",
+   "volume": "2020",
+   "year": "2021",
+   "owned": true
+  },
+  {
+   "order": 4,
+   "series": "Cable: Reloaded",
+   "issue": "1",
+   "volume": "2021",
+   "year": "2021",
+   "owned": true
+  },
+  {
+   "order": 5,
+   "series": "The Last Annihilation: Wiccan & Hulkling",
+   "issue": "1",
+   "volume": "2021",
+   "year": "2021",
+   "owned": true
+  },
+  {
+   "order": 6,
+   "series": "The Last Annihilation: Wakanda",
+   "issue": "1",
+   "volume": "2021",
+   "year": "2021",
+   "owned": true
+  },
+  {
+   "order": 7,
+   "series": "Guardians of the Galaxy",
+   "issue": "18",
+   "volume": "2020",
+   "year": "2021",
+   "owned": true
+  }
+ ]
+}

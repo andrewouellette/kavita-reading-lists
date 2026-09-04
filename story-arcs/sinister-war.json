@@ -1,0 +1,720 @@
+{
+ "arc": "Sinister War",
+ "slug": "sinister-war",
+ "issue_count": 89,
+ "owned_count": 79,
+ "entries": [
+  {
+   "order": 1,
+   "series": "Non-Stop Spider-Man",
+   "issue": "1",
+   "volume": "2021",
+   "year": "2021",
+   "owned": true
+  },
+  {
+   "order": 2,
+   "series": "Non-Stop Spider-Man",
+   "issue": "2",
+   "volume": "2021",
+   "year": "2021",
+   "owned": true
+  },
+  {
+   "order": 3,
+   "series": "Non-Stop Spider-Man",
+   "issue": "3",
+   "volume": "2021",
+   "year": "2021",
+   "owned": true
+  },
+  {
+   "order": 4,
+   "series": "Non-Stop Spider-Man",
+   "issue": "4",
+   "volume": "2021",
+   "year": "2021",
+   "owned": true
+  },
+  {
+   "order": 5,
+   "series": "Non-Stop Spider-Man",
+   "issue": "5",
+   "volume": "2021",
+   "year": "2021",
+   "owned": true
+  },
+  {
+   "order": 6,
+   "series": "Savage Spider-Man",
+   "issue": "1",
+   "volume": "2022",
+   "year": "2022",
+   "owned": true
+  },
+  {
+   "order": 7,
+   "series": "Savage Spider-Man",
+   "issue": "2",
+   "volume": "2022",
+   "year": "2022",
+   "owned": true
+  },
+  {
+   "order": 8,
+   "series": "Savage Spider-Man",
+   "issue": "3",
+   "volume": "2022",
+   "year": "2022",
+   "owned": true
+  },
+  {
+   "order": 9,
+   "series": "Savage Spider-Man",
+   "issue": "4",
+   "volume": "2022",
+   "year": "2022",
+   "owned": true
+  },
+  {
+   "order": 10,
+   "series": "Savage Spider-Man",
+   "issue": "5",
+   "volume": "2022",
+   "year": "2022",
+   "owned": true
+  },
+  {
+   "order": 11,
+   "series": "Daredevil",
+   "issue": "28",
+   "volume": "2019",
+   "year": "2021",
+   "owned": false
+  },
+  {
+   "order": 12,
+   "series": "Daredevil",
+   "issue": "29",
+   "volume": "2019",
+   "year": "2021",
+   "owned": false
+  },
+  {
+   "order": 13,
+   "series": "The Amazing Spider-Man",
+   "issue": "61",
+   "volume": "2018",
+   "year": "2021",
+   "owned": true
+  },
+  {
+   "order": 14,
+   "series": "The Amazing Spider-Man",
+   "issue": "62",
+   "volume": "2018",
+   "year": "2021",
+   "owned": true
+  },
+  {
+   "order": 15,
+   "series": "The Amazing Spider-Man",
+   "issue": "63",
+   "volume": "2018",
+   "year": "2021",
+   "owned": true
+  },
+  {
+   "order": 16,
+   "series": "The Amazing Spider-Man",
+   "issue": "64",
+   "volume": "2018",
+   "year": "2021",
+   "owned": true
+  },
+  {
+   "order": 17,
+   "series": "The Amazing Spider-Man",
+   "issue": "65",
+   "volume": "2018",
+   "year": "2021",
+   "owned": true
+  },
+  {
+   "order": 18,
+   "series": "Giant-Size Amazing Spider-Man: King's Ransom",
+   "issue": "1",
+   "volume": "2021",
+   "year": "2021",
+   "owned": true
+  },
+  {
+   "order": 19,
+   "series": "The Amazing Spider-Man",
+   "issue": "66",
+   "volume": "2018",
+   "year": "2021",
+   "owned": true
+  },
+  {
+   "order": 20,
+   "series": "The Amazing Spider-Man",
+   "issue": "67",
+   "volume": "2018",
+   "year": "2021",
+   "owned": true
+  },
+  {
+   "order": 21,
+   "series": "The Amazing Spider-Man",
+   "issue": "68",
+   "volume": "2018",
+   "year": "2021",
+   "owned": true
+  },
+  {
+   "order": 22,
+   "series": "The Amazing Spider-Man",
+   "issue": "69",
+   "volume": "2018",
+   "year": "2021",
+   "owned": true
+  },
+  {
+   "order": 23,
+   "series": "Giant-Size Amazing Spider-Man: Chameleon Conspiracy",
+   "issue": "1",
+   "volume": "2021",
+   "year": "2021",
+   "owned": true
+  },
+  {
+   "order": 24,
+   "series": "Silk",
+   "issue": "1",
+   "volume": "2021",
+   "year": "2021",
+   "owned": true
+  },
+  {
+   "order": 25,
+   "series": "Silk",
+   "issue": "2",
+   "volume": "2021",
+   "year": "2021",
+   "owned": true
+  },
+  {
+   "order": 26,
+   "series": "Silk",
+   "issue": "3",
+   "volume": "2021",
+   "year": "2021",
+   "owned": true
+  },
+  {
+   "order": 27,
+   "series": "Silk",
+   "issue": "4",
+   "volume": "2021",
+   "year": "2021",
+   "owned": true
+  },
+  {
+   "order": 28,
+   "series": "Silk",
+   "issue": "5",
+   "volume": "2021",
+   "year": "2021",
+   "owned": true
+  },
+  {
+   "order": 29,
+   "series": "Daredevil",
+   "issue": "30",
+   "volume": "2019",
+   "year": "2021",
+   "owned": false
+  },
+  {
+   "order": 30,
+   "series": "Daredevil",
+   "issue": "31",
+   "volume": "2019",
+   "year": "2021",
+   "owned": false
+  },
+  {
+   "order": 31,
+   "series": "Daredevil",
+   "issue": "32",
+   "volume": "2019",
+   "year": "2021",
+   "owned": false
+  },
+  {
+   "order": 32,
+   "series": "Daredevil",
+   "issue": "33",
+   "volume": "2019",
+   "year": "2021",
+   "owned": false
+  },
+  {
+   "order": 33,
+   "series": "Daredevil",
+   "issue": "34",
+   "volume": "2019",
+   "year": "2021",
+   "owned": false
+  },
+  {
+   "order": 34,
+   "series": "Daredevil",
+   "issue": "35",
+   "volume": "2019",
+   "year": "2021",
+   "owned": false
+  },
+  {
+   "order": 35,
+   "series": "Iron Man",
+   "issue": "7",
+   "volume": "2020",
+   "year": "2021",
+   "owned": true
+  },
+  {
+   "order": 36,
+   "series": "Iron Man",
+   "issue": "8",
+   "volume": "2020",
+   "year": "2021",
+   "owned": true
+  },
+  {
+   "order": 37,
+   "series": "Iron Man",
+   "issue": "9",
+   "volume": "2020",
+   "year": "2021",
+   "owned": true
+  },
+  {
+   "order": 38,
+   "series": "Iron Man",
+   "issue": "10",
+   "volume": "2020",
+   "year": "2021",
+   "owned": true
+  },
+  {
+   "order": 39,
+   "series": "Iron Man",
+   "issue": "11",
+   "volume": "2020",
+   "year": "2021",
+   "owned": true
+  },
+  {
+   "order": 40,
+   "series": "Iron Man",
+   "issue": "12",
+   "volume": "2020",
+   "year": "2021",
+   "owned": true
+  },
+  {
+   "order": 41,
+   "series": "Iron Man",
+   "issue": "13",
+   "volume": "2020",
+   "year": "2021",
+   "owned": true
+  },
+  {
+   "order": 42,
+   "series": "Iron Man",
+   "issue": "14",
+   "volume": "2020",
+   "year": "2022",
+   "owned": true
+  },
+  {
+   "order": 43,
+   "series": "Iron Man",
+   "issue": "15",
+   "volume": "2020",
+   "year": "2022",
+   "owned": true
+  },
+  {
+   "order": 44,
+   "series": "The Amazing Spider-Man",
+   "issue": "70",
+   "volume": "2018",
+   "year": "2021",
+   "owned": true
+  },
+  {
+   "order": 45,
+   "series": "Sinister War",
+   "issue": "1",
+   "volume": "2021",
+   "year": "2021",
+   "owned": true
+  },
+  {
+   "order": 46,
+   "series": "The Amazing Spider-Man",
+   "issue": "71",
+   "volume": "2018",
+   "year": "2021",
+   "owned": true
+  },
+  {
+   "order": 47,
+   "series": "Sinister War",
+   "issue": "2",
+   "volume": "2021",
+   "year": "2021",
+   "owned": true
+  },
+  {
+   "order": 48,
+   "series": "Sinister War",
+   "issue": "3",
+   "volume": "2021",
+   "year": "2021",
+   "owned": true
+  },
+  {
+   "order": 49,
+   "series": "The Amazing Spider-Man",
+   "issue": "72",
+   "volume": "2018",
+   "year": "2021",
+   "owned": true
+  },
+  {
+   "order": 50,
+   "series": "Sinister War",
+   "issue": "4",
+   "volume": "2021",
+   "year": "2021",
+   "owned": true
+  },
+  {
+   "order": 51,
+   "series": "The Amazing Spider-Man",
+   "issue": "73",
+   "volume": "2018",
+   "year": "2021",
+   "owned": true
+  },
+  {
+   "order": 52,
+   "series": "The Amazing Spider-Man",
+   "issue": "74",
+   "volume": "2018",
+   "year": "2021",
+   "owned": true
+  },
+  {
+   "order": 53,
+   "series": "Iron Man",
+   "issue": "16",
+   "volume": "2020",
+   "year": "2022",
+   "owned": true
+  },
+  {
+   "order": 54,
+   "series": "Iron Man",
+   "issue": "17",
+   "volume": "2020",
+   "year": "2022",
+   "owned": true
+  },
+  {
+   "order": 55,
+   "series": "Iron Man",
+   "issue": "18",
+   "volume": "2020",
+   "year": "2022",
+   "owned": true
+  },
+  {
+   "order": 56,
+   "series": "Iron Man",
+   "issue": "19",
+   "volume": "2020",
+   "year": "2022",
+   "owned": true
+  },
+  {
+   "order": 57,
+   "series": "Iron Man",
+   "issue": "20",
+   "volume": "2020",
+   "year": "2022",
+   "owned": true
+  },
+  {
+   "order": 58,
+   "series": "Iron Man",
+   "issue": "21",
+   "volume": "2020",
+   "year": "2022",
+   "owned": true
+  },
+  {
+   "order": 59,
+   "series": "Iron Man",
+   "issue": "22",
+   "volume": "2020",
+   "year": "2022",
+   "owned": true
+  },
+  {
+   "order": 60,
+   "series": "Iron Man",
+   "issue": "23",
+   "volume": "2020",
+   "year": "2022",
+   "owned": true
+  },
+  {
+   "order": 61,
+   "series": "Iron Man",
+   "issue": "24",
+   "volume": "2020",
+   "year": "2022",
+   "owned": true
+  },
+  {
+   "order": 62,
+   "series": "Iron Man",
+   "issue": "25",
+   "volume": "2020",
+   "year": "2023",
+   "owned": true
+  },
+  {
+   "order": 63,
+   "series": "Miles Morales: Spider-Man",
+   "issue": "24",
+   "volume": "2019",
+   "year": "2021",
+   "owned": true
+  },
+  {
+   "order": 64,
+   "series": "Miles Morales: Spider-Man",
+   "issue": "25",
+   "volume": "2019",
+   "year": "2021",
+   "owned": true
+  },
+  {
+   "order": 65,
+   "series": "Miles Morales: Spider-Man",
+   "issue": "26",
+   "volume": "2019",
+   "year": "2021",
+   "owned": true
+  },
+  {
+   "order": 66,
+   "series": "Miles Morales: Spider-Man",
+   "issue": "27",
+   "volume": "2019",
+   "year": "2021",
+   "owned": true
+  },
+  {
+   "order": 67,
+   "series": "Miles Morales: Spider-Man",
+   "issue": "28",
+   "volume": "2019",
+   "year": "2021",
+   "owned": true
+  },
+  {
+   "order": 68,
+   "series": "Miles Morales: Spider-Man",
+   "issue": "29",
+   "volume": "2019",
+   "year": "2021",
+   "owned": true
+  },
+  {
+   "order": 69,
+   "series": "Free Comic Book Day 2021: Spider-Man/Venom",
+   "issue": "1",
+   "volume": "2021",
+   "year": "2021",
+   "owned": false
+  },
+  {
+   "order": 70,
+   "series": "The Amazing Spider-Man",
+   "issue": "75",
+   "volume": "2018",
+   "year": "2021",
+   "owned": true
+  },
+  {
+   "order": 71,
+   "series": "The Amazing Spider-Man",
+   "issue": "76",
+   "volume": "2018",
+   "year": "2021",
+   "owned": true
+  },
+  {
+   "order": 72,
+   "series": "The Amazing Spider-Man",
+   "issue": "77",
+   "volume": "2018",
+   "year": "2021",
+   "owned": true
+  },
+  {
+   "order": 73,
+   "series": "The Amazing Spider-Man",
+   "issue": "78",
+   "volume": "2018",
+   "year": "2022",
+   "owned": false
+  },
+  {
+   "order": 74,
+   "series": "The Amazing Spider-Man",
+   "issue": "78.BEY",
+   "volume": "2018",
+   "year": "2022",
+   "owned": true
+  },
+  {
+   "order": 75,
+   "series": "The Amazing Spider-Man",
+   "issue": "79",
+   "volume": "2018",
+   "year": "2022",
+   "owned": true
+  },
+  {
+   "order": 76,
+   "series": "The Amazing Spider-Man",
+   "issue": "80",
+   "volume": "2018",
+   "year": "2022",
+   "owned": true
+  },
+  {
+   "order": 77,
+   "series": "Miles Morales: Spider-Man",
+   "issue": "30",
+   "volume": "2019",
+   "year": "2021",
+   "owned": true
+  },
+  {
+   "order": 78,
+   "series": "Miles Morales: Spider-Man",
+   "issue": "31",
+   "volume": "2019",
+   "year": "2021",
+   "owned": true
+  },
+  {
+   "order": 79,
+   "series": "Miles Morales: Spider-Man",
+   "issue": "32",
+   "volume": "2019",
+   "year": "2022",
+   "owned": true
+  },
+  {
+   "order": 80,
+   "series": "The Amazing Spider-Man",
+   "issue": "81",
+   "volume": "2018",
+   "year": "2022",
+   "owned": true
+  },
+  {
+   "order": 81,
+   "series": "Miles Morales: Spider-Man",
+   "issue": "33",
+   "volume": "2019",
+   "year": "2022",
+   "owned": true
+  },
+  {
+   "order": 82,
+   "series": "Miles Morales: Spider-Man",
+   "issue": "34",
+   "volume": "2019",
+   "year": "2022",
+   "owned": true
+  },
+  {
+   "order": 83,
+   "series": "Miles Morales: Spider-Man",
+   "issue": "35",
+   "volume": "2019",
+   "year": "2022",
+   "owned": true
+  },
+  {
+   "order": 84,
+   "series": "Miles Morales: Spider-Man",
+   "issue": "36",
+   "volume": "2019",
+   "year": "2022",
+   "owned": true
+  },
+  {
+   "order": 85,
+   "series": "Miles Morales: Spider-Man",
+   "issue": "37",
+   "volume": "2019",
+   "year": "2022",
+   "owned": true
+  },
+  {
+   "order": 86,
+   "series": "Miles Morales: Spider-Man",
+   "issue": "38",
+   "volume": "2019",
+   "year": "2022",
+   "owned": true
+  },
+  {
+   "order": 87,
+   "series": "Miles Morales: Spider-Man",
+   "issue": "39",
+   "volume": "2019",
+   "year": "2022",
+   "owned": true
+  },
+  {
+   "order": 88,
+   "series": "Miles Morales: Spider-Man",
+   "issue": "40",
+   "volume": "2019",
+   "year": "2022",
+   "owned": true
+  },
+  {
+   "order": 89,
+   "series": "Miles Morales: Spider-Man",
+   "issue": "41",
+   "volume": "2019",
+   "year": "2022",
+   "owned": true
+  }
+ ]
+}

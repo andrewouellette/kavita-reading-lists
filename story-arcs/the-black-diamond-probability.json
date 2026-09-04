@@ -1,0 +1,136 @@
+{
+ "arc": "The Black Diamond Probability",
+ "slug": "the-black-diamond-probability",
+ "issue_count": 16,
+ "owned_count": 8,
+ "entries": [
+  {
+   "order": 1,
+   "series": "Demon Knights",
+   "issue": "13",
+   "volume": "2011",
+   "year": "2012",
+   "owned": true
+  },
+  {
+   "order": 2,
+   "series": "Demon Knights",
+   "issue": "14",
+   "volume": "2011",
+   "year": "2013",
+   "owned": true
+  },
+  {
+   "order": 3,
+   "series": "Demon Knights",
+   "issue": "15",
+   "volume": "2011",
+   "year": "2013",
+   "owned": true
+  },
+  {
+   "order": 4,
+   "series": "All Star Western",
+   "issue": "13",
+   "volume": "2011",
+   "year": "2012",
+   "owned": true
+  },
+  {
+   "order": 5,
+   "series": "All Star Western",
+   "issue": "14",
+   "volume": "2011",
+   "year": "2013",
+   "owned": true
+  },
+  {
+   "order": 6,
+   "series": "All Star Western",
+   "issue": "15",
+   "volume": "2011",
+   "year": "2013",
+   "owned": true
+  },
+  {
+   "order": 7,
+   "series": "All Star Western",
+   "issue": "16",
+   "volume": "2011",
+   "year": "2013",
+   "owned": false
+  },
+  {
+   "order": 8,
+   "series": "Team 7",
+   "issue": "1",
+   "volume": "2012",
+   "year": "2012",
+   "owned": false
+  },
+  {
+   "order": 9,
+   "series": "Team 7",
+   "issue": "2",
+   "volume": "2012",
+   "year": "2013",
+   "owned": false
+  },
+  {
+   "order": 10,
+   "series": "Team 7",
+   "issue": "3",
+   "volume": "2012",
+   "year": "2013",
+   "owned": false
+  },
+  {
+   "order": 11,
+   "series": "Team 7",
+   "issue": "4",
+   "volume": "2012",
+   "year": "2013",
+   "owned": false
+  },
+  {
+   "order": 12,
+   "series": "Catwoman",
+   "issue": "15",
+   "volume": "2011",
+   "year": "2013",
+   "owned": true
+  },
+  {
+   "order": 13,
+   "series": "Catwoman",
+   "issue": "16",
+   "volume": "2011",
+   "year": "2013",
+   "owned": true
+  },
+  {
+   "order": 14,
+   "series": "Sword of Sorcery",
+   "issue": "6",
+   "volume": "2012",
+   "year": "2013",
+   "owned": false
+  },
+  {
+   "order": 15,
+   "series": "Sword of Sorcery",
+   "issue": "7",
+   "volume": "2012",
+   "year": "2013",
+   "owned": false
+  },
+  {
+   "order": 16,
+   "series": "Sword of Sorcery",
+   "issue": "8",
+   "volume": "2012",
+   "year": "2013",
+   "owned": false
+  }
+ ]
+}

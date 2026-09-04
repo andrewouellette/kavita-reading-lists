@@ -1,0 +1,72 @@
+{
+ "arc": "Trial of the Amazons",
+ "slug": "trial-of-the-amazons",
+ "issue_count": 8,
+ "owned_count": 2,
+ "entries": [
+  {
+   "order": 1,
+   "series": "Trial of the Amazons",
+   "issue": "1",
+   "volume": "2022",
+   "year": "2022",
+   "owned": false
+  },
+  {
+   "order": 2,
+   "series": "Nubia & the Amazons",
+   "issue": "6",
+   "volume": "2021",
+   "year": "2022",
+   "owned": false
+  },
+  {
+   "order": 3,
+   "series": "Wonder Woman",
+   "issue": "785",
+   "volume": "2016",
+   "year": "2022",
+   "owned": true
+  },
+  {
+   "order": 4,
+   "series": "Trial of the Amazons: Wonder Girl",
+   "issue": "1",
+   "volume": "2022",
+   "year": "2022",
+   "owned": false
+  },
+  {
+   "order": 5,
+   "series": "Wonder Woman",
+   "issue": "786",
+   "volume": "2016",
+   "year": "2022",
+   "owned": true
+  },
+  {
+   "order": 6,
+   "series": "Trial of the Amazons: Wonder Girl",
+   "issue": "2",
+   "volume": "2022",
+   "year": "2022",
+   "owned": false
+  },
+  {
+   "order": 7,
+   "series": "Trial of the Amazons",
+   "issue": "2",
+   "volume": "2022",
+   "year": "2022",
+   "owned": false
+  },
+  {
+   "order": 8,
+   "series": "Nubia: Coronation Special",
+   "issue": "1",
+   "volume": "2022",
+   "year": "2022",
+   "owned": false
+  }
+ ]
+}

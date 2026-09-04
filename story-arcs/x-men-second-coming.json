@@ -1,0 +1,176 @@
+{
+ "arc": "X-Men: Second Coming",
+ "slug": "x-men-second-coming",
+ "issue_count": 21,
+ "owned_count": 5,
+ "entries": [
+  {
+   "order": 1,
+   "series": "X-Men: Second Coming",
+   "issue": "1",
+   "volume": "2010",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 2,
+   "series": "The Uncanny X-Men",
+   "issue": "523",
+   "volume": "1981",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 3,
+   "series": "New Mutants",
+   "issue": "12",
+   "volume": "2009",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 4,
+   "series": "X-Men: Legacy",
+   "issue": "235",
+   "volume": "2008",
+   "year": "2010",
+   "owned": true
+  },
+  {
+   "order": 5,
+   "series": "X-Factor",
+   "issue": "204",
+   "volume": "2006",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 6,
+   "series": "X-Force",
+   "issue": "26",
+   "volume": "2008",
+   "year": "2010",
+   "owned": true
+  },
+  {
+   "order": 7,
+   "series": "The Uncanny X-Men",
+   "issue": "524",
+   "volume": "1981",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 8,
+   "series": "X-Men: Hellbound",
+   "issue": "1",
+   "volume": "2010",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 9,
+   "series": "New Mutants",
+   "issue": "13",
+   "volume": "2009",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 10,
+   "series": "X-Men: Blind Science",
+   "issue": "1",
+   "volume": "2010",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 11,
+   "series": "X-Men: Legacy",
+   "issue": "236",
+   "volume": "2008",
+   "year": "2010",
+   "owned": true
+  },
+  {
+   "order": 12,
+   "series": "X-Factor",
+   "issue": "205",
+   "volume": "2006",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 13,
+   "series": "X-Force",
+   "issue": "27",
+   "volume": "2008",
+   "year": "2010",
+   "owned": true
+  },
+  {
+   "order": 14,
+   "series": "The Uncanny X-Men",
+   "issue": "525",
+   "volume": "1981",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 15,
+   "series": "X-Men: Hellbound",
+   "issue": "2",
+   "volume": "2010",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 16,
+   "series": "New Mutants",
+   "issue": "14",
+   "volume": "2009",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 17,
+   "series": "X-Men: Legacy",
+   "issue": "237",
+   "volume": "2008",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 18,
+   "series": "X-Factor",
+   "issue": "206",
+   "volume": "2006",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 19,
+   "series": "X-Force",
+   "issue": "28",
+   "volume": "2008",
+   "year": "2010",
+   "owned": true
+  },
+  {
+   "order": 20,
+   "series": "X-Men: Hellbound",
+   "issue": "3",
+   "volume": "2010",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 21,
+   "series": "X-Men: Second Coming",
+   "issue": "2",
+   "volume": "2010",
+   "year": "2010",
+   "owned": false
+  }
+ ]
+}

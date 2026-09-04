@@ -1,0 +1,80 @@
+{
+ "arc": "Avengers: The Children's Crusade",
+ "slug": "avengers-the-children-s-crusade",
+ "issue_count": 9,
+ "owned_count": 0,
+ "entries": [
+  {
+   "order": 1,
+   "series": "Avengers: The Children's Crusade",
+   "issue": "1",
+   "volume": "2010",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 2,
+   "series": "Avengers: The Children's Crusade",
+   "issue": "2",
+   "volume": "2010",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 3,
+   "series": "Avengers: The Children's Crusade",
+   "issue": "3",
+   "volume": "2010",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 4,
+   "series": "Avengers: The Children's Crusade",
+   "issue": "4",
+   "volume": "2010",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 5,
+   "series": "Avengers: The Children's Crusade",
+   "issue": "5",
+   "volume": "2010",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 6,
+   "series": "Avengers: The Children's Crusade",
+   "issue": "6",
+   "volume": "2010",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 7,
+   "series": "Avengers: The Children's Crusade",
+   "issue": "7",
+   "volume": "2010",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 8,
+   "series": "Avengers: The Children's Crusade",
+   "issue": "8",
+   "volume": "2010",
+   "year": "2012",
+   "owned": false
+  },
+  {
+   "order": 9,
+   "series": "Avengers: The Children's Crusade",
+   "issue": "9",
+   "volume": "2010",
+   "year": "2012",
+   "owned": false
+  }
+ ]
+}

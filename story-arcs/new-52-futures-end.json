@@ -1,0 +1,728 @@
+{
+ "arc": "New 52- Futures End",
+ "slug": "new-52-futures-end",
+ "issue_count": 90,
+ "owned_count": 0,
+ "entries": [
+  {
+   "order": 1,
+   "series": "The New 52: Futures End",
+   "issue": "0",
+   "volume": "2014",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 2,
+   "series": "The New 52: Futures End",
+   "issue": "1",
+   "volume": "2014",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 3,
+   "series": "The New 52: Futures End",
+   "issue": "2",
+   "volume": "2014",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 4,
+   "series": "The New 52: Futures End",
+   "issue": "3",
+   "volume": "2014",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 5,
+   "series": "The New 52: Futures End",
+   "issue": "4",
+   "volume": "2014",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 6,
+   "series": "The New 52: Futures End",
+   "issue": "5",
+   "volume": "2014",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 7,
+   "series": "The New 52: Futures End",
+   "issue": "6",
+   "volume": "2014",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 8,
+   "series": "The New 52: Futures End",
+   "issue": "7",
+   "volume": "2014",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 9,
+   "series": "The New 52: Futures End",
+   "issue": "8",
+   "volume": "2014",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 10,
+   "series": "The New 52: Futures End",
+   "issue": "9",
+   "volume": "2014",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 11,
+   "series": "The New 52: Futures End",
+   "issue": "10",
+   "volume": "2014",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 12,
+   "series": "The New 52: Futures End",
+   "issue": "11",
+   "volume": "2014",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 13,
+   "series": "The New 52: Futures End",
+   "issue": "12",
+   "volume": "2014",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 14,
+   "series": "The New 52: Futures End",
+   "issue": "13",
+   "volume": "2014",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 15,
+   "series": "The New 52: Futures End",
+   "issue": "14",
+   "volume": "2014",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 16,
+   "series": "The New 52: Futures End",
+   "issue": "15",
+   "volume": "2014",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 17,
+   "series": "The New 52: Futures End",
+   "issue": "16",
+   "volume": "2014",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 18,
+   "series": "The New 52: Futures End",
+   "issue": "17",
+   "volume": "2014",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 19,
+   "series": "Green Arrow: Futures End",
+   "issue": "1",
+   "volume": "2014",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 20,
+   "series": "The New 52: Futures End",
+   "issue": "18",
+   "volume": "2014",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 21,
+   "series": "The New 52: Futures End",
+   "issue": "19",
+   "volume": "2014",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 22,
+   "series": "The New 52: Futures End",
+   "issue": "20",
+   "volume": "2014",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 23,
+   "series": "Superman: Futures End",
+   "issue": "1",
+   "volume": "2014",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 24,
+   "series": "The New 52: Futures End",
+   "issue": "21",
+   "volume": "2014",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 25,
+   "series": "The New 52: Futures End",
+   "issue": "22",
+   "volume": "2014",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 26,
+   "series": "The New 52: Futures End",
+   "issue": "23",
+   "volume": "2014",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 27,
+   "series": "The New 52: Futures End",
+   "issue": "24",
+   "volume": "2014",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 28,
+   "series": "The New 52: Futures End",
+   "issue": "25",
+   "volume": "2014",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 29,
+   "series": "The New 52: Futures End",
+   "issue": "26",
+   "volume": "2014",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 30,
+   "series": "The New 52: Futures End",
+   "issue": "27",
+   "volume": "2014",
+   "year": "2015",
+   "owned": false
+  },
+  {
+   "order": 31,
+   "series": "Action Comics: Futures End",
+   "issue": "1",
+   "volume": "2014",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 32,
+   "series": "Aquaman: Futures End",
+   "issue": "1",
+   "volume": "2014",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 33,
+   "series": "Aquaman and the Others: Futures End",
+   "issue": "1",
+   "volume": "2014",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 34,
+   "series": "Batgirl: Futures End",
+   "issue": "1",
+   "volume": "2014",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 35,
+   "series": "Batman: Futures End",
+   "issue": "1",
+   "volume": "2014",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 36,
+   "series": "Batman and Robin: Futures End",
+   "issue": "1",
+   "volume": "2014",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 37,
+   "series": "Batman/Superman: Futures End",
+   "issue": "1",
+   "volume": "2014",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 38,
+   "series": "Batwing: Futures End",
+   "issue": "1",
+   "volume": "2014",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 39,
+   "series": "Batwoman: Futures End",
+   "issue": "1",
+   "volume": "2014",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 40,
+   "series": "Birds of Prey: Futures End",
+   "issue": "1",
+   "volume": "2014",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 41,
+   "series": "Booster Gold: Futures End",
+   "issue": "1",
+   "volume": "2014",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 42,
+   "series": "Catwoman: Futures End",
+   "issue": "1",
+   "volume": "2014",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 43,
+   "series": "Constantine: Futures End",
+   "issue": "1",
+   "volume": "2014",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 44,
+   "series": "Detective Comics: Futures End",
+   "issue": "1",
+   "volume": "2014",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 45,
+   "series": "Earth 2: Futures End",
+   "issue": "1",
+   "volume": "2014",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 46,
+   "series": "Grayson: Futures End",
+   "issue": "1",
+   "volume": "2014",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 47,
+   "series": "Green Lantern: Futures End",
+   "issue": "1",
+   "volume": "2014",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 48,
+   "series": "Green Lantern Corps: Futures End",
+   "issue": "1",
+   "volume": "2014",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 49,
+   "series": "Green Lantern: New Guardians: Futures End",
+   "issue": "1",
+   "volume": "2014",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 50,
+   "series": "Harley Quinn: Futures End",
+   "issue": "1",
+   "volume": "2014",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 51,
+   "series": "Infinity Man and the Forever People: Futures End",
+   "issue": "1",
+   "volume": "2014",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 52,
+   "series": "Justice League Dark: Futures End",
+   "issue": "1",
+   "volume": "2014",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 53,
+   "series": "Justice League United: Futures End",
+   "issue": "1",
+   "volume": "2014",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 54,
+   "series": "Justice League: Futures End",
+   "issue": "1",
+   "volume": "2014",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 55,
+   "series": "New Suicide Squad: Futures End",
+   "issue": "1",
+   "volume": "2014",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 56,
+   "series": "Red Hood and the Outlaws: Futures End",
+   "issue": "1",
+   "volume": "2014",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 57,
+   "series": "Red Lanterns: Futures End",
+   "issue": "1",
+   "volume": "2014",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 58,
+   "series": "Sinestro: Futures End",
+   "issue": "1",
+   "volume": "2014",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 59,
+   "series": "Star-Spangled War Stories: Futures End",
+   "issue": "1",
+   "volume": "2014",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 60,
+   "series": "Superboy: Futures End",
+   "issue": "1",
+   "volume": "2014",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 61,
+   "series": "Supergirl: Futures End",
+   "issue": "1",
+   "volume": "2014",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 62,
+   "series": "Swamp Thing: Futures End",
+   "issue": "1",
+   "volume": "2014",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 63,
+   "series": "Teen Titans: Futures End",
+   "issue": "1",
+   "volume": "2014",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 64,
+   "series": "The Flash: Futures End",
+   "issue": "1",
+   "volume": "2014",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 65,
+   "series": "Trinity of Sin: Pandora: Futures End",
+   "issue": "1",
+   "volume": "2014",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 66,
+   "series": "Trinity of Sin: The Phantom Stranger: Futures End",
+   "issue": "1",
+   "volume": "2014",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 67,
+   "series": "Wonder Woman: Futures End",
+   "issue": "1",
+   "volume": "2014",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 68,
+   "series": "Superman/Wonder Woman: Futures End",
+   "issue": "1",
+   "volume": "2014",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 69,
+   "series": "Worlds' Finest: Futures End",
+   "issue": "1",
+   "volume": "2014",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 70,
+   "series": "The New 52: Futures End",
+   "issue": "28",
+   "volume": "2014",
+   "year": "2015",
+   "owned": false
+  },
+  {
+   "order": 71,
+   "series": "The New 52: Futures End",
+   "issue": "29",
+   "volume": "2014",
+   "year": "2015",
+   "owned": false
+  },
+  {
+   "order": 72,
+   "series": "The New 52: Futures End",
+   "issue": "30",
+   "volume": "2014",
+   "year": "2015",
+   "owned": false
+  },
+  {
+   "order": 73,
+   "series": "The New 52: Futures End",
+   "issue": "31",
+   "volume": "2014",
+   "year": "2015",
+   "owned": false
+  },
+  {
+   "order": 74,
+   "series": "The New 52: Futures End",
+   "issue": "32",
+   "volume": "2014",
+   "year": "2015",
+   "owned": false
+  },
+  {
+   "order": 75,
+   "series": "The New 52: Futures End",
+   "issue": "33",
+   "volume": "2014",
+   "year": "2015",
+   "owned": false
+  },
+  {
+   "order": 76,
+   "series": "The New 52: Futures End",
+   "issue": "34",
+   "volume": "2014",
+   "year": "2015",
+   "owned": false
+  },
+  {
+   "order": 77,
+   "series": "The New 52: Futures End",
+   "issue": "35",
+   "volume": "2014",
+   "year": "2015",
+   "owned": false
+  },
+  {
+   "order": 78,
+   "series": "The New 52: Futures End",
+   "issue": "36",
+   "volume": "2014",
+   "year": "2015",
+   "owned": false
+  },
+  {
+   "order": 79,
+   "series": "The New 52: Futures End",
+   "issue": "37",
+   "volume": "2014",
+   "year": "2015",
+   "owned": false
+  },
+  {
+   "order": 80,
+   "series": "The New 52: Futures End",
+   "issue": "38",
+   "volume": "2014",
+   "year": "2015",
+   "owned": false
+  },
+  {
+   "order": 81,
+   "series": "The New 52: Futures End",
+   "issue": "39",
+   "volume": "2014",
+   "year": "2015",
+   "owned": false
+  },
+  {
+   "order": 82,
+   "series": "The New 52: Futures End",
+   "issue": "40",
+   "volume": "2014",
+   "year": "2015",
+   "owned": false
+  },
+  {
+   "order": 83,
+   "series": "The New 52: Futures End",
+   "issue": "41",
+   "volume": "2014",
+   "year": "2015",
+   "owned": false
+  },
+  {
+   "order": 84,
+   "series": "The New 52: Futures End",
+   "issue": "42",
+   "volume": "2014",
+   "year": "2015",
+   "owned": false
+  },
+  {
+   "order": 85,
+   "series": "The New 52: Futures End",
+   "issue": "43",
+   "volume": "2014",
+   "year": "2015",
+   "owned": false
+  },
+  {
+   "order": 86,
+   "series": "The New 52: Futures End",
+   "issue": "44",
+   "volume": "2014",
+   "year": "2015",
+   "owned": false
+  },
+  {
+   "order": 87,
+   "series": "The New 52: Futures End",
+   "issue": "45",
+   "volume": "2014",
+   "year": "2015",
+   "owned": false
+  },
+  {
+   "order": 88,
+   "series": "The New 52: Futures End",
+   "issue": "46",
+   "volume": "2014",
+   "year": "2015",
+   "owned": false
+  },
+  {
+   "order": 89,
+   "series": "The New 52: Futures End",
+   "issue": "47",
+   "volume": "2014",
+   "year": "2015",
+   "owned": false
+  },
+  {
+   "order": 90,
+   "series": "The New 52: Futures End",
+   "issue": "48",
+   "volume": "2014",
+   "year": "2015",
+   "owned": false
+  }
+ ]
+}

@@ -1,0 +1,112 @@
+{
+ "arc": "Superman Reborn",
+ "slug": "superman-reborn",
+ "issue_count": 13,
+ "owned_count": 9,
+ "entries": [
+  {
+   "order": 1,
+   "series": "Action Comics",
+   "issue": "973",
+   "volume": "2016",
+   "year": "2017",
+   "owned": true
+  },
+  {
+   "order": 2,
+   "series": "Action Comics",
+   "issue": "974",
+   "volume": "2016",
+   "year": "2017",
+   "owned": true
+  },
+  {
+   "order": 3,
+   "series": "Superman",
+   "issue": "18",
+   "volume": "2016",
+   "year": "2017",
+   "owned": true
+  },
+  {
+   "order": 4,
+   "series": "Action Comics",
+   "issue": "975",
+   "volume": "2016",
+   "year": "2017",
+   "owned": true
+  },
+  {
+   "order": 5,
+   "series": "Superwoman",
+   "issue": "8",
+   "volume": "2016",
+   "year": "2017",
+   "owned": false
+  },
+  {
+   "order": 6,
+   "series": "Superman",
+   "issue": "19",
+   "volume": "2016",
+   "year": "2017",
+   "owned": true
+  },
+  {
+   "order": 7,
+   "series": "Action Comics",
+   "issue": "976",
+   "volume": "2016",
+   "year": "2017",
+   "owned": true
+  },
+  {
+   "order": 8,
+   "series": "Supergirl",
+   "issue": "8",
+   "volume": "2016",
+   "year": "2017",
+   "owned": true
+  },
+  {
+   "order": 9,
+   "series": "New Super-Man",
+   "issue": "10",
+   "volume": "2016",
+   "year": "2017",
+   "owned": false
+  },
+  {
+   "order": 10,
+   "series": "Superwoman",
+   "issue": "9",
+   "volume": "2016",
+   "year": "2017",
+   "owned": false
+  },
+  {
+   "order": 11,
+   "series": "Trinity",
+   "issue": "8",
+   "volume": "2016",
+   "year": "2017",
+   "owned": false
+  },
+  {
+   "order": 12,
+   "series": "Action Comics",
+   "issue": "977",
+   "volume": "2016",
+   "year": "2017",
+   "owned": true
+  },
+  {
+   "order": 13,
+   "series": "Action Comics",
+   "issue": "978",
+   "volume": "2016",
+   "year": "2017",
+   "owned": true
+  }
+ ]
+}

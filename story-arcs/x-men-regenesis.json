@@ -1,0 +1,376 @@
+{
+ "arc": "X-Men: Regenesis",
+ "slug": "x-men-regenesis",
+ "issue_count": 46,
+ "owned_count": 21,
+ "entries": [
+  {
+   "order": 1,
+   "series": "X-Men: Regenesis",
+   "issue": "1",
+   "volume": "2011",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 2,
+   "series": "Generation Hope",
+   "issue": "12",
+   "volume": "2011",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 3,
+   "series": "Wolverine",
+   "issue": "17",
+   "volume": "2010",
+   "year": "2011",
+   "owned": true
+  },
+  {
+   "order": 4,
+   "series": "Wolverine",
+   "issue": "18",
+   "volume": "2010",
+   "year": "2012",
+   "owned": true
+  },
+  {
+   "order": 5,
+   "series": "Wolverine",
+   "issue": "19",
+   "volume": "2010",
+   "year": "2012",
+   "owned": true
+  },
+  {
+   "order": 6,
+   "series": "X-Men: Legacy",
+   "issue": "259",
+   "volume": "2008",
+   "year": "2012",
+   "owned": false
+  },
+  {
+   "order": 7,
+   "series": "X-Men: Legacy",
+   "issue": "260",
+   "volume": "2008",
+   "year": "2012",
+   "owned": false
+  },
+  {
+   "order": 8,
+   "series": "The Uncanny X-Men",
+   "issue": "544",
+   "volume": "1981",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 9,
+   "series": "Avengers Academy",
+   "issue": "22",
+   "volume": "2010",
+   "year": "2012",
+   "owned": false
+  },
+  {
+   "order": 10,
+   "series": "Magneto: Not A Hero",
+   "issue": "1",
+   "volume": "2012",
+   "year": "2012",
+   "owned": false
+  },
+  {
+   "order": 11,
+   "series": "Magneto: Not A Hero",
+   "issue": "2",
+   "volume": "2012",
+   "year": "2012",
+   "owned": false
+  },
+  {
+   "order": 12,
+   "series": "Magneto: Not A Hero",
+   "issue": "3",
+   "volume": "2012",
+   "year": "2012",
+   "owned": false
+  },
+  {
+   "order": 13,
+   "series": "Magneto: Not A Hero",
+   "issue": "4",
+   "volume": "2012",
+   "year": "2012",
+   "owned": false
+  },
+  {
+   "order": 14,
+   "series": "X-23",
+   "issue": "17",
+   "volume": "2010",
+   "year": "2012",
+   "owned": false
+  },
+  {
+   "order": 15,
+   "series": "X-23",
+   "issue": "18",
+   "volume": "2010",
+   "year": "2012",
+   "owned": false
+  },
+  {
+   "order": 16,
+   "series": "X-23",
+   "issue": "19",
+   "volume": "2010",
+   "year": "2012",
+   "owned": false
+  },
+  {
+   "order": 17,
+   "series": "Wolverine & the X-Men",
+   "issue": "1",
+   "volume": "2011",
+   "year": "2011",
+   "owned": true
+  },
+  {
+   "order": 18,
+   "series": "Wolverine & the X-Men",
+   "issue": "2",
+   "volume": "2011",
+   "year": "2012",
+   "owned": true
+  },
+  {
+   "order": 19,
+   "series": "Wolverine & the X-Men",
+   "issue": "3",
+   "volume": "2011",
+   "year": "2012",
+   "owned": true
+  },
+  {
+   "order": 20,
+   "series": "New Mutants",
+   "issue": "33",
+   "volume": "2009",
+   "year": "2012",
+   "owned": true
+  },
+  {
+   "order": 21,
+   "series": "New Mutants",
+   "issue": "34",
+   "volume": "2009",
+   "year": "2012",
+   "owned": false
+  },
+  {
+   "order": 22,
+   "series": "New Mutants",
+   "issue": "35",
+   "volume": "2009",
+   "year": "2012",
+   "owned": false
+  },
+  {
+   "order": 23,
+   "series": "New Mutants",
+   "issue": "36",
+   "volume": "2009",
+   "year": "2012",
+   "owned": false
+  },
+  {
+   "order": 24,
+   "series": "X-Men",
+   "issue": "20",
+   "volume": "2010",
+   "year": "2012",
+   "owned": true
+  },
+  {
+   "order": 25,
+   "series": "X-Men",
+   "issue": "21",
+   "volume": "2010",
+   "year": "2012",
+   "owned": true
+  },
+  {
+   "order": 26,
+   "series": "X-Men",
+   "issue": "22",
+   "volume": "2010",
+   "year": "2012",
+   "owned": true
+  },
+  {
+   "order": 27,
+   "series": "X-Men",
+   "issue": "23",
+   "volume": "2010",
+   "year": "2012",
+   "owned": true
+  },
+  {
+   "order": 28,
+   "series": "Generation Hope",
+   "issue": "13",
+   "volume": "2011",
+   "year": "2012",
+   "owned": false
+  },
+  {
+   "order": 29,
+   "series": "Generation Hope",
+   "issue": "14",
+   "volume": "2011",
+   "year": "2012",
+   "owned": false
+  },
+  {
+   "order": 30,
+   "series": "Generation Hope",
+   "issue": "15",
+   "volume": "2011",
+   "year": "2012",
+   "owned": false
+  },
+  {
+   "order": 31,
+   "series": "X-Club",
+   "issue": "1",
+   "volume": "2011",
+   "year": "2012",
+   "owned": false
+  },
+  {
+   "order": 32,
+   "series": "X-Club",
+   "issue": "2",
+   "volume": "2011",
+   "year": "2012",
+   "owned": false
+  },
+  {
+   "order": 33,
+   "series": "X-Club",
+   "issue": "3",
+   "volume": "2011",
+   "year": "2012",
+   "owned": false
+  },
+  {
+   "order": 34,
+   "series": "X-Club",
+   "issue": "4",
+   "volume": "2011",
+   "year": "2012",
+   "owned": false
+  },
+  {
+   "order": 35,
+   "series": "X-Club",
+   "issue": "5",
+   "volume": "2011",
+   "year": "2012",
+   "owned": false
+  },
+  {
+   "order": 36,
+   "series": "Uncanny X-Men",
+   "issue": "1",
+   "volume": "2011",
+   "year": "2011",
+   "owned": true
+  },
+  {
+   "order": 37,
+   "series": "Uncanny X-Men",
+   "issue": "2",
+   "volume": "2011",
+   "year": "2012",
+   "owned": true
+  },
+  {
+   "order": 38,
+   "series": "Uncanny X-Men",
+   "issue": "3",
+   "volume": "2011",
+   "year": "2012",
+   "owned": true
+  },
+  {
+   "order": 39,
+   "series": "Uncanny X-Men",
+   "issue": "4",
+   "volume": "2011",
+   "year": "2012",
+   "owned": true
+  },
+  {
+   "order": 40,
+   "series": "X-Men: Legacy",
+   "issue": "260.1",
+   "volume": "2008",
+   "year": "2012",
+   "owned": true
+  },
+  {
+   "order": 41,
+   "series": "Uncanny X-Force",
+   "issue": "19",
+   "volume": "2010",
+   "year": "2012",
+   "owned": false
+  },
+  {
+   "order": 42,
+   "series": "Wolverine & the X-Men",
+   "issue": "4",
+   "volume": "2011",
+   "year": "2012",
+   "owned": true
+  },
+  {
+   "order": 43,
+   "series": "Astonishing X-Men",
+   "issue": "44",
+   "volume": "2004",
+   "year": "2012",
+   "owned": true
+  },
+  {
+   "order": 44,
+   "series": "Astonishing X-Men",
+   "issue": "45",
+   "volume": "2004",
+   "year": "2012",
+   "owned": true
+  },
+  {
+   "order": 45,
+   "series": "Astonishing X-Men",
+   "issue": "46",
+   "volume": "2004",
+   "year": "2012",
+   "owned": true
+  },
+  {
+   "order": 46,
+   "series": "Astonishing X-Men",
+   "issue": "47",
+   "volume": "2004",
+   "year": "2012",
+   "owned": true
+  }
+ ]
+}

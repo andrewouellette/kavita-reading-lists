@@ -1,0 +1,56 @@
+{
+ "arc": "Venom Inc.",
+ "slug": "venom-inc",
+ "issue_count": 6,
+ "owned_count": 2,
+ "entries": [
+  {
+   "order": 1,
+   "series": "Amazing Spider-Man: Venom Inc. Alpha",
+   "issue": "1",
+   "volume": "2017",
+   "year": "2018",
+   "owned": false
+  },
+  {
+   "order": 2,
+   "series": "The Amazing Spider-Man",
+   "issue": "792",
+   "volume": "2015",
+   "year": "2018",
+   "owned": false
+  },
+  {
+   "order": 3,
+   "series": "Venom",
+   "issue": "159",
+   "volume": "2016",
+   "year": "2018",
+   "owned": true
+  },
+  {
+   "order": 4,
+   "series": "The Amazing Spider-Man",
+   "issue": "793",
+   "volume": "2015",
+   "year": "2018",
+   "owned": false
+  },
+  {
+   "order": 5,
+   "series": "Venom",
+   "issue": "160",
+   "volume": "2016",
+   "year": "2018",
+   "owned": true
+  },
+  {
+   "order": 6,
+   "series": "Amazing Spider-Man: Venom Inc. Omega",
+   "issue": "1",
+   "volume": "2018",
+   "year": "2018",
+   "owned": false
+  }
+ ]
+}

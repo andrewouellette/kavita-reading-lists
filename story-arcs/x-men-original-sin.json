@@ -1,0 +1,56 @@
+{
+ "arc": "X-Men: Original Sin",
+ "slug": "x-men-original-sin",
+ "issue_count": 6,
+ "owned_count": 2,
+ "entries": [
+  {
+   "order": 1,
+   "series": "Wolverine: Origins",
+   "issue": "28",
+   "volume": "2006",
+   "year": "2008",
+   "owned": false
+  },
+  {
+   "order": 2,
+   "series": "X-Men: Original Sin",
+   "issue": "1",
+   "volume": "2008",
+   "year": "2008",
+   "owned": false
+  },
+  {
+   "order": 3,
+   "series": "X-Men: Legacy",
+   "issue": "217",
+   "volume": "2008",
+   "year": "2008",
+   "owned": false
+  },
+  {
+   "order": 4,
+   "series": "Wolverine: Origins",
+   "issue": "29",
+   "volume": "2006",
+   "year": "2008",
+   "owned": true
+  },
+  {
+   "order": 5,
+   "series": "X-Men: Legacy",
+   "issue": "218",
+   "volume": "2008",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 6,
+   "series": "Wolverine: Origins",
+   "issue": "30",
+   "volume": "2006",
+   "year": "2009",
+   "owned": true
+  }
+ ]
+}

@@ -1,0 +1,520 @@
+{
+ "arc": "House of M",
+ "slug": "house-of-m",
+ "issue_count": 64,
+ "owned_count": 4,
+ "entries": [
+  {
+   "order": 1,
+   "series": "Excalibur",
+   "issue": "13",
+   "volume": "2004",
+   "year": "2005",
+   "owned": false
+  },
+  {
+   "order": 2,
+   "series": "Excalibur",
+   "issue": "14",
+   "volume": "2004",
+   "year": "2005",
+   "owned": false
+  },
+  {
+   "order": 3,
+   "series": "House of M",
+   "issue": "1",
+   "volume": "2005",
+   "year": "2005",
+   "owned": false
+  },
+  {
+   "order": 4,
+   "series": "House of M",
+   "issue": "2",
+   "volume": "2005",
+   "year": "2005",
+   "owned": false
+  },
+  {
+   "order": 5,
+   "series": "House of M: Civil War",
+   "issue": "1",
+   "volume": "2008",
+   "year": "2008",
+   "owned": false
+  },
+  {
+   "order": 6,
+   "series": "House of M: Civil War",
+   "issue": "2",
+   "volume": "2008",
+   "year": "2008",
+   "owned": false
+  },
+  {
+   "order": 7,
+   "series": "House of M: Civil War",
+   "issue": "3",
+   "volume": "2008",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 8,
+   "series": "House of M: Civil War",
+   "issue": "4",
+   "volume": "2008",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 9,
+   "series": "House of M: Civil War",
+   "issue": "5",
+   "volume": "2008",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 10,
+   "series": "House of M: Masters of Evil",
+   "issue": "1",
+   "volume": "2009",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 11,
+   "series": "House of M: Masters of Evil",
+   "issue": "2",
+   "volume": "2009",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 12,
+   "series": "House of M: Masters of Evil",
+   "issue": "3",
+   "volume": "2009",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 13,
+   "series": "House of M: Masters of Evil",
+   "issue": "4",
+   "volume": "2009",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 14,
+   "series": "House of M: Avengers",
+   "issue": "1",
+   "volume": "2008",
+   "year": "2008",
+   "owned": false
+  },
+  {
+   "order": 15,
+   "series": "House of M: Avengers",
+   "issue": "2",
+   "volume": "2008",
+   "year": "2008",
+   "owned": false
+  },
+  {
+   "order": 16,
+   "series": "House of M: Avengers",
+   "issue": "3",
+   "volume": "2008",
+   "year": "2008",
+   "owned": false
+  },
+  {
+   "order": 17,
+   "series": "House of M: Avengers",
+   "issue": "4",
+   "volume": "2008",
+   "year": "2008",
+   "owned": false
+  },
+  {
+   "order": 18,
+   "series": "House of M: Avengers",
+   "issue": "5",
+   "volume": "2008",
+   "year": "2008",
+   "owned": false
+  },
+  {
+   "order": 19,
+   "series": "Incredible Hulk",
+   "issue": "83",
+   "volume": "2000",
+   "year": "2005",
+   "owned": false
+  },
+  {
+   "order": 20,
+   "series": "The Pulse: House of M Special",
+   "issue": "1",
+   "volume": "2005",
+   "year": "2005",
+   "owned": false
+  },
+  {
+   "order": 21,
+   "series": "Fantastic Four: House of M",
+   "issue": "1",
+   "volume": "2005",
+   "year": "2005",
+   "owned": false
+  },
+  {
+   "order": 22,
+   "series": "Fantastic Four: House of M",
+   "issue": "2",
+   "volume": "2005",
+   "year": "2005",
+   "owned": false
+  },
+  {
+   "order": 23,
+   "series": "Fantastic Four: House of M",
+   "issue": "3",
+   "volume": "2005",
+   "year": "2005",
+   "owned": false
+  },
+  {
+   "order": 24,
+   "series": "Spider-Man: House of M",
+   "issue": "1",
+   "volume": "2005",
+   "year": "2005",
+   "owned": false
+  },
+  {
+   "order": 25,
+   "series": "Spider-Man: House of M",
+   "issue": "2",
+   "volume": "2005",
+   "year": "2005",
+   "owned": false
+  },
+  {
+   "order": 26,
+   "series": "Spider-Man: House of M",
+   "issue": "3",
+   "volume": "2005",
+   "year": "2005",
+   "owned": false
+  },
+  {
+   "order": 27,
+   "series": "Spider-Man: House of M",
+   "issue": "4",
+   "volume": "2005",
+   "year": "2005",
+   "owned": false
+  },
+  {
+   "order": 28,
+   "series": "Spider-Man: House of M",
+   "issue": "5",
+   "volume": "2005",
+   "year": "2005",
+   "owned": false
+  },
+  {
+   "order": 29,
+   "series": "Incredible Hulk",
+   "issue": "84",
+   "volume": "2000",
+   "year": "2005",
+   "owned": false
+  },
+  {
+   "order": 30,
+   "series": "Incredible Hulk",
+   "issue": "85",
+   "volume": "2000",
+   "year": "2005",
+   "owned": false
+  },
+  {
+   "order": 31,
+   "series": "Incredible Hulk",
+   "issue": "86",
+   "volume": "2000",
+   "year": "2005",
+   "owned": false
+  },
+  {
+   "order": 32,
+   "series": "Iron Man: House of M",
+   "issue": "1",
+   "volume": "2005",
+   "year": "2005",
+   "owned": false
+  },
+  {
+   "order": 33,
+   "series": "Iron Man: House of M",
+   "issue": "2",
+   "volume": "2005",
+   "year": "2005",
+   "owned": false
+  },
+  {
+   "order": 34,
+   "series": "Iron Man: House of M",
+   "issue": "3",
+   "volume": "2005",
+   "year": "2005",
+   "owned": false
+  },
+  {
+   "order": 35,
+   "series": "Mutopia X",
+   "issue": "1",
+   "volume": "2005",
+   "year": "2005",
+   "owned": false
+  },
+  {
+   "order": 36,
+   "series": "Mutopia X",
+   "issue": "2",
+   "volume": "2005",
+   "year": "2005",
+   "owned": false
+  },
+  {
+   "order": 37,
+   "series": "Mutopia X",
+   "issue": "3",
+   "volume": "2005",
+   "year": "2005",
+   "owned": false
+  },
+  {
+   "order": 38,
+   "series": "New Thunderbolts",
+   "issue": "11",
+   "volume": "2005",
+   "year": "2005",
+   "owned": false
+  },
+  {
+   "order": 39,
+   "series": "The Uncanny X-Men",
+   "issue": "462",
+   "volume": "1981",
+   "year": "2005",
+   "owned": false
+  },
+  {
+   "order": 40,
+   "series": "The Uncanny X-Men",
+   "issue": "463",
+   "volume": "1981",
+   "year": "2005",
+   "owned": false
+  },
+  {
+   "order": 41,
+   "series": "The Uncanny X-Men",
+   "issue": "464",
+   "volume": "1981",
+   "year": "2005",
+   "owned": false
+  },
+  {
+   "order": 42,
+   "series": "The Uncanny X-Men",
+   "issue": "465",
+   "volume": "1981",
+   "year": "2005",
+   "owned": false
+  },
+  {
+   "order": 43,
+   "series": "House of M",
+   "issue": "3",
+   "volume": "2005",
+   "year": "2005",
+   "owned": false
+  },
+  {
+   "order": 44,
+   "series": "New X-Men",
+   "issue": "16",
+   "volume": "2004",
+   "year": "2005",
+   "owned": false
+  },
+  {
+   "order": 45,
+   "series": "New X-Men",
+   "issue": "17",
+   "volume": "2004",
+   "year": "2005",
+   "owned": false
+  },
+  {
+   "order": 46,
+   "series": "New X-Men",
+   "issue": "18",
+   "volume": "2004",
+   "year": "2005",
+   "owned": false
+  },
+  {
+   "order": 47,
+   "series": "New X-Men",
+   "issue": "19",
+   "volume": "2004",
+   "year": "2005",
+   "owned": false
+  },
+  {
+   "order": 48,
+   "series": "Wolverine",
+   "issue": "33",
+   "volume": "2003",
+   "year": "2005",
+   "owned": true
+  },
+  {
+   "order": 49,
+   "series": "Wolverine",
+   "issue": "34",
+   "volume": "2003",
+   "year": "2005",
+   "owned": true
+  },
+  {
+   "order": 50,
+   "series": "Wolverine",
+   "issue": "35",
+   "volume": "2003",
+   "year": "2005",
+   "owned": true
+  },
+  {
+   "order": 51,
+   "series": "House of M",
+   "issue": "4",
+   "volume": "2005",
+   "year": "2005",
+   "owned": false
+  },
+  {
+   "order": 52,
+   "series": "House of M",
+   "issue": "5",
+   "volume": "2005",
+   "year": "2005",
+   "owned": false
+  },
+  {
+   "order": 53,
+   "series": "The Pulse",
+   "issue": "10",
+   "volume": "2004",
+   "year": "2005",
+   "owned": false
+  },
+  {
+   "order": 54,
+   "series": "Captain America",
+   "issue": "10",
+   "volume": "2004",
+   "year": "2005",
+   "owned": true
+  },
+  {
+   "order": 55,
+   "series": "Black Panther",
+   "issue": "7",
+   "volume": "2005",
+   "year": "2005",
+   "owned": false
+  },
+  {
+   "order": 56,
+   "series": "Exiles",
+   "issue": "69",
+   "volume": "2001",
+   "year": "2005",
+   "owned": false
+  },
+  {
+   "order": 57,
+   "series": "Exiles",
+   "issue": "70",
+   "volume": "2001",
+   "year": "2005",
+   "owned": false
+  },
+  {
+   "order": 58,
+   "series": "Exiles",
+   "issue": "71",
+   "volume": "2001",
+   "year": "2005",
+   "owned": false
+  },
+  {
+   "order": 59,
+   "series": "Cable & Deadpool",
+   "issue": "17",
+   "volume": "2004",
+   "year": "2005",
+   "owned": false
+  },
+  {
+   "order": 60,
+   "series": "House of M",
+   "issue": "6",
+   "volume": "2005",
+   "year": "2005",
+   "owned": false
+  },
+  {
+   "order": 61,
+   "series": "House of M",
+   "issue": "7",
+   "volume": "2005",
+   "year": "2005",
+   "owned": false
+  },
+  {
+   "order": 62,
+   "series": "Mutopia X",
+   "issue": "4",
+   "volume": "2005",
+   "year": "2005",
+   "owned": false
+  },
+  {
+   "order": 63,
+   "series": "House of M",
+   "issue": "8",
+   "volume": "2005",
+   "year": "2005",
+   "owned": false
+  },
+  {
+   "order": 64,
+   "series": "Giant-Size Ms. Marvel",
+   "issue": "1",
+   "volume": "2006",
+   "year": "2006",
+   "owned": false
+  }
+ ]
+}

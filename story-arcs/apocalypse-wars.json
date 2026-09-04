@@ -1,0 +1,112 @@
+{
+ "arc": "Apocalypse Wars",
+ "slug": "apocalypse-wars",
+ "issue_count": 13,
+ "owned_count": 8,
+ "entries": [
+  {
+   "order": 1,
+   "series": "Extraordinary X-Men",
+   "issue": "8",
+   "volume": "2015",
+   "year": "2016",
+   "owned": false
+  },
+  {
+   "order": 2,
+   "series": "Extraordinary X-Men",
+   "issue": "9",
+   "volume": "2015",
+   "year": "2016",
+   "owned": false
+  },
+  {
+   "order": 3,
+   "series": "Extraordinary X-Men",
+   "issue": "10",
+   "volume": "2015",
+   "year": "2016",
+   "owned": false
+  },
+  {
+   "order": 4,
+   "series": "Extraordinary X-Men",
+   "issue": "11",
+   "volume": "2015",
+   "year": "2016",
+   "owned": false
+  },
+  {
+   "order": 5,
+   "series": "Extraordinary X-Men",
+   "issue": "12",
+   "volume": "2015",
+   "year": "2016",
+   "owned": false
+  },
+  {
+   "order": 6,
+   "series": "Uncanny X-Men",
+   "issue": "6",
+   "volume": "2016",
+   "year": "2016",
+   "owned": true
+  },
+  {
+   "order": 7,
+   "series": "Uncanny X-Men",
+   "issue": "7",
+   "volume": "2016",
+   "year": "2016",
+   "owned": true
+  },
+  {
+   "order": 8,
+   "series": "Uncanny X-Men",
+   "issue": "8",
+   "volume": "2016",
+   "year": "2016",
+   "owned": true
+  },
+  {
+   "order": 9,
+   "series": "Uncanny X-Men",
+   "issue": "9",
+   "volume": "2016",
+   "year": "2016",
+   "owned": true
+  },
+  {
+   "order": 10,
+   "series": "Uncanny X-Men",
+   "issue": "10",
+   "volume": "2016",
+   "year": "2016",
+   "owned": true
+  },
+  {
+   "order": 11,
+   "series": "All-New X-Men",
+   "issue": "9",
+   "volume": "2015",
+   "year": "2016",
+   "owned": true
+  },
+  {
+   "order": 12,
+   "series": "All-New X-Men",
+   "issue": "10",
+   "volume": "2015",
+   "year": "2016",
+   "owned": true
+  },
+  {
+   "order": 13,
+   "series": "All-New X-Men",
+   "issue": "11",
+   "volume": "2015",
+   "year": "2016",
+   "owned": true
+  }
+ ]
+}

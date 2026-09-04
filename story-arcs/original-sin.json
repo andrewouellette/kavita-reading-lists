@@ -1,0 +1,472 @@
+{
+ "arc": "Original Sin",
+ "slug": "original-sin",
+ "issue_count": 58,
+ "owned_count": 17,
+ "entries": [
+  {
+   "order": 1,
+   "series": "Original Sin",
+   "issue": "0",
+   "volume": "2014",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 2,
+   "series": "Original Sin",
+   "issue": "1",
+   "volume": "2014",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 3,
+   "series": "Mighty Avengers",
+   "issue": "10",
+   "volume": "2013",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 4,
+   "series": "Original Sin",
+   "issue": "2",
+   "volume": "2014",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 5,
+   "series": "Nova",
+   "issue": "18",
+   "volume": "2013",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 6,
+   "series": "Fantastic Four",
+   "issue": "6",
+   "volume": "2014",
+   "year": "2014",
+   "owned": true
+  },
+  {
+   "order": 7,
+   "series": "Fantastic Four",
+   "issue": "7",
+   "volume": "2014",
+   "year": "2014",
+   "owned": true
+  },
+  {
+   "order": 8,
+   "series": "Fantastic Four",
+   "issue": "8",
+   "volume": "2014",
+   "year": "2014",
+   "owned": true
+  },
+  {
+   "order": 9,
+   "series": "Original Sin: Secret Avengers Infinite Comic",
+   "issue": "1",
+   "volume": "2014",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 10,
+   "series": "Original Sin: Secret Avengers Infinite Comic",
+   "issue": "2",
+   "volume": "2014",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 11,
+   "series": "The Amazing Spider-Man",
+   "issue": "4",
+   "volume": "2014",
+   "year": "2014",
+   "owned": true
+  },
+  {
+   "order": 12,
+   "series": "The Amazing Spider-Man",
+   "issue": "5",
+   "volume": "2014",
+   "year": "2014",
+   "owned": true
+  },
+  {
+   "order": 13,
+   "series": "The Amazing Spider-Man",
+   "issue": "6",
+   "volume": "2014",
+   "year": "2014",
+   "owned": true
+  },
+  {
+   "order": 14,
+   "series": "Mighty Avengers",
+   "issue": "11",
+   "volume": "2013",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 15,
+   "series": "Mighty Avengers",
+   "issue": "12",
+   "volume": "2013",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 16,
+   "series": "Mighty Avengers",
+   "issue": "13",
+   "volume": "2013",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 17,
+   "series": "Mighty Avengers",
+   "issue": "14",
+   "volume": "2013",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 18,
+   "series": "Daredevil",
+   "issue": "6",
+   "volume": "2014",
+   "year": "2014",
+   "owned": true
+  },
+  {
+   "order": 19,
+   "series": "Daredevil",
+   "issue": "7",
+   "volume": "2014",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 20,
+   "series": "Deadpool",
+   "issue": "29",
+   "volume": "2012",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 21,
+   "series": "Deadpool",
+   "issue": "30",
+   "volume": "2012",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 22,
+   "series": "Deadpool",
+   "issue": "31",
+   "volume": "2012",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 23,
+   "series": "Deadpool",
+   "issue": "32",
+   "volume": "2012",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 24,
+   "series": "Deadpool",
+   "issue": "33",
+   "volume": "2012",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 25,
+   "series": "Deadpool",
+   "issue": "34",
+   "volume": "2012",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 26,
+   "series": "Original Sin",
+   "issue": "3",
+   "volume": "2014",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 27,
+   "series": "Original Sins",
+   "issue": "1",
+   "volume": "2014",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 28,
+   "series": "Original Sins",
+   "issue": "2",
+   "volume": "2014",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 29,
+   "series": "Original Sins",
+   "issue": "3",
+   "volume": "2014",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 30,
+   "series": "Original Sins",
+   "issue": "4",
+   "volume": "2014",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 31,
+   "series": "Nova",
+   "issue": "19",
+   "volume": "2013",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 32,
+   "series": "Nova",
+   "issue": "20",
+   "volume": "2013",
+   "year": "2014",
+   "owned": true
+  },
+  {
+   "order": 33,
+   "series": "Original Sin",
+   "issue": "4",
+   "volume": "2014",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 34,
+   "series": "Original Sin",
+   "issue": "5",
+   "volume": "2014",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 35,
+   "series": "Original Sin",
+   "issue": "6",
+   "volume": "2014",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 36,
+   "series": "Original Sins",
+   "issue": "5",
+   "volume": "2014",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 37,
+   "series": "Original Sin",
+   "issue": "7",
+   "volume": "2014",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 38,
+   "series": "Original Sin",
+   "issue": "8",
+   "volume": "2014",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 39,
+   "series": "Original Sin Annual",
+   "issue": "1",
+   "volume": "2014",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 40,
+   "series": "All-New Invaders",
+   "issue": "6",
+   "volume": "2014",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 41,
+   "series": "All-New Invaders",
+   "issue": "7",
+   "volume": "2014",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 42,
+   "series": "Avengers",
+   "issue": "29",
+   "volume": "2012",
+   "year": "2014",
+   "owned": true
+  },
+  {
+   "order": 43,
+   "series": "Avengers",
+   "issue": "30",
+   "volume": "2012",
+   "year": "2014",
+   "owned": true
+  },
+  {
+   "order": 44,
+   "series": "Avengers",
+   "issue": "31",
+   "volume": "2012",
+   "year": "2014",
+   "owned": true
+  },
+  {
+   "order": 45,
+   "series": "Avengers",
+   "issue": "32",
+   "volume": "2012",
+   "year": "2014",
+   "owned": true
+  },
+  {
+   "order": 46,
+   "series": "Avengers",
+   "issue": "33",
+   "volume": "2012",
+   "year": "2014",
+   "owned": true
+  },
+  {
+   "order": 47,
+   "series": "Avengers",
+   "issue": "34",
+   "volume": "2012",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 48,
+   "series": "Guardians of the Galaxy",
+   "issue": "18",
+   "volume": "2013",
+   "year": "2014",
+   "owned": true
+  },
+  {
+   "order": 49,
+   "series": "Guardians of the Galaxy",
+   "issue": "19",
+   "volume": "2013",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 50,
+   "series": "Guardians of the Galaxy",
+   "issue": "20",
+   "volume": "2013",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 51,
+   "series": "Uncanny X-Men",
+   "issue": "23",
+   "volume": "2013",
+   "year": "2014",
+   "owned": true
+  },
+  {
+   "order": 52,
+   "series": "Uncanny X-Men",
+   "issue": "24",
+   "volume": "2013",
+   "year": "2014",
+   "owned": true
+  },
+  {
+   "order": 53,
+   "series": "Uncanny X-Men",
+   "issue": "25",
+   "volume": "2013",
+   "year": "2014",
+   "owned": true
+  },
+  {
+   "order": 54,
+   "series": "Operation: S.I.N.",
+   "issue": "1",
+   "volume": "2015",
+   "year": "2015",
+   "owned": false
+  },
+  {
+   "order": 55,
+   "series": "Operation: S.I.N.",
+   "issue": "2",
+   "volume": "2015",
+   "year": "2015",
+   "owned": false
+  },
+  {
+   "order": 56,
+   "series": "Operation: S.I.N.",
+   "issue": "3",
+   "volume": "2015",
+   "year": "2015",
+   "owned": false
+  },
+  {
+   "order": 57,
+   "series": "Operation: S.I.N.",
+   "issue": "4",
+   "volume": "2015",
+   "year": "2015",
+   "owned": false
+  },
+  {
+   "order": 58,
+   "series": "Operation: S.I.N.",
+   "issue": "5",
+   "volume": "2015",
+   "year": "2015",
+   "owned": false
+  }
+ ]
+}

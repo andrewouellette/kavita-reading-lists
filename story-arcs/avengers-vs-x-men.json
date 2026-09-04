@@ -1,0 +1,600 @@
+{
+ "arc": "Avengers vs. X-Men",
+ "slug": "avengers-vs-x-men",
+ "issue_count": 74,
+ "owned_count": 22,
+ "entries": [
+  {
+   "order": 1,
+   "series": "Point One",
+   "issue": "1",
+   "volume": "2012",
+   "year": "2012",
+   "owned": false
+  },
+  {
+   "order": 2,
+   "series": "Avengers Vs. X-Men",
+   "issue": "0",
+   "volume": "2012",
+   "year": "2012",
+   "owned": false
+  },
+  {
+   "order": 3,
+   "series": "Avengers Vs. X-Men",
+   "issue": "1",
+   "volume": "2012",
+   "year": "2012",
+   "owned": false
+  },
+  {
+   "order": 4,
+   "series": "Wolverine & the X-Men",
+   "issue": "9",
+   "volume": "2011",
+   "year": "2012",
+   "owned": true
+  },
+  {
+   "order": 5,
+   "series": "New Avengers",
+   "issue": "24",
+   "volume": "2010",
+   "year": "2012",
+   "owned": false
+  },
+  {
+   "order": 6,
+   "series": "Avengers Vs. X-Men",
+   "issue": "2",
+   "volume": "2012",
+   "year": "2012",
+   "owned": false
+  },
+  {
+   "order": 7,
+   "series": "Avengers Vs. X-Men: Infinite",
+   "issue": "1",
+   "volume": "2012",
+   "year": "2012",
+   "owned": false
+  },
+  {
+   "order": 8,
+   "series": "Avengers",
+   "issue": "25",
+   "volume": "2010",
+   "year": "2012",
+   "owned": true
+  },
+  {
+   "order": 9,
+   "series": "AVX: VS",
+   "issue": "1",
+   "volume": "2012",
+   "year": "2012",
+   "owned": false
+  },
+  {
+   "order": 10,
+   "series": "Uncanny X-Men",
+   "issue": "11",
+   "volume": "2011",
+   "year": "2012",
+   "owned": true
+  },
+  {
+   "order": 11,
+   "series": "Avengers Vs. X-Men",
+   "issue": "3",
+   "volume": "2012",
+   "year": "2012",
+   "owned": false
+  },
+  {
+   "order": 12,
+   "series": "Avengers Academy",
+   "issue": "29",
+   "volume": "2010",
+   "year": "2012",
+   "owned": false
+  },
+  {
+   "order": 13,
+   "series": "Avengers Academy",
+   "issue": "30",
+   "volume": "2010",
+   "year": "2012",
+   "owned": false
+  },
+  {
+   "order": 14,
+   "series": "Avengers Academy",
+   "issue": "31",
+   "volume": "2010",
+   "year": "2012",
+   "owned": false
+  },
+  {
+   "order": 15,
+   "series": "Wolverine & the X-Men",
+   "issue": "10",
+   "volume": "2011",
+   "year": "2012",
+   "owned": true
+  },
+  {
+   "order": 16,
+   "series": "X-Men: Legacy",
+   "issue": "266",
+   "volume": "2008",
+   "year": "2012",
+   "owned": false
+  },
+  {
+   "order": 17,
+   "series": "X-Men: Legacy",
+   "issue": "267",
+   "volume": "2008",
+   "year": "2012",
+   "owned": false
+  },
+  {
+   "order": 18,
+   "series": "Secret Avengers",
+   "issue": "26",
+   "volume": "2010",
+   "year": "2012",
+   "owned": false
+  },
+  {
+   "order": 19,
+   "series": "Secret Avengers",
+   "issue": "27",
+   "volume": "2010",
+   "year": "2012",
+   "owned": false
+  },
+  {
+   "order": 20,
+   "series": "Secret Avengers",
+   "issue": "28",
+   "volume": "2010",
+   "year": "2012",
+   "owned": false
+  },
+  {
+   "order": 21,
+   "series": "Avengers",
+   "issue": "26",
+   "volume": "2010",
+   "year": "2012",
+   "owned": true
+  },
+  {
+   "order": 22,
+   "series": "Avengers",
+   "issue": "27",
+   "volume": "2010",
+   "year": "2012",
+   "owned": true
+  },
+  {
+   "order": 23,
+   "series": "Avengers Vs. X-Men",
+   "issue": "4",
+   "volume": "2012",
+   "year": "2012",
+   "owned": false
+  },
+  {
+   "order": 24,
+   "series": "AVX: VS",
+   "issue": "5",
+   "volume": "2012",
+   "year": "2012",
+   "owned": false
+  },
+  {
+   "order": 25,
+   "series": "AVX: VS",
+   "issue": "2",
+   "volume": "2012",
+   "year": "2012",
+   "owned": false
+  },
+  {
+   "order": 26,
+   "series": "Uncanny X-Men",
+   "issue": "12",
+   "volume": "2011",
+   "year": "2012",
+   "owned": true
+  },
+  {
+   "order": 27,
+   "series": "Wolverine & the X-Men",
+   "issue": "11",
+   "volume": "2011",
+   "year": "2012",
+   "owned": true
+  },
+  {
+   "order": 28,
+   "series": "Avengers Vs. X-Men: Infinite",
+   "issue": "6",
+   "volume": "2012",
+   "year": "2012",
+   "owned": false
+  },
+  {
+   "order": 29,
+   "series": "Avengers Vs. X-Men",
+   "issue": "5",
+   "volume": "2012",
+   "year": "2012",
+   "owned": false
+  },
+  {
+   "order": 30,
+   "series": "Uncanny X-Men",
+   "issue": "13",
+   "volume": "2011",
+   "year": "2012",
+   "owned": true
+  },
+  {
+   "order": 31,
+   "series": "AVX: VS",
+   "issue": "3",
+   "volume": "2012",
+   "year": "2012",
+   "owned": false
+  },
+  {
+   "order": 32,
+   "series": "X-Men: Legacy",
+   "issue": "268",
+   "volume": "2008",
+   "year": "2012",
+   "owned": false
+  },
+  {
+   "order": 33,
+   "series": "Avengers Academy",
+   "issue": "32",
+   "volume": "2010",
+   "year": "2012",
+   "owned": false
+  },
+  {
+   "order": 34,
+   "series": "Avengers Academy",
+   "issue": "33",
+   "volume": "2010",
+   "year": "2012",
+   "owned": false
+  },
+  {
+   "order": 35,
+   "series": "Uncanny X-Men",
+   "issue": "14",
+   "volume": "2011",
+   "year": "2012",
+   "owned": true
+  },
+  {
+   "order": 36,
+   "series": "Avengers Vs. X-Men",
+   "issue": "6",
+   "volume": "2012",
+   "year": "2012",
+   "owned": false
+  },
+  {
+   "order": 37,
+   "series": "New Avengers",
+   "issue": "25",
+   "volume": "2010",
+   "year": "2012",
+   "owned": false
+  },
+  {
+   "order": 38,
+   "series": "New Avengers",
+   "issue": "26",
+   "volume": "2010",
+   "year": "2012",
+   "owned": false
+  },
+  {
+   "order": 39,
+   "series": "Avengers",
+   "issue": "28",
+   "volume": "2010",
+   "year": "2012",
+   "owned": true
+  },
+  {
+   "order": 40,
+   "series": "Uncanny X-Men",
+   "issue": "15",
+   "volume": "2011",
+   "year": "2012",
+   "owned": true
+  },
+  {
+   "order": 41,
+   "series": "Uncanny X-Men",
+   "issue": "16",
+   "volume": "2011",
+   "year": "2012",
+   "owned": true
+  },
+  {
+   "order": 42,
+   "series": "Uncanny X-Men",
+   "issue": "17",
+   "volume": "2011",
+   "year": "2012",
+   "owned": true
+  },
+  {
+   "order": 43,
+   "series": "Avengers Vs. X-Men: Infinite",
+   "issue": "10",
+   "volume": "2012",
+   "year": "2012",
+   "owned": false
+  },
+  {
+   "order": 44,
+   "series": "Avengers",
+   "issue": "29",
+   "volume": "2010",
+   "year": "2012",
+   "owned": true
+  },
+  {
+   "order": 45,
+   "series": "Wolverine & the X-Men",
+   "issue": "12",
+   "volume": "2011",
+   "year": "2012",
+   "owned": true
+  },
+  {
+   "order": 46,
+   "series": "Wolverine & the X-Men",
+   "issue": "13",
+   "volume": "2011",
+   "year": "2012",
+   "owned": false
+  },
+  {
+   "order": 47,
+   "series": "Avengers Vs. X-Men",
+   "issue": "7",
+   "volume": "2012",
+   "year": "2012",
+   "owned": false
+  },
+  {
+   "order": 48,
+   "series": "AVX: VS",
+   "issue": "4",
+   "volume": "2012",
+   "year": "2012",
+   "owned": false
+  },
+  {
+   "order": 49,
+   "series": "New Avengers",
+   "issue": "28",
+   "volume": "2010",
+   "year": "2012",
+   "owned": false
+  },
+  {
+   "order": 50,
+   "series": "New Avengers",
+   "issue": "29",
+   "volume": "2010",
+   "year": "2012",
+   "owned": false
+  },
+  {
+   "order": 51,
+   "series": "Avengers Vs. X-Men",
+   "issue": "8",
+   "volume": "2012",
+   "year": "2012",
+   "owned": false
+  },
+  {
+   "order": 52,
+   "series": "New Avengers",
+   "issue": "27",
+   "volume": "2010",
+   "year": "2012",
+   "owned": false
+  },
+  {
+   "order": 53,
+   "series": "X-Men: Legacy",
+   "issue": "269",
+   "volume": "2008",
+   "year": "2012",
+   "owned": false
+  },
+  {
+   "order": 54,
+   "series": "X-Men: Legacy",
+   "issue": "270",
+   "volume": "2008",
+   "year": "2012",
+   "owned": false
+  },
+  {
+   "order": 55,
+   "series": "Wolverine & the X-Men",
+   "issue": "14",
+   "volume": "2011",
+   "year": "2012",
+   "owned": false
+  },
+  {
+   "order": 56,
+   "series": "Avengers Vs. X-Men",
+   "issue": "9",
+   "volume": "2012",
+   "year": "2012",
+   "owned": false
+  },
+  {
+   "order": 57,
+   "series": "Avengers Vs. X-Men",
+   "issue": "10",
+   "volume": "2012",
+   "year": "2012",
+   "owned": false
+  },
+  {
+   "order": 58,
+   "series": "Wolverine & the X-Men",
+   "issue": "15",
+   "volume": "2011",
+   "year": "2012",
+   "owned": true
+  },
+  {
+   "order": 59,
+   "series": "Wolverine & the X-Men",
+   "issue": "16",
+   "volume": "2011",
+   "year": "2012",
+   "owned": false
+  },
+  {
+   "order": 60,
+   "series": "Avengers Vs. X-Men",
+   "issue": "11",
+   "volume": "2012",
+   "year": "2012",
+   "owned": false
+  },
+  {
+   "order": 61,
+   "series": "Uncanny X-Men",
+   "issue": "18",
+   "volume": "2011",
+   "year": "2012",
+   "owned": true
+  },
+  {
+   "order": 62,
+   "series": "Avengers Vs. X-Men",
+   "issue": "12",
+   "volume": "2012",
+   "year": "2012",
+   "owned": false
+  },
+  {
+   "order": 63,
+   "series": "Uncanny X-Men",
+   "issue": "19",
+   "volume": "2011",
+   "year": "2012",
+   "owned": true
+  },
+  {
+   "order": 64,
+   "series": "AVX: VS",
+   "issue": "6",
+   "volume": "2012",
+   "year": "2012",
+   "owned": false
+  },
+  {
+   "order": 65,
+   "series": "New Avengers",
+   "issue": "30",
+   "volume": "2010",
+   "year": "2012",
+   "owned": false
+  },
+  {
+   "order": 66,
+   "series": "Avengers",
+   "issue": "30",
+   "volume": "2010",
+   "year": "2012",
+   "owned": true
+  },
+  {
+   "order": 67,
+   "series": "Wolverine & the X-Men",
+   "issue": "18",
+   "volume": "2011",
+   "year": "2012",
+   "owned": true
+  },
+  {
+   "order": 68,
+   "series": "Uncanny X-Men",
+   "issue": "20",
+   "volume": "2011",
+   "year": "2012",
+   "owned": true
+  },
+  {
+   "order": 69,
+   "series": "AVX: Consequences",
+   "issue": "1",
+   "volume": "2012",
+   "year": "2012",
+   "owned": false
+  },
+  {
+   "order": 70,
+   "series": "A-Babies vs. X-Babies",
+   "issue": "1",
+   "volume": "2012",
+   "year": "2012",
+   "owned": false
+  },
+  {
+   "order": 71,
+   "series": "AVX: Consequences",
+   "issue": "2",
+   "volume": "2012",
+   "year": "2012",
+   "owned": false
+  },
+  {
+   "order": 72,
+   "series": "AVX: Consequences",
+   "issue": "3",
+   "volume": "2012",
+   "year": "2012",
+   "owned": false
+  },
+  {
+   "order": 73,
+   "series": "AVX: Consequences",
+   "issue": "4",
+   "volume": "2012",
+   "year": "2012",
+   "owned": false
+  },
+  {
+   "order": 74,
+   "series": "AVX: Consequences",
+   "issue": "5",
+   "volume": "2012",
+   "year": "2013",
+   "owned": false
+  }
+ ]
+}

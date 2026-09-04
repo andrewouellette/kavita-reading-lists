@@ -1,0 +1,80 @@
+{
+ "arc": "Shadow War",
+ "slug": "shadow-war",
+ "issue_count": 9,
+ "owned_count": 2,
+ "entries": [
+  {
+   "order": 1,
+   "series": "Shadow War: Alpha",
+   "issue": "1",
+   "volume": "2022",
+   "year": "2022",
+   "owned": false
+  },
+  {
+   "order": 2,
+   "series": "Batman",
+   "issue": "122",
+   "volume": "2016",
+   "year": "2022",
+   "owned": true
+  },
+  {
+   "order": 3,
+   "series": "Deathstroke Inc.",
+   "issue": "8",
+   "volume": "2021",
+   "year": "2022",
+   "owned": false
+  },
+  {
+   "order": 4,
+   "series": "Robin",
+   "issue": "13",
+   "volume": "2021",
+   "year": "2022",
+   "owned": false
+  },
+  {
+   "order": 5,
+   "series": "Batman",
+   "issue": "123",
+   "volume": "2016",
+   "year": "2022",
+   "owned": true
+  },
+  {
+   "order": 6,
+   "series": "Shadow War Zone",
+   "issue": "1",
+   "volume": "2022",
+   "year": "2022",
+   "owned": false
+  },
+  {
+   "order": 7,
+   "series": "Deathstroke Inc.",
+   "issue": "9",
+   "volume": "2021",
+   "year": "2022",
+   "owned": false
+  },
+  {
+   "order": 8,
+   "series": "Robin",
+   "issue": "14",
+   "volume": "2021",
+   "year": "2022",
+   "owned": false
+  },
+  {
+   "order": 9,
+   "series": "Shadow War: Omega",
+   "issue": "1",
+   "volume": "2022",
+   "year": "2022",
+   "owned": false
+  }
+ ]
+}

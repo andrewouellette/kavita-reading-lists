@@ -1,0 +1,416 @@
+{
+ "arc": "Apocalypse- The Twelve",
+ "slug": "apocalypse-the-twelve",
+ "issue_count": 51,
+ "owned_count": 4,
+ "entries": [
+  {
+   "order": 1,
+   "series": "The Uncanny X-Men",
+   "issue": "368",
+   "volume": "1981",
+   "year": "1999",
+   "owned": false
+  },
+  {
+   "order": 2,
+   "series": "X-Men",
+   "issue": "88",
+   "volume": "1991",
+   "year": "1999",
+   "owned": false
+  },
+  {
+   "order": 3,
+   "series": "The Uncanny X-Men",
+   "issue": "369",
+   "volume": "1981",
+   "year": "1999",
+   "owned": false
+  },
+  {
+   "order": 4,
+   "series": "X-Men",
+   "issue": "89",
+   "volume": "1991",
+   "year": "1999",
+   "owned": false
+  },
+  {
+   "order": 5,
+   "series": "The Uncanny X-Men",
+   "issue": "370",
+   "volume": "1981",
+   "year": "1999",
+   "owned": false
+  },
+  {
+   "order": 6,
+   "series": "X-Men",
+   "issue": "90",
+   "volume": "1991",
+   "year": "1999",
+   "owned": false
+  },
+  {
+   "order": 7,
+   "series": "The Uncanny X-Men",
+   "issue": "371",
+   "volume": "1981",
+   "year": "1999",
+   "owned": false
+  },
+  {
+   "order": 8,
+   "series": "X-Men",
+   "issue": "91",
+   "volume": "1991",
+   "year": "1999",
+   "owned": false
+  },
+  {
+   "order": 9,
+   "series": "X-Men 1999",
+   "issue": "1",
+   "volume": "1999",
+   "year": "1999",
+   "owned": false
+  },
+  {
+   "order": 10,
+   "series": "Wolverine",
+   "issue": "140",
+   "volume": "1988",
+   "year": "1999",
+   "owned": false
+  },
+  {
+   "order": 11,
+   "series": "Wolverine",
+   "issue": "141",
+   "volume": "1988",
+   "year": "1999",
+   "owned": false
+  },
+  {
+   "order": 12,
+   "series": "Wolverine",
+   "issue": "142",
+   "volume": "1988",
+   "year": "1999",
+   "owned": false
+  },
+  {
+   "order": 13,
+   "series": "Wolverine",
+   "issue": "143",
+   "volume": "1988",
+   "year": "1999",
+   "owned": false
+  },
+  {
+   "order": 14,
+   "series": "Wolverine",
+   "issue": "144",
+   "volume": "1988",
+   "year": "1999",
+   "owned": false
+  },
+  {
+   "order": 15,
+   "series": "Hulk",
+   "issue": "8",
+   "volume": "1999",
+   "year": "1999",
+   "owned": true
+  },
+  {
+   "order": 16,
+   "series": "The Uncanny X-Men",
+   "issue": "372",
+   "volume": "1981",
+   "year": "1999",
+   "owned": false
+  },
+  {
+   "order": 17,
+   "series": "X-Men",
+   "issue": "92",
+   "volume": "1991",
+   "year": "1999",
+   "owned": false
+  },
+  {
+   "order": 18,
+   "series": "Gambit",
+   "issue": "8",
+   "volume": "1999",
+   "year": "1999",
+   "owned": false
+  },
+  {
+   "order": 19,
+   "series": "Gambit",
+   "issue": "9",
+   "volume": "1999",
+   "year": "1999",
+   "owned": false
+  },
+  {
+   "order": 20,
+   "series": "Cable",
+   "issue": "71",
+   "volume": "1993",
+   "year": "1999",
+   "owned": false
+  },
+  {
+   "order": 21,
+   "series": "Cable",
+   "issue": "72",
+   "volume": "1993",
+   "year": "1999",
+   "owned": false
+  },
+  {
+   "order": 22,
+   "series": "Astonishing X-Men",
+   "issue": "1",
+   "volume": "1999",
+   "year": "1999",
+   "owned": true
+  },
+  {
+   "order": 23,
+   "series": "Astonishing X-Men",
+   "issue": "2",
+   "volume": "1999",
+   "year": "1999",
+   "owned": true
+  },
+  {
+   "order": 24,
+   "series": "Astonishing X-Men",
+   "issue": "3",
+   "volume": "1999",
+   "year": "1999",
+   "owned": true
+  },
+  {
+   "order": 25,
+   "series": "Bishop: The Last X-Man",
+   "issue": "1",
+   "volume": "1999",
+   "year": "1999",
+   "owned": false
+  },
+  {
+   "order": 26,
+   "series": "X-Men",
+   "issue": "93",
+   "volume": "1991",
+   "year": "1999",
+   "owned": false
+  },
+  {
+   "order": 27,
+   "series": "X-Men",
+   "issue": "94",
+   "volume": "1991",
+   "year": "1999",
+   "owned": false
+  },
+  {
+   "order": 28,
+   "series": "The Uncanny X-Men",
+   "issue": "373",
+   "volume": "1981",
+   "year": "1999",
+   "owned": false
+  },
+  {
+   "order": 29,
+   "series": "The Uncanny X-Men",
+   "issue": "374",
+   "volume": "1981",
+   "year": "1999",
+   "owned": false
+  },
+  {
+   "order": 30,
+   "series": "The Uncanny X-Men",
+   "issue": "375",
+   "volume": "1981",
+   "year": "1999",
+   "owned": false
+  },
+  {
+   "order": 31,
+   "series": "Cable",
+   "issue": "73",
+   "volume": "1993",
+   "year": "1999",
+   "owned": false
+  },
+  {
+   "order": 32,
+   "series": "Cable",
+   "issue": "74",
+   "volume": "1993",
+   "year": "1999",
+   "owned": false
+  },
+  {
+   "order": 33,
+   "series": "X-Men",
+   "issue": "95",
+   "volume": "1991",
+   "year": "1999",
+   "owned": false
+  },
+  {
+   "order": 34,
+   "series": "X-Men Unlimited",
+   "issue": "25",
+   "volume": "1993",
+   "year": "1999",
+   "owned": false
+  },
+  {
+   "order": 35,
+   "series": "Wolverine",
+   "issue": "145",
+   "volume": "1988",
+   "year": "1999",
+   "owned": false
+  },
+  {
+   "order": 36,
+   "series": "The Uncanny X-Men",
+   "issue": "376",
+   "volume": "1981",
+   "year": "2000",
+   "owned": false
+  },
+  {
+   "order": 37,
+   "series": "Cable",
+   "issue": "75",
+   "volume": "1993",
+   "year": "2000",
+   "owned": false
+  },
+  {
+   "order": 38,
+   "series": "X-Man",
+   "issue": "59",
+   "volume": "1995",
+   "year": "2000",
+   "owned": false
+  },
+  {
+   "order": 39,
+   "series": "X-Men",
+   "issue": "96",
+   "volume": "1991",
+   "year": "2000",
+   "owned": false
+  },
+  {
+   "order": 40,
+   "series": "Wolverine",
+   "issue": "146",
+   "volume": "1988",
+   "year": "2000",
+   "owned": false
+  },
+  {
+   "order": 41,
+   "series": "Wolverine",
+   "issue": "147",
+   "volume": "1988",
+   "year": "2000",
+   "owned": false
+  },
+  {
+   "order": 42,
+   "series": "Uncanny X-Men 1999",
+   "issue": "1",
+   "volume": "1999",
+   "year": "2000",
+   "owned": false
+  },
+  {
+   "order": 43,
+   "series": "The Uncanny X-Men",
+   "issue": "377",
+   "volume": "1981",
+   "year": "2000",
+   "owned": false
+  },
+  {
+   "order": 44,
+   "series": "Cable",
+   "issue": "76",
+   "volume": "1993",
+   "year": "2000",
+   "owned": false
+  },
+  {
+   "order": 45,
+   "series": "X-Man",
+   "issue": "60",
+   "volume": "1995",
+   "year": "2000",
+   "owned": false
+  },
+  {
+   "order": 46,
+   "series": "X-Men",
+   "issue": "97",
+   "volume": "1991",
+   "year": "2000",
+   "owned": false
+  },
+  {
+   "order": 47,
+   "series": "The Uncanny X-Men",
+   "issue": "378",
+   "volume": "1981",
+   "year": "2000",
+   "owned": false
+  },
+  {
+   "order": 48,
+   "series": "Cable",
+   "issue": "77",
+   "volume": "1993",
+   "year": "2000",
+   "owned": false
+  },
+  {
+   "order": 49,
+   "series": "Wolverine",
+   "issue": "148",
+   "volume": "1988",
+   "year": "2000",
+   "owned": false
+  },
+  {
+   "order": 50,
+   "series": "X-Men Unlimited",
+   "issue": "26",
+   "volume": "1993",
+   "year": "2000",
+   "owned": false
+  },
+  {
+   "order": 51,
+   "series": "X-Men",
+   "issue": "98",
+   "volume": "1991",
+   "year": "2000",
+   "owned": false
+  }
+ ]
+}

@@ -1,0 +1,424 @@
+{
+ "arc": "Future State",
+ "slug": "future-state",
+ "issue_count": 52,
+ "owned_count": 2,
+ "entries": [
+  {
+   "order": 1,
+   "series": "Future State: Batman/Superman",
+   "issue": "1",
+   "volume": "2021",
+   "year": "2021",
+   "owned": false
+  },
+  {
+   "order": 2,
+   "series": "Future State: Batman/Superman",
+   "issue": "2",
+   "volume": "2021",
+   "year": "2021",
+   "owned": false
+  },
+  {
+   "order": 3,
+   "series": "Future State: The Next Batman",
+   "issue": "1",
+   "volume": "2021",
+   "year": "2021",
+   "owned": false
+  },
+  {
+   "order": 4,
+   "series": "Future State: The Next Batman",
+   "issue": "2",
+   "volume": "2021",
+   "year": "2021",
+   "owned": false
+  },
+  {
+   "order": 5,
+   "series": "Future State: The Next Batman",
+   "issue": "3",
+   "volume": "2021",
+   "year": "2021",
+   "owned": false
+  },
+  {
+   "order": 6,
+   "series": "Future State: The Next Batman",
+   "issue": "4",
+   "volume": "2021",
+   "year": "2021",
+   "owned": false
+  },
+  {
+   "order": 7,
+   "series": "Future State: Robin Eternal",
+   "issue": "1",
+   "volume": "2021",
+   "year": "2021",
+   "owned": false
+  },
+  {
+   "order": 8,
+   "series": "Future State: Robin Eternal",
+   "issue": "2",
+   "volume": "2021",
+   "year": "2021",
+   "owned": false
+  },
+  {
+   "order": 9,
+   "series": "Future State: Harley Quinn",
+   "issue": "1",
+   "volume": "2021",
+   "year": "2021",
+   "owned": false
+  },
+  {
+   "order": 10,
+   "series": "Future State: Harley Quinn",
+   "issue": "2",
+   "volume": "2021",
+   "year": "2021",
+   "owned": false
+  },
+  {
+   "order": 11,
+   "series": "Future State: Nightwing",
+   "issue": "1",
+   "volume": "2021",
+   "year": "2021",
+   "owned": false
+  },
+  {
+   "order": 12,
+   "series": "Future State: Nightwing",
+   "issue": "2",
+   "volume": "2021",
+   "year": "2021",
+   "owned": false
+  },
+  {
+   "order": 13,
+   "series": "Future State: Catwoman",
+   "issue": "1",
+   "volume": "2021",
+   "year": "2021",
+   "owned": false
+  },
+  {
+   "order": 14,
+   "series": "Future State: Catwoman",
+   "issue": "2",
+   "volume": "2021",
+   "year": "2021",
+   "owned": false
+  },
+  {
+   "order": 15,
+   "series": "Future State: Dark Detective",
+   "issue": "1",
+   "volume": "2021",
+   "year": "2021",
+   "owned": false
+  },
+  {
+   "order": 16,
+   "series": "Future State: Dark Detective",
+   "issue": "2",
+   "volume": "2021",
+   "year": "2021",
+   "owned": false
+  },
+  {
+   "order": 17,
+   "series": "Future State: Dark Detective",
+   "issue": "3",
+   "volume": "2021",
+   "year": "2021",
+   "owned": false
+  },
+  {
+   "order": 18,
+   "series": "Future State: Dark Detective",
+   "issue": "4",
+   "volume": "2021",
+   "year": "2021",
+   "owned": false
+  },
+  {
+   "order": 19,
+   "series": "Future State: The Flash",
+   "issue": "1",
+   "volume": "2021",
+   "year": "2021",
+   "owned": false
+  },
+  {
+   "order": 20,
+   "series": "Future State: The Flash",
+   "issue": "2",
+   "volume": "2021",
+   "year": "2021",
+   "owned": false
+  },
+  {
+   "order": 21,
+   "series": "Future State: Teen Titans",
+   "issue": "1",
+   "volume": "2021",
+   "year": "2021",
+   "owned": false
+  },
+  {
+   "order": 22,
+   "series": "Future State: Teen Titans",
+   "issue": "2",
+   "volume": "2021",
+   "year": "2021",
+   "owned": false
+  },
+  {
+   "order": 23,
+   "series": "Future State: Shazam!",
+   "issue": "1",
+   "volume": "2021",
+   "year": "2021",
+   "owned": false
+  },
+  {
+   "order": 24,
+   "series": "Future State: Shazam!",
+   "issue": "2",
+   "volume": "2021",
+   "year": "2021",
+   "owned": false
+  },
+  {
+   "order": 25,
+   "series": "Future State: Suicide Squad",
+   "issue": "1",
+   "volume": "2021",
+   "year": "2021",
+   "owned": false
+  },
+  {
+   "order": 26,
+   "series": "Future State: Suicide Squad",
+   "issue": "2",
+   "volume": "2021",
+   "year": "2021",
+   "owned": false
+  },
+  {
+   "order": 27,
+   "series": "Future State: Aquaman",
+   "issue": "1",
+   "volume": "2021",
+   "year": "2021",
+   "owned": false
+  },
+  {
+   "order": 28,
+   "series": "Future State: Aquaman",
+   "issue": "2",
+   "volume": "2021",
+   "year": "2021",
+   "owned": false
+  },
+  {
+   "order": 29,
+   "series": "Future State: Superman of Metropolis",
+   "issue": "1",
+   "volume": "2021",
+   "year": "2021",
+   "owned": false
+  },
+  {
+   "order": 30,
+   "series": "Future State: Superman of Metropolis",
+   "issue": "2",
+   "volume": "2021",
+   "year": "2021",
+   "owned": false
+  },
+  {
+   "order": 31,
+   "series": "Future State: Superman: Worlds of War",
+   "issue": "1",
+   "volume": "2021",
+   "year": "2021",
+   "owned": false
+  },
+  {
+   "order": 32,
+   "series": "Future State: Superman: Worlds of War",
+   "issue": "2",
+   "volume": "2021",
+   "year": "2021",
+   "owned": false
+  },
+  {
+   "order": 33,
+   "series": "Future State: Green Lantern",
+   "issue": "1",
+   "volume": "2021",
+   "year": "2021",
+   "owned": true
+  },
+  {
+   "order": 34,
+   "series": "Future State: Green Lantern",
+   "issue": "2",
+   "volume": "2021",
+   "year": "2021",
+   "owned": true
+  },
+  {
+   "order": 35,
+   "series": "Future State: Justice League",
+   "issue": "1",
+   "volume": "2021",
+   "year": "2021",
+   "owned": false
+  },
+  {
+   "order": 36,
+   "series": "Future State: Justice League",
+   "issue": "2",
+   "volume": "2021",
+   "year": "2021",
+   "owned": false
+  },
+  {
+   "order": 37,
+   "series": "Future State: Kara Zor-El, Superwoman",
+   "issue": "1",
+   "volume": "2021",
+   "year": "2021",
+   "owned": false
+  },
+  {
+   "order": 38,
+   "series": "Future State: Kara Zor-El, Superwoman",
+   "issue": "2",
+   "volume": "2021",
+   "year": "2021",
+   "owned": false
+  },
+  {
+   "order": 39,
+   "series": "Future State: Wonder Woman",
+   "issue": "1",
+   "volume": "2021",
+   "year": "2021",
+   "owned": false
+  },
+  {
+   "order": 40,
+   "series": "Future State: Wonder Woman",
+   "issue": "2",
+   "volume": "2021",
+   "year": "2021",
+   "owned": false
+  },
+  {
+   "order": 41,
+   "series": "Future State: Superman vs. Imperious Lex",
+   "issue": "1",
+   "volume": "2021",
+   "year": "2021",
+   "owned": false
+  },
+  {
+   "order": 42,
+   "series": "Future State: Superman vs. Imperious Lex",
+   "issue": "2",
+   "volume": "2021",
+   "year": "2021",
+   "owned": false
+  },
+  {
+   "order": 43,
+   "series": "Future State: Superman vs. Imperious Lex",
+   "issue": "3",
+   "volume": "2021",
+   "year": "2021",
+   "owned": false
+  },
+  {
+   "order": 44,
+   "series": "Future State: Superman/Wonder Woman",
+   "issue": "1",
+   "volume": "2021",
+   "year": "2021",
+   "owned": false
+  },
+  {
+   "order": 45,
+   "series": "Future State: Superman/Wonder Woman",
+   "issue": "2",
+   "volume": "2021",
+   "year": "2021",
+   "owned": false
+  },
+  {
+   "order": 46,
+   "series": "Future State: Legion of Super-Heroes",
+   "issue": "1",
+   "volume": "2021",
+   "year": "2021",
+   "owned": false
+  },
+  {
+   "order": 47,
+   "series": "Future State: Legion of Super-Heroes",
+   "issue": "2",
+   "volume": "2021",
+   "year": "2021",
+   "owned": false
+  },
+  {
+   "order": 48,
+   "series": "Future State: Superman: House of El",
+   "issue": "1",
+   "volume": "2021",
+   "year": "2021",
+   "owned": false
+  },
+  {
+   "order": 49,
+   "series": "Future State: Swamp Thing",
+   "issue": "1",
+   "volume": "2021",
+   "year": "2021",
+   "owned": false
+  },
+  {
+   "order": 50,
+   "series": "Future State: Swamp Thing",
+   "issue": "2",
+   "volume": "2021",
+   "year": "2021",
+   "owned": false
+  },
+  {
+   "order": 51,
+   "series": "Future State: Immortal Wonder Woman",
+   "issue": "1",
+   "volume": "2021",
+   "year": "2021",
+   "owned": false
+  },
+  {
+   "order": 52,
+   "series": "Future State: Immortal Wonder Woman",
+   "issue": "2",
+   "volume": "2021",
+   "year": "2021",
+   "owned": false
+  }
+ ]
+}

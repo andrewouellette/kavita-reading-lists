@@ -1,0 +1,192 @@
+{
+ "arc": "Marvel 1602",
+ "slug": "marvel-1602",
+ "issue_count": 23,
+ "owned_count": 0,
+ "entries": [
+  {
+   "order": 1,
+   "series": "1602",
+   "issue": "1",
+   "volume": "2003",
+   "year": "2003",
+   "owned": false
+  },
+  {
+   "order": 2,
+   "series": "1602",
+   "issue": "2",
+   "volume": "2003",
+   "year": "2003",
+   "owned": false
+  },
+  {
+   "order": 3,
+   "series": "1602",
+   "issue": "3",
+   "volume": "2003",
+   "year": "2003",
+   "owned": false
+  },
+  {
+   "order": 4,
+   "series": "1602",
+   "issue": "4",
+   "volume": "2003",
+   "year": "2004",
+   "owned": false
+  },
+  {
+   "order": 5,
+   "series": "1602",
+   "issue": "5",
+   "volume": "2003",
+   "year": "2004",
+   "owned": false
+  },
+  {
+   "order": 6,
+   "series": "1602",
+   "issue": "6",
+   "volume": "2003",
+   "year": "2004",
+   "owned": false
+  },
+  {
+   "order": 7,
+   "series": "1602",
+   "issue": "7",
+   "volume": "2003",
+   "year": "2004",
+   "owned": false
+  },
+  {
+   "order": 8,
+   "series": "1602",
+   "issue": "8",
+   "volume": "2003",
+   "year": "2004",
+   "owned": false
+  },
+  {
+   "order": 9,
+   "series": "Marvel 1602: New World",
+   "issue": "1",
+   "volume": "2005",
+   "year": "2005",
+   "owned": false
+  },
+  {
+   "order": 10,
+   "series": "Marvel 1602: New World",
+   "issue": "2",
+   "volume": "2005",
+   "year": "2005",
+   "owned": false
+  },
+  {
+   "order": 11,
+   "series": "Marvel 1602: New World",
+   "issue": "3",
+   "volume": "2005",
+   "year": "2005",
+   "owned": false
+  },
+  {
+   "order": 12,
+   "series": "Marvel 1602: New World",
+   "issue": "4",
+   "volume": "2005",
+   "year": "2005",
+   "owned": false
+  },
+  {
+   "order": 13,
+   "series": "Marvel 1602: New World",
+   "issue": "5",
+   "volume": "2005",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 14,
+   "series": "Marvel 1602: Fantastick Four",
+   "issue": "1",
+   "volume": "2006",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 15,
+   "series": "Marvel 1602: Fantastick Four",
+   "issue": "2",
+   "volume": "2006",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 16,
+   "series": "Marvel 1602: Fantastick Four",
+   "issue": "3",
+   "volume": "2006",
+   "year": "2007",
+   "owned": false
+  },
+  {
+   "order": 17,
+   "series": "Marvel 1602: Fantastick Four",
+   "issue": "4",
+   "volume": "2006",
+   "year": "2007",
+   "owned": false
+  },
+  {
+   "order": 18,
+   "series": "Marvel 1602: Fantastick Four",
+   "issue": "5",
+   "volume": "2006",
+   "year": "2007",
+   "owned": false
+  },
+  {
+   "order": 19,
+   "series": "Spider-Man 1602",
+   "issue": "1",
+   "volume": "2009",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 20,
+   "series": "Spider-Man 1602",
+   "issue": "2",
+   "volume": "2009",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 21,
+   "series": "Spider-Man 1602",
+   "issue": "3",
+   "volume": "2009",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 22,
+   "series": "Spider-Man 1602",
+   "issue": "4",
+   "volume": "2009",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 23,
+   "series": "Spider-Man 1602",
+   "issue": "5",
+   "volume": "2009",
+   "year": "2010",
+   "owned": false
+  }
+ ]
+}

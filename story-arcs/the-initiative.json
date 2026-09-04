@@ -1,0 +1,648 @@
+{
+ "arc": "The Initiative",
+ "slug": "the-initiative",
+ "issue_count": 80,
+ "owned_count": 5,
+ "entries": [
+  {
+   "order": 1,
+   "series": "Civil War: The Initiative",
+   "issue": "1",
+   "volume": "2007",
+   "year": "2007",
+   "owned": false
+  },
+  {
+   "order": 2,
+   "series": "Ms. Marvel",
+   "issue": "13",
+   "volume": "2006",
+   "year": "2007",
+   "owned": false
+  },
+  {
+   "order": 3,
+   "series": "Ms. Marvel",
+   "issue": "14",
+   "volume": "2006",
+   "year": "2007",
+   "owned": false
+  },
+  {
+   "order": 4,
+   "series": "Ms. Marvel",
+   "issue": "15",
+   "volume": "2006",
+   "year": "2007",
+   "owned": false
+  },
+  {
+   "order": 5,
+   "series": "Ms. Marvel",
+   "issue": "16",
+   "volume": "2006",
+   "year": "2007",
+   "owned": false
+  },
+  {
+   "order": 6,
+   "series": "Ms. Marvel",
+   "issue": "17",
+   "volume": "2006",
+   "year": "2007",
+   "owned": false
+  },
+  {
+   "order": 7,
+   "series": "Thunderbolts",
+   "issue": "112",
+   "volume": "2006",
+   "year": "2007",
+   "owned": false
+  },
+  {
+   "order": 8,
+   "series": "Thunderbolts",
+   "issue": "113",
+   "volume": "2006",
+   "year": "2007",
+   "owned": false
+  },
+  {
+   "order": 9,
+   "series": "Thunderbolts",
+   "issue": "114",
+   "volume": "2006",
+   "year": "2007",
+   "owned": false
+  },
+  {
+   "order": 10,
+   "series": "Thunderbolts",
+   "issue": "115",
+   "volume": "2006",
+   "year": "2007",
+   "owned": false
+  },
+  {
+   "order": 11,
+   "series": "Omega Flight",
+   "issue": "1",
+   "volume": "2007",
+   "year": "2007",
+   "owned": false
+  },
+  {
+   "order": 12,
+   "series": "Omega Flight",
+   "issue": "2",
+   "volume": "2007",
+   "year": "2007",
+   "owned": false
+  },
+  {
+   "order": 13,
+   "series": "Omega Flight",
+   "issue": "3",
+   "volume": "2007",
+   "year": "2007",
+   "owned": false
+  },
+  {
+   "order": 14,
+   "series": "Omega Flight",
+   "issue": "4",
+   "volume": "2007",
+   "year": "2007",
+   "owned": false
+  },
+  {
+   "order": 15,
+   "series": "Omega Flight",
+   "issue": "5",
+   "volume": "2007",
+   "year": "2007",
+   "owned": false
+  },
+  {
+   "order": 16,
+   "series": "Moon Knight",
+   "issue": "13",
+   "volume": "2006",
+   "year": "2007",
+   "owned": true
+  },
+  {
+   "order": 17,
+   "series": "Captain America",
+   "issue": "26",
+   "volume": "2004",
+   "year": "2007",
+   "owned": false
+  },
+  {
+   "order": 18,
+   "series": "Captain America",
+   "issue": "27",
+   "volume": "2004",
+   "year": "2007",
+   "owned": false
+  },
+  {
+   "order": 19,
+   "series": "Captain America",
+   "issue": "28",
+   "volume": "2004",
+   "year": "2007",
+   "owned": false
+  },
+  {
+   "order": 20,
+   "series": "Captain America",
+   "issue": "29",
+   "volume": "2004",
+   "year": "2007",
+   "owned": false
+  },
+  {
+   "order": 21,
+   "series": "Captain America",
+   "issue": "30",
+   "volume": "2004",
+   "year": "2007",
+   "owned": false
+  },
+  {
+   "order": 22,
+   "series": "New Avengers",
+   "issue": "27",
+   "volume": "2004",
+   "year": "2007",
+   "owned": false
+  },
+  {
+   "order": 23,
+   "series": "New Avengers",
+   "issue": "28",
+   "volume": "2004",
+   "year": "2007",
+   "owned": false
+  },
+  {
+   "order": 24,
+   "series": "New Avengers",
+   "issue": "29",
+   "volume": "2004",
+   "year": "2007",
+   "owned": false
+  },
+  {
+   "order": 25,
+   "series": "New Avengers",
+   "issue": "30",
+   "volume": "2004",
+   "year": "2007",
+   "owned": false
+  },
+  {
+   "order": 26,
+   "series": "New Avengers",
+   "issue": "31",
+   "volume": "2004",
+   "year": "2007",
+   "owned": false
+  },
+  {
+   "order": 27,
+   "series": "New Warriors",
+   "issue": "1",
+   "volume": "2007",
+   "year": "2007",
+   "owned": false
+  },
+  {
+   "order": 28,
+   "series": "New Warriors",
+   "issue": "2",
+   "volume": "2007",
+   "year": "2007",
+   "owned": false
+  },
+  {
+   "order": 29,
+   "series": "New Warriors",
+   "issue": "3",
+   "volume": "2007",
+   "year": "2007",
+   "owned": false
+  },
+  {
+   "order": 30,
+   "series": "New Warriors",
+   "issue": "4",
+   "volume": "2007",
+   "year": "2007",
+   "owned": false
+  },
+  {
+   "order": 31,
+   "series": "New Warriors",
+   "issue": "5",
+   "volume": "2007",
+   "year": "2007",
+   "owned": false
+  },
+  {
+   "order": 32,
+   "series": "New Warriors",
+   "issue": "6",
+   "volume": "2007",
+   "year": "2008",
+   "owned": false
+  },
+  {
+   "order": 33,
+   "series": "New Warriors",
+   "issue": "7",
+   "volume": "2007",
+   "year": "2008",
+   "owned": false
+  },
+  {
+   "order": 34,
+   "series": "New Warriors",
+   "issue": "8",
+   "volume": "2007",
+   "year": "2008",
+   "owned": false
+  },
+  {
+   "order": 35,
+   "series": "Black Panther",
+   "issue": "26",
+   "volume": "2005",
+   "year": "2007",
+   "owned": false
+  },
+  {
+   "order": 36,
+   "series": "Fantastic Four",
+   "issue": "544",
+   "volume": "1998",
+   "year": "2007",
+   "owned": false
+  },
+  {
+   "order": 37,
+   "series": "Fantastic Four",
+   "issue": "545",
+   "volume": "1998",
+   "year": "2007",
+   "owned": false
+  },
+  {
+   "order": 38,
+   "series": "Fantastic Four",
+   "issue": "546",
+   "volume": "1998",
+   "year": "2007",
+   "owned": false
+  },
+  {
+   "order": 39,
+   "series": "Black Panther",
+   "issue": "27",
+   "volume": "2005",
+   "year": "2007",
+   "owned": false
+  },
+  {
+   "order": 40,
+   "series": "Black Panther",
+   "issue": "28",
+   "volume": "2005",
+   "year": "2007",
+   "owned": false
+  },
+  {
+   "order": 41,
+   "series": "Black Panther",
+   "issue": "29",
+   "volume": "2005",
+   "year": "2007",
+   "owned": false
+  },
+  {
+   "order": 42,
+   "series": "Black Panther",
+   "issue": "30",
+   "volume": "2005",
+   "year": "2007",
+   "owned": false
+  },
+  {
+   "order": 43,
+   "series": "Iron Man",
+   "issue": "15",
+   "volume": "2004",
+   "year": "2007",
+   "owned": true
+  },
+  {
+   "order": 44,
+   "series": "Iron Man",
+   "issue": "16",
+   "volume": "2004",
+   "year": "2007",
+   "owned": true
+  },
+  {
+   "order": 45,
+   "series": "Iron Man",
+   "issue": "17",
+   "volume": "2004",
+   "year": "2007",
+   "owned": true
+  },
+  {
+   "order": 46,
+   "series": "Iron Man",
+   "issue": "18",
+   "volume": "2004",
+   "year": "2007",
+   "owned": true
+  },
+  {
+   "order": 47,
+   "series": "Avengers: The Initiative",
+   "issue": "1",
+   "volume": "2007",
+   "year": "2007",
+   "owned": false
+  },
+  {
+   "order": 48,
+   "series": "Avengers: The Initiative",
+   "issue": "2",
+   "volume": "2007",
+   "year": "2007",
+   "owned": false
+  },
+  {
+   "order": 49,
+   "series": "Avengers: The Initiative",
+   "issue": "3",
+   "volume": "2007",
+   "year": "2007",
+   "owned": false
+  },
+  {
+   "order": 50,
+   "series": "Fantastic Four",
+   "issue": "547",
+   "volume": "1998",
+   "year": "2007",
+   "owned": false
+  },
+  {
+   "order": 51,
+   "series": "Fantastic Four",
+   "issue": "548",
+   "volume": "1998",
+   "year": "2007",
+   "owned": false
+  },
+  {
+   "order": 52,
+   "series": "Fantastic Four",
+   "issue": "549",
+   "volume": "1998",
+   "year": "2007",
+   "owned": false
+  },
+  {
+   "order": 53,
+   "series": "Fantastic Four",
+   "issue": "550",
+   "volume": "1998",
+   "year": "2007",
+   "owned": false
+  },
+  {
+   "order": 54,
+   "series": "Punisher War Journal",
+   "issue": "6",
+   "volume": "2007",
+   "year": "2007",
+   "owned": false
+  },
+  {
+   "order": 55,
+   "series": "Punisher War Journal",
+   "issue": "7",
+   "volume": "2007",
+   "year": "2007",
+   "owned": false
+  },
+  {
+   "order": 56,
+   "series": "Punisher War Journal",
+   "issue": "8",
+   "volume": "2007",
+   "year": "2007",
+   "owned": false
+  },
+  {
+   "order": 57,
+   "series": "Punisher War Journal",
+   "issue": "9",
+   "volume": "2007",
+   "year": "2007",
+   "owned": false
+  },
+  {
+   "order": 58,
+   "series": "Punisher War Journal",
+   "issue": "10",
+   "volume": "2007",
+   "year": "2007",
+   "owned": false
+  },
+  {
+   "order": 59,
+   "series": "Punisher War Journal",
+   "issue": "11",
+   "volume": "2007",
+   "year": "2007",
+   "owned": false
+  },
+  {
+   "order": 60,
+   "series": "The Mighty Avengers",
+   "issue": "1",
+   "volume": "2007",
+   "year": "2007",
+   "owned": false
+  },
+  {
+   "order": 61,
+   "series": "The Mighty Avengers",
+   "issue": "2",
+   "volume": "2007",
+   "year": "2007",
+   "owned": false
+  },
+  {
+   "order": 62,
+   "series": "The Mighty Avengers",
+   "issue": "3",
+   "volume": "2007",
+   "year": "2007",
+   "owned": false
+  },
+  {
+   "order": 63,
+   "series": "The Mighty Avengers",
+   "issue": "4",
+   "volume": "2007",
+   "year": "2007",
+   "owned": false
+  },
+  {
+   "order": 64,
+   "series": "The Mighty Avengers",
+   "issue": "5",
+   "volume": "2007",
+   "year": "2007",
+   "owned": false
+  },
+  {
+   "order": 65,
+   "series": "The Mighty Avengers",
+   "issue": "6",
+   "volume": "2007",
+   "year": "2008",
+   "owned": false
+  },
+  {
+   "order": 66,
+   "series": "Sub-Mariner",
+   "issue": "1",
+   "volume": "2007",
+   "year": "2007",
+   "owned": false
+  },
+  {
+   "order": 67,
+   "series": "Sub-Mariner",
+   "issue": "2",
+   "volume": "2007",
+   "year": "2007",
+   "owned": false
+  },
+  {
+   "order": 68,
+   "series": "Sub-Mariner",
+   "issue": "3",
+   "volume": "2007",
+   "year": "2007",
+   "owned": false
+  },
+  {
+   "order": 69,
+   "series": "Sub-Mariner",
+   "issue": "4",
+   "volume": "2007",
+   "year": "2007",
+   "owned": false
+  },
+  {
+   "order": 70,
+   "series": "Sub-Mariner",
+   "issue": "5",
+   "volume": "2007",
+   "year": "2007",
+   "owned": false
+  },
+  {
+   "order": 71,
+   "series": "Sub-Mariner",
+   "issue": "6",
+   "volume": "2007",
+   "year": "2008",
+   "owned": false
+  },
+  {
+   "order": 72,
+   "series": "The Order",
+   "issue": "1",
+   "volume": "2007",
+   "year": "2007",
+   "owned": false
+  },
+  {
+   "order": 73,
+   "series": "The Order",
+   "issue": "2",
+   "volume": "2007",
+   "year": "2007",
+   "owned": false
+  },
+  {
+   "order": 74,
+   "series": "The Order",
+   "issue": "3",
+   "volume": "2007",
+   "year": "2007",
+   "owned": false
+  },
+  {
+   "order": 75,
+   "series": "The Order",
+   "issue": "4",
+   "volume": "2007",
+   "year": "2007",
+   "owned": false
+  },
+  {
+   "order": 76,
+   "series": "Penance: Relentless",
+   "issue": "1",
+   "volume": "2007",
+   "year": "2007",
+   "owned": false
+  },
+  {
+   "order": 77,
+   "series": "Penance: Relentless",
+   "issue": "2",
+   "volume": "2007",
+   "year": "2007",
+   "owned": false
+  },
+  {
+   "order": 78,
+   "series": "Penance: Relentless",
+   "issue": "3",
+   "volume": "2007",
+   "year": "2008",
+   "owned": false
+  },
+  {
+   "order": 79,
+   "series": "Penance: Relentless",
+   "issue": "4",
+   "volume": "2007",
+   "year": "2008",
+   "owned": false
+  },
+  {
+   "order": 80,
+   "series": "Penance: Relentless",
+   "issue": "5",
+   "volume": "2007",
+   "year": "2008",
+   "owned": false
+  }
+ ]
+}

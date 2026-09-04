@@ -1,0 +1,2432 @@
+{
+ "arc": "Dark Reign",
+ "slug": "dark-reign",
+ "issue_count": 303,
+ "owned_count": 39,
+ "entries": [
+  {
+   "order": 1,
+   "series": "Thunderbolts",
+   "issue": "126",
+   "volume": "2006",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 2,
+   "series": "Thunderbolts",
+   "issue": "127",
+   "volume": "2006",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 3,
+   "series": "Secret Invasion: Dark Reign",
+   "issue": "1",
+   "volume": "2009",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 4,
+   "series": "New Avengers",
+   "issue": "48",
+   "volume": "2004",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 5,
+   "series": "Invincible Iron Man",
+   "issue": "8",
+   "volume": "2008",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 6,
+   "series": "Avengers: The Initiative",
+   "issue": "20",
+   "volume": "2007",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 7,
+   "series": "Thunderbolts",
+   "issue": "128",
+   "volume": "2006",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 8,
+   "series": "Thunderbolts",
+   "issue": "129",
+   "volume": "2006",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 9,
+   "series": "Avengers: The Initiative",
+   "issue": "21",
+   "volume": "2007",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 10,
+   "series": "Avengers: The Initiative",
+   "issue": "22",
+   "volume": "2007",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 11,
+   "series": "Avengers: The Initiative",
+   "issue": "23",
+   "volume": "2007",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 12,
+   "series": "Avengers: The Initiative",
+   "issue": "24",
+   "volume": "2007",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 13,
+   "series": "Secret Invasion: Requiem",
+   "issue": "1",
+   "volume": "2009",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 14,
+   "series": "New Avengers",
+   "issue": "49",
+   "volume": "2004",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 15,
+   "series": "Dark Reign Files",
+   "issue": "1",
+   "volume": "2009",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 16,
+   "series": "Dark Avengers",
+   "issue": "1",
+   "volume": "2009",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 17,
+   "series": "New Avengers",
+   "issue": "50",
+   "volume": "2004",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 18,
+   "series": "Avengers: The Initiative",
+   "issue": "25",
+   "volume": "2007",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 19,
+   "series": "Dark Reign: Young Avengers",
+   "issue": "1",
+   "volume": "2009",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 20,
+   "series": "Dark Reign: Young Avengers",
+   "issue": "2",
+   "volume": "2009",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 21,
+   "series": "Dark Reign: Young Avengers",
+   "issue": "3",
+   "volume": "2009",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 22,
+   "series": "Dark Reign: Young Avengers",
+   "issue": "4",
+   "volume": "2009",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 23,
+   "series": "Dark Reign: Young Avengers",
+   "issue": "5",
+   "volume": "2009",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 24,
+   "series": "Wolverine: Origins",
+   "issue": "33",
+   "volume": "2006",
+   "year": "2009",
+   "owned": true
+  },
+  {
+   "order": 25,
+   "series": "Wolverine: Origins",
+   "issue": "34",
+   "volume": "2006",
+   "year": "2009",
+   "owned": true
+  },
+  {
+   "order": 26,
+   "series": "Wolverine: Origins",
+   "issue": "35",
+   "volume": "2006",
+   "year": "2009",
+   "owned": true
+  },
+  {
+   "order": 27,
+   "series": "Wolverine: Origins",
+   "issue": "36",
+   "volume": "2006",
+   "year": "2009",
+   "owned": true
+  },
+  {
+   "order": 28,
+   "series": "Deadpool",
+   "issue": "6",
+   "volume": "2008",
+   "year": "2009",
+   "owned": true
+  },
+  {
+   "order": 29,
+   "series": "Deadpool",
+   "issue": "7",
+   "volume": "2008",
+   "year": "2009",
+   "owned": true
+  },
+  {
+   "order": 30,
+   "series": "Deadpool",
+   "issue": "8",
+   "volume": "2008",
+   "year": "2009",
+   "owned": true
+  },
+  {
+   "order": 31,
+   "series": "Thunderbolts",
+   "issue": "130",
+   "volume": "2006",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 32,
+   "series": "Deadpool",
+   "issue": "9",
+   "volume": "2008",
+   "year": "2009",
+   "owned": true
+  },
+  {
+   "order": 33,
+   "series": "Thunderbolts",
+   "issue": "131",
+   "volume": "2006",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 34,
+   "series": "Dark Avengers",
+   "issue": "2",
+   "volume": "2009",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 35,
+   "series": "Dark Avengers",
+   "issue": "3",
+   "volume": "2009",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 36,
+   "series": "Dark Avengers",
+   "issue": "4",
+   "volume": "2009",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 37,
+   "series": "Dark Avengers",
+   "issue": "5",
+   "volume": "2009",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 38,
+   "series": "Dark Avengers",
+   "issue": "6",
+   "volume": "2009",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 39,
+   "series": "The Mighty Avengers",
+   "issue": "21",
+   "volume": "2007",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 40,
+   "series": "The Mighty Avengers",
+   "issue": "22",
+   "volume": "2007",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 41,
+   "series": "The Mighty Avengers",
+   "issue": "23",
+   "volume": "2007",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 42,
+   "series": "Dark Reign: The Cabal",
+   "issue": "1",
+   "volume": "2009",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 43,
+   "series": "Thor",
+   "issue": "600",
+   "volume": "2007",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 44,
+   "series": "Thor",
+   "issue": "601",
+   "volume": "2007",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 45,
+   "series": "Thor",
+   "issue": "602",
+   "volume": "2007",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 46,
+   "series": "Thor",
+   "issue": "603",
+   "volume": "2007",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 47,
+   "series": "Thor Giant-Size Finale",
+   "issue": "1",
+   "volume": "2010",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 48,
+   "series": "Dark Reign: Fantastic Four",
+   "issue": "1",
+   "volume": "2009",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 49,
+   "series": "Dark Reign: Fantastic Four",
+   "issue": "2",
+   "volume": "2009",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 50,
+   "series": "Dark Reign: Fantastic Four",
+   "issue": "3",
+   "volume": "2009",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 51,
+   "series": "Dark Reign: Fantastic Four",
+   "issue": "4",
+   "volume": "2009",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 52,
+   "series": "Dark Reign: Fantastic Four",
+   "issue": "5",
+   "volume": "2009",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 53,
+   "series": "Dark Wolverine",
+   "issue": "75",
+   "volume": "2009",
+   "year": "2009",
+   "owned": true
+  },
+  {
+   "order": 54,
+   "series": "Dark Wolverine",
+   "issue": "76",
+   "volume": "2009",
+   "year": "2009",
+   "owned": true
+  },
+  {
+   "order": 55,
+   "series": "Dark Wolverine",
+   "issue": "77",
+   "volume": "2009",
+   "year": "2009",
+   "owned": true
+  },
+  {
+   "order": 56,
+   "series": "Ms. Marvel",
+   "issue": "34",
+   "volume": "2006",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 57,
+   "series": "Ms. Marvel",
+   "issue": "35",
+   "volume": "2006",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 58,
+   "series": "Ms. Marvel",
+   "issue": "36",
+   "volume": "2006",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 59,
+   "series": "Ms. Marvel",
+   "issue": "37",
+   "volume": "2006",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 60,
+   "series": "Ms. Marvel",
+   "issue": "38",
+   "volume": "2006",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 61,
+   "series": "Ms. Marvel",
+   "issue": "39",
+   "volume": "2006",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 62,
+   "series": "Ms. Marvel",
+   "issue": "40",
+   "volume": "2006",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 63,
+   "series": "Ms. Marvel",
+   "issue": "41",
+   "volume": "2006",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 64,
+   "series": "Ms. Marvel",
+   "issue": "42",
+   "volume": "2006",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 65,
+   "series": "Ms. Marvel",
+   "issue": "43",
+   "volume": "2006",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 66,
+   "series": "Ms. Marvel",
+   "issue": "44",
+   "volume": "2006",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 67,
+   "series": "Ms. Marvel",
+   "issue": "45",
+   "volume": "2006",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 68,
+   "series": "Ms. Marvel",
+   "issue": "46",
+   "volume": "2006",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 69,
+   "series": "Dark Reign: Elektra",
+   "issue": "1",
+   "volume": "2009",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 70,
+   "series": "Dark Reign: Elektra",
+   "issue": "2",
+   "volume": "2009",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 71,
+   "series": "Dark Reign: Elektra",
+   "issue": "3",
+   "volume": "2009",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 72,
+   "series": "Dark Reign: Elektra",
+   "issue": "4",
+   "volume": "2009",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 73,
+   "series": "Dark Reign: Elektra",
+   "issue": "5",
+   "volume": "2009",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 74,
+   "series": "Spider-Woman",
+   "issue": "1",
+   "volume": "2009",
+   "year": "2009",
+   "owned": true
+  },
+  {
+   "order": 75,
+   "series": "Spider-Woman",
+   "issue": "2",
+   "volume": "2009",
+   "year": "2009",
+   "owned": true
+  },
+  {
+   "order": 76,
+   "series": "Spider-Woman",
+   "issue": "3",
+   "volume": "2009",
+   "year": "2010",
+   "owned": true
+  },
+  {
+   "order": 77,
+   "series": "Spider-Woman",
+   "issue": "4",
+   "volume": "2009",
+   "year": "2010",
+   "owned": true
+  },
+  {
+   "order": 78,
+   "series": "Spider-Woman",
+   "issue": "5",
+   "volume": "2009",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 79,
+   "series": "Spider-Woman",
+   "issue": "6",
+   "volume": "2009",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 80,
+   "series": "Spider-Woman",
+   "issue": "7",
+   "volume": "2009",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 81,
+   "series": "Captain America",
+   "issue": "49",
+   "volume": "2004",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 82,
+   "series": "Captain America",
+   "issue": "50",
+   "volume": "2004",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 83,
+   "series": "Dark Reign: New Nation",
+   "issue": "1",
+   "volume": "2009",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 84,
+   "series": "Skrull Kill Krew",
+   "issue": "1",
+   "volume": "2009",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 85,
+   "series": "Skrull Kill Krew",
+   "issue": "2",
+   "volume": "2009",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 86,
+   "series": "Skrull Kill Krew",
+   "issue": "3",
+   "volume": "2009",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 87,
+   "series": "Skrull Kill Krew",
+   "issue": "4",
+   "volume": "2009",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 88,
+   "series": "Skrull Kill Krew",
+   "issue": "5",
+   "volume": "2009",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 89,
+   "series": "New Avengers: The Reunion",
+   "issue": "1",
+   "volume": "2009",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 90,
+   "series": "New Avengers: The Reunion",
+   "issue": "2",
+   "volume": "2009",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 91,
+   "series": "New Avengers: The Reunion",
+   "issue": "3",
+   "volume": "2009",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 92,
+   "series": "New Avengers: The Reunion",
+   "issue": "4",
+   "volume": "2009",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 93,
+   "series": "Secret Warriors",
+   "issue": "1",
+   "volume": "2009",
+   "year": "2009",
+   "owned": true
+  },
+  {
+   "order": 94,
+   "series": "Secret Warriors",
+   "issue": "2",
+   "volume": "2009",
+   "year": "2009",
+   "owned": true
+  },
+  {
+   "order": 95,
+   "series": "Secret Warriors",
+   "issue": "3",
+   "volume": "2009",
+   "year": "2009",
+   "owned": true
+  },
+  {
+   "order": 96,
+   "series": "Secret Warriors",
+   "issue": "4",
+   "volume": "2009",
+   "year": "2009",
+   "owned": true
+  },
+  {
+   "order": 97,
+   "series": "Secret Warriors",
+   "issue": "5",
+   "volume": "2009",
+   "year": "2009",
+   "owned": true
+  },
+  {
+   "order": 98,
+   "series": "Secret Warriors",
+   "issue": "6",
+   "volume": "2009",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 99,
+   "series": "Agents of Atlas",
+   "issue": "1",
+   "volume": "2009",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 100,
+   "series": "Agents of Atlas",
+   "issue": "2",
+   "volume": "2009",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 101,
+   "series": "Agents of Atlas",
+   "issue": "3",
+   "volume": "2009",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 102,
+   "series": "Agents of Atlas",
+   "issue": "4",
+   "volume": "2009",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 103,
+   "series": "Agents of Atlas",
+   "issue": "5",
+   "volume": "2009",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 104,
+   "series": "Agents of Atlas",
+   "issue": "6",
+   "volume": "2009",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 105,
+   "series": "Agents of Atlas",
+   "issue": "7",
+   "volume": "2009",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 106,
+   "series": "Agents of Atlas",
+   "issue": "8",
+   "volume": "2009",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 107,
+   "series": "Black Panther",
+   "issue": "1",
+   "volume": "2009",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 108,
+   "series": "Black Panther",
+   "issue": "2",
+   "volume": "2009",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 109,
+   "series": "Black Panther",
+   "issue": "3",
+   "volume": "2009",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 110,
+   "series": "Black Panther",
+   "issue": "4",
+   "volume": "2009",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 111,
+   "series": "Black Panther",
+   "issue": "5",
+   "volume": "2009",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 112,
+   "series": "Black Panther",
+   "issue": "6",
+   "volume": "2009",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 113,
+   "series": "Dark Reign: The Hood",
+   "issue": "1",
+   "volume": "2009",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 114,
+   "series": "Dark Reign: The Hood",
+   "issue": "2",
+   "volume": "2009",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 115,
+   "series": "Dark Reign: The Hood",
+   "issue": "3",
+   "volume": "2009",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 116,
+   "series": "Dark Reign: The Hood",
+   "issue": "4",
+   "volume": "2009",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 117,
+   "series": "Dark Reign: The Hood",
+   "issue": "5",
+   "volume": "2009",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 118,
+   "series": "Dark Reign: Mister Negative",
+   "issue": "1",
+   "volume": "2009",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 119,
+   "series": "Dark Reign: Mister Negative",
+   "issue": "2",
+   "volume": "2009",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 120,
+   "series": "Dark Reign: Mister Negative",
+   "issue": "3",
+   "volume": "2009",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 121,
+   "series": "Punisher",
+   "issue": "1",
+   "volume": "2009",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 122,
+   "series": "Punisher",
+   "issue": "2",
+   "volume": "2009",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 123,
+   "series": "Punisher",
+   "issue": "3",
+   "volume": "2009",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 124,
+   "series": "Punisher",
+   "issue": "4",
+   "volume": "2009",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 125,
+   "series": "Punisher",
+   "issue": "5",
+   "volume": "2009",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 126,
+   "series": "Amazing Spider-Man Presents: Anti-Venom - New Ways To Live",
+   "issue": "1",
+   "volume": "2009",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 127,
+   "series": "Amazing Spider-Man Presents: Anti-Venom - New Ways To Live",
+   "issue": "2",
+   "volume": "2009",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 128,
+   "series": "Amazing Spider-Man Presents: Anti-Venom - New Ways To Live",
+   "issue": "3",
+   "volume": "2009",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 129,
+   "series": "Punisher",
+   "issue": "6",
+   "volume": "2009",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 130,
+   "series": "Punisher",
+   "issue": "7",
+   "volume": "2009",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 131,
+   "series": "Punisher",
+   "issue": "8",
+   "volume": "2009",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 132,
+   "series": "Punisher",
+   "issue": "9",
+   "volume": "2009",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 133,
+   "series": "Punisher",
+   "issue": "10",
+   "volume": "2009",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 134,
+   "series": "Dark Reign: Zodiac",
+   "issue": "1",
+   "volume": "2009",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 135,
+   "series": "Dark Reign: Zodiac",
+   "issue": "2",
+   "volume": "2009",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 136,
+   "series": "Dark Reign: Zodiac",
+   "issue": "3",
+   "volume": "2009",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 137,
+   "series": "All-New Savage She-Hulk",
+   "issue": "1",
+   "volume": "2009",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 138,
+   "series": "All-New Savage She-Hulk",
+   "issue": "2",
+   "volume": "2009",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 139,
+   "series": "All-New Savage She-Hulk",
+   "issue": "3",
+   "volume": "2009",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 140,
+   "series": "All-New Savage She-Hulk",
+   "issue": "4",
+   "volume": "2009",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 141,
+   "series": "S.W.O.R.D.",
+   "issue": "1",
+   "volume": "2010",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 142,
+   "series": "S.W.O.R.D.",
+   "issue": "2",
+   "volume": "2010",
+   "year": "2010",
+   "owned": true
+  },
+  {
+   "order": 143,
+   "series": "S.W.O.R.D.",
+   "issue": "3",
+   "volume": "2010",
+   "year": "2010",
+   "owned": true
+  },
+  {
+   "order": 144,
+   "series": "S.W.O.R.D.",
+   "issue": "4",
+   "volume": "2010",
+   "year": "2010",
+   "owned": true
+  },
+  {
+   "order": 145,
+   "series": "S.W.O.R.D.",
+   "issue": "5",
+   "volume": "2010",
+   "year": "2010",
+   "owned": true
+  },
+  {
+   "order": 146,
+   "series": "Vengeance of the Moon Knight",
+   "issue": "1",
+   "volume": "2009",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 147,
+   "series": "Vengeance of the Moon Knight",
+   "issue": "2",
+   "volume": "2009",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 148,
+   "series": "Vengeance of the Moon Knight",
+   "issue": "3",
+   "volume": "2009",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 149,
+   "series": "Vengeance of the Moon Knight",
+   "issue": "4",
+   "volume": "2009",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 150,
+   "series": "Vengeance of the Moon Knight",
+   "issue": "5",
+   "volume": "2009",
+   "year": "2010",
+   "owned": true
+  },
+  {
+   "order": 151,
+   "series": "Vengeance of the Moon Knight",
+   "issue": "6",
+   "volume": "2009",
+   "year": "2010",
+   "owned": true
+  },
+  {
+   "order": 152,
+   "series": "War Machine",
+   "issue": "1",
+   "volume": "2009",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 153,
+   "series": "War Machine",
+   "issue": "2",
+   "volume": "2009",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 154,
+   "series": "War Machine",
+   "issue": "3",
+   "volume": "2009",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 155,
+   "series": "War Machine",
+   "issue": "4",
+   "volume": "2009",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 156,
+   "series": "War Machine",
+   "issue": "5",
+   "volume": "2009",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 157,
+   "series": "Incredible Hercules",
+   "issue": "127",
+   "volume": "2008",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 158,
+   "series": "Incredible Hercules",
+   "issue": "128",
+   "volume": "2008",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 159,
+   "series": "M.O.D.O.K. Reign Delay",
+   "issue": "1",
+   "volume": "2009",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 160,
+   "series": "Dark Reign: The Goblin Legacy",
+   "issue": "1",
+   "volume": "2009",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 161,
+   "series": "Dark Reign: Made Men",
+   "issue": "1",
+   "volume": "2009",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 162,
+   "series": "The Mighty Avengers",
+   "issue": "24",
+   "volume": "2007",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 163,
+   "series": "The Mighty Avengers",
+   "issue": "25",
+   "volume": "2007",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 164,
+   "series": "The Mighty Avengers",
+   "issue": "26",
+   "volume": "2007",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 165,
+   "series": "Captain America",
+   "issue": "600",
+   "volume": "2004",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 166,
+   "series": "The Amazing Spider-Man",
+   "issue": "595",
+   "volume": "1963",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 167,
+   "series": "The Amazing Spider-Man",
+   "issue": "596",
+   "volume": "1963",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 168,
+   "series": "The Amazing Spider-Man",
+   "issue": "597",
+   "volume": "1963",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 169,
+   "series": "The Amazing Spider-Man",
+   "issue": "598",
+   "volume": "1963",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 170,
+   "series": "The Amazing Spider-Man",
+   "issue": "599",
+   "volume": "1963",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 171,
+   "series": "Dark Reign: Sinister Spider-Man",
+   "issue": "1",
+   "volume": "2009",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 172,
+   "series": "Dark Reign: Sinister Spider-Man",
+   "issue": "2",
+   "volume": "2009",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 173,
+   "series": "Dark Reign: Sinister Spider-Man",
+   "issue": "3",
+   "volume": "2009",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 174,
+   "series": "Dark Reign: Sinister Spider-Man",
+   "issue": "4",
+   "volume": "2009",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 175,
+   "series": "Dark Reign: Hawkeye",
+   "issue": "1",
+   "volume": "2009",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 176,
+   "series": "Dark Reign: Hawkeye",
+   "issue": "2",
+   "volume": "2009",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 177,
+   "series": "Dark Reign: Hawkeye",
+   "issue": "3",
+   "volume": "2009",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 178,
+   "series": "Dark Reign: Hawkeye",
+   "issue": "4",
+   "volume": "2009",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 179,
+   "series": "Dark Reign: Hawkeye",
+   "issue": "5",
+   "volume": "2009",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 180,
+   "series": "Dark Wolverine",
+   "issue": "78",
+   "volume": "2009",
+   "year": "2009",
+   "owned": true
+  },
+  {
+   "order": 181,
+   "series": "Dark Wolverine",
+   "issue": "79",
+   "volume": "2009",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 182,
+   "series": "Dark Wolverine",
+   "issue": "80",
+   "volume": "2009",
+   "year": "2010",
+   "owned": true
+  },
+  {
+   "order": 183,
+   "series": "War Machine",
+   "issue": "6",
+   "volume": "2009",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 184,
+   "series": "War Machine",
+   "issue": "7",
+   "volume": "2009",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 185,
+   "series": "War Machine",
+   "issue": "8",
+   "volume": "2009",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 186,
+   "series": "War Machine",
+   "issue": "9",
+   "volume": "2009",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 187,
+   "series": "War Machine",
+   "issue": "10",
+   "volume": "2009",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 188,
+   "series": "War Machine",
+   "issue": "11",
+   "volume": "2009",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 189,
+   "series": "War Machine",
+   "issue": "12",
+   "volume": "2009",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 190,
+   "series": "Invincible Iron Man",
+   "issue": "9",
+   "volume": "2008",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 191,
+   "series": "Invincible Iron Man",
+   "issue": "10",
+   "volume": "2008",
+   "year": "2009",
+   "owned": true
+  },
+  {
+   "order": 192,
+   "series": "Invincible Iron Man",
+   "issue": "11",
+   "volume": "2008",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 193,
+   "series": "Invincible Iron Man",
+   "issue": "12",
+   "volume": "2008",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 194,
+   "series": "Invincible Iron Man",
+   "issue": "13",
+   "volume": "2008",
+   "year": "2009",
+   "owned": true
+  },
+  {
+   "order": 195,
+   "series": "Avengers: The Initiative",
+   "issue": "26",
+   "volume": "2007",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 196,
+   "series": "Avengers: The Initiative",
+   "issue": "27",
+   "volume": "2007",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 197,
+   "series": "Avengers: The Initiative",
+   "issue": "28",
+   "volume": "2007",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 198,
+   "series": "Dark Reign: Lethal Legion",
+   "issue": "1",
+   "volume": "2009",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 199,
+   "series": "Dark Reign: Lethal Legion",
+   "issue": "2",
+   "volume": "2009",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 200,
+   "series": "Dark Reign: Lethal Legion",
+   "issue": "3",
+   "volume": "2009",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 201,
+   "series": "Deadpool",
+   "issue": "10",
+   "volume": "2008",
+   "year": "2009",
+   "owned": true
+  },
+  {
+   "order": 202,
+   "series": "Deadpool",
+   "issue": "11",
+   "volume": "2008",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 203,
+   "series": "Deadpool",
+   "issue": "12",
+   "volume": "2008",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 204,
+   "series": "The Mighty Avengers",
+   "issue": "27",
+   "volume": "2007",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 205,
+   "series": "The Mighty Avengers",
+   "issue": "28",
+   "volume": "2007",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 206,
+   "series": "The Mighty Avengers",
+   "issue": "29",
+   "volume": "2007",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 207,
+   "series": "The Mighty Avengers",
+   "issue": "30",
+   "volume": "2007",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 208,
+   "series": "The Mighty Avengers",
+   "issue": "31",
+   "volume": "2007",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 209,
+   "series": "The Mighty Avengers",
+   "issue": "32",
+   "volume": "2007",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 210,
+   "series": "The Mighty Avengers",
+   "issue": "33",
+   "volume": "2007",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 211,
+   "series": "New Avengers",
+   "issue": "51",
+   "volume": "2004",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 212,
+   "series": "New Avengers",
+   "issue": "52",
+   "volume": "2004",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 213,
+   "series": "New Avengers",
+   "issue": "53",
+   "volume": "2004",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 214,
+   "series": "New Avengers",
+   "issue": "54",
+   "volume": "2004",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 215,
+   "series": "New Avengers",
+   "issue": "55",
+   "volume": "2004",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 216,
+   "series": "New Avengers",
+   "issue": "56",
+   "volume": "2004",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 217,
+   "series": "New Avengers",
+   "issue": "57",
+   "volume": "2004",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 218,
+   "series": "New Avengers",
+   "issue": "58",
+   "volume": "2004",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 219,
+   "series": "New Avengers",
+   "issue": "59",
+   "volume": "2004",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 220,
+   "series": "New Avengers",
+   "issue": "60",
+   "volume": "2004",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 221,
+   "series": "Uncanny X-Men Annual",
+   "issue": "2",
+   "volume": "2006",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 222,
+   "series": "Dark X-Men: The Confession",
+   "issue": "1",
+   "volume": "2009",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 223,
+   "series": "Dark Avengers/Uncanny X-Men: Utopia",
+   "issue": "1",
+   "volume": "2009",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 224,
+   "series": "X-Men: Legacy",
+   "issue": "226",
+   "volume": "2008",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 225,
+   "series": "X-Men: Legacy",
+   "issue": "227",
+   "volume": "2008",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 226,
+   "series": "The Uncanny X-Men",
+   "issue": "513",
+   "volume": "1981",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 227,
+   "series": "Dark X-Men: The Beginning",
+   "issue": "1",
+   "volume": "2009",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 228,
+   "series": "Dark Avengers",
+   "issue": "7",
+   "volume": "2009",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 229,
+   "series": "Dark X-Men: The Beginning",
+   "issue": "2",
+   "volume": "2009",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 230,
+   "series": "The Uncanny X-Men",
+   "issue": "514",
+   "volume": "1981",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 231,
+   "series": "Dark Avengers",
+   "issue": "8",
+   "volume": "2009",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 232,
+   "series": "Dark X-Men: The Beginning",
+   "issue": "3",
+   "volume": "2009",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 233,
+   "series": "Dark Avengers/Uncanny X-Men: Exodus",
+   "issue": "1",
+   "volume": "2009",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 234,
+   "series": "Dark Reign: The List - X-Men",
+   "issue": "1",
+   "volume": "2009",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 235,
+   "series": "Dark X-Men",
+   "issue": "1",
+   "volume": "2010",
+   "year": "2010",
+   "owned": true
+  },
+  {
+   "order": 236,
+   "series": "Dark X-Men",
+   "issue": "2",
+   "volume": "2010",
+   "year": "2010",
+   "owned": true
+  },
+  {
+   "order": 237,
+   "series": "Dark X-Men",
+   "issue": "3",
+   "volume": "2010",
+   "year": "2010",
+   "owned": true
+  },
+  {
+   "order": 238,
+   "series": "Dark X-Men",
+   "issue": "4",
+   "volume": "2010",
+   "year": "2010",
+   "owned": true
+  },
+  {
+   "order": 239,
+   "series": "Dark X-Men",
+   "issue": "5",
+   "volume": "2010",
+   "year": "2010",
+   "owned": true
+  },
+  {
+   "order": 240,
+   "series": "Planet Skaar Prologue",
+   "issue": "1",
+   "volume": "2009",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 241,
+   "series": "Skaar: Son of Hulk",
+   "issue": "11",
+   "volume": "2008",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 242,
+   "series": "Skaar: Son of Hulk",
+   "issue": "12",
+   "volume": "2008",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 243,
+   "series": "Incredible Hulk",
+   "issue": "600",
+   "volume": "2009",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 244,
+   "series": "Hulk",
+   "issue": "13",
+   "volume": "2008",
+   "year": "2009",
+   "owned": true
+  },
+  {
+   "order": 245,
+   "series": "Incredible Hulk",
+   "issue": "601",
+   "volume": "2009",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 246,
+   "series": "Incredible Hulk",
+   "issue": "602",
+   "volume": "2009",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 247,
+   "series": "Incredible Hulk",
+   "issue": "603",
+   "volume": "2009",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 248,
+   "series": "Dark Reign: The List - Hulk",
+   "issue": "1",
+   "volume": "2009",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 249,
+   "series": "Incredible Hulk",
+   "issue": "604",
+   "volume": "2009",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 250,
+   "series": "Incredible Hulk",
+   "issue": "605",
+   "volume": "2009",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 251,
+   "series": "Avengers: The Initiative",
+   "issue": "29",
+   "volume": "2007",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 252,
+   "series": "Avengers: The Initiative",
+   "issue": "30",
+   "volume": "2007",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 253,
+   "series": "Dark Avengers: Ares",
+   "issue": "1",
+   "volume": "2009",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 254,
+   "series": "Dark Avengers: Ares",
+   "issue": "2",
+   "volume": "2009",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 255,
+   "series": "Dark Avengers: Ares",
+   "issue": "3",
+   "volume": "2009",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 256,
+   "series": "Dark Reign: The List - Daredevil",
+   "issue": "1",
+   "volume": "2009",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 257,
+   "series": "Dark Wolverine",
+   "issue": "81",
+   "volume": "2009",
+   "year": "2010",
+   "owned": true
+  },
+  {
+   "order": 258,
+   "series": "Dark Reign: The List - Wolverine",
+   "issue": "1",
+   "volume": "2009",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 259,
+   "series": "Dark Avengers",
+   "issue": "9",
+   "volume": "2009",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 260,
+   "series": "Dark Avengers",
+   "issue": "10",
+   "volume": "2009",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 261,
+   "series": "Dark Avengers",
+   "issue": "11",
+   "volume": "2009",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 262,
+   "series": "Dark Avengers",
+   "issue": "12",
+   "volume": "2009",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 263,
+   "series": "Thunderbolts",
+   "issue": "132",
+   "volume": "2006",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 264,
+   "series": "Thunderbolts",
+   "issue": "133",
+   "volume": "2006",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 265,
+   "series": "Thunderbolts",
+   "issue": "134",
+   "volume": "2006",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 266,
+   "series": "Secret Warriors",
+   "issue": "7",
+   "volume": "2009",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 267,
+   "series": "Thunderbolts",
+   "issue": "135",
+   "volume": "2006",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 268,
+   "series": "Secret Warriors",
+   "issue": "8",
+   "volume": "2009",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 269,
+   "series": "Thunderbolts",
+   "issue": "136",
+   "volume": "2006",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 270,
+   "series": "Secret Warriors",
+   "issue": "9",
+   "volume": "2009",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 271,
+   "series": "Dark Reign: The List - Secret Warriors",
+   "issue": "1",
+   "volume": "2009",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 272,
+   "series": "Secret Warriors",
+   "issue": "10",
+   "volume": "2009",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 273,
+   "series": "Captain America: Reborn",
+   "issue": "1",
+   "volume": "2009",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 274,
+   "series": "Captain America: Reborn",
+   "issue": "2",
+   "volume": "2009",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 275,
+   "series": "Captain America: Reborn",
+   "issue": "3",
+   "volume": "2009",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 276,
+   "series": "Captain America: Reborn",
+   "issue": "4",
+   "volume": "2009",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 277,
+   "series": "Captain America: Reborn",
+   "issue": "5",
+   "volume": "2009",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 278,
+   "series": "Captain America: Reborn",
+   "issue": "6",
+   "volume": "2009",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 279,
+   "series": "Dark Reign: The List - Avengers",
+   "issue": "1",
+   "volume": "2009",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 280,
+   "series": "New Avengers Annual",
+   "issue": "3",
+   "volume": "2006",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 281,
+   "series": "The Mighty Avengers",
+   "issue": "34",
+   "volume": "2007",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 282,
+   "series": "Dark Avengers Annual",
+   "issue": "1",
+   "volume": "2010",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 283,
+   "series": "Invincible Iron Man",
+   "issue": "14",
+   "volume": "2008",
+   "year": "2009",
+   "owned": true
+  },
+  {
+   "order": 284,
+   "series": "Invincible Iron Man",
+   "issue": "15",
+   "volume": "2008",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 285,
+   "series": "Invincible Iron Man",
+   "issue": "16",
+   "volume": "2008",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 286,
+   "series": "Invincible Iron Man",
+   "issue": "17",
+   "volume": "2008",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 287,
+   "series": "Thunderbolts",
+   "issue": "137",
+   "volume": "2006",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 288,
+   "series": "Invincible Iron Man",
+   "issue": "18",
+   "volume": "2008",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 289,
+   "series": "Invincible Iron Man",
+   "issue": "19",
+   "volume": "2008",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 290,
+   "series": "Dark Reign: The List - Punisher",
+   "issue": "1",
+   "volume": "2009",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 291,
+   "series": "Dark Reign: The List - Amazing Spider-Man",
+   "issue": "1",
+   "volume": "2009",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 292,
+   "series": "Thunderbolts",
+   "issue": "138",
+   "volume": "2006",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 293,
+   "series": "Thunderbolts",
+   "issue": "139",
+   "volume": "2006",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 294,
+   "series": "Thunderbolts",
+   "issue": "140",
+   "volume": "2006",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 295,
+   "series": "Invincible Iron Man",
+   "issue": "20",
+   "volume": "2008",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 296,
+   "series": "Invincible Iron Man",
+   "issue": "21",
+   "volume": "2008",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 297,
+   "series": "Invincible Iron Man",
+   "issue": "22",
+   "volume": "2008",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 298,
+   "series": "Invincible Iron Man",
+   "issue": "23",
+   "volume": "2008",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 299,
+   "series": "Invincible Iron Man",
+   "issue": "24",
+   "volume": "2008",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 300,
+   "series": "Thor",
+   "issue": "604",
+   "volume": "2007",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 301,
+   "series": "Thor",
+   "issue": "605",
+   "volume": "2007",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 302,
+   "series": "Thor",
+   "issue": "606",
+   "volume": "2007",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 303,
+   "series": "Captain America Reborn: Who Will Wield The Shield?",
+   "issue": "1",
+   "volume": "2009",
+   "year": "2010",
+   "owned": false
+  }
+ ]
+}

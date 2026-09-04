@@ -1,0 +1,104 @@
+{
+ "arc": "Year of the Villain",
+ "slug": "year-of-the-villain",
+ "issue_count": 12,
+ "owned_count": 11,
+ "entries": [
+  {
+   "order": 1,
+   "series": "DC's Year of the Villain Special",
+   "issue": "1",
+   "volume": "2019",
+   "year": "2019",
+   "owned": true
+  },
+  {
+   "order": 2,
+   "series": "Sinestro: Year of the Villain",
+   "issue": "1",
+   "volume": "2019",
+   "year": "2019",
+   "owned": true
+  },
+  {
+   "order": 3,
+   "series": "Black Mask: Year of the Villain",
+   "issue": "1",
+   "volume": "2019",
+   "year": "2019",
+   "owned": true
+  },
+  {
+   "order": 4,
+   "series": "Riddler: Year of the Villain",
+   "issue": "1",
+   "volume": "2019",
+   "year": "2019",
+   "owned": false
+  },
+  {
+   "order": 5,
+   "series": "Lex Luthor: Year of the Villain",
+   "issue": "1",
+   "volume": "2019",
+   "year": "2019",
+   "owned": true
+  },
+  {
+   "order": 6,
+   "series": "The Joker: Year of the Villain",
+   "issue": "1",
+   "volume": "2019",
+   "year": "2019",
+   "owned": true
+  },
+  {
+   "order": 7,
+   "series": "Ocean Master: Year of the Villain",
+   "issue": "1",
+   "volume": "2019",
+   "year": "2020",
+   "owned": true
+  },
+  {
+   "order": 8,
+   "series": "Black Adam: Year of the Villain",
+   "issue": "1",
+   "volume": "2019",
+   "year": "2019",
+   "owned": true
+  },
+  {
+   "order": 9,
+   "series": "Year of the Villain: Hell Arisen",
+   "issue": "1",
+   "volume": "2019",
+   "year": "2020",
+   "owned": true
+  },
+  {
+   "order": 10,
+   "series": "Year of the Villain: Hell Arisen",
+   "issue": "2",
+   "volume": "2019",
+   "year": "2020",
+   "owned": true
+  },
+  {
+   "order": 11,
+   "series": "Year of the Villain: Hell Arisen",
+   "issue": "3",
+   "volume": "2019",
+   "year": "2020",
+   "owned": true
+  },
+  {
+   "order": 12,
+   "series": "Year of the Villain: Hell Arisen",
+   "issue": "4",
+   "volume": "2019",
+   "year": "2020",
+   "owned": true
+  }
+ ]
+}

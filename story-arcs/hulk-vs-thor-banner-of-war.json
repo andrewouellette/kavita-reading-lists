@@ -1,0 +1,48 @@
+{
+ "arc": "Hulk vs. Thor: Banner of War",
+ "slug": "hulk-vs-thor-banner-of-war",
+ "issue_count": 5,
+ "owned_count": 5,
+ "entries": [
+  {
+   "order": 1,
+   "series": "Hulk vs. Thor: Banner of War Alpha",
+   "issue": "1",
+   "volume": "2022",
+   "year": "2022",
+   "owned": true
+  },
+  {
+   "order": 2,
+   "series": "Thor",
+   "issue": "25",
+   "volume": "2020",
+   "year": "2022",
+   "owned": true
+  },
+  {
+   "order": 3,
+   "series": "Hulk",
+   "issue": "7",
+   "volume": "2022",
+   "year": "2022",
+   "owned": true
+  },
+  {
+   "order": 4,
+   "series": "Thor",
+   "issue": "26",
+   "volume": "2020",
+   "year": "2022",
+   "owned": true
+  },
+  {
+   "order": 5,
+   "series": "Hulk",
+   "issue": "8",
+   "volume": "2022",
+   "year": "2022",
+   "owned": true
+  }
+ ]
+}

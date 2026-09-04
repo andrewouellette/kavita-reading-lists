@@ -1,0 +1,192 @@
+{
+ "arc": "Rise of the Third Army",
+ "slug": "rise-of-the-third-army",
+ "issue_count": 23,
+ "owned_count": 13,
+ "entries": [
+  {
+   "order": 1,
+   "series": "Green Lantern Annual",
+   "issue": "1",
+   "volume": "2012",
+   "year": "2012",
+   "owned": true
+  },
+  {
+   "order": 2,
+   "series": "Green Lantern Corps",
+   "issue": "0",
+   "volume": "2011",
+   "year": "2012",
+   "owned": true
+  },
+  {
+   "order": 3,
+   "series": "Red Lanterns",
+   "issue": "0",
+   "volume": "2011",
+   "year": "2012",
+   "owned": true
+  },
+  {
+   "order": 4,
+   "series": "Green Lantern: New Guardians",
+   "issue": "0",
+   "volume": "2011",
+   "year": "2012",
+   "owned": true
+  },
+  {
+   "order": 5,
+   "series": "Green Lantern",
+   "issue": "0",
+   "volume": "2011",
+   "year": "2012",
+   "owned": false
+  },
+  {
+   "order": 6,
+   "series": "Green Lantern",
+   "issue": "13",
+   "volume": "2011",
+   "year": "2012",
+   "owned": false
+  },
+  {
+   "order": 7,
+   "series": "Green Lantern Corps",
+   "issue": "13",
+   "volume": "2011",
+   "year": "2012",
+   "owned": true
+  },
+  {
+   "order": 8,
+   "series": "Green Lantern: New Guardians",
+   "issue": "13",
+   "volume": "2011",
+   "year": "2012",
+   "owned": true
+  },
+  {
+   "order": 9,
+   "series": "Red Lanterns",
+   "issue": "13",
+   "volume": "2011",
+   "year": "2012",
+   "owned": true
+  },
+  {
+   "order": 10,
+   "series": "Green Lantern",
+   "issue": "14",
+   "volume": "2011",
+   "year": "2013",
+   "owned": false
+  },
+  {
+   "order": 11,
+   "series": "Red Lanterns",
+   "issue": "14",
+   "volume": "2011",
+   "year": "2013",
+   "owned": true
+  },
+  {
+   "order": 12,
+   "series": "Green Lantern Corps",
+   "issue": "14",
+   "volume": "2011",
+   "year": "2013",
+   "owned": true
+  },
+  {
+   "order": 13,
+   "series": "Green Lantern: New Guardians",
+   "issue": "14",
+   "volume": "2011",
+   "year": "2013",
+   "owned": true
+  },
+  {
+   "order": 14,
+   "series": "Green Lantern",
+   "issue": "15",
+   "volume": "2011",
+   "year": "2013",
+   "owned": false
+  },
+  {
+   "order": 15,
+   "series": "Green Lantern Corps",
+   "issue": "15",
+   "volume": "2011",
+   "year": "2013",
+   "owned": true
+  },
+  {
+   "order": 16,
+   "series": "Red Lanterns",
+   "issue": "15",
+   "volume": "2011",
+   "year": "2013",
+   "owned": true
+  },
+  {
+   "order": 17,
+   "series": "Green Lantern: New Guardians",
+   "issue": "15",
+   "volume": "2011",
+   "year": "2013",
+   "owned": true
+  },
+  {
+   "order": 18,
+   "series": "Green Lantern: New Guardians Annual",
+   "issue": "1",
+   "volume": "2013",
+   "year": "2013",
+   "owned": false
+  },
+  {
+   "order": 19,
+   "series": "Green Lantern",
+   "issue": "16",
+   "volume": "2011",
+   "year": "2013",
+   "owned": false
+  },
+  {
+   "order": 20,
+   "series": "Green Lantern Corps",
+   "issue": "16",
+   "volume": "2011",
+   "year": "2013",
+   "owned": false
+  },
+  {
+   "order": 21,
+   "series": "Green Lantern: New Guardians",
+   "issue": "16",
+   "volume": "2011",
+   "year": "2013",
+   "owned": false
+  },
+  {
+   "order": 22,
+   "series": "Red Lanterns",
+   "issue": "16",
+   "volume": "2011",
+   "year": "2013",
+   "owned": false
+  },
+  {
+   "order": 23,
+   "series": "Green Lantern Corps Annual",
+   "issue": "1",
+   "volume": "2013",
+   "year": "2013",
+   "owned": false
+  }
+ ]
+}

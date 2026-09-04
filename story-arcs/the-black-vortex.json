@@ -1,0 +1,112 @@
+{
+ "arc": "The Black Vortex",
+ "slug": "the-black-vortex",
+ "issue_count": 13,
+ "owned_count": 3,
+ "entries": [
+  {
+   "order": 1,
+   "series": "Guardians of the Galaxy & X-Men: The Black Vortex Alpha",
+   "issue": "1",
+   "volume": "2015",
+   "year": "2015",
+   "owned": false
+  },
+  {
+   "order": 2,
+   "series": "Guardians of the Galaxy",
+   "issue": "24",
+   "volume": "2013",
+   "year": "2015",
+   "owned": false
+  },
+  {
+   "order": 3,
+   "series": "Legendary Star-Lord",
+   "issue": "9",
+   "volume": "2014",
+   "year": "2015",
+   "owned": false
+  },
+  {
+   "order": 4,
+   "series": "All-New X-Men",
+   "issue": "38",
+   "volume": "2012",
+   "year": "2015",
+   "owned": true
+  },
+  {
+   "order": 5,
+   "series": "All-New X-Men",
+   "issue": "39",
+   "volume": "2012",
+   "year": "2015",
+   "owned": true
+  },
+  {
+   "order": 6,
+   "series": "Guardians Team-Up",
+   "issue": "3",
+   "volume": "2015",
+   "year": "2015",
+   "owned": false
+  },
+  {
+   "order": 7,
+   "series": "Guardians of the Galaxy",
+   "issue": "25",
+   "volume": "2013",
+   "year": "2015",
+   "owned": false
+  },
+  {
+   "order": 8,
+   "series": "Nova",
+   "issue": "28",
+   "volume": "2013",
+   "year": "2015",
+   "owned": false
+  },
+  {
+   "order": 9,
+   "series": "Legendary Star-Lord",
+   "issue": "10",
+   "volume": "2014",
+   "year": "2015",
+   "owned": false
+  },
+  {
+   "order": 10,
+   "series": "Cyclops",
+   "issue": "12",
+   "volume": "2014",
+   "year": "2015",
+   "owned": false
+  },
+  {
+   "order": 11,
+   "series": "Captain Marvel",
+   "issue": "14",
+   "volume": "2014",
+   "year": "2015",
+   "owned": true
+  },
+  {
+   "order": 12,
+   "series": "Legendary Star-Lord",
+   "issue": "11",
+   "volume": "2014",
+   "year": "2015",
+   "owned": false
+  },
+  {
+   "order": 13,
+   "series": "Guardians of the Galaxy & X-Men: The Black Vortex Omega",
+   "issue": "1",
+   "volume": "2015",
+   "year": "2015",
+   "owned": false
+  }
+ ]
+}

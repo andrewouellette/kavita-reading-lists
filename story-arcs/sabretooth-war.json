@@ -1,0 +1,88 @@
+{
+ "arc": "Sabretooth War",
+ "slug": "sabretooth-war",
+ "issue_count": 10,
+ "owned_count": 9,
+ "entries": [
+  {
+   "order": 1,
+   "series": "Wolverine",
+   "issue": "41",
+   "volume": "2020",
+   "year": "2024",
+   "owned": true
+  },
+  {
+   "order": 2,
+   "series": "Wolverine",
+   "issue": "42",
+   "volume": "2020",
+   "year": "2024",
+   "owned": true
+  },
+  {
+   "order": 3,
+   "series": "Wolverine",
+   "issue": "43",
+   "volume": "2020",
+   "year": "2024",
+   "owned": true
+  },
+  {
+   "order": 4,
+   "series": "Wolverine",
+   "issue": "44",
+   "volume": "2020",
+   "year": "2024",
+   "owned": true
+  },
+  {
+   "order": 5,
+   "series": "Wolverine",
+   "issue": "45",
+   "volume": "2020",
+   "year": "2024",
+   "owned": true
+  },
+  {
+   "order": 6,
+   "series": "Wolverine",
+   "issue": "46",
+   "volume": "2020",
+   "year": "2024",
+   "owned": false
+  },
+  {
+   "order": 7,
+   "series": "Wolverine",
+   "issue": "47",
+   "volume": "2020",
+   "year": "2024",
+   "owned": true
+  },
+  {
+   "order": 8,
+   "series": "Wolverine",
+   "issue": "48",
+   "volume": "2020",
+   "year": "2024",
+   "owned": true
+  },
+  {
+   "order": 9,
+   "series": "Wolverine",
+   "issue": "49",
+   "volume": "2020",
+   "year": "2024",
+   "owned": true
+  },
+  {
+   "order": 10,
+   "series": "Wolverine",
+   "issue": "50",
+   "volume": "2020",
+   "year": "2024",
+   "owned": true
+  }
+ ]
+}

@@ -1,0 +1,264 @@
+{
+ "arc": "Back in Black",
+ "slug": "back-in-black",
+ "issue_count": 32,
+ "owned_count": 0,
+ "entries": [
+  {
+   "order": 1,
+   "series": "The Amazing Spider-Man",
+   "issue": "539",
+   "volume": "1963",
+   "year": "2007",
+   "owned": false
+  },
+  {
+   "order": 2,
+   "series": "The Amazing Spider-Man",
+   "issue": "540",
+   "volume": "1963",
+   "year": "2007",
+   "owned": false
+  },
+  {
+   "order": 3,
+   "series": "The Amazing Spider-Man",
+   "issue": "541",
+   "volume": "1963",
+   "year": "2007",
+   "owned": false
+  },
+  {
+   "order": 4,
+   "series": "The Amazing Spider-Man",
+   "issue": "542",
+   "volume": "1963",
+   "year": "2007",
+   "owned": false
+  },
+  {
+   "order": 5,
+   "series": "Fallen Son: The Death of Captain America",
+   "issue": "4",
+   "volume": "2007",
+   "year": "2007",
+   "owned": false
+  },
+  {
+   "order": 6,
+   "series": "New Avengers",
+   "issue": "26",
+   "volume": "2004",
+   "year": "2007",
+   "owned": false
+  },
+  {
+   "order": 7,
+   "series": "New Avengers",
+   "issue": "27",
+   "volume": "2004",
+   "year": "2007",
+   "owned": false
+  },
+  {
+   "order": 8,
+   "series": "New Avengers",
+   "issue": "28",
+   "volume": "2004",
+   "year": "2007",
+   "owned": false
+  },
+  {
+   "order": 9,
+   "series": "New Avengers",
+   "issue": "29",
+   "volume": "2004",
+   "year": "2007",
+   "owned": false
+  },
+  {
+   "order": 10,
+   "series": "New Avengers",
+   "issue": "30",
+   "volume": "2004",
+   "year": "2007",
+   "owned": false
+  },
+  {
+   "order": 11,
+   "series": "New Avengers",
+   "issue": "31",
+   "volume": "2004",
+   "year": "2007",
+   "owned": false
+  },
+  {
+   "order": 12,
+   "series": "New Avengers",
+   "issue": "32",
+   "volume": "2004",
+   "year": "2007",
+   "owned": false
+  },
+  {
+   "order": 13,
+   "series": "New Avengers",
+   "issue": "33",
+   "volume": "2004",
+   "year": "2007",
+   "owned": false
+  },
+  {
+   "order": 14,
+   "series": "New Avengers",
+   "issue": "34",
+   "volume": "2004",
+   "year": "2007",
+   "owned": false
+  },
+  {
+   "order": 15,
+   "series": "New Avengers",
+   "issue": "35",
+   "volume": "2004",
+   "year": "2007",
+   "owned": false
+  },
+  {
+   "order": 16,
+   "series": "New Avengers",
+   "issue": "36",
+   "volume": "2004",
+   "year": "2008",
+   "owned": false
+  },
+  {
+   "order": 17,
+   "series": "New Avengers",
+   "issue": "37",
+   "volume": "2004",
+   "year": "2008",
+   "owned": false
+  },
+  {
+   "order": 18,
+   "series": "New Avengers Annual",
+   "issue": "2",
+   "volume": "2006",
+   "year": "2008",
+   "owned": false
+  },
+  {
+   "order": 19,
+   "series": "Friendly Neighborhood Spider-Man",
+   "issue": "17",
+   "volume": "2005",
+   "year": "2007",
+   "owned": false
+  },
+  {
+   "order": 20,
+   "series": "Friendly Neighborhood Spider-Man",
+   "issue": "18",
+   "volume": "2005",
+   "year": "2007",
+   "owned": false
+  },
+  {
+   "order": 21,
+   "series": "Friendly Neighborhood Spider-Man",
+   "issue": "19",
+   "volume": "2005",
+   "year": "2007",
+   "owned": false
+  },
+  {
+   "order": 22,
+   "series": "Friendly Neighborhood Spider-Man",
+   "issue": "20",
+   "volume": "2005",
+   "year": "2007",
+   "owned": false
+  },
+  {
+   "order": 23,
+   "series": "Friendly Neighborhood Spider-Man",
+   "issue": "21",
+   "volume": "2005",
+   "year": "2007",
+   "owned": false
+  },
+  {
+   "order": 24,
+   "series": "Friendly Neighborhood Spider-Man",
+   "issue": "22",
+   "volume": "2005",
+   "year": "2007",
+   "owned": false
+  },
+  {
+   "order": 25,
+   "series": "Friendly Neighborhood Spider-Man",
+   "issue": "23",
+   "volume": "2005",
+   "year": "2007",
+   "owned": false
+  },
+  {
+   "order": 26,
+   "series": "The Sensational Spider-Man",
+   "issue": "35",
+   "volume": "2006",
+   "year": "2007",
+   "owned": false
+  },
+  {
+   "order": 27,
+   "series": "The Sensational Spider-Man",
+   "issue": "36",
+   "volume": "2006",
+   "year": "2007",
+   "owned": false
+  },
+  {
+   "order": 28,
+   "series": "The Sensational Spider-Man",
+   "issue": "37",
+   "volume": "2006",
+   "year": "2007",
+   "owned": false
+  },
+  {
+   "order": 29,
+   "series": "The Sensational Spider-Man",
+   "issue": "38",
+   "volume": "2006",
+   "year": "2007",
+   "owned": false
+  },
+  {
+   "order": 30,
+   "series": "The Sensational Spider-Man",
+   "issue": "39",
+   "volume": "2006",
+   "year": "2007",
+   "owned": false
+  },
+  {
+   "order": 31,
+   "series": "The Sensational Spider-Man",
+   "issue": "40",
+   "volume": "2006",
+   "year": "2007",
+   "owned": false
+  },
+  {
+   "order": 32,
+   "series": "The Amazing Spider-Man",
+   "issue": "543",
+   "volume": "1963",
+   "year": "2007",
+   "owned": false
+  }
+ ]
+}

@@ -1,0 +1,72 @@
+{
+ "arc": "Final Days of Superman",
+ "slug": "final-days-of-superman",
+ "issue_count": 8,
+ "owned_count": 0,
+ "entries": [
+  {
+   "order": 1,
+   "series": "Superman",
+   "issue": "51",
+   "volume": "2011",
+   "year": "2016",
+   "owned": false
+  },
+  {
+   "order": 2,
+   "series": "Batman/Superman",
+   "issue": "31",
+   "volume": "2013",
+   "year": "2016",
+   "owned": false
+  },
+  {
+   "order": 3,
+   "series": "Action Comics",
+   "issue": "51",
+   "volume": "2011",
+   "year": "2016",
+   "owned": false
+  },
+  {
+   "order": 4,
+   "series": "Superman/Wonder Woman",
+   "issue": "28",
+   "volume": "2013",
+   "year": "2016",
+   "owned": false
+  },
+  {
+   "order": 5,
+   "series": "Batman/Superman",
+   "issue": "32",
+   "volume": "2013",
+   "year": "2016",
+   "owned": false
+  },
+  {
+   "order": 6,
+   "series": "Action Comics",
+   "issue": "52",
+   "volume": "2011",
+   "year": "2016",
+   "owned": false
+  },
+  {
+   "order": 7,
+   "series": "Superman/Wonder Woman",
+   "issue": "29",
+   "volume": "2013",
+   "year": "2016",
+   "owned": false
+  },
+  {
+   "order": 8,
+   "series": "Superman",
+   "issue": "52",
+   "volume": "2011",
+   "year": "2016",
+   "owned": false
+  }
+ ]
+}

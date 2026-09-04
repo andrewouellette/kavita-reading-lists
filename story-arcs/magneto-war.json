@@ -1,0 +1,72 @@
+{
+ "arc": "Magneto War",
+ "slug": "magneto-war",
+ "issue_count": 8,
+ "owned_count": 0,
+ "entries": [
+  {
+   "order": 1,
+   "series": "X-Men: Magneto War",
+   "issue": "1",
+   "volume": "1999",
+   "year": "1999",
+   "owned": false
+  },
+  {
+   "order": 2,
+   "series": "The Uncanny X-Men",
+   "issue": "366",
+   "volume": "1981",
+   "year": "1999",
+   "owned": false
+  },
+  {
+   "order": 3,
+   "series": "X-Men",
+   "issue": "86",
+   "volume": "1991",
+   "year": "1999",
+   "owned": false
+  },
+  {
+   "order": 4,
+   "series": "The Uncanny X-Men",
+   "issue": "367",
+   "volume": "1981",
+   "year": "1999",
+   "owned": false
+  },
+  {
+   "order": 5,
+   "series": "X-Men",
+   "issue": "87",
+   "volume": "1991",
+   "year": "1999",
+   "owned": false
+  },
+  {
+   "order": 6,
+   "series": "Magneto Rex",
+   "issue": "1",
+   "volume": "1999",
+   "year": "1999",
+   "owned": false
+  },
+  {
+   "order": 7,
+   "series": "Magneto Rex",
+   "issue": "2",
+   "volume": "1999",
+   "year": "1999",
+   "owned": false
+  },
+  {
+   "order": 8,
+   "series": "Magneto Rex",
+   "issue": "3",
+   "volume": "1999",
+   "year": "1999",
+   "owned": false
+  }
+ ]
+}

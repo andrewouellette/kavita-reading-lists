@@ -1,0 +1,440 @@
+{
+ "arc": "Blood Hunt",
+ "slug": "blood-hunt",
+ "issue_count": 54,
+ "owned_count": 12,
+ "entries": [
+  {
+   "order": 1,
+   "series": "Free Comic Book Day 2024: Blood Hunt/X-Men",
+   "issue": "1",
+   "volume": "2024",
+   "year": "2024",
+   "owned": false
+  },
+  {
+   "order": 2,
+   "series": "Vengeance of the Moon Knight",
+   "issue": "5",
+   "volume": "2024",
+   "year": "2024",
+   "owned": true
+  },
+  {
+   "order": 3,
+   "series": "Dracula: Blood Hunt",
+   "issue": "1",
+   "volume": "2024",
+   "year": "2024",
+   "owned": false
+  },
+  {
+   "order": 4,
+   "series": "Blood Hunt",
+   "issue": "1",
+   "volume": "2024",
+   "year": "2024",
+   "owned": false
+  },
+  {
+   "order": 5,
+   "series": "Fantastic Four",
+   "issue": "21",
+   "volume": "2022",
+   "year": "2024",
+   "owned": true
+  },
+  {
+   "order": 6,
+   "series": "Blood Hunters",
+   "issue": "1",
+   "volume": "2024",
+   "year": "2024",
+   "owned": false
+  },
+  {
+   "order": 7,
+   "series": "Blood Hunters",
+   "issue": "2",
+   "volume": "2024",
+   "year": "2024",
+   "owned": false
+  },
+  {
+   "order": 8,
+   "series": "Blood Hunters",
+   "issue": "3",
+   "volume": "2024",
+   "year": "2024",
+   "owned": false
+  },
+  {
+   "order": 9,
+   "series": "Blood Hunters",
+   "issue": "4",
+   "volume": "2024",
+   "year": "2024",
+   "owned": false
+  },
+  {
+   "order": 10,
+   "series": "The Amazing Spider-Man: Blood Hunt",
+   "issue": "2",
+   "volume": "2024",
+   "year": "2024",
+   "owned": false
+  },
+  {
+   "order": 11,
+   "series": "X-Men: Blood Hunt - Psylocke",
+   "issue": "1",
+   "volume": "2024",
+   "year": "2024",
+   "owned": false
+  },
+  {
+   "order": 12,
+   "series": "Avengers",
+   "issue": "14",
+   "volume": "2023",
+   "year": "2024",
+   "owned": true
+  },
+  {
+   "order": 13,
+   "series": "Avengers",
+   "issue": "15",
+   "volume": "2023",
+   "year": "2024",
+   "owned": true
+  },
+  {
+   "order": 14,
+   "series": "Avengers",
+   "issue": "16",
+   "volume": "2023",
+   "year": "2024",
+   "owned": true
+  },
+  {
+   "order": 15,
+   "series": "Doctor Strange",
+   "issue": "15",
+   "volume": "2023",
+   "year": "2024",
+   "owned": false
+  },
+  {
+   "order": 16,
+   "series": "Blood Hunt",
+   "issue": "2",
+   "volume": "2024",
+   "year": "2024",
+   "owned": false
+  },
+  {
+   "order": 17,
+   "series": "Strange Academy: Blood Hunt",
+   "issue": "1",
+   "volume": "2024",
+   "year": "2024",
+   "owned": false
+  },
+  {
+   "order": 18,
+   "series": "The Amazing Spider-Man: Blood Hunt",
+   "issue": "3",
+   "volume": "2024",
+   "year": "2024",
+   "owned": false
+  },
+  {
+   "order": 19,
+   "series": "Strange Academy: Blood Hunt",
+   "issue": "2",
+   "volume": "2024",
+   "year": "2024",
+   "owned": false
+  },
+  {
+   "order": 20,
+   "series": "X-Men: Blood Hunt - Jubilee",
+   "issue": "1",
+   "volume": "2024",
+   "year": "2024",
+   "owned": false
+  },
+  {
+   "order": 21,
+   "series": "The Amazing Spider-Man: Blood Hunt",
+   "issue": "1",
+   "volume": "2024",
+   "year": "2024",
+   "owned": false
+  },
+  {
+   "order": 22,
+   "series": "The Amazing Spider-Man",
+   "issue": "49",
+   "volume": "2022",
+   "year": "2024",
+   "owned": true
+  },
+  {
+   "order": 23,
+   "series": "X-Men: Blood Hunt - Laura Kinney the Wolverine",
+   "issue": "1",
+   "volume": "2024",
+   "year": "2024",
+   "owned": false
+  },
+  {
+   "order": 24,
+   "series": "Venom",
+   "issue": "33",
+   "volume": "2021",
+   "year": "2024",
+   "owned": true
+  },
+  {
+   "order": 25,
+   "series": "Venom",
+   "issue": "34",
+   "volume": "2021",
+   "year": "2024",
+   "owned": true
+  },
+  {
+   "order": 26,
+   "series": "Union Jack the Ripper: Blood Hunt",
+   "issue": "1",
+   "volume": "2024",
+   "year": "2024",
+   "owned": false
+  },
+  {
+   "order": 27,
+   "series": "Union Jack the Ripper: Blood Hunt",
+   "issue": "2",
+   "volume": "2024",
+   "year": "2024",
+   "owned": false
+  },
+  {
+   "order": 28,
+   "series": "Union Jack the Ripper: Blood Hunt",
+   "issue": "3",
+   "volume": "2024",
+   "year": "2024",
+   "owned": false
+  },
+  {
+   "order": 29,
+   "series": "Midnight Sons: Blood Hunt",
+   "issue": "1",
+   "volume": "2024",
+   "year": "2024",
+   "owned": false
+  },
+  {
+   "order": 30,
+   "series": "Midnight Sons: Blood Hunt",
+   "issue": "2",
+   "volume": "2024",
+   "year": "2024",
+   "owned": false
+  },
+  {
+   "order": 31,
+   "series": "Black Panther: Blood Hunt",
+   "issue": "1",
+   "volume": "2024",
+   "year": "2024",
+   "owned": false
+  },
+  {
+   "order": 32,
+   "series": "Black Panther: Blood Hunt",
+   "issue": "2",
+   "volume": "2024",
+   "year": "2024",
+   "owned": false
+  },
+  {
+   "order": 33,
+   "series": "Black Panther: Blood Hunt",
+   "issue": "3",
+   "volume": "2024",
+   "year": "2024",
+   "owned": false
+  },
+  {
+   "order": 34,
+   "series": "Blood Hunt",
+   "issue": "3",
+   "volume": "2024",
+   "year": "2024",
+   "owned": false
+  },
+  {
+   "order": 35,
+   "series": "Miles Morales: Spider-Man",
+   "issue": "21",
+   "volume": "2022",
+   "year": "2024",
+   "owned": false
+  },
+  {
+   "order": 36,
+   "series": "Dracula: Blood Hunt",
+   "issue": "2",
+   "volume": "2024",
+   "year": "2024",
+   "owned": false
+  },
+  {
+   "order": 37,
+   "series": "Dracula: Blood Hunt",
+   "issue": "3",
+   "volume": "2024",
+   "year": "2024",
+   "owned": false
+  },
+  {
+   "order": 38,
+   "series": "Miles Morales: Spider-Man",
+   "issue": "22",
+   "volume": "2022",
+   "year": "2024",
+   "owned": true
+  },
+  {
+   "order": 39,
+   "series": "Doctor Strange",
+   "issue": "16",
+   "volume": "2023",
+   "year": "2024",
+   "owned": false
+  },
+  {
+   "order": 40,
+   "series": "Doctor Strange",
+   "issue": "17",
+   "volume": "2023",
+   "year": "2024",
+   "owned": false
+  },
+  {
+   "order": 41,
+   "series": "Blood Hunt",
+   "issue": "4",
+   "volume": "2024",
+   "year": "2024",
+   "owned": false
+  },
+  {
+   "order": 42,
+   "series": "Vengeance of the Moon Knight",
+   "issue": "6",
+   "volume": "2024",
+   "year": "2024",
+   "owned": true
+  },
+  {
+   "order": 43,
+   "series": "Vengeance of the Moon Knight",
+   "issue": "7",
+   "volume": "2024",
+   "year": "2024",
+   "owned": true
+  },
+  {
+   "order": 44,
+   "series": "Werewolf by Night: Blood Hunt",
+   "issue": "1",
+   "volume": "2024",
+   "year": "2024",
+   "owned": false
+  },
+  {
+   "order": 45,
+   "series": "Wolverine: Blood Hunt",
+   "issue": "1",
+   "volume": "2024",
+   "year": "2024",
+   "owned": false
+  },
+  {
+   "order": 46,
+   "series": "Wolverine: Blood Hunt",
+   "issue": "2",
+   "volume": "2024",
+   "year": "2024",
+   "owned": false
+  },
+  {
+   "order": 47,
+   "series": "Wolverine: Blood Hunt",
+   "issue": "3",
+   "volume": "2024",
+   "year": "2024",
+   "owned": false
+  },
+  {
+   "order": 48,
+   "series": "X-Men: Blood Hunt - Magik",
+   "issue": "1",
+   "volume": "2024",
+   "year": "2024",
+   "owned": false
+  },
+  {
+   "order": 49,
+   "series": "Hulk: Blood Hunt",
+   "issue": "1",
+   "volume": "2024",
+   "year": "2024",
+   "owned": false
+  },
+  {
+   "order": 50,
+   "series": "Blood Hunt",
+   "issue": "5",
+   "volume": "2024",
+   "year": "2024",
+   "owned": false
+  },
+  {
+   "order": 51,
+   "series": "Wolverine: Blood Hunt",
+   "issue": "4",
+   "volume": "2024",
+   "year": "2024",
+   "owned": false
+  },
+  {
+   "order": 52,
+   "series": "Strange Academy: Blood Hunt",
+   "issue": "3",
+   "volume": "2024",
+   "year": "2024",
+   "owned": false
+  },
+  {
+   "order": 53,
+   "series": "Fantastic Four",
+   "issue": "22",
+   "volume": "2022",
+   "year": "2024",
+   "owned": true
+  },
+  {
+   "order": 54,
+   "series": "Midnight Sons: Blood Hunt",
+   "issue": "3",
+   "volume": "2024",
+   "year": "2024",
+   "owned": false
+  }
+ ]
+}

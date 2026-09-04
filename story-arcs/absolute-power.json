@@ -1,0 +1,272 @@
+{
+ "arc": "Absolute Power",
+ "slug": "absolute-power",
+ "issue_count": 33,
+ "owned_count": 15,
+ "entries": [
+  {
+   "order": 1,
+   "series": "Free Comic Book Day 2024: Absolute Power Special Edition",
+   "issue": "1",
+   "volume": "2024",
+   "year": "2024",
+   "owned": false
+  },
+  {
+   "order": 2,
+   "series": "Absolute Power: Ground Zero",
+   "issue": "1",
+   "volume": "2024",
+   "year": "2024",
+   "owned": true
+  },
+  {
+   "order": 3,
+   "series": "Absolute Power",
+   "issue": "1",
+   "volume": "2024",
+   "year": "2024",
+   "owned": true
+  },
+  {
+   "order": 4,
+   "series": "Wonder Woman",
+   "issue": "11",
+   "volume": "2023",
+   "year": "2024",
+   "owned": true
+  },
+  {
+   "order": 5,
+   "series": "Absolute Power: Task Force VII",
+   "issue": "1",
+   "volume": "2024",
+   "year": "2024",
+   "owned": true
+  },
+  {
+   "order": 6,
+   "series": "Batman",
+   "issue": "150",
+   "volume": "2016",
+   "year": "2024",
+   "owned": true
+  },
+  {
+   "order": 7,
+   "series": "Superman",
+   "issue": "16",
+   "volume": "2023",
+   "year": "2024",
+   "owned": true
+  },
+  {
+   "order": 8,
+   "series": "Green Arrow",
+   "issue": "14",
+   "volume": "2023",
+   "year": "2024",
+   "owned": true
+  },
+  {
+   "order": 9,
+   "series": "Green Lantern",
+   "issue": "13",
+   "volume": "2023",
+   "year": "2024",
+   "owned": false
+  },
+  {
+   "order": 10,
+   "series": "Absolute Power: Task Force VII",
+   "issue": "2",
+   "volume": "2024",
+   "year": "2024",
+   "owned": false
+  },
+  {
+   "order": 11,
+   "series": "Absolute Power: Task Force VII",
+   "issue": "3",
+   "volume": "2024",
+   "year": "2024",
+   "owned": false
+  },
+  {
+   "order": 12,
+   "series": "Absolute Power: Origins",
+   "issue": "1",
+   "volume": "2024",
+   "year": "2024",
+   "owned": false
+  },
+  {
+   "order": 13,
+   "series": "Absolute Power",
+   "issue": "2",
+   "volume": "2024",
+   "year": "2024",
+   "owned": false
+  },
+  {
+   "order": 14,
+   "series": "Green Lantern",
+   "issue": "14",
+   "volume": "2023",
+   "year": "2024",
+   "owned": false
+  },
+  {
+   "order": 15,
+   "series": "Green Arrow",
+   "issue": "15",
+   "volume": "2023",
+   "year": "2024",
+   "owned": true
+  },
+  {
+   "order": 16,
+   "series": "Absolute Power: Task Force VII",
+   "issue": "4",
+   "volume": "2024",
+   "year": "2024",
+   "owned": false
+  },
+  {
+   "order": 17,
+   "series": "Absolute Power: Task Force VII",
+   "issue": "5",
+   "volume": "2024",
+   "year": "2024",
+   "owned": false
+  },
+  {
+   "order": 18,
+   "series": "Absolute Power: Origins",
+   "issue": "2",
+   "volume": "2024",
+   "year": "2024",
+   "owned": false
+  },
+  {
+   "order": 19,
+   "series": "Wonder Woman",
+   "issue": "12",
+   "volume": "2023",
+   "year": "2024",
+   "owned": true
+  },
+  {
+   "order": 20,
+   "series": "Batman",
+   "issue": "151",
+   "volume": "2016",
+   "year": "2024",
+   "owned": true
+  },
+  {
+   "order": 21,
+   "series": "Batman",
+   "issue": "152",
+   "volume": "2016",
+   "year": "2024",
+   "owned": true
+  },
+  {
+   "order": 22,
+   "series": "Absolute Power",
+   "issue": "3",
+   "volume": "2024",
+   "year": "2024",
+   "owned": false
+  },
+  {
+   "order": 23,
+   "series": "Green Lantern",
+   "issue": "15",
+   "volume": "2023",
+   "year": "2024",
+   "owned": false
+  },
+  {
+   "order": 24,
+   "series": "Absolute Power: Task Force VII",
+   "issue": "6",
+   "volume": "2024",
+   "year": "2024",
+   "owned": false
+  },
+  {
+   "order": 25,
+   "series": "Absolute Power: Super Son",
+   "issue": "1",
+   "volume": "2024",
+   "year": "2024",
+   "owned": false
+  },
+  {
+   "order": 26,
+   "series": "Wonder Woman",
+   "issue": "13",
+   "volume": "2023",
+   "year": "2024",
+   "owned": true
+  },
+  {
+   "order": 27,
+   "series": "Superman",
+   "issue": "18",
+   "volume": "2023",
+   "year": "2024",
+   "owned": true
+  },
+  {
+   "order": 28,
+   "series": "Green Arrow",
+   "issue": "16",
+   "volume": "2023",
+   "year": "2024",
+   "owned": true
+  },
+  {
+   "order": 29,
+   "series": "Absolute Power: Task Force VII",
+   "issue": "7",
+   "volume": "2024",
+   "year": "2024",
+   "owned": false
+  },
+  {
+   "order": 30,
+   "series": "Absolute Power: Origins",
+   "issue": "3",
+   "volume": "2024",
+   "year": "2024",
+   "owned": false
+  },
+  {
+   "order": 31,
+   "series": "Absolute Power",
+   "issue": "4",
+   "volume": "2024",
+   "year": "2024",
+   "owned": false
+  },
+  {
+   "order": 32,
+   "series": "DC All In Special",
+   "issue": "1",
+   "volume": "2024",
+   "year": "2024",
+   "owned": false
+  },
+  {
+   "order": 33,
+   "series": "Superman",
+   "issue": "17",
+   "volume": "2023",
+   "year": "2024",
+   "owned": true
+  }
+ ]
+}

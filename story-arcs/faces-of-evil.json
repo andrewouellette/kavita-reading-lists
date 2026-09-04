@@ -1,0 +1,104 @@
+{
+ "arc": "Faces of Evil",
+ "slug": "faces-of-evil",
+ "issue_count": 12,
+ "owned_count": 1,
+ "entries": [
+  {
+   "order": 1,
+   "series": "Birds of Prey",
+   "issue": "126",
+   "volume": "1999",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 2,
+   "series": "Booster Gold",
+   "issue": "16",
+   "volume": "2007",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 3,
+   "series": "Faces of Evil: Deathstroke",
+   "issue": "1",
+   "volume": "2009",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 4,
+   "series": "Faces of Evil: Kobra",
+   "issue": "1",
+   "volume": "2009",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 5,
+   "series": "Faces of Evil: Prometheus",
+   "issue": "1",
+   "volume": "2009",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 6,
+   "series": "Faces of Evil: Solomon Grundy",
+   "issue": "1",
+   "volume": "2009",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 7,
+   "series": "Green Arrow/Black Canary",
+   "issue": "16",
+   "volume": "2007",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 8,
+   "series": "Green Lantern Corps",
+   "issue": "32",
+   "volume": "2006",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 9,
+   "series": "Justice Society of America",
+   "issue": "23",
+   "volume": "2007",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 10,
+   "series": "Secret Six",
+   "issue": "5",
+   "volume": "2008",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 11,
+   "series": "Supergirl",
+   "issue": "37",
+   "volume": "2005",
+   "year": "2009",
+   "owned": true
+  },
+  {
+   "order": 12,
+   "series": "Vigilante",
+   "issue": "2",
+   "volume": "2009",
+   "year": "2009",
+   "owned": false
+  }
+ ]
+}

@@ -1,0 +1,216 @@
+{
+ "arc": "Dark Nights: Metal",
+ "slug": "dark-nights-metal",
+ "issue_count": 26,
+ "owned_count": 5,
+ "entries": [
+  {
+   "order": 1,
+   "series": "Dark Days: The Forge",
+   "issue": "1",
+   "volume": "2017",
+   "year": "2017",
+   "owned": false
+  },
+  {
+   "order": 2,
+   "series": "Dark Days: The Casting",
+   "issue": "1",
+   "volume": "2017",
+   "year": "2017",
+   "owned": false
+  },
+  {
+   "order": 3,
+   "series": "Dark Nights: Metal",
+   "issue": "1",
+   "volume": "2017",
+   "year": "2017",
+   "owned": false
+  },
+  {
+   "order": 4,
+   "series": "Dark Nights: Metal",
+   "issue": "2",
+   "volume": "2017",
+   "year": "2017",
+   "owned": false
+  },
+  {
+   "order": 5,
+   "series": "Batman: The Red Death",
+   "issue": "1",
+   "volume": "2017",
+   "year": "2017",
+   "owned": false
+  },
+  {
+   "order": 6,
+   "series": "Batman: The Murder Machine",
+   "issue": "1",
+   "volume": "2017",
+   "year": "2017",
+   "owned": false
+  },
+  {
+   "order": 7,
+   "series": "Batman: The Dawnbreaker",
+   "issue": "1",
+   "volume": "2017",
+   "year": "2017",
+   "owned": false
+  },
+  {
+   "order": 8,
+   "series": "Batman: The Drowned",
+   "issue": "1",
+   "volume": "2017",
+   "year": "2017",
+   "owned": false
+  },
+  {
+   "order": 9,
+   "series": "Teen Titans",
+   "issue": "12",
+   "volume": "2016",
+   "year": "2017",
+   "owned": false
+  },
+  {
+   "order": 10,
+   "series": "Nightwing",
+   "issue": "29",
+   "volume": "2016",
+   "year": "2017",
+   "owned": true
+  },
+  {
+   "order": 11,
+   "series": "Suicide Squad",
+   "issue": "26",
+   "volume": "2016",
+   "year": "2017",
+   "owned": false
+  },
+  {
+   "order": 12,
+   "series": "Green Arrow",
+   "issue": "32",
+   "volume": "2016",
+   "year": "2017",
+   "owned": false
+  },
+  {
+   "order": 13,
+   "series": "Batman: The Merciless",
+   "issue": "1",
+   "volume": "2017",
+   "year": "2017",
+   "owned": false
+  },
+  {
+   "order": 14,
+   "series": "Dark Nights: Metal",
+   "issue": "3",
+   "volume": "2017",
+   "year": "2017",
+   "owned": false
+  },
+  {
+   "order": 15,
+   "series": "The Flash",
+   "issue": "33",
+   "volume": "2016",
+   "year": "2017",
+   "owned": true
+  },
+  {
+   "order": 16,
+   "series": "Dark Nights: The Batman Who Laughs",
+   "issue": "1",
+   "volume": "2017",
+   "year": "2018",
+   "owned": true
+  },
+  {
+   "order": 17,
+   "series": "Batman: The Devastator",
+   "issue": "1",
+   "volume": "2017",
+   "year": "2018",
+   "owned": false
+  },
+  {
+   "order": 18,
+   "series": "Justice League",
+   "issue": "32",
+   "volume": "2016",
+   "year": "2018",
+   "owned": true
+  },
+  {
+   "order": 19,
+   "series": "Hal Jordan & The Green Lantern Corps",
+   "issue": "32",
+   "volume": "2016",
+   "year": "2018",
+   "owned": false
+  },
+  {
+   "order": 20,
+   "series": "Justice League",
+   "issue": "33",
+   "volume": "2016",
+   "year": "2018",
+   "owned": true
+  },
+  {
+   "order": 21,
+   "series": "Batman: Lost",
+   "issue": "1",
+   "volume": "2017",
+   "year": "2018",
+   "owned": false
+  },
+  {
+   "order": 22,
+   "series": "Dark Nights: Metal",
+   "issue": "4",
+   "volume": "2017",
+   "year": "2018",
+   "owned": false
+  },
+  {
+   "order": 23,
+   "series": "Hawkman Found",
+   "issue": "1",
+   "volume": "2017",
+   "year": "2018",
+   "owned": false
+  },
+  {
+   "order": 24,
+   "series": "Dark Nights: Metal",
+   "issue": "5",
+   "volume": "2017",
+   "year": "2018",
+   "owned": false
+  },
+  {
+   "order": 25,
+   "series": "Dark Knights Rising: The Wild Hunt",
+   "issue": "1",
+   "volume": "2018",
+   "year": "2018",
+   "owned": false
+  },
+  {
+   "order": 26,
+   "series": "Dark Nights: Metal",
+   "issue": "6",
+   "volume": "2017",
+   "year": "2018",
+   "owned": false
+  }
+ ]
+}

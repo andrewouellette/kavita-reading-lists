@@ -1,0 +1,176 @@
+{
+ "arc": "Superman Doomed",
+ "slug": "superman-doomed",
+ "issue_count": 21,
+ "owned_count": 9,
+ "entries": [
+  {
+   "order": 1,
+   "series": "Action Comics",
+   "issue": "30",
+   "volume": "2011",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 2,
+   "series": "Superman/Wonder Woman",
+   "issue": "7",
+   "volume": "2013",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 3,
+   "series": "Superman",
+   "issue": "30",
+   "volume": "2011",
+   "year": "2014",
+   "owned": true
+  },
+  {
+   "order": 4,
+   "series": "Superman: Doomed",
+   "issue": "1",
+   "volume": "2014",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 5,
+   "series": "Action Comics",
+   "issue": "31",
+   "volume": "2011",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 6,
+   "series": "Superman/Wonder Woman",
+   "issue": "8",
+   "volume": "2013",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 7,
+   "series": "Batman/Superman",
+   "issue": "11",
+   "volume": "2013",
+   "year": "2014",
+   "owned": true
+  },
+  {
+   "order": 8,
+   "series": "Superman",
+   "issue": "31",
+   "volume": "2011",
+   "year": "2014",
+   "owned": true
+  },
+  {
+   "order": 9,
+   "series": "Action Comics",
+   "issue": "32",
+   "volume": "2011",
+   "year": "2014",
+   "owned": true
+  },
+  {
+   "order": 10,
+   "series": "Superman/Wonder Woman",
+   "issue": "9",
+   "volume": "2013",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 11,
+   "series": "Action Comics",
+   "issue": "33",
+   "volume": "2011",
+   "year": "2014",
+   "owned": true
+  },
+  {
+   "order": 12,
+   "series": "Superman/Wonder Woman",
+   "issue": "10",
+   "volume": "2013",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 13,
+   "series": "Superman/Wonder Woman Annual",
+   "issue": "1",
+   "volume": "2014",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 14,
+   "series": "Action Comics Annual",
+   "issue": "3",
+   "volume": "2012",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 15,
+   "series": "Action Comics",
+   "issue": "34",
+   "volume": "2011",
+   "year": "2014",
+   "owned": true
+  },
+  {
+   "order": 16,
+   "series": "Superman/Wonder Woman",
+   "issue": "11",
+   "volume": "2013",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 17,
+   "series": "Supergirl",
+   "issue": "34",
+   "volume": "2011",
+   "year": "2014",
+   "owned": true
+  },
+  {
+   "order": 18,
+   "series": "Superman: Doomed",
+   "issue": "2",
+   "volume": "2014",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 19,
+   "series": "Action Comics",
+   "issue": "35",
+   "volume": "2011",
+   "year": "2014",
+   "owned": true
+  },
+  {
+   "order": 20,
+   "series": "Superman/Wonder Woman",
+   "issue": "12",
+   "volume": "2013",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 21,
+   "series": "Supergirl",
+   "issue": "35",
+   "volume": "2011",
+   "year": "2014",
+   "owned": true
+  }
+ ]
+}

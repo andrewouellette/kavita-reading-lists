@@ -1,0 +1,1344 @@
+{
+ "arc": "The Clone Saga",
+ "slug": "the-clone-saga",
+ "issue_count": 167,
+ "owned_count": 0,
+ "entries": [
+  {
+   "order": 1,
+   "series": "Spider-Man: The Lost Years",
+   "issue": "0",
+   "volume": "1995",
+   "year": "1996",
+   "owned": false
+  },
+  {
+   "order": 2,
+   "series": "Spider-Man: The Lost Years",
+   "issue": "1",
+   "volume": "1995",
+   "year": "1995",
+   "owned": false
+  },
+  {
+   "order": 3,
+   "series": "Spider-Man: The Lost Years",
+   "issue": "2",
+   "volume": "1995",
+   "year": "1995",
+   "owned": false
+  },
+  {
+   "order": 4,
+   "series": "Spider-Man: The Lost Years",
+   "issue": "3",
+   "volume": "1995",
+   "year": "1995",
+   "owned": false
+  },
+  {
+   "order": 5,
+   "series": "Web of Spider-Man",
+   "issue": "117",
+   "volume": "1985",
+   "year": "1994",
+   "owned": false
+  },
+  {
+   "order": 6,
+   "series": "The Amazing Spider-Man",
+   "issue": "394",
+   "volume": "1963",
+   "year": "1994",
+   "owned": false
+  },
+  {
+   "order": 7,
+   "series": "Spider-Man",
+   "issue": "51",
+   "volume": "1990",
+   "year": "1994",
+   "owned": false
+  },
+  {
+   "order": 8,
+   "series": "The Spectacular Spider-Man",
+   "issue": "217",
+   "volume": "1976",
+   "year": "1994",
+   "owned": false
+  },
+  {
+   "order": 9,
+   "series": "Web of Spider-Man",
+   "issue": "118",
+   "volume": "1985",
+   "year": "1994",
+   "owned": false
+  },
+  {
+   "order": 10,
+   "series": "Spider-Man Unlimited",
+   "issue": "7",
+   "volume": "1993",
+   "year": "1994",
+   "owned": false
+  },
+  {
+   "order": 11,
+   "series": "Spider-Man",
+   "issue": "52",
+   "volume": "1990",
+   "year": "1994",
+   "owned": false
+  },
+  {
+   "order": 12,
+   "series": "Web of Spider-Man",
+   "issue": "119",
+   "volume": "1985",
+   "year": "1994",
+   "owned": false
+  },
+  {
+   "order": 13,
+   "series": "Spider-Man",
+   "issue": "53",
+   "volume": "1990",
+   "year": "1994",
+   "owned": false
+  },
+  {
+   "order": 14,
+   "series": "The Amazing Spider-Man",
+   "issue": "395",
+   "volume": "1963",
+   "year": "1994",
+   "owned": false
+  },
+  {
+   "order": 15,
+   "series": "The Spectacular Spider-Man",
+   "issue": "218",
+   "volume": "1976",
+   "year": "1994",
+   "owned": false
+  },
+  {
+   "order": 16,
+   "series": "The Amazing Spider-Man",
+   "issue": "396",
+   "volume": "1963",
+   "year": "1994",
+   "owned": false
+  },
+  {
+   "order": 17,
+   "series": "The Spectacular Spider-Man",
+   "issue": "219",
+   "volume": "1976",
+   "year": "1994",
+   "owned": false
+  },
+  {
+   "order": 18,
+   "series": "Web of Spider-Man",
+   "issue": "120",
+   "volume": "1985",
+   "year": "1995",
+   "owned": false
+  },
+  {
+   "order": 19,
+   "series": "Spider-Man",
+   "issue": "54",
+   "volume": "1990",
+   "year": "1995",
+   "owned": false
+  },
+  {
+   "order": 20,
+   "series": "Web of Spider-Man",
+   "issue": "121",
+   "volume": "1985",
+   "year": "1995",
+   "owned": false
+  },
+  {
+   "order": 21,
+   "series": "Spider-Man",
+   "issue": "55",
+   "volume": "1990",
+   "year": "1995",
+   "owned": false
+  },
+  {
+   "order": 22,
+   "series": "The Amazing Spider-Man",
+   "issue": "397",
+   "volume": "1963",
+   "year": "1995",
+   "owned": false
+  },
+  {
+   "order": 23,
+   "series": "The Spectacular Spider-Man",
+   "issue": "220",
+   "volume": "1976",
+   "year": "1995",
+   "owned": false
+  },
+  {
+   "order": 24,
+   "series": "The Amazing Spider-Man",
+   "issue": "398",
+   "volume": "1963",
+   "year": "1995",
+   "owned": false
+  },
+  {
+   "order": 25,
+   "series": "The Spectacular Spider-Man",
+   "issue": "221",
+   "volume": "1976",
+   "year": "1995",
+   "owned": false
+  },
+  {
+   "order": 26,
+   "series": "Spider-Man: Funeral for an Octopus",
+   "issue": "1",
+   "volume": "1995",
+   "year": "1995",
+   "owned": false
+  },
+  {
+   "order": 27,
+   "series": "Spider-Man: Funeral for an Octopus",
+   "issue": "2",
+   "volume": "1995",
+   "year": "1995",
+   "owned": false
+  },
+  {
+   "order": 28,
+   "series": "Spider-Man: Funeral for an Octopus",
+   "issue": "3",
+   "volume": "1995",
+   "year": "1995",
+   "owned": false
+  },
+  {
+   "order": 29,
+   "series": "Spider-Man Unlimited",
+   "issue": "8",
+   "volume": "1993",
+   "year": "1995",
+   "owned": false
+  },
+  {
+   "order": 30,
+   "series": "Web of Spider-Man",
+   "issue": "122",
+   "volume": "1985",
+   "year": "1995",
+   "owned": false
+  },
+  {
+   "order": 31,
+   "series": "The Amazing Spider-Man",
+   "issue": "399",
+   "volume": "1963",
+   "year": "1995",
+   "owned": false
+  },
+  {
+   "order": 32,
+   "series": "Spider-Man",
+   "issue": "56",
+   "volume": "1990",
+   "year": "1995",
+   "owned": false
+  },
+  {
+   "order": 33,
+   "series": "Spider-Man: The Clone Journal",
+   "issue": "1",
+   "volume": "1995",
+   "year": "1995",
+   "owned": false
+  },
+  {
+   "order": 34,
+   "series": "The Spectacular Spider-Man",
+   "issue": "222",
+   "volume": "1976",
+   "year": "1995",
+   "owned": false
+  },
+  {
+   "order": 35,
+   "series": "Web of Spider-Man",
+   "issue": "123",
+   "volume": "1985",
+   "year": "1995",
+   "owned": false
+  },
+  {
+   "order": 36,
+   "series": "Amazing Spider-Man Super Special",
+   "issue": "1",
+   "volume": "1995",
+   "year": "1995",
+   "owned": false
+  },
+  {
+   "order": 37,
+   "series": "Spider-Man Super Special",
+   "issue": "1",
+   "volume": "1995",
+   "year": "1995",
+   "owned": false
+  },
+  {
+   "order": 38,
+   "series": "Venom Super Special",
+   "issue": "1",
+   "volume": "1995",
+   "year": "1995",
+   "owned": false
+  },
+  {
+   "order": 39,
+   "series": "Spectacular Spider-Man Super Special",
+   "issue": "1",
+   "volume": "1995",
+   "year": "1995",
+   "owned": false
+  },
+  {
+   "order": 40,
+   "series": "Web of Spider-Man Super Special",
+   "issue": "1",
+   "volume": "1995",
+   "year": "1995",
+   "owned": false
+  },
+  {
+   "order": 41,
+   "series": "The Amazing Spider-Man",
+   "issue": "400",
+   "volume": "1963",
+   "year": "1995",
+   "owned": false
+  },
+  {
+   "order": 42,
+   "series": "Spider-Man",
+   "issue": "57",
+   "volume": "1990",
+   "year": "1995",
+   "owned": false
+  },
+  {
+   "order": 43,
+   "series": "The Spectacular Spider-Man",
+   "issue": "223",
+   "volume": "1976",
+   "year": "1995",
+   "owned": false
+  },
+  {
+   "order": 44,
+   "series": "Web of Spider-Man",
+   "issue": "124",
+   "volume": "1985",
+   "year": "1995",
+   "owned": false
+  },
+  {
+   "order": 45,
+   "series": "The Amazing Spider-Man",
+   "issue": "401",
+   "volume": "1963",
+   "year": "1995",
+   "owned": false
+  },
+  {
+   "order": 46,
+   "series": "Spider-Man",
+   "issue": "58",
+   "volume": "1990",
+   "year": "1995",
+   "owned": false
+  },
+  {
+   "order": 47,
+   "series": "The Spectacular Spider-Man",
+   "issue": "224",
+   "volume": "1976",
+   "year": "1995",
+   "owned": false
+  },
+  {
+   "order": 48,
+   "series": "Spider-Man Unlimited",
+   "issue": "9",
+   "volume": "1993",
+   "year": "1995",
+   "owned": false
+  },
+  {
+   "order": 49,
+   "series": "Web of Spider-Man",
+   "issue": "125",
+   "volume": "1985",
+   "year": "1995",
+   "owned": false
+  },
+  {
+   "order": 50,
+   "series": "The Amazing Spider-Man",
+   "issue": "402",
+   "volume": "1963",
+   "year": "1995",
+   "owned": false
+  },
+  {
+   "order": 51,
+   "series": "Spider-Man",
+   "issue": "59",
+   "volume": "1990",
+   "year": "1995",
+   "owned": false
+  },
+  {
+   "order": 52,
+   "series": "The Spectacular Spider-Man",
+   "issue": "225",
+   "volume": "1976",
+   "year": "1995",
+   "owned": false
+  },
+  {
+   "order": 53,
+   "series": "Web of Spider-Man",
+   "issue": "126",
+   "volume": "1985",
+   "year": "1995",
+   "owned": false
+  },
+  {
+   "order": 54,
+   "series": "The Amazing Spider-Man",
+   "issue": "403",
+   "volume": "1963",
+   "year": "1995",
+   "owned": false
+  },
+  {
+   "order": 55,
+   "series": "Spider-Man",
+   "issue": "60",
+   "volume": "1990",
+   "year": "1995",
+   "owned": false
+  },
+  {
+   "order": 56,
+   "series": "Spider-Man 2099 Meets Spider-Man",
+   "issue": "1",
+   "volume": "1995",
+   "year": "1995",
+   "owned": false
+  },
+  {
+   "order": 57,
+   "series": "The Spectacular Spider-Man",
+   "issue": "226",
+   "volume": "1976",
+   "year": "1995",
+   "owned": false
+  },
+  {
+   "order": 58,
+   "series": "Spider-Man: The Jackal Files",
+   "issue": "1",
+   "volume": "1995",
+   "year": "1995",
+   "owned": false
+  },
+  {
+   "order": 59,
+   "series": "The New Warriors",
+   "issue": "61",
+   "volume": "1990",
+   "year": "1995",
+   "owned": false
+  },
+  {
+   "order": 60,
+   "series": "Spider-Man: Maximum Clonage Alpha",
+   "issue": "1",
+   "volume": "1995",
+   "year": "1995",
+   "owned": false
+  },
+  {
+   "order": 61,
+   "series": "Web of Spider-Man",
+   "issue": "127",
+   "volume": "1985",
+   "year": "1995",
+   "owned": false
+  },
+  {
+   "order": 62,
+   "series": "The Amazing Spider-Man",
+   "issue": "404",
+   "volume": "1963",
+   "year": "1995",
+   "owned": false
+  },
+  {
+   "order": 63,
+   "series": "Spider-Man",
+   "issue": "61",
+   "volume": "1990",
+   "year": "1995",
+   "owned": false
+  },
+  {
+   "order": 64,
+   "series": "The Spectacular Spider-Man",
+   "issue": "227",
+   "volume": "1976",
+   "year": "1995",
+   "owned": false
+  },
+  {
+   "order": 65,
+   "series": "Spider-Man: Maximum Clonage Omega",
+   "issue": "1",
+   "volume": "1995",
+   "year": "1995",
+   "owned": false
+  },
+  {
+   "order": 66,
+   "series": "The New Warriors",
+   "issue": "62",
+   "volume": "1990",
+   "year": "1995",
+   "owned": false
+  },
+  {
+   "order": 67,
+   "series": "Web of Spider-Man",
+   "issue": "128",
+   "volume": "1985",
+   "year": "1995",
+   "owned": false
+  },
+  {
+   "order": 68,
+   "series": "The Amazing Spider-Man",
+   "issue": "405",
+   "volume": "1963",
+   "year": "1995",
+   "owned": false
+  },
+  {
+   "order": 69,
+   "series": "Spider-Man",
+   "issue": "62",
+   "volume": "1990",
+   "year": "1995",
+   "owned": false
+  },
+  {
+   "order": 70,
+   "series": "Spider-Man Unlimited",
+   "issue": "10",
+   "volume": "1993",
+   "year": "1995",
+   "owned": false
+  },
+  {
+   "order": 71,
+   "series": "The Spectacular Spider-Man",
+   "issue": "228",
+   "volume": "1976",
+   "year": "1995",
+   "owned": false
+  },
+  {
+   "order": 72,
+   "series": "Web of Spider-Man",
+   "issue": "129",
+   "volume": "1985",
+   "year": "1995",
+   "owned": false
+  },
+  {
+   "order": 73,
+   "series": "The New Warriors",
+   "issue": "63",
+   "volume": "1990",
+   "year": "1995",
+   "owned": false
+  },
+  {
+   "order": 74,
+   "series": "The New Warriors",
+   "issue": "64",
+   "volume": "1990",
+   "year": "1995",
+   "owned": false
+  },
+  {
+   "order": 75,
+   "series": "The Amazing Spider-Man",
+   "issue": "406",
+   "volume": "1963",
+   "year": "1995",
+   "owned": false
+  },
+  {
+   "order": 76,
+   "series": "Spider-Man",
+   "issue": "63",
+   "volume": "1990",
+   "year": "1995",
+   "owned": false
+  },
+  {
+   "order": 77,
+   "series": "Spider-Man Team-Up",
+   "issue": "1",
+   "volume": "1995",
+   "year": "1995",
+   "owned": false
+  },
+  {
+   "order": 78,
+   "series": "The Spectacular Spider-Man",
+   "issue": "229",
+   "volume": "1976",
+   "year": "1995",
+   "owned": false
+  },
+  {
+   "order": 79,
+   "series": "The New Warriors",
+   "issue": "65",
+   "volume": "1990",
+   "year": "1995",
+   "owned": false
+  },
+  {
+   "order": 80,
+   "series": "Scarlet Spider Unlimited",
+   "issue": "1",
+   "volume": "1995",
+   "year": "1995",
+   "owned": false
+  },
+  {
+   "order": 81,
+   "series": "Web of Scarlet Spider",
+   "issue": "1",
+   "volume": "1995",
+   "year": "1995",
+   "owned": false
+  },
+  {
+   "order": 82,
+   "series": "The Amazing Scarlet Spider",
+   "issue": "1",
+   "volume": "1995",
+   "year": "1995",
+   "owned": false
+  },
+  {
+   "order": 83,
+   "series": "Scarlet Spider",
+   "issue": "1",
+   "volume": "1995",
+   "year": "1995",
+   "owned": false
+  },
+  {
+   "order": 84,
+   "series": "The Spectacular Scarlet Spider",
+   "issue": "1",
+   "volume": "1995",
+   "year": "1995",
+   "owned": false
+  },
+  {
+   "order": 85,
+   "series": "Web of Scarlet Spider",
+   "issue": "2",
+   "volume": "1995",
+   "year": "1995",
+   "owned": false
+  },
+  {
+   "order": 86,
+   "series": "The Amazing Scarlet Spider",
+   "issue": "2",
+   "volume": "1995",
+   "year": "1995",
+   "owned": false
+  },
+  {
+   "order": 87,
+   "series": "Green Goblin",
+   "issue": "3",
+   "volume": "1995",
+   "year": "1995",
+   "owned": false
+  },
+  {
+   "order": 88,
+   "series": "The New Warriors",
+   "issue": "66",
+   "volume": "1990",
+   "year": "1995",
+   "owned": false
+  },
+  {
+   "order": 89,
+   "series": "Scarlet Spider",
+   "issue": "2",
+   "volume": "1995",
+   "year": "1995",
+   "owned": false
+  },
+  {
+   "order": 90,
+   "series": "The Spectacular Scarlet Spider",
+   "issue": "2",
+   "volume": "1995",
+   "year": "1995",
+   "owned": false
+  },
+  {
+   "order": 91,
+   "series": "Sensational Spider-Man Wizard Mini Comic",
+   "issue": "3",
+   "volume": "1995",
+   "year": "1995",
+   "owned": false
+  },
+  {
+   "order": 92,
+   "series": "The Sensational Spider-Man",
+   "issue": "0",
+   "volume": "1996",
+   "year": "1996",
+   "owned": false
+  },
+  {
+   "order": 93,
+   "series": "The Amazing Spider-Man",
+   "issue": "407",
+   "volume": "1963",
+   "year": "1996",
+   "owned": false
+  },
+  {
+   "order": 94,
+   "series": "Spider-Man",
+   "issue": "64",
+   "volume": "1990",
+   "year": "1996",
+   "owned": false
+  },
+  {
+   "order": 95,
+   "series": "Web of Scarlet Spider",
+   "issue": "3",
+   "volume": "1995",
+   "year": "1996",
+   "owned": false
+  },
+  {
+   "order": 96,
+   "series": "The New Warriors",
+   "issue": "67",
+   "volume": "1990",
+   "year": "1996",
+   "owned": false
+  },
+  {
+   "order": 97,
+   "series": "Web of Scarlet Spider",
+   "issue": "4",
+   "volume": "1995",
+   "year": "1996",
+   "owned": false
+  },
+  {
+   "order": 98,
+   "series": "The Spectacular Spider-Man",
+   "issue": "230",
+   "volume": "1976",
+   "year": "1996",
+   "owned": false
+  },
+  {
+   "order": 99,
+   "series": "Spider-Man/Punisher: Family Plot",
+   "issue": "1",
+   "volume": "1996",
+   "year": "1996",
+   "owned": false
+  },
+  {
+   "order": 100,
+   "series": "Spider-Man/Punisher: Family Plot",
+   "issue": "2",
+   "volume": "1996",
+   "year": "1996",
+   "owned": false
+  },
+  {
+   "order": 101,
+   "series": "Venom: Along Came A Spider",
+   "issue": "1",
+   "volume": "1996",
+   "year": "1996",
+   "owned": false
+  },
+  {
+   "order": 102,
+   "series": "Venom: Along Came A Spider",
+   "issue": "2",
+   "volume": "1996",
+   "year": "1996",
+   "owned": false
+  },
+  {
+   "order": 103,
+   "series": "Venom: Along Came A Spider",
+   "issue": "3",
+   "volume": "1996",
+   "year": "1996",
+   "owned": false
+  },
+  {
+   "order": 104,
+   "series": "Venom: Along Came A Spider",
+   "issue": "4",
+   "volume": "1996",
+   "year": "1996",
+   "owned": false
+  },
+  {
+   "order": 105,
+   "series": "The Sensational Spider-Man",
+   "issue": "1",
+   "volume": "1996",
+   "year": "1996",
+   "owned": false
+  },
+  {
+   "order": 106,
+   "series": "The Amazing Spider-Man",
+   "issue": "408",
+   "volume": "1963",
+   "year": "1996",
+   "owned": false
+  },
+  {
+   "order": 107,
+   "series": "Spider-Man",
+   "issue": "65",
+   "volume": "1990",
+   "year": "1996",
+   "owned": false
+  },
+  {
+   "order": 108,
+   "series": "Spider-Man Holiday Special",
+   "issue": "1",
+   "volume": "1995",
+   "year": "1995",
+   "owned": false
+  },
+  {
+   "order": 109,
+   "series": "Spider-Man: The Final Adventure",
+   "issue": "1",
+   "volume": "1996",
+   "year": "1995",
+   "owned": false
+  },
+  {
+   "order": 110,
+   "series": "Spider-Man: The Final Adventure",
+   "issue": "2",
+   "volume": "1996",
+   "year": "1996",
+   "owned": false
+  },
+  {
+   "order": 111,
+   "series": "Spider-Man: The Final Adventure",
+   "issue": "3",
+   "volume": "1996",
+   "year": "1996",
+   "owned": false
+  },
+  {
+   "order": 112,
+   "series": "Spider-Man: The Final Adventure",
+   "issue": "4",
+   "volume": "1996",
+   "year": "1996",
+   "owned": false
+  },
+  {
+   "order": 113,
+   "series": "Spider-Man Unlimited",
+   "issue": "11",
+   "volume": "1993",
+   "year": "1996",
+   "owned": false
+  },
+  {
+   "order": 114,
+   "series": "Spider-Man Team-Up",
+   "issue": "2",
+   "volume": "1995",
+   "year": "1996",
+   "owned": false
+  },
+  {
+   "order": 115,
+   "series": "The Spectacular Spider-Man",
+   "issue": "231",
+   "volume": "1976",
+   "year": "1996",
+   "owned": false
+  },
+  {
+   "order": 116,
+   "series": "The Sensational Spider-Man",
+   "issue": "2",
+   "volume": "1996",
+   "year": "1996",
+   "owned": false
+  },
+  {
+   "order": 117,
+   "series": "The Amazing Spider-Man",
+   "issue": "409",
+   "volume": "1963",
+   "year": "1996",
+   "owned": false
+  },
+  {
+   "order": 118,
+   "series": "Spider-Man",
+   "issue": "66",
+   "volume": "1990",
+   "year": "1996",
+   "owned": false
+  },
+  {
+   "order": 119,
+   "series": "The Spectacular Spider-Man",
+   "issue": "232",
+   "volume": "1976",
+   "year": "1996",
+   "owned": false
+  },
+  {
+   "order": 120,
+   "series": "The Sensational Spider-Man",
+   "issue": "3",
+   "volume": "1996",
+   "year": "1996",
+   "owned": false
+  },
+  {
+   "order": 121,
+   "series": "The Amazing Spider-Man",
+   "issue": "410",
+   "volume": "1963",
+   "year": "1996",
+   "owned": false
+  },
+  {
+   "order": 122,
+   "series": "Spider-Man",
+   "issue": "67",
+   "volume": "1990",
+   "year": "1996",
+   "owned": false
+  },
+  {
+   "order": 123,
+   "series": "The Spectacular Spider-Man",
+   "issue": "233",
+   "volume": "1976",
+   "year": "1996",
+   "owned": false
+  },
+  {
+   "order": 124,
+   "series": "The Sensational Spider-Man",
+   "issue": "4",
+   "volume": "1996",
+   "year": "1996",
+   "owned": false
+  },
+  {
+   "order": 125,
+   "series": "The Amazing Spider-Man",
+   "issue": "411",
+   "volume": "1963",
+   "year": "1996",
+   "owned": false
+  },
+  {
+   "order": 126,
+   "series": "Spider-Man",
+   "issue": "68",
+   "volume": "1990",
+   "year": "1996",
+   "owned": false
+  },
+  {
+   "order": 127,
+   "series": "The Spectacular Spider-Man",
+   "issue": "234",
+   "volume": "1976",
+   "year": "1996",
+   "owned": false
+  },
+  {
+   "order": 128,
+   "series": "The Sensational Spider-Man",
+   "issue": "5",
+   "volume": "1996",
+   "year": "1996",
+   "owned": false
+  },
+  {
+   "order": 129,
+   "series": "The Amazing Spider-Man",
+   "issue": "412",
+   "volume": "1963",
+   "year": "1996",
+   "owned": false
+  },
+  {
+   "order": 130,
+   "series": "Spider-Man Unlimited",
+   "issue": "12",
+   "volume": "1993",
+   "year": "1996",
+   "owned": false
+  },
+  {
+   "order": 131,
+   "series": "Spider-Man",
+   "issue": "69",
+   "volume": "1990",
+   "year": "1996",
+   "owned": false
+  },
+  {
+   "order": 132,
+   "series": "Spider-Man Team-Up",
+   "issue": "3",
+   "volume": "1995",
+   "year": "1996",
+   "owned": false
+  },
+  {
+   "order": 133,
+   "series": "The Sensational Spider-Man",
+   "issue": "6",
+   "volume": "1996",
+   "year": "1996",
+   "owned": false
+  },
+  {
+   "order": 134,
+   "series": "Spider-Man: Redemption",
+   "issue": "1",
+   "volume": "1996",
+   "year": "1996",
+   "owned": false
+  },
+  {
+   "order": 135,
+   "series": "Spider-Man: Redemption",
+   "issue": "2",
+   "volume": "1996",
+   "year": "1996",
+   "owned": false
+  },
+  {
+   "order": 136,
+   "series": "Spider-Man: Redemption",
+   "issue": "3",
+   "volume": "1996",
+   "year": "1996",
+   "owned": false
+  },
+  {
+   "order": 137,
+   "series": "Spider-Man: Redemption",
+   "issue": "4",
+   "volume": "1996",
+   "year": "1996",
+   "owned": false
+  },
+  {
+   "order": 138,
+   "series": "The Amazing Spider-Man",
+   "issue": "413",
+   "volume": "1963",
+   "year": "1996",
+   "owned": false
+  },
+  {
+   "order": 139,
+   "series": "Daredevil",
+   "issue": "354",
+   "volume": "1964",
+   "year": "1996",
+   "owned": false
+  },
+  {
+   "order": 140,
+   "series": "Spider-Man",
+   "issue": "70",
+   "volume": "1990",
+   "year": "1996",
+   "owned": false
+  },
+  {
+   "order": 141,
+   "series": "The Spectacular Spider-Man",
+   "issue": "235",
+   "volume": "1976",
+   "year": "1996",
+   "owned": false
+  },
+  {
+   "order": 142,
+   "series": "The Spectacular Spider-Man",
+   "issue": "236",
+   "volume": "1976",
+   "year": "1996",
+   "owned": false
+  },
+  {
+   "order": 143,
+   "series": "The Sensational Spider-Man",
+   "issue": "7",
+   "volume": "1996",
+   "year": "1996",
+   "owned": false
+  },
+  {
+   "order": 144,
+   "series": "The Amazing Spider-Man",
+   "issue": "414",
+   "volume": "1963",
+   "year": "1996",
+   "owned": false
+  },
+  {
+   "order": 145,
+   "series": "Spider-Man",
+   "issue": "71",
+   "volume": "1990",
+   "year": "1996",
+   "owned": false
+  },
+  {
+   "order": 146,
+   "series": "The Spectacular Spider-Man",
+   "issue": "237",
+   "volume": "1976",
+   "year": "1996",
+   "owned": false
+  },
+  {
+   "order": 147,
+   "series": "Spider-Man Unlimited",
+   "issue": "13",
+   "volume": "1993",
+   "year": "1996",
+   "owned": false
+  },
+  {
+   "order": 148,
+   "series": "Spider-Man Team-Up",
+   "issue": "4",
+   "volume": "1995",
+   "year": "1996",
+   "owned": false
+  },
+  {
+   "order": 149,
+   "series": "The Sensational Spider-Man",
+   "issue": "8",
+   "volume": "1996",
+   "year": "1996",
+   "owned": false
+  },
+  {
+   "order": 150,
+   "series": "The Sensational Spider-Man",
+   "issue": "9",
+   "volume": "1996",
+   "year": "1996",
+   "owned": false
+  },
+  {
+   "order": 151,
+   "series": "The Sensational Spider-Man",
+   "issue": "10",
+   "volume": "1996",
+   "year": "1996",
+   "owned": false
+  },
+  {
+   "order": 152,
+   "series": "The Amazing Spider-Man",
+   "issue": "416",
+   "volume": "1963",
+   "year": "1996",
+   "owned": false
+  },
+  {
+   "order": 153,
+   "series": "The Spectacular Spider-Man",
+   "issue": "238",
+   "volume": "1976",
+   "year": "1996",
+   "owned": false
+  },
+  {
+   "order": 154,
+   "series": "The Spectacular Spider-Man",
+   "issue": "239",
+   "volume": "1976",
+   "year": "1996",
+   "owned": false
+  },
+  {
+   "order": 155,
+   "series": "The Amazing Spider-Man '96",
+   "issue": "1",
+   "volume": "1996",
+   "year": "1996",
+   "owned": false
+  },
+  {
+   "order": 156,
+   "series": "Spider-Man",
+   "issue": "73",
+   "volume": "1990",
+   "year": "1996",
+   "owned": false
+  },
+  {
+   "order": 157,
+   "series": "Spider-Man",
+   "issue": "74",
+   "volume": "1990",
+   "year": "1996",
+   "owned": false
+  },
+  {
+   "order": 158,
+   "series": "The Amazing Spider-Man",
+   "issue": "417",
+   "volume": "1963",
+   "year": "1996",
+   "owned": false
+  },
+  {
+   "order": 159,
+   "series": "Spider-Man Unlimited",
+   "issue": "14",
+   "volume": "1993",
+   "year": "1996",
+   "owned": false
+  },
+  {
+   "order": 160,
+   "series": "Spider-Man Team-Up",
+   "issue": "5",
+   "volume": "1995",
+   "year": "1996",
+   "owned": false
+  },
+  {
+   "order": 161,
+   "series": "The Spectacular Spider-Man",
+   "issue": "240",
+   "volume": "1976",
+   "year": "1996",
+   "owned": false
+  },
+  {
+   "order": 162,
+   "series": "The Sensational Spider-Man",
+   "issue": "11",
+   "volume": "1996",
+   "year": "1996",
+   "owned": false
+  },
+  {
+   "order": 163,
+   "series": "The Amazing Spider-Man",
+   "issue": "418",
+   "volume": "1963",
+   "year": "1996",
+   "owned": false
+  },
+  {
+   "order": 164,
+   "series": "Spider-Man",
+   "issue": "75",
+   "volume": "1990",
+   "year": "1996",
+   "owned": false
+  },
+  {
+   "order": 165,
+   "series": "The Spectacular Spider-Man",
+   "issue": "241",
+   "volume": "1976",
+   "year": "1996",
+   "owned": false
+  },
+  {
+   "order": 166,
+   "series": "Osborn Journals",
+   "issue": "1",
+   "volume": "1996",
+   "year": "1997",
+   "owned": false
+  },
+  {
+   "order": 167,
+   "series": "Spider-Man: Dead Man's Hand",
+   "issue": "1",
+   "volume": "1997",
+   "year": "1997",
+   "owned": false
+  }
+ ]
+}

@@ -1,0 +1,72 @@
+{
+ "arc": "X-Termination",
+ "slug": "x-termination",
+ "issue_count": 8,
+ "owned_count": 2,
+ "entries": [
+  {
+   "order": 1,
+   "series": "Age of Apocalypse",
+   "issue": "13",
+   "volume": "2012",
+   "year": "2013",
+   "owned": false
+  },
+  {
+   "order": 2,
+   "series": "X-Treme X-Men",
+   "issue": "12",
+   "volume": "2012",
+   "year": "2013",
+   "owned": false
+  },
+  {
+   "order": 3,
+   "series": "X-Termination",
+   "issue": "1",
+   "volume": "2013",
+   "year": "2013",
+   "owned": false
+  },
+  {
+   "order": 4,
+   "series": "Astonishing X-Men",
+   "issue": "60",
+   "volume": "2004",
+   "year": "2013",
+   "owned": true
+  },
+  {
+   "order": 5,
+   "series": "Age of Apocalypse",
+   "issue": "14",
+   "volume": "2012",
+   "year": "2013",
+   "owned": false
+  },
+  {
+   "order": 6,
+   "series": "X-Treme X-Men",
+   "issue": "13",
+   "volume": "2012",
+   "year": "2013",
+   "owned": false
+  },
+  {
+   "order": 7,
+   "series": "Astonishing X-Men",
+   "issue": "61",
+   "volume": "2004",
+   "year": "2013",
+   "owned": true
+  },
+  {
+   "order": 8,
+   "series": "X-Termination",
+   "issue": "2",
+   "volume": "2013",
+   "year": "2013",
+   "owned": false
+  }
+ ]
+}

@@ -1,0 +1,56 @@
+{
+ "arc": "Annihilation: Scourge",
+ "slug": "annihilation-scourge",
+ "issue_count": 6,
+ "owned_count": 0,
+ "entries": [
+  {
+   "order": 1,
+   "series": "Annihilation - Scourge Alpha",
+   "issue": "1",
+   "volume": "2019",
+   "year": "2020",
+   "owned": false
+  },
+  {
+   "order": 2,
+   "series": "Annihilation - Scourge: Nova",
+   "issue": "1",
+   "volume": "2019",
+   "year": "2020",
+   "owned": false
+  },
+  {
+   "order": 3,
+   "series": "Annihilation - Scourge: Fantastic Four",
+   "issue": "1",
+   "volume": "2019",
+   "year": "2020",
+   "owned": false
+  },
+  {
+   "order": 4,
+   "series": "Annihilation - Scourge: Beta Ray Bill",
+   "issue": "1",
+   "volume": "2019",
+   "year": "2020",
+   "owned": false
+  },
+  {
+   "order": 5,
+   "series": "Annihilation - Scourge: Silver Surfer",
+   "issue": "1",
+   "volume": "2019",
+   "year": "2020",
+   "owned": false
+  },
+  {
+   "order": 6,
+   "series": "Annihilation - Scourge Omega",
+   "issue": "1",
+   "volume": "2019",
+   "year": "2020",
+   "owned": false
+  }
+ ]
+}

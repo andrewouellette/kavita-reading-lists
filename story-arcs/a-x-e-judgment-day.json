@@ -1,0 +1,312 @@
+{
+ "arc": "A.X.E.: Judgment Day",
+ "slug": "a-x-e-judgment-day",
+ "issue_count": 38,
+ "owned_count": 36,
+ "entries": [
+  {
+   "order": 1,
+   "series": "Free Comic Book Day 2022: Avengers/X-Men",
+   "issue": "1",
+   "volume": "2022",
+   "year": "2022",
+   "owned": false
+  },
+  {
+   "order": 2,
+   "series": "A.X.E.: Eve of Judgment",
+   "issue": "1",
+   "volume": "2022",
+   "year": "2022",
+   "owned": true
+  },
+  {
+   "order": 3,
+   "series": "A.X.E.: Judgment Day",
+   "issue": "1",
+   "volume": "2022",
+   "year": "2022",
+   "owned": true
+  },
+  {
+   "order": 4,
+   "series": "X-Men: Red",
+   "issue": "5",
+   "volume": "2022",
+   "year": "2022",
+   "owned": true
+  },
+  {
+   "order": 5,
+   "series": "Immortal X-Men",
+   "issue": "5",
+   "volume": "2022",
+   "year": "2022",
+   "owned": true
+  },
+  {
+   "order": 6,
+   "series": "A.X.E.: Judgment Day",
+   "issue": "2",
+   "volume": "2022",
+   "year": "2022",
+   "owned": true
+  },
+  {
+   "order": 7,
+   "series": "A.X.E.: Death to the Mutants",
+   "issue": "1",
+   "volume": "2022",
+   "year": "2022",
+   "owned": true
+  },
+  {
+   "order": 8,
+   "series": "X-Force",
+   "issue": "30",
+   "volume": "2020",
+   "year": "2022",
+   "owned": true
+  },
+  {
+   "order": 9,
+   "series": "X-Men",
+   "issue": "13",
+   "volume": "2021",
+   "year": "2022",
+   "owned": true
+  },
+  {
+   "order": 10,
+   "series": "A.X.E.: Judgment Day",
+   "issue": "3",
+   "volume": "2022",
+   "year": "2022",
+   "owned": true
+  },
+  {
+   "order": 11,
+   "series": "A.X.E.: Death to the Mutants",
+   "issue": "2",
+   "volume": "2022",
+   "year": "2022",
+   "owned": true
+  },
+  {
+   "order": 12,
+   "series": "X-Men",
+   "issue": "14",
+   "volume": "2021",
+   "year": "2022",
+   "owned": true
+  },
+  {
+   "order": 13,
+   "series": "Wolverine",
+   "issue": "24",
+   "volume": "2020",
+   "year": "2022",
+   "owned": true
+  },
+  {
+   "order": 14,
+   "series": "Wolverine",
+   "issue": "25",
+   "volume": "2020",
+   "year": "2022",
+   "owned": true
+  },
+  {
+   "order": 15,
+   "series": "X-Force",
+   "issue": "31",
+   "volume": "2020",
+   "year": "2022",
+   "owned": true
+  },
+  {
+   "order": 16,
+   "series": "X-Force",
+   "issue": "32",
+   "volume": "2020",
+   "year": "2022",
+   "owned": true
+  },
+  {
+   "order": 17,
+   "series": "X-Force",
+   "issue": "33",
+   "volume": "2020",
+   "year": "2022",
+   "owned": true
+  },
+  {
+   "order": 18,
+   "series": "Immortal X-Men",
+   "issue": "6",
+   "volume": "2022",
+   "year": "2022",
+   "owned": true
+  },
+  {
+   "order": 19,
+   "series": "X-Men: Red",
+   "issue": "6",
+   "volume": "2022",
+   "year": "2022",
+   "owned": true
+  },
+  {
+   "order": 20,
+   "series": "A.X.E.: Iron Fist",
+   "issue": "1",
+   "volume": "2022",
+   "year": "2022",
+   "owned": true
+  },
+  {
+   "order": 21,
+   "series": "Avengers",
+   "issue": "60",
+   "volume": "2018",
+   "year": "2022",
+   "owned": true
+  },
+  {
+   "order": 22,
+   "series": "Fantastic Four",
+   "issue": "47",
+   "volume": "2018",
+   "year": "2022",
+   "owned": true
+  },
+  {
+   "order": 23,
+   "series": "Fantastic Four",
+   "issue": "48",
+   "volume": "2018",
+   "year": "2022",
+   "owned": true
+  },
+  {
+   "order": 24,
+   "series": "The Amazing Spider-Man",
+   "issue": "10",
+   "volume": "2022",
+   "year": "2022",
+   "owned": true
+  },
+  {
+   "order": 25,
+   "series": "Captain Marvel",
+   "issue": "42",
+   "volume": "2019",
+   "year": "2022",
+   "owned": true
+  },
+  {
+   "order": 26,
+   "series": "A.X.E.: Judgment Day",
+   "issue": "4",
+   "volume": "2022",
+   "year": "2022",
+   "owned": true
+  },
+  {
+   "order": 27,
+   "series": "X-Men: Red",
+   "issue": "7",
+   "volume": "2022",
+   "year": "2022",
+   "owned": true
+  },
+  {
+   "order": 28,
+   "series": "Legion of X",
+   "issue": "6",
+   "volume": "2022",
+   "year": "2022",
+   "owned": true
+  },
+  {
+   "order": 29,
+   "series": "Marauders",
+   "issue": "6",
+   "volume": "2022",
+   "year": "2022",
+   "owned": true
+  },
+  {
+   "order": 30,
+   "series": "A.X.E.: Judgment Day",
+   "issue": "5",
+   "volume": "2022",
+   "year": "2022",
+   "owned": true
+  },
+  {
+   "order": 31,
+   "series": "Immortal X-Men",
+   "issue": "7",
+   "volume": "2022",
+   "year": "2022",
+   "owned": true
+  },
+  {
+   "order": 32,
+   "series": "A.X.E.: Death to the Mutants",
+   "issue": "3",
+   "volume": "2022",
+   "year": "2022",
+   "owned": true
+  },
+  {
+   "order": 33,
+   "series": "A.X.E.: Starfox",
+   "issue": "1",
+   "volume": "2022",
+   "year": "2022",
+   "owned": true
+  },
+  {
+   "order": 34,
+   "series": "A.X.E.: Avengers",
+   "issue": "1",
+   "volume": "2022",
+   "year": "2022",
+   "owned": true
+  },
+  {
+   "order": 35,
+   "series": "A.X.E.: X-Men",
+   "issue": "1",
+   "volume": "2022",
+   "year": "2022",
+   "owned": true
+  },
+  {
+   "order": 36,
+   "series": "A.X.E.: Eternals",
+   "issue": "1",
+   "volume": "2022",
+   "year": "2022",
+   "owned": true
+  },
+  {
+   "order": 37,
+   "series": "A.X.E.: Judgment Day",
+   "issue": "6",
+   "volume": "2022",
+   "year": "2022",
+   "owned": true
+  },
+  {
+   "order": 38,
+   "series": "A.X.E.: Judgment Day Omega",
+   "issue": "1",
+   "volume": "2023",
+   "year": "2023",
+   "owned": false
+  }
+ ]
+}

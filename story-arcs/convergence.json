@@ -1,0 +1,728 @@
+{
+ "arc": "Convergence",
+ "slug": "convergence",
+ "issue_count": 90,
+ "owned_count": 2,
+ "entries": [
+  {
+   "order": 1,
+   "series": "Convergence",
+   "issue": "0",
+   "volume": "2015",
+   "year": "2015",
+   "owned": false
+  },
+  {
+   "order": 2,
+   "series": "Convergence",
+   "issue": "1",
+   "volume": "2015",
+   "year": "2015",
+   "owned": false
+  },
+  {
+   "order": 3,
+   "series": "Convergence Speed Force",
+   "issue": "1",
+   "volume": "2015",
+   "year": "2015",
+   "owned": false
+  },
+  {
+   "order": 4,
+   "series": "Convergence Speed Force",
+   "issue": "2",
+   "volume": "2015",
+   "year": "2015",
+   "owned": false
+  },
+  {
+   "order": 5,
+   "series": "Convergence Superman",
+   "issue": "1",
+   "volume": "2015",
+   "year": "2015",
+   "owned": false
+  },
+  {
+   "order": 6,
+   "series": "Convergence Superman",
+   "issue": "2",
+   "volume": "2015",
+   "year": "2015",
+   "owned": false
+  },
+  {
+   "order": 7,
+   "series": "Convergence Nightwing/Oracle",
+   "issue": "1",
+   "volume": "2015",
+   "year": "2015",
+   "owned": false
+  },
+  {
+   "order": 8,
+   "series": "Convergence Nightwing/Oracle",
+   "issue": "2",
+   "volume": "2015",
+   "year": "2015",
+   "owned": false
+  },
+  {
+   "order": 9,
+   "series": "Convergence The Question",
+   "issue": "1",
+   "volume": "2015",
+   "year": "2015",
+   "owned": false
+  },
+  {
+   "order": 10,
+   "series": "Convergence The Question",
+   "issue": "2",
+   "volume": "2015",
+   "year": "2015",
+   "owned": false
+  },
+  {
+   "order": 11,
+   "series": "Convergence Batman and Robin",
+   "issue": "1",
+   "volume": "2015",
+   "year": "2015",
+   "owned": false
+  },
+  {
+   "order": 12,
+   "series": "Convergence Batman and Robin",
+   "issue": "2",
+   "volume": "2015",
+   "year": "2015",
+   "owned": false
+  },
+  {
+   "order": 13,
+   "series": "Convergence Batgirl",
+   "issue": "1",
+   "volume": "2015",
+   "year": "2015",
+   "owned": false
+  },
+  {
+   "order": 14,
+   "series": "Convergence Batgirl",
+   "issue": "2",
+   "volume": "2015",
+   "year": "2015",
+   "owned": false
+  },
+  {
+   "order": 15,
+   "series": "Convergence Harley Quinn",
+   "issue": "1",
+   "volume": "2015",
+   "year": "2015",
+   "owned": false
+  },
+  {
+   "order": 16,
+   "series": "Convergence Harley Quinn",
+   "issue": "2",
+   "volume": "2015",
+   "year": "2015",
+   "owned": false
+  },
+  {
+   "order": 17,
+   "series": "Convergence Justice League",
+   "issue": "1",
+   "volume": "2015",
+   "year": "2015",
+   "owned": false
+  },
+  {
+   "order": 18,
+   "series": "Convergence Justice League",
+   "issue": "2",
+   "volume": "2015",
+   "year": "2015",
+   "owned": false
+  },
+  {
+   "order": 19,
+   "series": "Convergence Atom",
+   "issue": "1",
+   "volume": "2015",
+   "year": "2015",
+   "owned": false
+  },
+  {
+   "order": 20,
+   "series": "Convergence Atom",
+   "issue": "2",
+   "volume": "2015",
+   "year": "2015",
+   "owned": false
+  },
+  {
+   "order": 21,
+   "series": "Convergence Titans",
+   "issue": "1",
+   "volume": "2015",
+   "year": "2015",
+   "owned": false
+  },
+  {
+   "order": 22,
+   "series": "Convergence Titans",
+   "issue": "2",
+   "volume": "2015",
+   "year": "2015",
+   "owned": true
+  },
+  {
+   "order": 23,
+   "series": "Convergence",
+   "issue": "2",
+   "volume": "2015",
+   "year": "2015",
+   "owned": false
+  },
+  {
+   "order": 24,
+   "series": "Convergence Aquaman",
+   "issue": "1",
+   "volume": "2015",
+   "year": "2015",
+   "owned": false
+  },
+  {
+   "order": 25,
+   "series": "Convergence Aquaman",
+   "issue": "2",
+   "volume": "2015",
+   "year": "2015",
+   "owned": false
+  },
+  {
+   "order": 26,
+   "series": "Convergence Green Arrow",
+   "issue": "1",
+   "volume": "2015",
+   "year": "2015",
+   "owned": false
+  },
+  {
+   "order": 27,
+   "series": "Convergence Green Arrow",
+   "issue": "2",
+   "volume": "2015",
+   "year": "2015",
+   "owned": false
+  },
+  {
+   "order": 28,
+   "series": "Convergence Green Lantern/Parallax",
+   "issue": "1",
+   "volume": "2015",
+   "year": "2015",
+   "owned": false
+  },
+  {
+   "order": 29,
+   "series": "Convergence Green Lantern/Parallax",
+   "issue": "2",
+   "volume": "2015",
+   "year": "2015",
+   "owned": false
+  },
+  {
+   "order": 30,
+   "series": "Convergence Suicide Squad",
+   "issue": "1",
+   "volume": "2015",
+   "year": "2015",
+   "owned": false
+  },
+  {
+   "order": 31,
+   "series": "Convergence Suicide Squad",
+   "issue": "2",
+   "volume": "2015",
+   "year": "2015",
+   "owned": false
+  },
+  {
+   "order": 32,
+   "series": "Convergence Justice League International",
+   "issue": "1",
+   "volume": "2015",
+   "year": "2015",
+   "owned": false
+  },
+  {
+   "order": 33,
+   "series": "Convergence Justice League International",
+   "issue": "2",
+   "volume": "2015",
+   "year": "2015",
+   "owned": false
+  },
+  {
+   "order": 34,
+   "series": "Convergence Superboy",
+   "issue": "1",
+   "volume": "2015",
+   "year": "2015",
+   "owned": false
+  },
+  {
+   "order": 35,
+   "series": "Convergence Superboy",
+   "issue": "2",
+   "volume": "2015",
+   "year": "2015",
+   "owned": false
+  },
+  {
+   "order": 36,
+   "series": "Convergence Batman: Shadow of the Bat",
+   "issue": "1",
+   "volume": "2015",
+   "year": "2015",
+   "owned": false
+  },
+  {
+   "order": 37,
+   "series": "Convergence Batman: Shadow of the Bat",
+   "issue": "2",
+   "volume": "2015",
+   "year": "2015",
+   "owned": false
+  },
+  {
+   "order": 38,
+   "series": "Convergence Supergirl: Matrix",
+   "issue": "1",
+   "volume": "2015",
+   "year": "2015",
+   "owned": false
+  },
+  {
+   "order": 39,
+   "series": "Convergence Supergirl: Matrix",
+   "issue": "2",
+   "volume": "2015",
+   "year": "2015",
+   "owned": false
+  },
+  {
+   "order": 40,
+   "series": "Convergence Catwoman",
+   "issue": "1",
+   "volume": "2015",
+   "year": "2015",
+   "owned": false
+  },
+  {
+   "order": 41,
+   "series": "Convergence Catwoman",
+   "issue": "2",
+   "volume": "2015",
+   "year": "2015",
+   "owned": false
+  },
+  {
+   "order": 42,
+   "series": "Convergence Superman: Man of Steel",
+   "issue": "1",
+   "volume": "2015",
+   "year": "2015",
+   "owned": false
+  },
+  {
+   "order": 43,
+   "series": "Convergence Superman: Man of Steel",
+   "issue": "2",
+   "volume": "2015",
+   "year": "2015",
+   "owned": false
+  },
+  {
+   "order": 44,
+   "series": "Convergence",
+   "issue": "3",
+   "volume": "2015",
+   "year": "2015",
+   "owned": false
+  },
+  {
+   "order": 45,
+   "series": "Convergence Superboy and the Legion of Super-Heroes",
+   "issue": "1",
+   "volume": "2015",
+   "year": "2015",
+   "owned": false
+  },
+  {
+   "order": 46,
+   "series": "Convergence Superboy and the Legion of Super-Heroes",
+   "issue": "2",
+   "volume": "2015",
+   "year": "2015",
+   "owned": false
+  },
+  {
+   "order": 47,
+   "series": "Convergence Hawkman",
+   "issue": "1",
+   "volume": "2015",
+   "year": "2015",
+   "owned": false
+  },
+  {
+   "order": 48,
+   "series": "Convergence Hawkman",
+   "issue": "2",
+   "volume": "2015",
+   "year": "2015",
+   "owned": false
+  },
+  {
+   "order": 49,
+   "series": "Convergence The Flash",
+   "issue": "1",
+   "volume": "2015",
+   "year": "2015",
+   "owned": false
+  },
+  {
+   "order": 50,
+   "series": "Convergence The Flash",
+   "issue": "2",
+   "volume": "2015",
+   "year": "2015",
+   "owned": false
+  },
+  {
+   "order": 51,
+   "series": "Convergence Green Lantern Corps",
+   "issue": "1",
+   "volume": "2015",
+   "year": "2015",
+   "owned": false
+  },
+  {
+   "order": 52,
+   "series": "Convergence Green Lantern Corps",
+   "issue": "2",
+   "volume": "2015",
+   "year": "2015",
+   "owned": false
+  },
+  {
+   "order": 53,
+   "series": "Convergence Batman and the Outsiders",
+   "issue": "1",
+   "volume": "2015",
+   "year": "2015",
+   "owned": false
+  },
+  {
+   "order": 54,
+   "series": "Convergence Batman and the Outsiders",
+   "issue": "2",
+   "volume": "2015",
+   "year": "2015",
+   "owned": false
+  },
+  {
+   "order": 55,
+   "series": "Convergence Adventures of Superman",
+   "issue": "1",
+   "volume": "2015",
+   "year": "2015",
+   "owned": false
+  },
+  {
+   "order": 56,
+   "series": "Convergence Adventures of Superman",
+   "issue": "2",
+   "volume": "2015",
+   "year": "2015",
+   "owned": false
+  },
+  {
+   "order": 57,
+   "series": "Convergence Wonder Woman",
+   "issue": "1",
+   "volume": "2015",
+   "year": "2015",
+   "owned": false
+  },
+  {
+   "order": 58,
+   "series": "Convergence Wonder Woman",
+   "issue": "2",
+   "volume": "2015",
+   "year": "2015",
+   "owned": false
+  },
+  {
+   "order": 59,
+   "series": "Convergence Swamp Thing",
+   "issue": "1",
+   "volume": "2015",
+   "year": "2015",
+   "owned": false
+  },
+  {
+   "order": 60,
+   "series": "Convergence Swamp Thing",
+   "issue": "2",
+   "volume": "2015",
+   "year": "2015",
+   "owned": false
+  },
+  {
+   "order": 61,
+   "series": "Convergence New Teen Titans",
+   "issue": "1",
+   "volume": "2015",
+   "year": "2015",
+   "owned": false
+  },
+  {
+   "order": 62,
+   "series": "Convergence New Teen Titans",
+   "issue": "2",
+   "volume": "2015",
+   "year": "2015",
+   "owned": false
+  },
+  {
+   "order": 63,
+   "series": "Convergence Justice League of America",
+   "issue": "1",
+   "volume": "2015",
+   "year": "2015",
+   "owned": false
+  },
+  {
+   "order": 64,
+   "series": "Convergence Justice League of America",
+   "issue": "2",
+   "volume": "2015",
+   "year": "2015",
+   "owned": false
+  },
+  {
+   "order": 65,
+   "series": "Justice League",
+   "issue": "40",
+   "volume": "2011",
+   "year": "2015",
+   "owned": true
+  },
+  {
+   "order": 66,
+   "series": "Convergence",
+   "issue": "4",
+   "volume": "2015",
+   "year": "2015",
+   "owned": false
+  },
+  {
+   "order": 67,
+   "series": "Convergence Booster Gold",
+   "issue": "1",
+   "volume": "2015",
+   "year": "2015",
+   "owned": false
+  },
+  {
+   "order": 68,
+   "series": "Convergence Booster Gold",
+   "issue": "2",
+   "volume": "2015",
+   "year": "2015",
+   "owned": false
+  },
+  {
+   "order": 69,
+   "series": "Convergence Action Comics",
+   "issue": "1",
+   "volume": "2015",
+   "year": "2015",
+   "owned": false
+  },
+  {
+   "order": 70,
+   "series": "Convergence Action Comics",
+   "issue": "2",
+   "volume": "2015",
+   "year": "2015",
+   "owned": false
+  },
+  {
+   "order": 71,
+   "series": "Convergence Detective Comics",
+   "issue": "1",
+   "volume": "2015",
+   "year": "2015",
+   "owned": false
+  },
+  {
+   "order": 72,
+   "series": "Convergence Detective Comics",
+   "issue": "2",
+   "volume": "2015",
+   "year": "2015",
+   "owned": false
+  },
+  {
+   "order": 73,
+   "series": "Convergence Justice Society of America",
+   "issue": "1",
+   "volume": "2015",
+   "year": "2015",
+   "owned": false
+  },
+  {
+   "order": 74,
+   "series": "Convergence Justice Society of America",
+   "issue": "2",
+   "volume": "2015",
+   "year": "2015",
+   "owned": false
+  },
+  {
+   "order": 75,
+   "series": "Convergence Infinity INC.",
+   "issue": "1",
+   "volume": "2015",
+   "year": "2015",
+   "owned": false
+  },
+  {
+   "order": 76,
+   "series": "Convergence Infinity INC.",
+   "issue": "2",
+   "volume": "2015",
+   "year": "2015",
+   "owned": false
+  },
+  {
+   "order": 77,
+   "series": "Convergence World's Finest",
+   "issue": "1",
+   "volume": "2015",
+   "year": "2015",
+   "owned": false
+  },
+  {
+   "order": 78,
+   "series": "Convergence World's Finest",
+   "issue": "2",
+   "volume": "2015",
+   "year": "2015",
+   "owned": false
+  },
+  {
+   "order": 79,
+   "series": "Convergence Plastic Man and the Freedom Fighters",
+   "issue": "1",
+   "volume": "2015",
+   "year": "2015",
+   "owned": false
+  },
+  {
+   "order": 80,
+   "series": "Convergence Plastic Man and the Freedom Fighters",
+   "issue": "2",
+   "volume": "2015",
+   "year": "2015",
+   "owned": false
+  },
+  {
+   "order": 81,
+   "series": "Convergence Shazam",
+   "issue": "1",
+   "volume": "2015",
+   "year": "2015",
+   "owned": false
+  },
+  {
+   "order": 82,
+   "series": "Convergence Shazam",
+   "issue": "2",
+   "volume": "2015",
+   "year": "2015",
+   "owned": false
+  },
+  {
+   "order": 83,
+   "series": "Convergence Crime Syndicate",
+   "issue": "1",
+   "volume": "2015",
+   "year": "2015",
+   "owned": false
+  },
+  {
+   "order": 84,
+   "series": "Convergence Crime Syndicate",
+   "issue": "2",
+   "volume": "2015",
+   "year": "2015",
+   "owned": false
+  },
+  {
+   "order": 85,
+   "series": "Convergence Blue Beetle",
+   "issue": "1",
+   "volume": "2015",
+   "year": "2015",
+   "owned": false
+  },
+  {
+   "order": 86,
+   "series": "Convergence Blue Beetle",
+   "issue": "2",
+   "volume": "2015",
+   "year": "2015",
+   "owned": false
+  },
+  {
+   "order": 87,
+   "series": "Convergence",
+   "issue": "5",
+   "volume": "2015",
+   "year": "2015",
+   "owned": false
+  },
+  {
+   "order": 88,
+   "series": "Convergence",
+   "issue": "6",
+   "volume": "2015",
+   "year": "2015",
+   "owned": false
+  },
+  {
+   "order": 89,
+   "series": "Convergence",
+   "issue": "7",
+   "volume": "2015",
+   "year": "2015",
+   "owned": false
+  },
+  {
+   "order": 90,
+   "series": "Convergence",
+   "issue": "8",
+   "volume": "2015",
+   "year": "2015",
+   "owned": false
+  }
+ ]
+}

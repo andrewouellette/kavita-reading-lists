@@ -1,0 +1,528 @@
+{
+ "arc": "War of Kings",
+ "slug": "war-of-kings",
+ "issue_count": 65,
+ "owned_count": 13,
+ "entries": [
+  {
+   "order": 1,
+   "series": "Guardians of the Galaxy",
+   "issue": "7",
+   "volume": "2008",
+   "year": "2009",
+   "owned": true
+  },
+  {
+   "order": 2,
+   "series": "Guardians of the Galaxy",
+   "issue": "8",
+   "volume": "2008",
+   "year": "2009",
+   "owned": true
+  },
+  {
+   "order": 3,
+   "series": "Guardians of the Galaxy",
+   "issue": "9",
+   "volume": "2008",
+   "year": "2009",
+   "owned": true
+  },
+  {
+   "order": 4,
+   "series": "Guardians of the Galaxy",
+   "issue": "10",
+   "volume": "2008",
+   "year": "2009",
+   "owned": true
+  },
+  {
+   "order": 5,
+   "series": "Guardians of the Galaxy",
+   "issue": "11",
+   "volume": "2008",
+   "year": "2009",
+   "owned": true
+  },
+  {
+   "order": 6,
+   "series": "Guardians of the Galaxy",
+   "issue": "12",
+   "volume": "2008",
+   "year": "2009",
+   "owned": true
+  },
+  {
+   "order": 7,
+   "series": "Secret Invasion: Inhumans",
+   "issue": "1",
+   "volume": "2008",
+   "year": "2008",
+   "owned": false
+  },
+  {
+   "order": 8,
+   "series": "Secret Invasion: Inhumans",
+   "issue": "2",
+   "volume": "2008",
+   "year": "2008",
+   "owned": false
+  },
+  {
+   "order": 9,
+   "series": "Secret Invasion: Inhumans",
+   "issue": "3",
+   "volume": "2008",
+   "year": "2008",
+   "owned": false
+  },
+  {
+   "order": 10,
+   "series": "Secret Invasion: Inhumans",
+   "issue": "4",
+   "volume": "2008",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 11,
+   "series": "The Uncanny X-Men",
+   "issue": "475",
+   "volume": "1981",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 12,
+   "series": "The Uncanny X-Men",
+   "issue": "476",
+   "volume": "1981",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 13,
+   "series": "The Uncanny X-Men",
+   "issue": "477",
+   "volume": "1981",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 14,
+   "series": "The Uncanny X-Men",
+   "issue": "478",
+   "volume": "1981",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 15,
+   "series": "The Uncanny X-Men",
+   "issue": "479",
+   "volume": "1981",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 16,
+   "series": "The Uncanny X-Men",
+   "issue": "480",
+   "volume": "1981",
+   "year": "2007",
+   "owned": false
+  },
+  {
+   "order": 17,
+   "series": "The Uncanny X-Men",
+   "issue": "481",
+   "volume": "1981",
+   "year": "2007",
+   "owned": false
+  },
+  {
+   "order": 18,
+   "series": "The Uncanny X-Men",
+   "issue": "482",
+   "volume": "1981",
+   "year": "2007",
+   "owned": false
+  },
+  {
+   "order": 19,
+   "series": "The Uncanny X-Men",
+   "issue": "483",
+   "volume": "1981",
+   "year": "2007",
+   "owned": false
+  },
+  {
+   "order": 20,
+   "series": "The Uncanny X-Men",
+   "issue": "484",
+   "volume": "1981",
+   "year": "2007",
+   "owned": false
+  },
+  {
+   "order": 21,
+   "series": "The Uncanny X-Men",
+   "issue": "485",
+   "volume": "1981",
+   "year": "2007",
+   "owned": false
+  },
+  {
+   "order": 22,
+   "series": "The Uncanny X-Men",
+   "issue": "486",
+   "volume": "1981",
+   "year": "2007",
+   "owned": false
+  },
+  {
+   "order": 23,
+   "series": "X-Men: Emperor Vulcan",
+   "issue": "1",
+   "volume": "2007",
+   "year": "2007",
+   "owned": false
+  },
+  {
+   "order": 24,
+   "series": "X-Men: Emperor Vulcan",
+   "issue": "2",
+   "volume": "2007",
+   "year": "2007",
+   "owned": false
+  },
+  {
+   "order": 25,
+   "series": "X-Men: Emperor Vulcan",
+   "issue": "3",
+   "volume": "2007",
+   "year": "2008",
+   "owned": false
+  },
+  {
+   "order": 26,
+   "series": "X-Men: Emperor Vulcan",
+   "issue": "4",
+   "volume": "2007",
+   "year": "2008",
+   "owned": false
+  },
+  {
+   "order": 27,
+   "series": "X-Men: Emperor Vulcan",
+   "issue": "5",
+   "volume": "2007",
+   "year": "2008",
+   "owned": false
+  },
+  {
+   "order": 28,
+   "series": "War of Kings Saga",
+   "issue": "1",
+   "volume": "2009",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 29,
+   "series": "Secret Invasion: War Of Kings",
+   "issue": "1",
+   "volume": "2009",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 30,
+   "series": "X-Men: Kingbreaker",
+   "issue": "1",
+   "volume": "2009",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 31,
+   "series": "X-Men: Kingbreaker",
+   "issue": "2",
+   "volume": "2009",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 32,
+   "series": "X-Men: Kingbreaker",
+   "issue": "3",
+   "volume": "2009",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 33,
+   "series": "X-Men: Kingbreaker",
+   "issue": "4",
+   "volume": "2009",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 34,
+   "series": "War of Kings: Warriors",
+   "issue": "1",
+   "volume": "2009",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 35,
+   "series": "War of Kings: Warriors",
+   "issue": "2",
+   "volume": "2009",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 36,
+   "series": "War of Kings: Darkhawk",
+   "issue": "1",
+   "volume": "2009",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 37,
+   "series": "War of Kings: Darkhawk",
+   "issue": "2",
+   "volume": "2009",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 38,
+   "series": "Nova",
+   "issue": "22",
+   "volume": "2007",
+   "year": "2009",
+   "owned": true
+  },
+  {
+   "order": 39,
+   "series": "Nova",
+   "issue": "23",
+   "volume": "2007",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 40,
+   "series": "War of Kings",
+   "issue": "1",
+   "volume": "2009",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 41,
+   "series": "Nova",
+   "issue": "24",
+   "volume": "2007",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 42,
+   "series": "War of Kings",
+   "issue": "2",
+   "volume": "2009",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 43,
+   "series": "Guardians of the Galaxy",
+   "issue": "13",
+   "volume": "2008",
+   "year": "2009",
+   "owned": true
+  },
+  {
+   "order": 44,
+   "series": "Guardians of the Galaxy",
+   "issue": "14",
+   "volume": "2008",
+   "year": "2009",
+   "owned": true
+  },
+  {
+   "order": 45,
+   "series": "War of Kings",
+   "issue": "3",
+   "volume": "2009",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 46,
+   "series": "Guardians of the Galaxy",
+   "issue": "15",
+   "volume": "2008",
+   "year": "2009",
+   "owned": true
+  },
+  {
+   "order": 47,
+   "series": "War of Kings: Ascension",
+   "issue": "1",
+   "volume": "2009",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 48,
+   "series": "War of Kings: Ascension",
+   "issue": "2",
+   "volume": "2009",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 49,
+   "series": "Nova",
+   "issue": "25",
+   "volume": "2007",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 50,
+   "series": "Nova",
+   "issue": "26",
+   "volume": "2007",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 51,
+   "series": "War of Kings",
+   "issue": "4",
+   "volume": "2009",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 52,
+   "series": "War of Kings: Ascension",
+   "issue": "3",
+   "volume": "2009",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 53,
+   "series": "War of Kings",
+   "issue": "5",
+   "volume": "2009",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 54,
+   "series": "War of Kings: Ascension",
+   "issue": "4",
+   "volume": "2009",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 55,
+   "series": "Guardians of the Galaxy",
+   "issue": "16",
+   "volume": "2008",
+   "year": "2009",
+   "owned": true
+  },
+  {
+   "order": 56,
+   "series": "War of Kings",
+   "issue": "6",
+   "volume": "2009",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 57,
+   "series": "Guardians of the Galaxy",
+   "issue": "17",
+   "volume": "2008",
+   "year": "2009",
+   "owned": true
+  },
+  {
+   "order": 58,
+   "series": "Nova",
+   "issue": "27",
+   "volume": "2007",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 59,
+   "series": "Nova",
+   "issue": "28",
+   "volume": "2007",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 60,
+   "series": "War of Kings: Who Will Rule?",
+   "issue": "1",
+   "volume": "2009",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 61,
+   "series": "Guardians of the Galaxy",
+   "issue": "18",
+   "volume": "2008",
+   "year": "2009",
+   "owned": true
+  },
+  {
+   "order": 62,
+   "series": "Guardians of the Galaxy",
+   "issue": "19",
+   "volume": "2008",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 63,
+   "series": "Nova",
+   "issue": "29",
+   "volume": "2007",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 64,
+   "series": "Nova",
+   "issue": "30",
+   "volume": "2007",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 65,
+   "series": "Nova",
+   "issue": "31",
+   "volume": "2007",
+   "year": "2010",
+   "owned": false
+  }
+ ]
+}

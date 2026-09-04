@@ -1,0 +1,344 @@
+{
+ "arc": "Age of X-Man",
+ "slug": "age-of-x-man",
+ "issue_count": 42,
+ "owned_count": 10,
+ "entries": [
+  {
+   "order": 1,
+   "series": "Uncanny X-Men",
+   "issue": "1",
+   "volume": "2018",
+   "year": "2019",
+   "owned": true
+  },
+  {
+   "order": 2,
+   "series": "Uncanny X-Men",
+   "issue": "2",
+   "volume": "2018",
+   "year": "2019",
+   "owned": true
+  },
+  {
+   "order": 3,
+   "series": "Uncanny X-Men",
+   "issue": "3",
+   "volume": "2018",
+   "year": "2019",
+   "owned": true
+  },
+  {
+   "order": 4,
+   "series": "Uncanny X-Men",
+   "issue": "4",
+   "volume": "2018",
+   "year": "2019",
+   "owned": true
+  },
+  {
+   "order": 5,
+   "series": "Uncanny X-Men",
+   "issue": "5",
+   "volume": "2018",
+   "year": "2019",
+   "owned": true
+  },
+  {
+   "order": 6,
+   "series": "Uncanny X-Men",
+   "issue": "6",
+   "volume": "2018",
+   "year": "2019",
+   "owned": true
+  },
+  {
+   "order": 7,
+   "series": "Uncanny X-Men",
+   "issue": "7",
+   "volume": "2018",
+   "year": "2019",
+   "owned": true
+  },
+  {
+   "order": 8,
+   "series": "Uncanny X-Men",
+   "issue": "8",
+   "volume": "2018",
+   "year": "2019",
+   "owned": true
+  },
+  {
+   "order": 9,
+   "series": "Uncanny X-Men",
+   "issue": "9",
+   "volume": "2018",
+   "year": "2019",
+   "owned": true
+  },
+  {
+   "order": 10,
+   "series": "Uncanny X-Men",
+   "issue": "10",
+   "volume": "2018",
+   "year": "2019",
+   "owned": true
+  },
+  {
+   "order": 11,
+   "series": "Age of X-Man Alpha",
+   "issue": "1",
+   "volume": "2019",
+   "year": "2019",
+   "owned": false
+  },
+  {
+   "order": 12,
+   "series": "Age of X-Man: The Marvelous X-Men",
+   "issue": "1",
+   "volume": "2019",
+   "year": "2019",
+   "owned": false
+  },
+  {
+   "order": 13,
+   "series": "Age of X-Man: NextGen",
+   "issue": "1",
+   "volume": "2019",
+   "year": "2019",
+   "owned": false
+  },
+  {
+   "order": 14,
+   "series": "Age of X-Man: The Amazing Nightcrawler",
+   "issue": "1",
+   "volume": "2019",
+   "year": "2019",
+   "owned": false
+  },
+  {
+   "order": 15,
+   "series": "Age of X-Man: X-Tremists",
+   "issue": "1",
+   "volume": "2019",
+   "year": "2019",
+   "owned": false
+  },
+  {
+   "order": 16,
+   "series": "Age of X-Man: Prisoner X",
+   "issue": "1",
+   "volume": "2019",
+   "year": "2019",
+   "owned": false
+  },
+  {
+   "order": 17,
+   "series": "Age of X-Man: Apocalypse and the X-Tracts",
+   "issue": "1",
+   "volume": "2019",
+   "year": "2019",
+   "owned": false
+  },
+  {
+   "order": 18,
+   "series": "Age of X-Man: The Marvelous X-Men",
+   "issue": "2",
+   "volume": "2019",
+   "year": "2019",
+   "owned": false
+  },
+  {
+   "order": 19,
+   "series": "Age of X-Man: The Marvelous X-Men",
+   "issue": "3",
+   "volume": "2019",
+   "year": "2019",
+   "owned": false
+  },
+  {
+   "order": 20,
+   "series": "Age of X-Man: The Marvelous X-Men",
+   "issue": "4",
+   "volume": "2019",
+   "year": "2019",
+   "owned": false
+  },
+  {
+   "order": 21,
+   "series": "Age of X-Man: The Marvelous X-Men",
+   "issue": "5",
+   "volume": "2019",
+   "year": "2019",
+   "owned": false
+  },
+  {
+   "order": 22,
+   "series": "Age of X-Man: NextGen",
+   "issue": "2",
+   "volume": "2019",
+   "year": "2019",
+   "owned": false
+  },
+  {
+   "order": 23,
+   "series": "Age of X-Man: NextGen",
+   "issue": "3",
+   "volume": "2019",
+   "year": "2019",
+   "owned": false
+  },
+  {
+   "order": 24,
+   "series": "Age of X-Man: NextGen",
+   "issue": "4",
+   "volume": "2019",
+   "year": "2019",
+   "owned": false
+  },
+  {
+   "order": 25,
+   "series": "Age of X-Man: NextGen",
+   "issue": "5",
+   "volume": "2019",
+   "year": "2019",
+   "owned": false
+  },
+  {
+   "order": 26,
+   "series": "Age of X-Man: The Amazing Nightcrawler",
+   "issue": "2",
+   "volume": "2019",
+   "year": "2019",
+   "owned": false
+  },
+  {
+   "order": 27,
+   "series": "Age of X-Man: The Amazing Nightcrawler",
+   "issue": "3",
+   "volume": "2019",
+   "year": "2019",
+   "owned": false
+  },
+  {
+   "order": 28,
+   "series": "Age of X-Man: The Amazing Nightcrawler",
+   "issue": "4",
+   "volume": "2019",
+   "year": "2019",
+   "owned": false
+  },
+  {
+   "order": 29,
+   "series": "Age of X-Man: The Amazing Nightcrawler",
+   "issue": "5",
+   "volume": "2019",
+   "year": "2019",
+   "owned": false
+  },
+  {
+   "order": 30,
+   "series": "Age of X-Man: X-Tremists",
+   "issue": "2",
+   "volume": "2019",
+   "year": "2019",
+   "owned": false
+  },
+  {
+   "order": 31,
+   "series": "Age of X-Man: X-Tremists",
+   "issue": "3",
+   "volume": "2019",
+   "year": "2019",
+   "owned": false
+  },
+  {
+   "order": 32,
+   "series": "Age of X-Man: X-Tremists",
+   "issue": "4",
+   "volume": "2019",
+   "year": "2019",
+   "owned": false
+  },
+  {
+   "order": 33,
+   "series": "Age of X-Man: X-Tremists",
+   "issue": "5",
+   "volume": "2019",
+   "year": "2019",
+   "owned": false
+  },
+  {
+   "order": 34,
+   "series": "Age of X-Man: Prisoner X",
+   "issue": "2",
+   "volume": "2019",
+   "year": "2019",
+   "owned": false
+  },
+  {
+   "order": 35,
+   "series": "Age of X-Man: Prisoner X",
+   "issue": "3",
+   "volume": "2019",
+   "year": "2019",
+   "owned": false
+  },
+  {
+   "order": 36,
+   "series": "Age of X-Man: Prisoner X",
+   "issue": "4",
+   "volume": "2019",
+   "year": "2019",
+   "owned": false
+  },
+  {
+   "order": 37,
+   "series": "Age of X-Man: Prisoner X",
+   "issue": "5",
+   "volume": "2019",
+   "year": "2019",
+   "owned": false
+  },
+  {
+   "order": 38,
+   "series": "Age of X-Man: Apocalypse and the X-Tracts",
+   "issue": "2",
+   "volume": "2019",
+   "year": "2019",
+   "owned": false
+  },
+  {
+   "order": 39,
+   "series": "Age of X-Man: Apocalypse and the X-Tracts",
+   "issue": "3",
+   "volume": "2019",
+   "year": "2019",
+   "owned": false
+  },
+  {
+   "order": 40,
+   "series": "Age of X-Man: Apocalypse and the X-Tracts",
+   "issue": "4",
+   "volume": "2019",
+   "year": "2019",
+   "owned": false
+  },
+  {
+   "order": 41,
+   "series": "Age of X-Man: Apocalypse and the X-Tracts",
+   "issue": "5",
+   "volume": "2019",
+   "year": "2019",
+   "owned": false
+  },
+  {
+   "order": 42,
+   "series": "Age of X-Man Omega",
+   "issue": "1",
+   "volume": "2019",
+   "year": "2019",
+   "owned": false
+  }
+ ]
+}

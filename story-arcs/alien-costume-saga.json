@@ -1,0 +1,416 @@
+{
+ "arc": "Alien Costume Saga",
+ "slug": "alien-costume-saga",
+ "issue_count": 51,
+ "owned_count": 0,
+ "entries": [
+  {
+   "order": 1,
+   "series": "The Amazing Spider-Man",
+   "issue": "252",
+   "volume": "1963",
+   "year": "1984",
+   "owned": false
+  },
+  {
+   "order": 2,
+   "series": "Marvel Team-Up",
+   "issue": "141",
+   "volume": "1972",
+   "year": "1984",
+   "owned": false
+  },
+  {
+   "order": 3,
+   "series": "Peter Parker, the Spectacular Spider-Man",
+   "issue": "90",
+   "volume": "1980",
+   "year": "1984",
+   "owned": false
+  },
+  {
+   "order": 4,
+   "series": "The Amazing Spider-Man",
+   "issue": "253",
+   "volume": "1963",
+   "year": "1984",
+   "owned": false
+  },
+  {
+   "order": 5,
+   "series": "Peter Parker, the Spectacular Spider-Man",
+   "issue": "91",
+   "volume": "1980",
+   "year": "1984",
+   "owned": false
+  },
+  {
+   "order": 6,
+   "series": "The Amazing Spider-Man",
+   "issue": "254",
+   "volume": "1963",
+   "year": "1984",
+   "owned": false
+  },
+  {
+   "order": 7,
+   "series": "Peter Parker, the Spectacular Spider-Man",
+   "issue": "92",
+   "volume": "1980",
+   "year": "1984",
+   "owned": false
+  },
+  {
+   "order": 8,
+   "series": "Marvel Team-Up",
+   "issue": "142",
+   "volume": "1972",
+   "year": "1984",
+   "owned": false
+  },
+  {
+   "order": 9,
+   "series": "Marvel Team-Up",
+   "issue": "143",
+   "volume": "1972",
+   "year": "1984",
+   "owned": false
+  },
+  {
+   "order": 10,
+   "series": "The Amazing Spider-Man",
+   "issue": "255",
+   "volume": "1963",
+   "year": "1984",
+   "owned": false
+  },
+  {
+   "order": 11,
+   "series": "Marvel Team-Up Annual",
+   "issue": "7",
+   "volume": "1976",
+   "year": "1984",
+   "owned": false
+  },
+  {
+   "order": 12,
+   "series": "Peter Parker, the Spectacular Spider-Man",
+   "issue": "93",
+   "volume": "1980",
+   "year": "1984",
+   "owned": false
+  },
+  {
+   "order": 13,
+   "series": "Marvel Team-Up",
+   "issue": "144",
+   "volume": "1972",
+   "year": "1984",
+   "owned": false
+  },
+  {
+   "order": 14,
+   "series": "Peter Parker, the Spectacular Spider-Man",
+   "issue": "94",
+   "volume": "1980",
+   "year": "1984",
+   "owned": false
+  },
+  {
+   "order": 15,
+   "series": "Peter Parker, the Spectacular Spider-Man",
+   "issue": "95",
+   "volume": "1980",
+   "year": "1984",
+   "owned": false
+  },
+  {
+   "order": 16,
+   "series": "Marvel Team-Up",
+   "issue": "145",
+   "volume": "1972",
+   "year": "1984",
+   "owned": false
+  },
+  {
+   "order": 17,
+   "series": "The Amazing Spider-Man",
+   "issue": "256",
+   "volume": "1963",
+   "year": "1984",
+   "owned": false
+  },
+  {
+   "order": 18,
+   "series": "The Amazing Spider-Man",
+   "issue": "257",
+   "volume": "1963",
+   "year": "1984",
+   "owned": false
+  },
+  {
+   "order": 19,
+   "series": "The Amazing Spider-Man",
+   "issue": "258",
+   "volume": "1963",
+   "year": "1984",
+   "owned": false
+  },
+  {
+   "order": 20,
+   "series": "Marvel Team-Up",
+   "issue": "146",
+   "volume": "1972",
+   "year": "1984",
+   "owned": false
+  },
+  {
+   "order": 21,
+   "series": "The Spectacular Spider-Man Annual",
+   "issue": "4",
+   "volume": "1979",
+   "year": "1984",
+   "owned": false
+  },
+  {
+   "order": 22,
+   "series": "The Amazing Spider-Man",
+   "issue": "259",
+   "volume": "1963",
+   "year": "1984",
+   "owned": false
+  },
+  {
+   "order": 23,
+   "series": "Peter Parker, the Spectacular Spider-Man",
+   "issue": "96",
+   "volume": "1980",
+   "year": "1984",
+   "owned": false
+  },
+  {
+   "order": 24,
+   "series": "Peter Parker, the Spectacular Spider-Man",
+   "issue": "97",
+   "volume": "1980",
+   "year": "1984",
+   "owned": false
+  },
+  {
+   "order": 25,
+   "series": "Marvel Team-Up",
+   "issue": "147",
+   "volume": "1972",
+   "year": "1984",
+   "owned": false
+  },
+  {
+   "order": 26,
+   "series": "Marvel Team-Up",
+   "issue": "148",
+   "volume": "1972",
+   "year": "1984",
+   "owned": false
+  },
+  {
+   "order": 27,
+   "series": "The Amazing Spider-Man Annual",
+   "issue": "18",
+   "volume": "1964",
+   "year": "1984",
+   "owned": false
+  },
+  {
+   "order": 28,
+   "series": "The Amazing Spider-Man",
+   "issue": "260",
+   "volume": "1963",
+   "year": "1985",
+   "owned": false
+  },
+  {
+   "order": 29,
+   "series": "The Amazing Spider-Man",
+   "issue": "261",
+   "volume": "1963",
+   "year": "1985",
+   "owned": false
+  },
+  {
+   "order": 30,
+   "series": "Peter Parker, the Spectacular Spider-Man",
+   "issue": "98",
+   "volume": "1980",
+   "year": "1985",
+   "owned": false
+  },
+  {
+   "order": 31,
+   "series": "Marvel Team-Up",
+   "issue": "149",
+   "volume": "1972",
+   "year": "1985",
+   "owned": false
+  },
+  {
+   "order": 32,
+   "series": "The Amazing Spider-Man",
+   "issue": "262",
+   "volume": "1963",
+   "year": "1985",
+   "owned": false
+  },
+  {
+   "order": 33,
+   "series": "Peter Parker, the Spectacular Spider-Man",
+   "issue": "99",
+   "volume": "1980",
+   "year": "1985",
+   "owned": false
+  },
+  {
+   "order": 34,
+   "series": "Marvel Team-Up",
+   "issue": "150",
+   "volume": "1972",
+   "year": "1985",
+   "owned": false
+  },
+  {
+   "order": 35,
+   "series": "The Amazing Spider-Man",
+   "issue": "263",
+   "volume": "1963",
+   "year": "1985",
+   "owned": false
+  },
+  {
+   "order": 36,
+   "series": "Peter Parker, the Spectacular Spider-Man",
+   "issue": "100",
+   "volume": "1980",
+   "year": "1985",
+   "owned": false
+  },
+  {
+   "order": 37,
+   "series": "Web of Spider-Man",
+   "issue": "1",
+   "volume": "1985",
+   "year": "1985",
+   "owned": false
+  },
+  {
+   "order": 38,
+   "series": "Peter Parker, the Spectacular Spider-Man",
+   "issue": "101",
+   "volume": "1980",
+   "year": "1985",
+   "owned": false
+  },
+  {
+   "order": 39,
+   "series": "Web of Spider-Man",
+   "issue": "2",
+   "volume": "1985",
+   "year": "1985",
+   "owned": false
+  },
+  {
+   "order": 40,
+   "series": "Peter Parker, the Spectacular Spider-Man",
+   "issue": "102",
+   "volume": "1980",
+   "year": "1985",
+   "owned": false
+  },
+  {
+   "order": 41,
+   "series": "The Amazing Spider-Man",
+   "issue": "264",
+   "volume": "1963",
+   "year": "1985",
+   "owned": false
+  },
+  {
+   "order": 42,
+   "series": "Web of Spider-Man",
+   "issue": "3",
+   "volume": "1985",
+   "year": "1985",
+   "owned": false
+  },
+  {
+   "order": 43,
+   "series": "The Amazing Spider-Man",
+   "issue": "265",
+   "volume": "1963",
+   "year": "1985",
+   "owned": false
+  },
+  {
+   "order": 44,
+   "series": "Peter Parker, the Spectacular Spider-Man",
+   "issue": "103",
+   "volume": "1980",
+   "year": "1985",
+   "owned": false
+  },
+  {
+   "order": 45,
+   "series": "The Amazing Spider-Man",
+   "issue": "266",
+   "volume": "1963",
+   "year": "1985",
+   "owned": false
+  },
+  {
+   "order": 46,
+   "series": "Web of Spider-Man",
+   "issue": "4",
+   "volume": "1985",
+   "year": "1985",
+   "owned": false
+  },
+  {
+   "order": 47,
+   "series": "Peter Parker, the Spectacular Spider-Man",
+   "issue": "104",
+   "volume": "1980",
+   "year": "1985",
+   "owned": false
+  },
+  {
+   "order": 48,
+   "series": "The Amazing Spider-Man",
+   "issue": "267",
+   "volume": "1963",
+   "year": "1985",
+   "owned": false
+  },
+  {
+   "order": 49,
+   "series": "Web of Spider-Man",
+   "issue": "5",
+   "volume": "1985",
+   "year": "1985",
+   "owned": false
+  },
+  {
+   "order": 50,
+   "series": "Peter Parker, the Spectacular Spider-Man",
+   "issue": "105",
+   "volume": "1980",
+   "year": "1985",
+   "owned": false
+  },
+  {
+   "order": 51,
+   "series": "Peter Parker, the Spectacular Spider-Man",
+   "issue": "106",
+   "volume": "1980",
+   "year": "1985",
+   "owned": false
+  }
+ ]
+}

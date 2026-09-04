@@ -1,0 +1,56 @@
+{
+ "arc": "Lightning Saga",
+ "slug": "lightning-saga",
+ "issue_count": 6,
+ "owned_count": 0,
+ "entries": [
+  {
+   "order": 1,
+   "series": "Justice League of America",
+   "issue": "8",
+   "volume": "2006",
+   "year": "2007",
+   "owned": false
+  },
+  {
+   "order": 2,
+   "series": "Justice Society of America",
+   "issue": "5",
+   "volume": "2007",
+   "year": "2007",
+   "owned": false
+  },
+  {
+   "order": 3,
+   "series": "Justice League of America",
+   "issue": "9",
+   "volume": "2006",
+   "year": "2007",
+   "owned": false
+  },
+  {
+   "order": 4,
+   "series": "Justice Society of America",
+   "issue": "6",
+   "volume": "2007",
+   "year": "2007",
+   "owned": false
+  },
+  {
+   "order": 5,
+   "series": "Justice League of America",
+   "issue": "10",
+   "volume": "2006",
+   "year": "2007",
+   "owned": false
+  },
+  {
+   "order": 6,
+   "series": "Justice Society of America",
+   "issue": "7",
+   "volume": "2007",
+   "year": "2007",
+   "owned": false
+  }
+ ]
+}

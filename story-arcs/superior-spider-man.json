@@ -1,0 +1,688 @@
+{
+ "arc": "Superior Spider-Man",
+ "slug": "superior-spider-man",
+ "issue_count": 85,
+ "owned_count": 8,
+ "entries": [
+  {
+   "order": 1,
+   "series": "Avenging Spider-Man",
+   "issue": "15.1",
+   "volume": "2011",
+   "year": "2013",
+   "owned": false
+  },
+  {
+   "order": 2,
+   "series": "Superior Spider-Man",
+   "issue": "1",
+   "volume": "2013",
+   "year": "2013",
+   "owned": false
+  },
+  {
+   "order": 3,
+   "series": "Daredevil",
+   "issue": "21",
+   "volume": "2011",
+   "year": "2013",
+   "owned": false
+  },
+  {
+   "order": 4,
+   "series": "Daredevil",
+   "issue": "22",
+   "volume": "2011",
+   "year": "2013",
+   "owned": false
+  },
+  {
+   "order": 5,
+   "series": "Superior Spider-Man",
+   "issue": "2",
+   "volume": "2013",
+   "year": "2013",
+   "owned": false
+  },
+  {
+   "order": 6,
+   "series": "Avenging Spider-Man",
+   "issue": "16",
+   "volume": "2011",
+   "year": "2013",
+   "owned": false
+  },
+  {
+   "order": 7,
+   "series": "Superior Spider-Man",
+   "issue": "3",
+   "volume": "2013",
+   "year": "2013",
+   "owned": false
+  },
+  {
+   "order": 8,
+   "series": "Superior Spider-Man",
+   "issue": "4",
+   "volume": "2013",
+   "year": "2013",
+   "owned": false
+  },
+  {
+   "order": 9,
+   "series": "Superior Spider-Man",
+   "issue": "5",
+   "volume": "2013",
+   "year": "2013",
+   "owned": false
+  },
+  {
+   "order": 10,
+   "series": "Avengers",
+   "issue": "6",
+   "volume": "2012",
+   "year": "2013",
+   "owned": true
+  },
+  {
+   "order": 11,
+   "series": "Avengers",
+   "issue": "7",
+   "volume": "2012",
+   "year": "2013",
+   "owned": true
+  },
+  {
+   "order": 12,
+   "series": "Avengers",
+   "issue": "8",
+   "volume": "2012",
+   "year": "2013",
+   "owned": true
+  },
+  {
+   "order": 13,
+   "series": "Avengers",
+   "issue": "9",
+   "volume": "2012",
+   "year": "2013",
+   "owned": false
+  },
+  {
+   "order": 14,
+   "series": "Avenging Spider-Man",
+   "issue": "17",
+   "volume": "2011",
+   "year": "2013",
+   "owned": false
+  },
+  {
+   "order": 15,
+   "series": "Avengers",
+   "issue": "12",
+   "volume": "2012",
+   "year": "2013",
+   "owned": true
+  },
+  {
+   "order": 16,
+   "series": "Avengers",
+   "issue": "13",
+   "volume": "2012",
+   "year": "2013",
+   "owned": true
+  },
+  {
+   "order": 17,
+   "series": "Avenging Spider-Man",
+   "issue": "18",
+   "volume": "2011",
+   "year": "2013",
+   "owned": false
+  },
+  {
+   "order": 18,
+   "series": "Superior Spider-Man",
+   "issue": "6",
+   "volume": "2013",
+   "year": "2013",
+   "owned": false
+  },
+  {
+   "order": 19,
+   "series": "Avenging Spider-Man",
+   "issue": "19",
+   "volume": "2011",
+   "year": "2013",
+   "owned": false
+  },
+  {
+   "order": 20,
+   "series": "Superior Spider-Man",
+   "issue": "7",
+   "volume": "2013",
+   "year": "2013",
+   "owned": false
+  },
+  {
+   "order": 21,
+   "series": "Superior Spider-Man",
+   "issue": "8",
+   "volume": "2013",
+   "year": "2013",
+   "owned": false
+  },
+  {
+   "order": 22,
+   "series": "Superior Spider-Man",
+   "issue": "9",
+   "volume": "2013",
+   "year": "2013",
+   "owned": false
+  },
+  {
+   "order": 23,
+   "series": "Morbius: The Living Vampire",
+   "issue": "6",
+   "volume": "2013",
+   "year": "2013",
+   "owned": false
+  },
+  {
+   "order": 24,
+   "series": "Morbius: The Living Vampire",
+   "issue": "7",
+   "volume": "2013",
+   "year": "2013",
+   "owned": false
+  },
+  {
+   "order": 25,
+   "series": "Superior Spider-Man",
+   "issue": "10",
+   "volume": "2013",
+   "year": "2013",
+   "owned": false
+  },
+  {
+   "order": 26,
+   "series": "Avenging Spider-Man",
+   "issue": "20",
+   "volume": "2011",
+   "year": "2013",
+   "owned": false
+  },
+  {
+   "order": 27,
+   "series": "Avenging Spider-Man",
+   "issue": "21",
+   "volume": "2011",
+   "year": "2013",
+   "owned": false
+  },
+  {
+   "order": 28,
+   "series": "Superior Spider-Man",
+   "issue": "11",
+   "volume": "2013",
+   "year": "2013",
+   "owned": false
+  },
+  {
+   "order": 29,
+   "series": "Alpha: Big Time",
+   "issue": "1",
+   "volume": "2013",
+   "year": "2013",
+   "owned": false
+  },
+  {
+   "order": 30,
+   "series": "Alpha: Big Time",
+   "issue": "2",
+   "volume": "2013",
+   "year": "2013",
+   "owned": false
+  },
+  {
+   "order": 31,
+   "series": "Alpha: Big Time",
+   "issue": "3",
+   "volume": "2013",
+   "year": "2013",
+   "owned": false
+  },
+  {
+   "order": 32,
+   "series": "Alpha: Big Time",
+   "issue": "4",
+   "volume": "2013",
+   "year": "2013",
+   "owned": false
+  },
+  {
+   "order": 33,
+   "series": "Alpha: Big Time",
+   "issue": "5",
+   "volume": "2013",
+   "year": "2013",
+   "owned": false
+  },
+  {
+   "order": 34,
+   "series": "Superior Spider-Man",
+   "issue": "12",
+   "volume": "2013",
+   "year": "2013",
+   "owned": false
+  },
+  {
+   "order": 35,
+   "series": "Superior Spider-Man",
+   "issue": "13",
+   "volume": "2013",
+   "year": "2013",
+   "owned": false
+  },
+  {
+   "order": 36,
+   "series": "Avenging Spider-Man",
+   "issue": "22",
+   "volume": "2011",
+   "year": "2013",
+   "owned": false
+  },
+  {
+   "order": 37,
+   "series": "Superior Spider-Man",
+   "issue": "14",
+   "volume": "2013",
+   "year": "2013",
+   "owned": false
+  },
+  {
+   "order": 38,
+   "series": "Superior Spider-Man Team-Up",
+   "issue": "1",
+   "volume": "2013",
+   "year": "2013",
+   "owned": false
+  },
+  {
+   "order": 39,
+   "series": "Superior Spider-Man",
+   "issue": "15",
+   "volume": "2013",
+   "year": "2013",
+   "owned": false
+  },
+  {
+   "order": 40,
+   "series": "Superior Spider-Man",
+   "issue": "16",
+   "volume": "2013",
+   "year": "2013",
+   "owned": false
+  },
+  {
+   "order": 41,
+   "series": "Superior Spider-Man Team-Up",
+   "issue": "2",
+   "volume": "2013",
+   "year": "2013",
+   "owned": false
+  },
+  {
+   "order": 42,
+   "series": "Scarlet Spider",
+   "issue": "20",
+   "volume": "2012",
+   "year": "2013",
+   "owned": false
+  },
+  {
+   "order": 43,
+   "series": "Superior Spider-Man",
+   "issue": "17",
+   "volume": "2013",
+   "year": "2013",
+   "owned": false
+  },
+  {
+   "order": 44,
+   "series": "Superior Spider-Man",
+   "issue": "18",
+   "volume": "2013",
+   "year": "2013",
+   "owned": false
+  },
+  {
+   "order": 45,
+   "series": "Superior Spider-Man",
+   "issue": "19",
+   "volume": "2013",
+   "year": "2013",
+   "owned": false
+  },
+  {
+   "order": 46,
+   "series": "All-New X-Men Special",
+   "issue": "1",
+   "volume": "2013",
+   "year": "2013",
+   "owned": false
+  },
+  {
+   "order": 47,
+   "series": "Indestructible Hulk Special",
+   "issue": "1",
+   "volume": "2013",
+   "year": "2013",
+   "owned": false
+  },
+  {
+   "order": 48,
+   "series": "Superior Spider-Man Team-Up Special",
+   "issue": "1",
+   "volume": "2013",
+   "year": "2013",
+   "owned": false
+  },
+  {
+   "order": 49,
+   "series": "Avengers",
+   "issue": "14",
+   "volume": "2012",
+   "year": "2013",
+   "owned": true
+  },
+  {
+   "order": 50,
+   "series": "Avengers",
+   "issue": "15",
+   "volume": "2012",
+   "year": "2013",
+   "owned": true
+  },
+  {
+   "order": 51,
+   "series": "Avengers",
+   "issue": "16",
+   "volume": "2012",
+   "year": "2013",
+   "owned": true
+  },
+  {
+   "order": 52,
+   "series": "Avengers",
+   "issue": "17",
+   "volume": "2012",
+   "year": "2013",
+   "owned": false
+  },
+  {
+   "order": 53,
+   "series": "Mighty Avengers",
+   "issue": "1",
+   "volume": "2013",
+   "year": "2013",
+   "owned": false
+  },
+  {
+   "order": 54,
+   "series": "Mighty Avengers",
+   "issue": "2",
+   "volume": "2013",
+   "year": "2013",
+   "owned": false
+  },
+  {
+   "order": 55,
+   "series": "Mighty Avengers",
+   "issue": "3",
+   "volume": "2013",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 56,
+   "series": "Superior Spider-Man Team-Up",
+   "issue": "3",
+   "volume": "2013",
+   "year": "2013",
+   "owned": false
+  },
+  {
+   "order": 57,
+   "series": "Superior Spider-Man Team-Up",
+   "issue": "4",
+   "volume": "2013",
+   "year": "2013",
+   "owned": false
+  },
+  {
+   "order": 58,
+   "series": "Superior Spider-Man Team-Up",
+   "issue": "5",
+   "volume": "2013",
+   "year": "2013",
+   "owned": false
+  },
+  {
+   "order": 59,
+   "series": "Superior Spider-Man Team-Up",
+   "issue": "6",
+   "volume": "2013",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 60,
+   "series": "Superior Spider-Man Team-Up",
+   "issue": "7",
+   "volume": "2013",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 61,
+   "series": "Superior Spider-Man",
+   "issue": "20",
+   "volume": "2013",
+   "year": "2013",
+   "owned": false
+  },
+  {
+   "order": 62,
+   "series": "Superior Spider-Man",
+   "issue": "21",
+   "volume": "2013",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 63,
+   "series": "Superior Spider-Man Annual",
+   "issue": "1",
+   "volume": "2013",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 64,
+   "series": "Superior Spider-Man Team-Up",
+   "issue": "8",
+   "volume": "2013",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 65,
+   "series": "Superior Spider-Man",
+   "issue": "22",
+   "volume": "2013",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 66,
+   "series": "Superior Spider-Man",
+   "issue": "23",
+   "volume": "2013",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 67,
+   "series": "Superior Spider-Man",
+   "issue": "24",
+   "volume": "2013",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 68,
+   "series": "Superior Spider-Man",
+   "issue": "25",
+   "volume": "2013",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 69,
+   "series": "Superior Carnage",
+   "issue": "1",
+   "volume": "2013",
+   "year": "2013",
+   "owned": false
+  },
+  {
+   "order": 70,
+   "series": "Superior Carnage",
+   "issue": "2",
+   "volume": "2013",
+   "year": "2013",
+   "owned": false
+  },
+  {
+   "order": 71,
+   "series": "Superior Carnage",
+   "issue": "3",
+   "volume": "2013",
+   "year": "2013",
+   "owned": false
+  },
+  {
+   "order": 72,
+   "series": "Superior Carnage",
+   "issue": "4",
+   "volume": "2013",
+   "year": "2013",
+   "owned": false
+  },
+  {
+   "order": 73,
+   "series": "Superior Carnage",
+   "issue": "5",
+   "volume": "2013",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 74,
+   "series": "Superior Carnage Annual",
+   "issue": "1",
+   "volume": "2014",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 75,
+   "series": "Superior Spider-Man",
+   "issue": "26",
+   "volume": "2013",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 76,
+   "series": "Superior Spider-Man Team-Up",
+   "issue": "9",
+   "volume": "2013",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 77,
+   "series": "Superior Spider-Man Team-Up",
+   "issue": "10",
+   "volume": "2013",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 78,
+   "series": "Superior Spider-Man",
+   "issue": "27",
+   "volume": "2013",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 79,
+   "series": "Superior Spider-Man",
+   "issue": "28",
+   "volume": "2013",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 80,
+   "series": "Superior Spider-Man",
+   "issue": "29",
+   "volume": "2013",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 81,
+   "series": "Superior Spider-Man Annual",
+   "issue": "2",
+   "volume": "2013",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 82,
+   "series": "Superior Spider-Man Team-Up",
+   "issue": "11",
+   "volume": "2013",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 83,
+   "series": "Superior Spider-Man Team-Up",
+   "issue": "12",
+   "volume": "2013",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 84,
+   "series": "Superior Spider-Man",
+   "issue": "30",
+   "volume": "2013",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 85,
+   "series": "Superior Spider-Man",
+   "issue": "31",
+   "volume": "2013",
+   "year": "2014",
+   "owned": false
+  }
+ ]
+}

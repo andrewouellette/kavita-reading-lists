@@ -1,0 +1,656 @@
+{
+ "arc": "Superman: New Krypton",
+ "slug": "superman-new-krypton",
+ "issue_count": 81,
+ "owned_count": 9,
+ "entries": [
+  {
+   "order": 1,
+   "series": "Supergirl",
+   "issue": "34",
+   "volume": "2005",
+   "year": "2008",
+   "owned": true
+  },
+  {
+   "order": 2,
+   "series": "Superman's Pal, Jimmy Olsen Special",
+   "issue": "1",
+   "volume": "2008",
+   "year": "2008",
+   "owned": false
+  },
+  {
+   "order": 3,
+   "series": "Superman: New Krypton Special",
+   "issue": "1",
+   "volume": "2008",
+   "year": "2008",
+   "owned": false
+  },
+  {
+   "order": 4,
+   "series": "Superman",
+   "issue": "681",
+   "volume": "1939",
+   "year": "2008",
+   "owned": false
+  },
+  {
+   "order": 5,
+   "series": "Adventure Comics Special Featuring: The Guardian",
+   "issue": "1",
+   "volume": "2009",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 6,
+   "series": "Action Comics",
+   "issue": "871",
+   "volume": "1938",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 7,
+   "series": "Supergirl",
+   "issue": "35",
+   "volume": "2005",
+   "year": "2009",
+   "owned": true
+  },
+  {
+   "order": 8,
+   "series": "Superman",
+   "issue": "682",
+   "volume": "1939",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 9,
+   "series": "Action Comics",
+   "issue": "872",
+   "volume": "1938",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 10,
+   "series": "Supergirl",
+   "issue": "36",
+   "volume": "2005",
+   "year": "2009",
+   "owned": true
+  },
+  {
+   "order": 11,
+   "series": "Superman",
+   "issue": "683",
+   "volume": "1939",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 12,
+   "series": "Action Comics",
+   "issue": "873",
+   "volume": "1938",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 13,
+   "series": "Supergirl",
+   "issue": "37",
+   "volume": "2005",
+   "year": "2009",
+   "owned": true
+  },
+  {
+   "order": 14,
+   "series": "Superman",
+   "issue": "684",
+   "volume": "1939",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 15,
+   "series": "Action Comics",
+   "issue": "874",
+   "volume": "1938",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 16,
+   "series": "Supergirl",
+   "issue": "38",
+   "volume": "2005",
+   "year": "2009",
+   "owned": true
+  },
+  {
+   "order": 17,
+   "series": "Superman",
+   "issue": "685",
+   "volume": "1939",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 18,
+   "series": "Superman: World of New Krypton",
+   "issue": "1",
+   "volume": "2009",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 19,
+   "series": "Action Comics",
+   "issue": "875",
+   "volume": "1938",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 20,
+   "series": "Supergirl",
+   "issue": "39",
+   "volume": "2005",
+   "year": "2009",
+   "owned": true
+  },
+  {
+   "order": 21,
+   "series": "Superman",
+   "issue": "686",
+   "volume": "1939",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 22,
+   "series": "Superman: World of New Krypton",
+   "issue": "2",
+   "volume": "2009",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 23,
+   "series": "Action Comics",
+   "issue": "876",
+   "volume": "1938",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 24,
+   "series": "Supergirl",
+   "issue": "40",
+   "volume": "2005",
+   "year": "2009",
+   "owned": true
+  },
+  {
+   "order": 25,
+   "series": "Superman",
+   "issue": "687",
+   "volume": "1939",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 26,
+   "series": "Superman: World of New Krypton",
+   "issue": "3",
+   "volume": "2009",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 27,
+   "series": "Action Comics",
+   "issue": "877",
+   "volume": "1938",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 28,
+   "series": "Supergirl",
+   "issue": "41",
+   "volume": "2005",
+   "year": "2009",
+   "owned": true
+  },
+  {
+   "order": 29,
+   "series": "Superman",
+   "issue": "688",
+   "volume": "1939",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 30,
+   "series": "Superman: World of New Krypton",
+   "issue": "4",
+   "volume": "2009",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 31,
+   "series": "Action Comics",
+   "issue": "878",
+   "volume": "1938",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 32,
+   "series": "Supergirl",
+   "issue": "42",
+   "volume": "2005",
+   "year": "2009",
+   "owned": true
+  },
+  {
+   "order": 33,
+   "series": "Superman",
+   "issue": "689",
+   "volume": "1939",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 34,
+   "series": "Superman: World of New Krypton",
+   "issue": "5",
+   "volume": "2009",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 35,
+   "series": "Action Comics",
+   "issue": "879",
+   "volume": "1938",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 36,
+   "series": "Supergirl",
+   "issue": "43",
+   "volume": "2005",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 37,
+   "series": "Superman",
+   "issue": "690",
+   "volume": "1939",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 38,
+   "series": "Superman: Secret Files 2009",
+   "issue": "1",
+   "volume": "2009",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 39,
+   "series": "Superman: World of New Krypton",
+   "issue": "6",
+   "volume": "2009",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 40,
+   "series": "Action Comics",
+   "issue": "880",
+   "volume": "1938",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 41,
+   "series": "Supergirl",
+   "issue": "44",
+   "volume": "2005",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 42,
+   "series": "Superman",
+   "issue": "691",
+   "volume": "1939",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 43,
+   "series": "Superman's Pal, Jimmy Olsen Special",
+   "issue": "2",
+   "volume": "2008",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 44,
+   "series": "Superman: World of New Krypton",
+   "issue": "7",
+   "volume": "2009",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 45,
+   "series": "Action Comics",
+   "issue": "881",
+   "volume": "1938",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 46,
+   "series": "Supergirl",
+   "issue": "45",
+   "volume": "2005",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 47,
+   "series": "Superman",
+   "issue": "692",
+   "volume": "1939",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 48,
+   "series": "Superman: World of New Krypton",
+   "issue": "8",
+   "volume": "2009",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 49,
+   "series": "Action Comics",
+   "issue": "882",
+   "volume": "1938",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 50,
+   "series": "Supergirl",
+   "issue": "46",
+   "volume": "2005",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 51,
+   "series": "Superman",
+   "issue": "693",
+   "volume": "1939",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 52,
+   "series": "Superman: World of New Krypton",
+   "issue": "9",
+   "volume": "2009",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 53,
+   "series": "Action Comics",
+   "issue": "883",
+   "volume": "1938",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 54,
+   "series": "Supergirl",
+   "issue": "47",
+   "volume": "2005",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 55,
+   "series": "Superman",
+   "issue": "694",
+   "volume": "1939",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 56,
+   "series": "Superman: World of New Krypton",
+   "issue": "10",
+   "volume": "2009",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 57,
+   "series": "Action Comics",
+   "issue": "884",
+   "volume": "1938",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 58,
+   "series": "Supergirl",
+   "issue": "48",
+   "volume": "2005",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 59,
+   "series": "Superman",
+   "issue": "695",
+   "volume": "1939",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 60,
+   "series": "Superman: World of New Krypton",
+   "issue": "11",
+   "volume": "2009",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 61,
+   "series": "Action Comics",
+   "issue": "885",
+   "volume": "1938",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 62,
+   "series": "Supergirl",
+   "issue": "49",
+   "volume": "2005",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 63,
+   "series": "Superman",
+   "issue": "696",
+   "volume": "1939",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 64,
+   "series": "Superman: World of New Krypton",
+   "issue": "12",
+   "volume": "2009",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 65,
+   "series": "Action Comics",
+   "issue": "886",
+   "volume": "1938",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 66,
+   "series": "Supergirl",
+   "issue": "50",
+   "volume": "2005",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 67,
+   "series": "Superman",
+   "issue": "697",
+   "volume": "1939",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 68,
+   "series": "Adventure Comics",
+   "issue": "8",
+   "volume": "2009",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 69,
+   "series": "Superman: Last Stand of New Krypton",
+   "issue": "1",
+   "volume": "2010",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 70,
+   "series": "Action Comics",
+   "issue": "887",
+   "volume": "1938",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 71,
+   "series": "Supergirl",
+   "issue": "51",
+   "volume": "2005",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 72,
+   "series": "Superman",
+   "issue": "698",
+   "volume": "1939",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 73,
+   "series": "Adventure Comics",
+   "issue": "9",
+   "volume": "2009",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 74,
+   "series": "Superman: Last Stand of New Krypton",
+   "issue": "2",
+   "volume": "2010",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 75,
+   "series": "Action Comics",
+   "issue": "888",
+   "volume": "1938",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 76,
+   "series": "Adventure Comics",
+   "issue": "10",
+   "volume": "2009",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 77,
+   "series": "Supergirl",
+   "issue": "52",
+   "volume": "2005",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 78,
+   "series": "Superman",
+   "issue": "699",
+   "volume": "1939",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 79,
+   "series": "Superman: Last Stand of New Krypton",
+   "issue": "3",
+   "volume": "2010",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 80,
+   "series": "Action Comics",
+   "issue": "889",
+   "volume": "1938",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 81,
+   "series": "Adventure Comics",
+   "issue": "11",
+   "volume": "2009",
+   "year": "2010",
+   "owned": false
+  }
+ ]
+}

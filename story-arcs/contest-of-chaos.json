@@ -1,0 +1,80 @@
+{
+ "arc": "Contest of Chaos",
+ "slug": "contest-of-chaos",
+ "issue_count": 9,
+ "owned_count": 8,
+ "entries": [
+  {
+   "order": 1,
+   "series": "Scarlet Witch Annual",
+   "issue": "1",
+   "volume": "2023",
+   "year": "2023",
+   "owned": true
+  },
+  {
+   "order": 2,
+   "series": "Spider-Man Annual",
+   "issue": "1",
+   "volume": "2023",
+   "year": "2023",
+   "owned": true
+  },
+  {
+   "order": 3,
+   "series": "Invincible Iron Man Annual",
+   "issue": "1",
+   "volume": "2023",
+   "year": "2023",
+   "owned": false
+  },
+  {
+   "order": 4,
+   "series": "Fantastic Four Annual",
+   "issue": "1",
+   "volume": "2023",
+   "year": "2023",
+   "owned": true
+  },
+  {
+   "order": 5,
+   "series": "Moon Knight Annual",
+   "issue": "1",
+   "volume": "2023",
+   "year": "2023",
+   "owned": true
+  },
+  {
+   "order": 6,
+   "series": "Spider-Gwen Annual",
+   "issue": "1",
+   "volume": "2023",
+   "year": "2023",
+   "owned": true
+  },
+  {
+   "order": 7,
+   "series": "Venom Annual",
+   "issue": "1",
+   "volume": "2023",
+   "year": "2023",
+   "owned": true
+  },
+  {
+   "order": 8,
+   "series": "X-Men Annual",
+   "issue": "1",
+   "volume": "2023",
+   "year": "2023",
+   "owned": true
+  },
+  {
+   "order": 9,
+   "series": "Avengers Annual",
+   "issue": "1",
+   "volume": "2023",
+   "year": "2023",
+   "owned": true
+  }
+ ]
+}

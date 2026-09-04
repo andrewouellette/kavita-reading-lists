@@ -1,0 +1,128 @@
+{
+ "arc": "Fall of the Hulks",
+ "slug": "fall-of-the-hulks",
+ "issue_count": 15,
+ "owned_count": 0,
+ "entries": [
+  {
+   "order": 1,
+   "series": "Fall of the Hulks: Alpha",
+   "issue": "1",
+   "volume": "2010",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 2,
+   "series": "Fall of the Hulks: Gamma",
+   "issue": "1",
+   "volume": "2010",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 3,
+   "series": "Hulk",
+   "issue": "19",
+   "volume": "2008",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 4,
+   "series": "Incredible Hulk",
+   "issue": "606",
+   "volume": "2009",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 5,
+   "series": "Hulk",
+   "issue": "20",
+   "volume": "2008",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 6,
+   "series": "Fall of the Hulks: Red Hulk",
+   "issue": "1",
+   "volume": "2010",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 7,
+   "series": "Fall of the Hulks: Red Hulk",
+   "issue": "2",
+   "volume": "2010",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 8,
+   "series": "Fall of the Hulks: Red Hulk",
+   "issue": "3",
+   "volume": "2010",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 9,
+   "series": "Fall of the Hulks: Red Hulk",
+   "issue": "4",
+   "volume": "2010",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 10,
+   "series": "Fall of the Hulks: The Savage She-Hulks",
+   "issue": "1",
+   "volume": "2010",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 11,
+   "series": "Incredible Hulk",
+   "issue": "607",
+   "volume": "2009",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 12,
+   "series": "Incredible Hulk",
+   "issue": "608",
+   "volume": "2009",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 13,
+   "series": "Fall of the Hulks: The Savage She-Hulks",
+   "issue": "2",
+   "volume": "2010",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 14,
+   "series": "Hulk",
+   "issue": "21",
+   "volume": "2008",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 15,
+   "series": "Fall of the Hulks: The Savage She-Hulks",
+   "issue": "3",
+   "volume": "2010",
+   "year": "2010",
+   "owned": false
+  }
+ ]
+}

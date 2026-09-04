@@ -1,0 +1,504 @@
+{
+ "arc": "Earth X",
+ "slug": "earth-x",
+ "issue_count": 62,
+ "owned_count": 0,
+ "entries": [
+  {
+   "order": 1,
+   "series": "Marvels X",
+   "issue": "1",
+   "volume": "2020",
+   "year": "2020",
+   "owned": false
+  },
+  {
+   "order": 2,
+   "series": "Marvels X",
+   "issue": "2",
+   "volume": "2020",
+   "year": "2020",
+   "owned": false
+  },
+  {
+   "order": 3,
+   "series": "Marvels X",
+   "issue": "3",
+   "volume": "2020",
+   "year": "2020",
+   "owned": false
+  },
+  {
+   "order": 4,
+   "series": "Marvels X",
+   "issue": "4",
+   "volume": "2020",
+   "year": "2020",
+   "owned": false
+  },
+  {
+   "order": 5,
+   "series": "Marvels X",
+   "issue": "5",
+   "volume": "2020",
+   "year": "2020",
+   "owned": false
+  },
+  {
+   "order": 6,
+   "series": "Marvels X",
+   "issue": "6",
+   "volume": "2020",
+   "year": "2020",
+   "owned": false
+  },
+  {
+   "order": 7,
+   "series": "Earth X",
+   "issue": "0",
+   "volume": "1999",
+   "year": "1999",
+   "owned": false
+  },
+  {
+   "order": 8,
+   "series": "Earth X",
+   "issue": "\u00bd",
+   "volume": "1999",
+   "year": "2000",
+   "owned": false
+  },
+  {
+   "order": 9,
+   "series": "Earth X",
+   "issue": "1",
+   "volume": "1999",
+   "year": "1999",
+   "owned": false
+  },
+  {
+   "order": 10,
+   "series": "Earth X",
+   "issue": "2",
+   "volume": "1999",
+   "year": "1999",
+   "owned": false
+  },
+  {
+   "order": 11,
+   "series": "Earth X",
+   "issue": "3",
+   "volume": "1999",
+   "year": "1999",
+   "owned": false
+  },
+  {
+   "order": 12,
+   "series": "Earth X",
+   "issue": "4",
+   "volume": "1999",
+   "year": "1999",
+   "owned": false
+  },
+  {
+   "order": 13,
+   "series": "Earth X",
+   "issue": "5",
+   "volume": "1999",
+   "year": "1999",
+   "owned": false
+  },
+  {
+   "order": 14,
+   "series": "Earth X",
+   "issue": "6",
+   "volume": "1999",
+   "year": "1999",
+   "owned": false
+  },
+  {
+   "order": 15,
+   "series": "Earth X",
+   "issue": "7",
+   "volume": "1999",
+   "year": "1999",
+   "owned": false
+  },
+  {
+   "order": 16,
+   "series": "Earth X",
+   "issue": "8",
+   "volume": "1999",
+   "year": "1999",
+   "owned": false
+  },
+  {
+   "order": 17,
+   "series": "Earth X",
+   "issue": "9",
+   "volume": "1999",
+   "year": "1999",
+   "owned": false
+  },
+  {
+   "order": 18,
+   "series": "Earth X",
+   "issue": "10",
+   "volume": "1999",
+   "year": "2000",
+   "owned": false
+  },
+  {
+   "order": 19,
+   "series": "Earth X",
+   "issue": "11",
+   "volume": "1999",
+   "year": "2000",
+   "owned": false
+  },
+  {
+   "order": 20,
+   "series": "Earth X",
+   "issue": "12",
+   "volume": "1999",
+   "year": "2000",
+   "owned": false
+  },
+  {
+   "order": 21,
+   "series": "Earth X",
+   "issue": "X",
+   "volume": "1999",
+   "year": "2000",
+   "owned": false
+  },
+  {
+   "order": 22,
+   "series": "Universe X",
+   "issue": "0",
+   "volume": "2000",
+   "year": "2000",
+   "owned": false
+  },
+  {
+   "order": 23,
+   "series": "Universe X Special: 4",
+   "issue": "1",
+   "volume": "2000",
+   "year": "2000",
+   "owned": false
+  },
+  {
+   "order": 24,
+   "series": "Universe X",
+   "issue": "1",
+   "volume": "2000",
+   "year": "2000",
+   "owned": false
+  },
+  {
+   "order": 25,
+   "series": "Universe X",
+   "issue": "2",
+   "volume": "2000",
+   "year": "2000",
+   "owned": false
+  },
+  {
+   "order": 26,
+   "series": "Universe X",
+   "issue": "3",
+   "volume": "2000",
+   "year": "2000",
+   "owned": false
+  },
+  {
+   "order": 27,
+   "series": "Universe X Special: Spidey",
+   "issue": "1",
+   "volume": "2000",
+   "year": "2000",
+   "owned": false
+  },
+  {
+   "order": 28,
+   "series": "Universe X",
+   "issue": "4",
+   "volume": "2000",
+   "year": "2001",
+   "owned": false
+  },
+  {
+   "order": 29,
+   "series": "Universe X Special: Cap",
+   "issue": "1",
+   "volume": "2001",
+   "year": "2001",
+   "owned": false
+  },
+  {
+   "order": 30,
+   "series": "Universe X",
+   "issue": "5",
+   "volume": "2000",
+   "year": "2001",
+   "owned": false
+  },
+  {
+   "order": 31,
+   "series": "Universe X",
+   "issue": "6",
+   "volume": "2000",
+   "year": "2001",
+   "owned": false
+  },
+  {
+   "order": 32,
+   "series": "Universe X",
+   "issue": "7",
+   "volume": "2000",
+   "year": "2001",
+   "owned": false
+  },
+  {
+   "order": 33,
+   "series": "Universe X",
+   "issue": "8",
+   "volume": "2000",
+   "year": "2001",
+   "owned": false
+  },
+  {
+   "order": 34,
+   "series": "Universe X Special: Beasts",
+   "issue": "1",
+   "volume": "2001",
+   "year": "2001",
+   "owned": false
+  },
+  {
+   "order": 35,
+   "series": "Universe X",
+   "issue": "9",
+   "volume": "2000",
+   "year": "2001",
+   "owned": false
+  },
+  {
+   "order": 36,
+   "series": "Universe X",
+   "issue": "10",
+   "volume": "2000",
+   "year": "2001",
+   "owned": false
+  },
+  {
+   "order": 37,
+   "series": "Universe X",
+   "issue": "11",
+   "volume": "2000",
+   "year": "2001",
+   "owned": false
+  },
+  {
+   "order": 38,
+   "series": "Universe X Special: Iron Men",
+   "issue": "1",
+   "volume": "2001",
+   "year": "2001",
+   "owned": false
+  },
+  {
+   "order": 39,
+   "series": "Universe X",
+   "issue": "12",
+   "volume": "2000",
+   "year": "2001",
+   "owned": false
+  },
+  {
+   "order": 40,
+   "series": "Universe X",
+   "issue": "X",
+   "volume": "2000",
+   "year": "2001",
+   "owned": false
+  },
+  {
+   "order": 41,
+   "series": "Paradise X: Heralds",
+   "issue": "1",
+   "volume": "2001",
+   "year": "2001",
+   "owned": false
+  },
+  {
+   "order": 42,
+   "series": "Paradise X: Heralds",
+   "issue": "2",
+   "volume": "2001",
+   "year": "2002",
+   "owned": false
+  },
+  {
+   "order": 43,
+   "series": "Paradise X: Heralds",
+   "issue": "3",
+   "volume": "2001",
+   "year": "2002",
+   "owned": false
+  },
+  {
+   "order": 44,
+   "series": "Paradise X",
+   "issue": "0",
+   "volume": "2002",
+   "year": "2002",
+   "owned": false
+  },
+  {
+   "order": 45,
+   "series": "Paradise X",
+   "issue": "1",
+   "volume": "2002",
+   "year": "2002",
+   "owned": false
+  },
+  {
+   "order": 46,
+   "series": "Paradise X",
+   "issue": "2",
+   "volume": "2002",
+   "year": "2002",
+   "owned": false
+  },
+  {
+   "order": 47,
+   "series": "Paradise X Special: Xen",
+   "issue": "1",
+   "volume": "2002",
+   "year": "2002",
+   "owned": false
+  },
+  {
+   "order": 48,
+   "series": "Paradise X",
+   "issue": "3",
+   "volume": "2002",
+   "year": "2002",
+   "owned": false
+  },
+  {
+   "order": 49,
+   "series": "Paradise X",
+   "issue": "4",
+   "volume": "2002",
+   "year": "2002",
+   "owned": false
+  },
+  {
+   "order": 50,
+   "series": "Paradise X",
+   "issue": "5",
+   "volume": "2002",
+   "year": "2002",
+   "owned": false
+  },
+  {
+   "order": 51,
+   "series": "Paradise X Special: Devils",
+   "issue": "1",
+   "volume": "2002",
+   "year": "2002",
+   "owned": false
+  },
+  {
+   "order": 52,
+   "series": "Paradise X",
+   "issue": "6",
+   "volume": "2002",
+   "year": "2002",
+   "owned": false
+  },
+  {
+   "order": 53,
+   "series": "Paradise X",
+   "issue": "7",
+   "volume": "2002",
+   "year": "2003",
+   "owned": false
+  },
+  {
+   "order": 54,
+   "series": "Paradise X",
+   "issue": "8",
+   "volume": "2002",
+   "year": "2003",
+   "owned": false
+  },
+  {
+   "order": 55,
+   "series": "Paradise X Special: Ragnarok",
+   "issue": "1",
+   "volume": "2003",
+   "year": "2003",
+   "owned": false
+  },
+  {
+   "order": 56,
+   "series": "Paradise X Special: Ragnarok",
+   "issue": "2",
+   "volume": "2003",
+   "year": "2003",
+   "owned": false
+  },
+  {
+   "order": 57,
+   "series": "Paradise X",
+   "issue": "9",
+   "volume": "2002",
+   "year": "2003",
+   "owned": false
+  },
+  {
+   "order": 58,
+   "series": "Paradise X",
+   "issue": "10",
+   "volume": "2002",
+   "year": "2003",
+   "owned": false
+  },
+  {
+   "order": 59,
+   "series": "Paradise X",
+   "issue": "11",
+   "volume": "2002",
+   "year": "2003",
+   "owned": false
+  },
+  {
+   "order": 60,
+   "series": "Paradise X",
+   "issue": "12",
+   "volume": "2002",
+   "year": "2003",
+   "owned": false
+  },
+  {
+   "order": 61,
+   "series": "Paradise X Special: A",
+   "issue": "1",
+   "volume": "2003",
+   "year": "2003",
+   "owned": false
+  },
+  {
+   "order": 62,
+   "series": "Paradise X: X",
+   "issue": "1",
+   "volume": "2003",
+   "year": "2003",
+   "owned": false
+  }
+ ]
+}

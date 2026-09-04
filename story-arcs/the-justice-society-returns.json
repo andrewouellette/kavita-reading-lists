@@ -1,0 +1,80 @@
+{
+ "arc": "The Justice Society Returns!",
+ "slug": "the-justice-society-returns",
+ "issue_count": 9,
+ "owned_count": 0,
+ "entries": [
+  {
+   "order": 1,
+   "series": "All Star Comics",
+   "issue": "1",
+   "volume": "1999",
+   "year": "1999",
+   "owned": false
+  },
+  {
+   "order": 2,
+   "series": "Adventure Comics",
+   "issue": "1",
+   "volume": "1999",
+   "year": "1999",
+   "owned": false
+  },
+  {
+   "order": 3,
+   "series": "All-American Comics",
+   "issue": "1",
+   "volume": "1999",
+   "year": "1999",
+   "owned": false
+  },
+  {
+   "order": 4,
+   "series": "National Comics",
+   "issue": "1",
+   "volume": "1999",
+   "year": "1999",
+   "owned": false
+  },
+  {
+   "order": 5,
+   "series": "Sensation Comics",
+   "issue": "1",
+   "volume": "1999",
+   "year": "1999",
+   "owned": false
+  },
+  {
+   "order": 6,
+   "series": "Smash Comics",
+   "issue": "1",
+   "volume": "1999",
+   "year": "1999",
+   "owned": false
+  },
+  {
+   "order": 7,
+   "series": "Star Spangled Comics",
+   "issue": "1",
+   "volume": "1999",
+   "year": "1999",
+   "owned": false
+  },
+  {
+   "order": 8,
+   "series": "Thrilling Comics",
+   "issue": "1",
+   "volume": "1999",
+   "year": "1999",
+   "owned": false
+  },
+  {
+   "order": 9,
+   "series": "All Star Comics",
+   "issue": "2",
+   "volume": "1999",
+   "year": "1999",
+   "owned": false
+  }
+ ]
+}

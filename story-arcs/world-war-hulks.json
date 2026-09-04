@@ -1,0 +1,112 @@
+{
+ "arc": "World War Hulks",
+ "slug": "world-war-hulks",
+ "issue_count": 13,
+ "owned_count": 0,
+ "entries": [
+  {
+   "order": 1,
+   "series": "World War Hulks",
+   "issue": "1",
+   "volume": "2010",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 2,
+   "series": "Hulked-Out Heroes",
+   "issue": "1",
+   "volume": "2010",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 3,
+   "series": "Hulked-Out Heroes",
+   "issue": "2",
+   "volume": "2010",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 4,
+   "series": "World War Hulks: Spider-Man vs. Thor",
+   "issue": "1",
+   "volume": "2010",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 5,
+   "series": "World War Hulks: Spider-Man vs. Thor",
+   "issue": "2",
+   "volume": "2010",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 6,
+   "series": "World War Hulks: Captain America vs. Wolverine",
+   "issue": "1",
+   "volume": "2010",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 7,
+   "series": "World War Hulks: Captain America vs. Wolverine",
+   "issue": "2",
+   "volume": "2010",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 8,
+   "series": "Hulk",
+   "issue": "22",
+   "volume": "2008",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 9,
+   "series": "Incredible Hulk",
+   "issue": "609",
+   "volume": "2009",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 10,
+   "series": "Incredible Hulk",
+   "issue": "610",
+   "volume": "2009",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 11,
+   "series": "Hulk",
+   "issue": "23",
+   "volume": "2008",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 12,
+   "series": "Incredible Hulk",
+   "issue": "611",
+   "volume": "2009",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 13,
+   "series": "Hulk",
+   "issue": "24",
+   "volume": "2008",
+   "year": "2010",
+   "owned": false
+  }
+ ]
+}

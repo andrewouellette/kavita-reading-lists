@@ -1,0 +1,160 @@
+{
+ "arc": "Eve of Destruction",
+ "slug": "eve-of-destruction",
+ "issue_count": 19,
+ "owned_count": 0,
+ "entries": [
+  {
+   "order": 1,
+   "series": "X-Men: The Search For Cyclops",
+   "issue": "1",
+   "volume": "2000",
+   "year": "2000",
+   "owned": false
+  },
+  {
+   "order": 2,
+   "series": "The Uncanny X-Men",
+   "issue": "388",
+   "volume": "1981",
+   "year": "2000",
+   "owned": false
+  },
+  {
+   "order": 3,
+   "series": "Cable",
+   "issue": "87",
+   "volume": "1993",
+   "year": "2001",
+   "owned": false
+  },
+  {
+   "order": 4,
+   "series": "Bishop: The Last X-Man",
+   "issue": "16",
+   "volume": "1999",
+   "year": "2001",
+   "owned": false
+  },
+  {
+   "order": 5,
+   "series": "X-Men",
+   "issue": "108",
+   "volume": "1991",
+   "year": "2001",
+   "owned": false
+  },
+  {
+   "order": 6,
+   "series": "The Uncanny X-Men",
+   "issue": "389",
+   "volume": "1981",
+   "year": "2001",
+   "owned": false
+  },
+  {
+   "order": 7,
+   "series": "Cable",
+   "issue": "88",
+   "volume": "1993",
+   "year": "2001",
+   "owned": false
+  },
+  {
+   "order": 8,
+   "series": "X-Men",
+   "issue": "109",
+   "volume": "1991",
+   "year": "2001",
+   "owned": false
+  },
+  {
+   "order": 9,
+   "series": "The Uncanny X-Men",
+   "issue": "390",
+   "volume": "1981",
+   "year": "2001",
+   "owned": false
+  },
+  {
+   "order": 10,
+   "series": "X-Men",
+   "issue": "110",
+   "volume": "1991",
+   "year": "2001",
+   "owned": false
+  },
+  {
+   "order": 11,
+   "series": "X-Men: The Search For Cyclops",
+   "issue": "2",
+   "volume": "2000",
+   "year": "2001",
+   "owned": false
+  },
+  {
+   "order": 12,
+   "series": "X-Men: The Search For Cyclops",
+   "issue": "3",
+   "volume": "2000",
+   "year": "2001",
+   "owned": false
+  },
+  {
+   "order": 13,
+   "series": "X-Men: The Search For Cyclops",
+   "issue": "4",
+   "volume": "2000",
+   "year": "2001",
+   "owned": false
+  },
+  {
+   "order": 14,
+   "series": "The Uncanny X-Men",
+   "issue": "391",
+   "volume": "1981",
+   "year": "2001",
+   "owned": false
+  },
+  {
+   "order": 15,
+   "series": "X-Men",
+   "issue": "111",
+   "volume": "1991",
+   "year": "2001",
+   "owned": false
+  },
+  {
+   "order": 16,
+   "series": "The Uncanny X-Men",
+   "issue": "392",
+   "volume": "1981",
+   "year": "2001",
+   "owned": false
+  },
+  {
+   "order": 17,
+   "series": "X-Men",
+   "issue": "112",
+   "volume": "1991",
+   "year": "2001",
+   "owned": false
+  },
+  {
+   "order": 18,
+   "series": "The Uncanny X-Men",
+   "issue": "393",
+   "volume": "1981",
+   "year": "2001",
+   "owned": false
+  },
+  {
+   "order": 19,
+   "series": "X-Men",
+   "issue": "113",
+   "volume": "1991",
+   "year": "2001",
+   "owned": false
+  }
+ ]
+}

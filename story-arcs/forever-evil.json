@@ -1,0 +1,768 @@
+{
+ "arc": "Forever Evil",
+ "slug": "forever-evil",
+ "issue_count": 95,
+ "owned_count": 17,
+ "entries": [
+  {
+   "order": 1,
+   "series": "Action Comics",
+   "issue": "23.3",
+   "volume": "2011",
+   "year": "2013",
+   "owned": true
+  },
+  {
+   "order": 2,
+   "series": "Forever Evil",
+   "issue": "1",
+   "volume": "2013",
+   "year": "2013",
+   "owned": false
+  },
+  {
+   "order": 3,
+   "series": "Aquaman",
+   "issue": "23.1",
+   "volume": "2011",
+   "year": "2013",
+   "owned": false
+  },
+  {
+   "order": 4,
+   "series": "Aquaman",
+   "issue": "23.2",
+   "volume": "2011",
+   "year": "2013",
+   "owned": true
+  },
+  {
+   "order": 5,
+   "series": "Batman and Robin",
+   "issue": "23.1",
+   "volume": "2011",
+   "year": "2013",
+   "owned": false
+  },
+  {
+   "order": 6,
+   "series": "Batman: The Dark Knight",
+   "issue": "23.1",
+   "volume": "2011",
+   "year": "2013",
+   "owned": false
+  },
+  {
+   "order": 7,
+   "series": "Detective Comics",
+   "issue": "23.1",
+   "volume": "2011",
+   "year": "2013",
+   "owned": false
+  },
+  {
+   "order": 8,
+   "series": "The Flash",
+   "issue": "23.3",
+   "volume": "2011",
+   "year": "2013",
+   "owned": false
+  },
+  {
+   "order": 9,
+   "series": "Justice League of America",
+   "issue": "7.1",
+   "volume": "2013",
+   "year": "2013",
+   "owned": false
+  },
+  {
+   "order": 10,
+   "series": "Superman",
+   "issue": "23.1",
+   "volume": "2011",
+   "year": "2013",
+   "owned": false
+  },
+  {
+   "order": 11,
+   "series": "Wonder Woman",
+   "issue": "23.1",
+   "volume": "2011",
+   "year": "2013",
+   "owned": false
+  },
+  {
+   "order": 12,
+   "series": "Trinity of Sin: Pandora",
+   "issue": "4",
+   "volume": "2013",
+   "year": "2013",
+   "owned": false
+  },
+  {
+   "order": 13,
+   "series": "Trinity of Sin: Pandora",
+   "issue": "5",
+   "volume": "2013",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 14,
+   "series": "Green Lantern",
+   "issue": "23.3",
+   "volume": "2011",
+   "year": "2013",
+   "owned": false
+  },
+  {
+   "order": 15,
+   "series": "Justice League of America",
+   "issue": "7.2",
+   "volume": "2013",
+   "year": "2013",
+   "owned": false
+  },
+  {
+   "order": 16,
+   "series": "The Phantom Stranger",
+   "issue": "12",
+   "volume": "2012",
+   "year": "2013",
+   "owned": false
+  },
+  {
+   "order": 17,
+   "series": "The Phantom Stranger",
+   "issue": "13",
+   "volume": "2012",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 18,
+   "series": "Justice League",
+   "issue": "23.4",
+   "volume": "2011",
+   "year": "2013",
+   "owned": false
+  },
+  {
+   "order": 19,
+   "series": "Forever Evil",
+   "issue": "2",
+   "volume": "2013",
+   "year": "2013",
+   "owned": false
+  },
+  {
+   "order": 20,
+   "series": "Batman",
+   "issue": "23.2",
+   "volume": "2011",
+   "year": "2013",
+   "owned": true
+  },
+  {
+   "order": 21,
+   "series": "Detective Comics",
+   "issue": "23.4",
+   "volume": "2011",
+   "year": "2013",
+   "owned": false
+  },
+  {
+   "order": 22,
+   "series": "Batman: The Dark Knight",
+   "issue": "23.3",
+   "volume": "2011",
+   "year": "2013",
+   "owned": false
+  },
+  {
+   "order": 23,
+   "series": "Batman and Robin",
+   "issue": "23.2",
+   "volume": "2011",
+   "year": "2013",
+   "owned": false
+  },
+  {
+   "order": 24,
+   "series": "Batman: The Dark Knight",
+   "issue": "23.2",
+   "volume": "2011",
+   "year": "2013",
+   "owned": false
+  },
+  {
+   "order": 25,
+   "series": "Detective Comics",
+   "issue": "23.2",
+   "volume": "2011",
+   "year": "2013",
+   "owned": false
+  },
+  {
+   "order": 26,
+   "series": "Suicide Squad",
+   "issue": "24",
+   "volume": "2011",
+   "year": "2013",
+   "owned": false
+  },
+  {
+   "order": 27,
+   "series": "Suicide Squad",
+   "issue": "25",
+   "volume": "2011",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 28,
+   "series": "Suicide Squad",
+   "issue": "26",
+   "volume": "2011",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 29,
+   "series": "The Flash",
+   "issue": "23.1",
+   "volume": "2011",
+   "year": "2013",
+   "owned": false
+  },
+  {
+   "order": 30,
+   "series": "Forever Evil: Rogues Rebellion",
+   "issue": "1",
+   "volume": "2013",
+   "year": "2013",
+   "owned": false
+  },
+  {
+   "order": 31,
+   "series": "Justice League of America",
+   "issue": "7.4",
+   "volume": "2013",
+   "year": "2013",
+   "owned": false
+  },
+  {
+   "order": 32,
+   "series": "Justice League",
+   "issue": "24",
+   "volume": "2011",
+   "year": "2013",
+   "owned": true
+  },
+  {
+   "order": 33,
+   "series": "Justice League of America",
+   "issue": "8",
+   "volume": "2013",
+   "year": "2013",
+   "owned": false
+  },
+  {
+   "order": 34,
+   "series": "Justice League of America",
+   "issue": "9",
+   "volume": "2013",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 35,
+   "series": "Forever Evil: A.R.G.U.S.",
+   "issue": "1",
+   "volume": "2013",
+   "year": "2013",
+   "owned": false
+  },
+  {
+   "order": 36,
+   "series": "Forever Evil: A.R.G.U.S.",
+   "issue": "2",
+   "volume": "2013",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 37,
+   "series": "Justice League of America",
+   "issue": "10",
+   "volume": "2013",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 38,
+   "series": "Suicide Squad",
+   "issue": "27",
+   "volume": "2011",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 39,
+   "series": "Suicide Squad",
+   "issue": "28",
+   "volume": "2011",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 40,
+   "series": "Suicide Squad",
+   "issue": "29",
+   "volume": "2011",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 41,
+   "series": "Justice League Dark",
+   "issue": "24",
+   "volume": "2011",
+   "year": "2013",
+   "owned": true
+  },
+  {
+   "order": 42,
+   "series": "Justice League Dark",
+   "issue": "25",
+   "volume": "2011",
+   "year": "2014",
+   "owned": true
+  },
+  {
+   "order": 43,
+   "series": "The Phantom Stranger",
+   "issue": "14",
+   "volume": "2012",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 44,
+   "series": "Constantine",
+   "issue": "9",
+   "volume": "2013",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 45,
+   "series": "Trinity of Sin: Pandora",
+   "issue": "6",
+   "volume": "2013",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 46,
+   "series": "Justice League Dark",
+   "issue": "26",
+   "volume": "2011",
+   "year": "2014",
+   "owned": true
+  },
+  {
+   "order": 47,
+   "series": "The Phantom Stranger",
+   "issue": "15",
+   "volume": "2012",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 48,
+   "series": "Constantine",
+   "issue": "10",
+   "volume": "2013",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 49,
+   "series": "Trinity of Sin: Pandora",
+   "issue": "7",
+   "volume": "2013",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 50,
+   "series": "Justice League Dark",
+   "issue": "27",
+   "volume": "2011",
+   "year": "2014",
+   "owned": true
+  },
+  {
+   "order": 51,
+   "series": "The Phantom Stranger",
+   "issue": "16",
+   "volume": "2012",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 52,
+   "series": "Constantine",
+   "issue": "11",
+   "volume": "2013",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 53,
+   "series": "Trinity of Sin: Pandora",
+   "issue": "8",
+   "volume": "2013",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 54,
+   "series": "Justice League Dark",
+   "issue": "28",
+   "volume": "2011",
+   "year": "2014",
+   "owned": true
+  },
+  {
+   "order": 55,
+   "series": "The Phantom Stranger",
+   "issue": "17",
+   "volume": "2012",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 56,
+   "series": "Constantine",
+   "issue": "12",
+   "volume": "2013",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 57,
+   "series": "Trinity of Sin: Pandora",
+   "issue": "9",
+   "volume": "2013",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 58,
+   "series": "Justice League Dark",
+   "issue": "29",
+   "volume": "2011",
+   "year": "2014",
+   "owned": true
+  },
+  {
+   "order": 59,
+   "series": "Forever Evil",
+   "issue": "3",
+   "volume": "2013",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 60,
+   "series": "Forever Evil: Rogues Rebellion",
+   "issue": "2",
+   "volume": "2013",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 61,
+   "series": "Forever Evil: Rogues Rebellion",
+   "issue": "3",
+   "volume": "2013",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 62,
+   "series": "Forever Evil: Rogues Rebellion",
+   "issue": "4",
+   "volume": "2013",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 63,
+   "series": "Justice League",
+   "issue": "25",
+   "volume": "2011",
+   "year": "2014",
+   "owned": true
+  },
+  {
+   "order": 64,
+   "series": "Justice League of America",
+   "issue": "11",
+   "volume": "2013",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 65,
+   "series": "Batman and Robin",
+   "issue": "23.4",
+   "volume": "2011",
+   "year": "2013",
+   "owned": false
+  },
+  {
+   "order": 66,
+   "series": "Batman and Robin",
+   "issue": "23.3",
+   "volume": "2011",
+   "year": "2013",
+   "owned": false
+  },
+  {
+   "order": 67,
+   "series": "Batman",
+   "issue": "23.4",
+   "volume": "2011",
+   "year": "2013",
+   "owned": true
+  },
+  {
+   "order": 68,
+   "series": "Detective Comics",
+   "issue": "23.3",
+   "volume": "2011",
+   "year": "2013",
+   "owned": false
+  },
+  {
+   "order": 69,
+   "series": "Forever Evil: Arkham War",
+   "issue": "1",
+   "volume": "2013",
+   "year": "2013",
+   "owned": false
+  },
+  {
+   "order": 70,
+   "series": "Forever Evil",
+   "issue": "4",
+   "volume": "2013",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 71,
+   "series": "Justice League",
+   "issue": "26",
+   "volume": "2011",
+   "year": "2014",
+   "owned": true
+  },
+  {
+   "order": 72,
+   "series": "Justice League",
+   "issue": "27",
+   "volume": "2011",
+   "year": "2014",
+   "owned": true
+  },
+  {
+   "order": 73,
+   "series": "Justice League",
+   "issue": "28",
+   "volume": "2011",
+   "year": "2014",
+   "owned": true
+  },
+  {
+   "order": 74,
+   "series": "Justice League of America",
+   "issue": "12",
+   "volume": "2013",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 75,
+   "series": "Forever Evil: Rogues Rebellion",
+   "issue": "5",
+   "volume": "2013",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 76,
+   "series": "Forever Evil: Rogues Rebellion",
+   "issue": "6",
+   "volume": "2013",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 77,
+   "series": "Forever Evil: A.R.G.U.S.",
+   "issue": "3",
+   "volume": "2013",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 78,
+   "series": "Forever Evil: A.R.G.U.S.",
+   "issue": "4",
+   "volume": "2013",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 79,
+   "series": "Forever Evil",
+   "issue": "5",
+   "volume": "2013",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 80,
+   "series": "Forever Evil: Arkham War",
+   "issue": "2",
+   "volume": "2013",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 81,
+   "series": "Forever Evil: Arkham War",
+   "issue": "3",
+   "volume": "2013",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 82,
+   "series": "Forever Evil: Arkham War",
+   "issue": "4",
+   "volume": "2013",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 83,
+   "series": "Forever Evil: Arkham War",
+   "issue": "5",
+   "volume": "2013",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 84,
+   "series": "Forever Evil: A.R.G.U.S.",
+   "issue": "5",
+   "volume": "2013",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 85,
+   "series": "Forever Evil",
+   "issue": "6",
+   "volume": "2013",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 86,
+   "series": "Justice League of America",
+   "issue": "13",
+   "volume": "2013",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 87,
+   "series": "Forever Evil: A.R.G.U.S.",
+   "issue": "6",
+   "volume": "2013",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 88,
+   "series": "Forever Evil: Arkham War",
+   "issue": "6",
+   "volume": "2013",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 89,
+   "series": "Justice League",
+   "issue": "29",
+   "volume": "2011",
+   "year": "2014",
+   "owned": true
+  },
+  {
+   "order": 90,
+   "series": "Forever Evil",
+   "issue": "7",
+   "volume": "2013",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 91,
+   "series": "Justice League of America",
+   "issue": "14",
+   "volume": "2013",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 92,
+   "series": "Justice League",
+   "issue": "30",
+   "volume": "2011",
+   "year": "2014",
+   "owned": true
+  },
+  {
+   "order": 93,
+   "series": "Suicide Squad",
+   "issue": "30",
+   "volume": "2011",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 94,
+   "series": "Forever Evil Aftermath: Batman vs. Bane",
+   "issue": "1",
+   "volume": "2014",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 95,
+   "series": "Nightwing",
+   "issue": "30",
+   "volume": "2011",
+   "year": "2014",
+   "owned": false
+  }
+ ]
+}

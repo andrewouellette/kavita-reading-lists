@@ -1,0 +1,312 @@
+{
+ "arc": "Gang War",
+ "slug": "gang-war",
+ "issue_count": 38,
+ "owned_count": 21,
+ "entries": [
+  {
+   "order": 1,
+   "series": "The Amazing Spider-Man",
+   "issue": "37",
+   "volume": "2022",
+   "year": "2024",
+   "owned": true
+  },
+  {
+   "order": 2,
+   "series": "The Amazing Spider-Man",
+   "issue": "38",
+   "volume": "2022",
+   "year": "2024",
+   "owned": true
+  },
+  {
+   "order": 3,
+   "series": "Miles Morales: Spider-Man",
+   "issue": "12",
+   "volume": "2022",
+   "year": "2024",
+   "owned": true
+  },
+  {
+   "order": 4,
+   "series": "Luke Cage: Gang War",
+   "issue": "1",
+   "volume": "2024",
+   "year": "2024",
+   "owned": true
+  },
+  {
+   "order": 5,
+   "series": "Spider-Woman",
+   "issue": "1",
+   "volume": "2024",
+   "year": "2024",
+   "owned": true
+  },
+  {
+   "order": 6,
+   "series": "The Amazing Spider-Man: Gang War: First Strike",
+   "issue": "1",
+   "volume": "2024",
+   "year": "2024",
+   "owned": true
+  },
+  {
+   "order": 7,
+   "series": "The Amazing Spider-Man",
+   "issue": "39",
+   "volume": "2022",
+   "year": "2024",
+   "owned": true
+  },
+  {
+   "order": 8,
+   "series": "Luke Cage: Gang War",
+   "issue": "2",
+   "volume": "2024",
+   "year": "2024",
+   "owned": false
+  },
+  {
+   "order": 9,
+   "series": "Luke Cage: Gang War",
+   "issue": "3",
+   "volume": "2024",
+   "year": "2024",
+   "owned": false
+  },
+  {
+   "order": 10,
+   "series": "Luke Cage: Gang War",
+   "issue": "4",
+   "volume": "2024",
+   "year": "2024",
+   "owned": false
+  },
+  {
+   "order": 11,
+   "series": "Daredevil: Gang War",
+   "issue": "1",
+   "volume": "2024",
+   "year": "2024",
+   "owned": false
+  },
+  {
+   "order": 12,
+   "series": "Daredevil: Gang War",
+   "issue": "2",
+   "volume": "2024",
+   "year": "2024",
+   "owned": false
+  },
+  {
+   "order": 13,
+   "series": "Deadly Hands of Kung Fu: Gang War",
+   "issue": "1",
+   "volume": "2024",
+   "year": "2024",
+   "owned": true
+  },
+  {
+   "order": 14,
+   "series": "Deadly Hands of Kung Fu: Gang War",
+   "issue": "2",
+   "volume": "2024",
+   "year": "2024",
+   "owned": false
+  },
+  {
+   "order": 15,
+   "series": "Deadly Hands of Kung Fu: Gang War",
+   "issue": "3",
+   "volume": "2024",
+   "year": "2024",
+   "owned": false
+  },
+  {
+   "order": 16,
+   "series": "Spider-Man Unlimited Infinity Comic",
+   "issue": "19",
+   "volume": "2023",
+   "year": "2024",
+   "owned": false
+  },
+  {
+   "order": 17,
+   "series": "Miles Morales: Spider-Man",
+   "issue": "13",
+   "volume": "2022",
+   "year": "2024",
+   "owned": true
+  },
+  {
+   "order": 18,
+   "series": "Miles Morales: Spider-Man",
+   "issue": "14",
+   "volume": "2022",
+   "year": "2024",
+   "owned": true
+  },
+  {
+   "order": 19,
+   "series": "The Amazing Spider-Man",
+   "issue": "40",
+   "volume": "2022",
+   "year": "2024",
+   "owned": true
+  },
+  {
+   "order": 20,
+   "series": "The Amazing Spider-Man",
+   "issue": "41",
+   "volume": "2022",
+   "year": "2024",
+   "owned": true
+  },
+  {
+   "order": 21,
+   "series": "Spider-Man Unlimited Infinity Comic",
+   "issue": "22",
+   "volume": "2023",
+   "year": "2024",
+   "owned": false
+  },
+  {
+   "order": 22,
+   "series": "Miles Morales: Spider-Man",
+   "issue": "15",
+   "volume": "2022",
+   "year": "2024",
+   "owned": false
+  },
+  {
+   "order": 23,
+   "series": "Miles Morales: Spider-Man",
+   "issue": "16",
+   "volume": "2022",
+   "year": "2024",
+   "owned": true
+  },
+  {
+   "order": 24,
+   "series": "Spider-Man Unlimited Infinity Comic",
+   "issue": "20",
+   "volume": "2023",
+   "year": "2024",
+   "owned": false
+  },
+  {
+   "order": 25,
+   "series": "Spider-Woman",
+   "issue": "2",
+   "volume": "2024",
+   "year": "2024",
+   "owned": true
+  },
+  {
+   "order": 26,
+   "series": "The Amazing Spider-Man",
+   "issue": "42",
+   "volume": "2022",
+   "year": "2024",
+   "owned": true
+  },
+  {
+   "order": 27,
+   "series": "Spider-Man Unlimited Infinity Comic",
+   "issue": "21",
+   "volume": "2023",
+   "year": "2024",
+   "owned": false
+  },
+  {
+   "order": 28,
+   "series": "Spider-Woman",
+   "issue": "3",
+   "volume": "2024",
+   "year": "2024",
+   "owned": true
+  },
+  {
+   "order": 29,
+   "series": "Spider-Woman",
+   "issue": "4",
+   "volume": "2024",
+   "year": "2024",
+   "owned": true
+  },
+  {
+   "order": 30,
+   "series": "Jackpot",
+   "issue": "1",
+   "volume": "2024",
+   "year": "2024",
+   "owned": false
+  },
+  {
+   "order": 31,
+   "series": "Spider-Man Unlimited Infinity Comic",
+   "issue": "23",
+   "volume": "2023",
+   "year": "2024",
+   "owned": false
+  },
+  {
+   "order": 32,
+   "series": "Daredevil: Gang War",
+   "issue": "3",
+   "volume": "2024",
+   "year": "2024",
+   "owned": false
+  },
+  {
+   "order": 33,
+   "series": "Spider-Man Unlimited Infinity Comic",
+   "issue": "24",
+   "volume": "2023",
+   "year": "2024",
+   "owned": false
+  },
+  {
+   "order": 34,
+   "series": "The Amazing Spider-Man",
+   "issue": "43",
+   "volume": "2022",
+   "year": "2024",
+   "owned": true
+  },
+  {
+   "order": 35,
+   "series": "The Amazing Spider-Man",
+   "issue": "44",
+   "volume": "2022",
+   "year": "2024",
+   "owned": true
+  },
+  {
+   "order": 36,
+   "series": "Daredevil: Gang War",
+   "issue": "4",
+   "volume": "2024",
+   "year": "2024",
+   "owned": false
+  },
+  {
+   "order": 37,
+   "series": "The Amazing Spider-Man",
+   "issue": "45",
+   "volume": "2022",
+   "year": "2024",
+   "owned": true
+  },
+  {
+   "order": 38,
+   "series": "Miles Morales: Spider-Man",
+   "issue": "17",
+   "volume": "2022",
+   "year": "2024",
+   "owned": true
+  }
+ ]
+}

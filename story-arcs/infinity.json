@@ -1,0 +1,456 @@
+{
+ "arc": "Infinity",
+ "slug": "infinity",
+ "issue_count": 56,
+ "owned_count": 15,
+ "entries": [
+  {
+   "order": 1,
+   "series": "Avengers",
+   "issue": "14",
+   "volume": "2012",
+   "year": "2013",
+   "owned": true
+  },
+  {
+   "order": 2,
+   "series": "New Avengers",
+   "issue": "7",
+   "volume": "2013",
+   "year": "2013",
+   "owned": true
+  },
+  {
+   "order": 3,
+   "series": "Avengers",
+   "issue": "15",
+   "volume": "2012",
+   "year": "2013",
+   "owned": true
+  },
+  {
+   "order": 4,
+   "series": "Avengers",
+   "issue": "16",
+   "volume": "2012",
+   "year": "2013",
+   "owned": true
+  },
+  {
+   "order": 5,
+   "series": "Avengers",
+   "issue": "17",
+   "volume": "2012",
+   "year": "2013",
+   "owned": false
+  },
+  {
+   "order": 6,
+   "series": "Infinity",
+   "issue": "1",
+   "volume": "2013",
+   "year": "2013",
+   "owned": false
+  },
+  {
+   "order": 7,
+   "series": "Infinity: Against the Tide",
+   "issue": "1",
+   "volume": "2013",
+   "year": "2013",
+   "owned": false
+  },
+  {
+   "order": 8,
+   "series": "Infinity: Against the Tide",
+   "issue": "2",
+   "volume": "2013",
+   "year": "2013",
+   "owned": false
+  },
+  {
+   "order": 9,
+   "series": "Thunderbolts",
+   "issue": "14",
+   "volume": "2013",
+   "year": "2013",
+   "owned": false
+  },
+  {
+   "order": 10,
+   "series": "Nova",
+   "issue": "8",
+   "volume": "2013",
+   "year": "2013",
+   "owned": false
+  },
+  {
+   "order": 11,
+   "series": "Nova",
+   "issue": "9",
+   "volume": "2013",
+   "year": "2013",
+   "owned": false
+  },
+  {
+   "order": 12,
+   "series": "Infinity: The Hunt",
+   "issue": "1",
+   "volume": "2013",
+   "year": "2013",
+   "owned": false
+  },
+  {
+   "order": 13,
+   "series": "Infinity: The Hunt",
+   "issue": "2",
+   "volume": "2013",
+   "year": "2013",
+   "owned": false
+  },
+  {
+   "order": 14,
+   "series": "New Avengers",
+   "issue": "8",
+   "volume": "2013",
+   "year": "2013",
+   "owned": true
+  },
+  {
+   "order": 15,
+   "series": "New Avengers",
+   "issue": "9",
+   "volume": "2013",
+   "year": "2013",
+   "owned": true
+  },
+  {
+   "order": 16,
+   "series": "Thunderbolts",
+   "issue": "15",
+   "volume": "2013",
+   "year": "2013",
+   "owned": false
+  },
+  {
+   "order": 17,
+   "series": "Thunderbolts",
+   "issue": "16",
+   "volume": "2013",
+   "year": "2013",
+   "owned": false
+  },
+  {
+   "order": 18,
+   "series": "Mighty Avengers",
+   "issue": "1",
+   "volume": "2013",
+   "year": "2013",
+   "owned": false
+  },
+  {
+   "order": 19,
+   "series": "Mighty Avengers",
+   "issue": "2",
+   "volume": "2013",
+   "year": "2013",
+   "owned": false
+  },
+  {
+   "order": 20,
+   "series": "Mighty Avengers",
+   "issue": "3",
+   "volume": "2013",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 21,
+   "series": "Avengers",
+   "issue": "18",
+   "volume": "2012",
+   "year": "2013",
+   "owned": true
+  },
+  {
+   "order": 22,
+   "series": "Thunderbolts",
+   "issue": "13",
+   "volume": "2013",
+   "year": "2013",
+   "owned": false
+  },
+  {
+   "order": 23,
+   "series": "Avengers Assemble",
+   "issue": "18",
+   "volume": "2012",
+   "year": "2013",
+   "owned": false
+  },
+  {
+   "order": 24,
+   "series": "Captain Marvel",
+   "issue": "15",
+   "volume": "2012",
+   "year": "2013",
+   "owned": true
+  },
+  {
+   "order": 25,
+   "series": "Infinity",
+   "issue": "2",
+   "volume": "2013",
+   "year": "2013",
+   "owned": false
+  },
+  {
+   "order": 26,
+   "series": "New Avengers",
+   "issue": "10",
+   "volume": "2013",
+   "year": "2013",
+   "owned": true
+  },
+  {
+   "order": 27,
+   "series": "Avengers",
+   "issue": "19",
+   "volume": "2012",
+   "year": "2013",
+   "owned": true
+  },
+  {
+   "order": 28,
+   "series": "Infinity",
+   "issue": "3",
+   "volume": "2013",
+   "year": "2013",
+   "owned": false
+  },
+  {
+   "order": 29,
+   "series": "Infinity: Heist",
+   "issue": "1",
+   "volume": "2013",
+   "year": "2013",
+   "owned": false
+  },
+  {
+   "order": 30,
+   "series": "Infinity: The Hunt",
+   "issue": "3",
+   "volume": "2013",
+   "year": "2013",
+   "owned": false
+  },
+  {
+   "order": 31,
+   "series": "Captain Marvel",
+   "issue": "16",
+   "volume": "2012",
+   "year": "2013",
+   "owned": true
+  },
+  {
+   "order": 32,
+   "series": "Avengers Assemble",
+   "issue": "19",
+   "volume": "2012",
+   "year": "2013",
+   "owned": false
+  },
+  {
+   "order": 33,
+   "series": "Avengers",
+   "issue": "20",
+   "volume": "2012",
+   "year": "2013",
+   "owned": true
+  },
+  {
+   "order": 34,
+   "series": "Infinity",
+   "issue": "4",
+   "volume": "2013",
+   "year": "2013",
+   "owned": false
+  },
+  {
+   "order": 35,
+   "series": "Avengers",
+   "issue": "21",
+   "volume": "2012",
+   "year": "2013",
+   "owned": false
+  },
+  {
+   "order": 36,
+   "series": "New Avengers",
+   "issue": "11",
+   "volume": "2013",
+   "year": "2013",
+   "owned": false
+  },
+  {
+   "order": 37,
+   "series": "Infinity: Heist",
+   "issue": "2",
+   "volume": "2013",
+   "year": "2013",
+   "owned": false
+  },
+  {
+   "order": 38,
+   "series": "Superior Spider-Man Team-Up",
+   "issue": "3",
+   "volume": "2013",
+   "year": "2013",
+   "owned": false
+  },
+  {
+   "order": 39,
+   "series": "Superior Spider-Man Team-Up",
+   "issue": "4",
+   "volume": "2013",
+   "year": "2013",
+   "owned": false
+  },
+  {
+   "order": 40,
+   "series": "Fearless Defenders",
+   "issue": "10",
+   "volume": "2013",
+   "year": "2013",
+   "owned": false
+  },
+  {
+   "order": 41,
+   "series": "Infinity",
+   "issue": "5",
+   "volume": "2013",
+   "year": "2013",
+   "owned": false
+  },
+  {
+   "order": 42,
+   "series": "Avengers",
+   "issue": "22",
+   "volume": "2012",
+   "year": "2013",
+   "owned": true
+  },
+  {
+   "order": 43,
+   "series": "Infinity: Heist",
+   "issue": "3",
+   "volume": "2013",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 44,
+   "series": "Infinity: Heist",
+   "issue": "4",
+   "volume": "2013",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 45,
+   "series": "Secret Avengers",
+   "issue": "10",
+   "volume": "2013",
+   "year": "2013",
+   "owned": false
+  },
+  {
+   "order": 46,
+   "series": "Secret Avengers",
+   "issue": "11",
+   "volume": "2013",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 47,
+   "series": "Avengers Assemble",
+   "issue": "20",
+   "volume": "2012",
+   "year": "2013",
+   "owned": false
+  },
+  {
+   "order": 48,
+   "series": "Thunderbolts",
+   "issue": "17",
+   "volume": "2013",
+   "year": "2013",
+   "owned": false
+  },
+  {
+   "order": 49,
+   "series": "Thunderbolts",
+   "issue": "18",
+   "volume": "2013",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 50,
+   "series": "Infinity: The Hunt",
+   "issue": "4",
+   "volume": "2013",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 51,
+   "series": "Avengers",
+   "issue": "23",
+   "volume": "2012",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 52,
+   "series": "Guardians of the Galaxy",
+   "issue": "8",
+   "volume": "2013",
+   "year": "2013",
+   "owned": true
+  },
+  {
+   "order": 53,
+   "series": "Guardians of the Galaxy",
+   "issue": "9",
+   "volume": "2013",
+   "year": "2014",
+   "owned": true
+  },
+  {
+   "order": 54,
+   "series": "Infinity",
+   "issue": "6",
+   "volume": "2013",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 55,
+   "series": "New Avengers",
+   "issue": "12",
+   "volume": "2013",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 56,
+   "series": "Wolverine & the X-Men Annual",
+   "issue": "1",
+   "volume": "2013",
+   "year": "2014",
+   "owned": false
+  }
+ ]
+}

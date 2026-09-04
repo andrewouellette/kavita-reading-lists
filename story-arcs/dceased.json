@@ -1,0 +1,328 @@
+{
+ "arc": "DCeased",
+ "slug": "dceased",
+ "issue_count": 40,
+ "owned_count": 27,
+ "entries": [
+  {
+   "order": 1,
+   "series": "DCeased",
+   "issue": "1",
+   "volume": "2019",
+   "year": "2019",
+   "owned": false
+  },
+  {
+   "order": 2,
+   "series": "DCeased",
+   "issue": "2",
+   "volume": "2019",
+   "year": "2019",
+   "owned": true
+  },
+  {
+   "order": 3,
+   "series": "DCeased",
+   "issue": "3",
+   "volume": "2019",
+   "year": "2019",
+   "owned": true
+  },
+  {
+   "order": 4,
+   "series": "DCeased",
+   "issue": "4",
+   "volume": "2019",
+   "year": "2019",
+   "owned": true
+  },
+  {
+   "order": 5,
+   "series": "DCeased",
+   "issue": "5",
+   "volume": "2019",
+   "year": "2019",
+   "owned": false
+  },
+  {
+   "order": 6,
+   "series": "DCeased",
+   "issue": "6",
+   "volume": "2019",
+   "year": "2019",
+   "owned": false
+  },
+  {
+   "order": 7,
+   "series": "DCeased: A Good Day To Die",
+   "issue": "1",
+   "volume": "2019",
+   "year": "2019",
+   "owned": true
+  },
+  {
+   "order": 8,
+   "series": "DCeased: Unkillables",
+   "issue": "1",
+   "volume": "2020",
+   "year": "2020",
+   "owned": true
+  },
+  {
+   "order": 9,
+   "series": "DCeased: Unkillables",
+   "issue": "2",
+   "volume": "2020",
+   "year": "2020",
+   "owned": true
+  },
+  {
+   "order": 10,
+   "series": "DCeased: Unkillables",
+   "issue": "3",
+   "volume": "2020",
+   "year": "2020",
+   "owned": true
+  },
+  {
+   "order": 11,
+   "series": "DCeased: Hope At World's End",
+   "issue": "1",
+   "volume": "2020",
+   "year": "2020",
+   "owned": true
+  },
+  {
+   "order": 12,
+   "series": "DCeased: Hope At World's End",
+   "issue": "2",
+   "volume": "2020",
+   "year": "2020",
+   "owned": true
+  },
+  {
+   "order": 13,
+   "series": "DCeased: Hope At World's End",
+   "issue": "3",
+   "volume": "2020",
+   "year": "2020",
+   "owned": true
+  },
+  {
+   "order": 14,
+   "series": "DCeased: Hope At World's End",
+   "issue": "4",
+   "volume": "2020",
+   "year": "2020",
+   "owned": true
+  },
+  {
+   "order": 15,
+   "series": "DCeased: Hope At World's End",
+   "issue": "5",
+   "volume": "2020",
+   "year": "2020",
+   "owned": true
+  },
+  {
+   "order": 16,
+   "series": "DCeased: Hope At World's End",
+   "issue": "6",
+   "volume": "2020",
+   "year": "2020",
+   "owned": true
+  },
+  {
+   "order": 17,
+   "series": "DCeased: Hope At World's End",
+   "issue": "7",
+   "volume": "2020",
+   "year": "2020",
+   "owned": true
+  },
+  {
+   "order": 18,
+   "series": "DCeased: Hope At World's End",
+   "issue": "8",
+   "volume": "2020",
+   "year": "2020",
+   "owned": true
+  },
+  {
+   "order": 19,
+   "series": "DCeased: Hope At World's End",
+   "issue": "9",
+   "volume": "2020",
+   "year": "2020",
+   "owned": true
+  },
+  {
+   "order": 20,
+   "series": "DCeased: Hope At World's End",
+   "issue": "10",
+   "volume": "2020",
+   "year": "2020",
+   "owned": true
+  },
+  {
+   "order": 21,
+   "series": "DCeased: Hope At World's End",
+   "issue": "11",
+   "volume": "2020",
+   "year": "2020",
+   "owned": true
+  },
+  {
+   "order": 22,
+   "series": "DCeased: Hope At World's End",
+   "issue": "12",
+   "volume": "2020",
+   "year": "2020",
+   "owned": false
+  },
+  {
+   "order": 23,
+   "series": "DCeased: Hope At World's End",
+   "issue": "13",
+   "volume": "2020",
+   "year": "2020",
+   "owned": true
+  },
+  {
+   "order": 24,
+   "series": "DCeased: Hope At World's End",
+   "issue": "14",
+   "volume": "2020",
+   "year": "2020",
+   "owned": true
+  },
+  {
+   "order": 25,
+   "series": "DCeased: Hope At World's End",
+   "issue": "15",
+   "volume": "2020",
+   "year": "2020",
+   "owned": true
+  },
+  {
+   "order": 26,
+   "series": "DCeased: Dead Planet",
+   "issue": "1",
+   "volume": "2020",
+   "year": "2020",
+   "owned": true
+  },
+  {
+   "order": 27,
+   "series": "DCeased: Dead Planet",
+   "issue": "2",
+   "volume": "2020",
+   "year": "2020",
+   "owned": true
+  },
+  {
+   "order": 28,
+   "series": "DCeased: Dead Planet",
+   "issue": "3",
+   "volume": "2020",
+   "year": "2020",
+   "owned": true
+  },
+  {
+   "order": 29,
+   "series": "DCeased: Dead Planet",
+   "issue": "4",
+   "volume": "2020",
+   "year": "2020",
+   "owned": true
+  },
+  {
+   "order": 30,
+   "series": "DCeased: Dead Planet",
+   "issue": "5",
+   "volume": "2020",
+   "year": "2021",
+   "owned": true
+  },
+  {
+   "order": 31,
+   "series": "DCeased: Dead Planet",
+   "issue": "6",
+   "volume": "2020",
+   "year": "2021",
+   "owned": true
+  },
+  {
+   "order": 32,
+   "series": "DCeased: Dead Planet",
+   "issue": "7",
+   "volume": "2020",
+   "year": "2021",
+   "owned": false
+  },
+  {
+   "order": 33,
+   "series": "DCeased: War of the Undead Gods",
+   "issue": "1",
+   "volume": "2022",
+   "year": "2022",
+   "owned": false
+  },
+  {
+   "order": 34,
+   "series": "DCeased: War of the Undead Gods",
+   "issue": "2",
+   "volume": "2022",
+   "year": "2022",
+   "owned": false
+  },
+  {
+   "order": 35,
+   "series": "DCeased: War of the Undead Gods",
+   "issue": "3",
+   "volume": "2022",
+   "year": "2022",
+   "owned": false
+  },
+  {
+   "order": 36,
+   "series": "DCeased: War of the Undead Gods",
+   "issue": "4",
+   "volume": "2022",
+   "year": "2023",
+   "owned": false
+  },
+  {
+   "order": 37,
+   "series": "DCeased: War of the Undead Gods",
+   "issue": "5",
+   "volume": "2022",
+   "year": "2023",
+   "owned": false
+  },
+  {
+   "order": 38,
+   "series": "DCeased: War of the Undead Gods",
+   "issue": "6",
+   "volume": "2022",
+   "year": "2023",
+   "owned": false
+  },
+  {
+   "order": 39,
+   "series": "DCeased: War of the Undead Gods",
+   "issue": "7",
+   "volume": "2022",
+   "year": "2023",
+   "owned": false
+  },
+  {
+   "order": 40,
+   "series": "DCeased: War of the Undead Gods",
+   "issue": "8",
+   "volume": "2022",
+   "year": "2023",
+   "owned": false
+  }
+ ]
+}

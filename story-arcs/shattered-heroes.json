@@ -1,0 +1,600 @@
+{
+ "arc": "Shattered Heroes",
+ "slug": "shattered-heroes",
+ "issue_count": 74,
+ "owned_count": 9,
+ "entries": [
+  {
+   "order": 1,
+   "series": "Fear Itself: The Fearless",
+   "issue": "1",
+   "volume": "2011",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 2,
+   "series": "Avengers Academy",
+   "issue": "21",
+   "volume": "2010",
+   "year": "2012",
+   "owned": false
+  },
+  {
+   "order": 3,
+   "series": "Invincible Iron Man",
+   "issue": "510",
+   "volume": "2008",
+   "year": "2012",
+   "owned": false
+  },
+  {
+   "order": 4,
+   "series": "Invincible Iron Man",
+   "issue": "511",
+   "volume": "2008",
+   "year": "2012",
+   "owned": false
+  },
+  {
+   "order": 5,
+   "series": "Invincible Iron Man",
+   "issue": "512",
+   "volume": "2008",
+   "year": "2012",
+   "owned": false
+  },
+  {
+   "order": 6,
+   "series": "Invincible Iron Man",
+   "issue": "513",
+   "volume": "2008",
+   "year": "2012",
+   "owned": false
+  },
+  {
+   "order": 7,
+   "series": "Invincible Iron Man",
+   "issue": "514",
+   "volume": "2008",
+   "year": "2012",
+   "owned": false
+  },
+  {
+   "order": 8,
+   "series": "Invincible Iron Man",
+   "issue": "515",
+   "volume": "2008",
+   "year": "2012",
+   "owned": false
+  },
+  {
+   "order": 9,
+   "series": "Journey into Mystery",
+   "issue": "631",
+   "volume": "2011",
+   "year": "2012",
+   "owned": false
+  },
+  {
+   "order": 10,
+   "series": "Journey into Mystery",
+   "issue": "632",
+   "volume": "2011",
+   "year": "2012",
+   "owned": false
+  },
+  {
+   "order": 11,
+   "series": "Journey into Mystery",
+   "issue": "633",
+   "volume": "2011",
+   "year": "2012",
+   "owned": false
+  },
+  {
+   "order": 12,
+   "series": "Journey into Mystery",
+   "issue": "634",
+   "volume": "2011",
+   "year": "2012",
+   "owned": false
+  },
+  {
+   "order": 13,
+   "series": "Journey into Mystery",
+   "issue": "635",
+   "volume": "2011",
+   "year": "2012",
+   "owned": false
+  },
+  {
+   "order": 14,
+   "series": "Journey into Mystery",
+   "issue": "636",
+   "volume": "2011",
+   "year": "2012",
+   "owned": false
+  },
+  {
+   "order": 15,
+   "series": "The Mighty Thor",
+   "issue": "8",
+   "volume": "2011",
+   "year": "2012",
+   "owned": false
+  },
+  {
+   "order": 16,
+   "series": "The Mighty Thor",
+   "issue": "9",
+   "volume": "2011",
+   "year": "2012",
+   "owned": false
+  },
+  {
+   "order": 17,
+   "series": "The Mighty Thor",
+   "issue": "10",
+   "volume": "2011",
+   "year": "2012",
+   "owned": false
+  },
+  {
+   "order": 18,
+   "series": "The Mighty Thor",
+   "issue": "11",
+   "volume": "2011",
+   "year": "2012",
+   "owned": false
+  },
+  {
+   "order": 19,
+   "series": "The Mighty Thor",
+   "issue": "12",
+   "volume": "2011",
+   "year": "2012",
+   "owned": false
+  },
+  {
+   "order": 20,
+   "series": "Captain America",
+   "issue": "6",
+   "volume": "2011",
+   "year": "2012",
+   "owned": true
+  },
+  {
+   "order": 21,
+   "series": "Captain America",
+   "issue": "7",
+   "volume": "2011",
+   "year": "2012",
+   "owned": true
+  },
+  {
+   "order": 22,
+   "series": "Captain America",
+   "issue": "8",
+   "volume": "2011",
+   "year": "2012",
+   "owned": true
+  },
+  {
+   "order": 23,
+   "series": "Captain America",
+   "issue": "9",
+   "volume": "2011",
+   "year": "2012",
+   "owned": true
+  },
+  {
+   "order": 24,
+   "series": "Captain America",
+   "issue": "10",
+   "volume": "2011",
+   "year": "2012",
+   "owned": true
+  },
+  {
+   "order": 25,
+   "series": "Avengers Academy",
+   "issue": "22",
+   "volume": "2010",
+   "year": "2012",
+   "owned": false
+  },
+  {
+   "order": 26,
+   "series": "New Avengers",
+   "issue": "16.1",
+   "volume": "2010",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 27,
+   "series": "Avengers",
+   "issue": "18",
+   "volume": "2010",
+   "year": "2011",
+   "owned": true
+  },
+  {
+   "order": 28,
+   "series": "New Avengers",
+   "issue": "17",
+   "volume": "2010",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 29,
+   "series": "New Avengers",
+   "issue": "18",
+   "volume": "2010",
+   "year": "2012",
+   "owned": false
+  },
+  {
+   "order": 30,
+   "series": "New Avengers",
+   "issue": "19",
+   "volume": "2010",
+   "year": "2012",
+   "owned": false
+  },
+  {
+   "order": 31,
+   "series": "New Avengers",
+   "issue": "20",
+   "volume": "2010",
+   "year": "2012",
+   "owned": false
+  },
+  {
+   "order": 32,
+   "series": "Quake: S.H.I.E.L.D. 50th Anniversary",
+   "issue": "1",
+   "volume": "2015",
+   "year": "2015",
+   "owned": false
+  },
+  {
+   "order": 33,
+   "series": "Avengers",
+   "issue": "19",
+   "volume": "2010",
+   "year": "2012",
+   "owned": true
+  },
+  {
+   "order": 34,
+   "series": "Avengers",
+   "issue": "20",
+   "volume": "2010",
+   "year": "2012",
+   "owned": true
+  },
+  {
+   "order": 35,
+   "series": "Avengers",
+   "issue": "21",
+   "volume": "2010",
+   "year": "2012",
+   "owned": false
+  },
+  {
+   "order": 36,
+   "series": "Avengers",
+   "issue": "22",
+   "volume": "2010",
+   "year": "2012",
+   "owned": true
+  },
+  {
+   "order": 37,
+   "series": "Avengers",
+   "issue": "23",
+   "volume": "2010",
+   "year": "2012",
+   "owned": false
+  },
+  {
+   "order": 38,
+   "series": "New Avengers",
+   "issue": "21",
+   "volume": "2010",
+   "year": "2012",
+   "owned": false
+  },
+  {
+   "order": 39,
+   "series": "New Avengers",
+   "issue": "22",
+   "volume": "2010",
+   "year": "2012",
+   "owned": false
+  },
+  {
+   "order": 40,
+   "series": "New Avengers",
+   "issue": "23",
+   "volume": "2010",
+   "year": "2012",
+   "owned": false
+  },
+  {
+   "order": 41,
+   "series": "Avengers",
+   "issue": "24",
+   "volume": "2010",
+   "year": "2012",
+   "owned": false
+  },
+  {
+   "order": 42,
+   "series": "Avengers Academy",
+   "issue": "23",
+   "volume": "2010",
+   "year": "2012",
+   "owned": false
+  },
+  {
+   "order": 43,
+   "series": "Avengers Academy",
+   "issue": "24",
+   "volume": "2010",
+   "year": "2012",
+   "owned": false
+  },
+  {
+   "order": 44,
+   "series": "Avengers Academy",
+   "issue": "25",
+   "volume": "2010",
+   "year": "2012",
+   "owned": false
+  },
+  {
+   "order": 45,
+   "series": "Avengers Academy",
+   "issue": "26",
+   "volume": "2010",
+   "year": "2012",
+   "owned": false
+  },
+  {
+   "order": 46,
+   "series": "Fear Itself: The Fearless",
+   "issue": "2",
+   "volume": "2011",
+   "year": "2012",
+   "owned": false
+  },
+  {
+   "order": 47,
+   "series": "Fear Itself: The Fearless",
+   "issue": "3",
+   "volume": "2011",
+   "year": "2012",
+   "owned": false
+  },
+  {
+   "order": 48,
+   "series": "Battle Scars",
+   "issue": "1",
+   "volume": "2012",
+   "year": "2012",
+   "owned": false
+  },
+  {
+   "order": 49,
+   "series": "Battle Scars",
+   "issue": "2",
+   "volume": "2012",
+   "year": "2012",
+   "owned": false
+  },
+  {
+   "order": 50,
+   "series": "Battle Scars",
+   "issue": "3",
+   "volume": "2012",
+   "year": "2012",
+   "owned": false
+  },
+  {
+   "order": 51,
+   "series": "Battle Scars",
+   "issue": "4",
+   "volume": "2012",
+   "year": "2012",
+   "owned": false
+  },
+  {
+   "order": 52,
+   "series": "Battle Scars",
+   "issue": "5",
+   "volume": "2012",
+   "year": "2012",
+   "owned": false
+  },
+  {
+   "order": 53,
+   "series": "Battle Scars",
+   "issue": "6",
+   "volume": "2012",
+   "year": "2012",
+   "owned": false
+  },
+  {
+   "order": 54,
+   "series": "Fear Itself: The Fearless",
+   "issue": "4",
+   "volume": "2011",
+   "year": "2012",
+   "owned": false
+  },
+  {
+   "order": 55,
+   "series": "Fear Itself: The Fearless",
+   "issue": "5",
+   "volume": "2011",
+   "year": "2012",
+   "owned": false
+  },
+  {
+   "order": 56,
+   "series": "Fear Itself: The Fearless",
+   "issue": "6",
+   "volume": "2011",
+   "year": "2012",
+   "owned": false
+  },
+  {
+   "order": 57,
+   "series": "Fear Itself: The Fearless",
+   "issue": "7",
+   "volume": "2011",
+   "year": "2012",
+   "owned": false
+  },
+  {
+   "order": 58,
+   "series": "Fear Itself: The Fearless",
+   "issue": "8",
+   "volume": "2011",
+   "year": "2012",
+   "owned": false
+  },
+  {
+   "order": 59,
+   "series": "Fear Itself: The Fearless",
+   "issue": "9",
+   "volume": "2011",
+   "year": "2012",
+   "owned": false
+  },
+  {
+   "order": 60,
+   "series": "Fear Itself: The Fearless",
+   "issue": "10",
+   "volume": "2011",
+   "year": "2012",
+   "owned": false
+  },
+  {
+   "order": 61,
+   "series": "Fear Itself: The Fearless",
+   "issue": "11",
+   "volume": "2011",
+   "year": "2012",
+   "owned": false
+  },
+  {
+   "order": 62,
+   "series": "Fear Itself: The Fearless",
+   "issue": "12",
+   "volume": "2011",
+   "year": "2012",
+   "owned": false
+  },
+  {
+   "order": 63,
+   "series": "Point One",
+   "issue": "1",
+   "volume": "2012",
+   "year": "2012",
+   "owned": false
+  },
+  {
+   "order": 64,
+   "series": "Defenders",
+   "issue": "1",
+   "volume": "2012",
+   "year": "2012",
+   "owned": false
+  },
+  {
+   "order": 65,
+   "series": "Defenders",
+   "issue": "2",
+   "volume": "2012",
+   "year": "2012",
+   "owned": false
+  },
+  {
+   "order": 66,
+   "series": "Defenders",
+   "issue": "3",
+   "volume": "2012",
+   "year": "2012",
+   "owned": false
+  },
+  {
+   "order": 67,
+   "series": "Incredible Hulk",
+   "issue": "1",
+   "volume": "2011",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 68,
+   "series": "Incredible Hulk",
+   "issue": "2",
+   "volume": "2011",
+   "year": "2012",
+   "owned": false
+  },
+  {
+   "order": 69,
+   "series": "Incredible Hulk",
+   "issue": "3",
+   "volume": "2011",
+   "year": "2012",
+   "owned": false
+  },
+  {
+   "order": 70,
+   "series": "Incredible Hulk",
+   "issue": "4",
+   "volume": "2011",
+   "year": "2012",
+   "owned": false
+  },
+  {
+   "order": 71,
+   "series": "Incredible Hulk",
+   "issue": "5",
+   "volume": "2011",
+   "year": "2012",
+   "owned": false
+  },
+  {
+   "order": 72,
+   "series": "Incredible Hulk",
+   "issue": "6",
+   "volume": "2011",
+   "year": "2012",
+   "owned": false
+  },
+  {
+   "order": 73,
+   "series": "Incredible Hulk",
+   "issue": "7",
+   "volume": "2011",
+   "year": "2012",
+   "owned": false
+  },
+  {
+   "order": 74,
+   "series": "Incredible Hulk",
+   "issue": "7.1",
+   "volume": "2011",
+   "year": "2012",
+   "owned": false
+  }
+ ]
+}

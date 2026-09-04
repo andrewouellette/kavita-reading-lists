@@ -1,0 +1,2128 @@
+{
+ "arc": "Injustice",
+ "slug": "injustice",
+ "issue_count": 265,
+ "owned_count": 13,
+ "entries": [
+  {
+   "order": 1,
+   "series": "Injustice: Year Zero",
+   "issue": "1",
+   "volume": "2020",
+   "year": "2020",
+   "owned": true
+  },
+  {
+   "order": 2,
+   "series": "Injustice: Year Zero",
+   "issue": "2",
+   "volume": "2020",
+   "year": "2020",
+   "owned": true
+  },
+  {
+   "order": 3,
+   "series": "Injustice: Year Zero",
+   "issue": "3",
+   "volume": "2020",
+   "year": "2020",
+   "owned": true
+  },
+  {
+   "order": 4,
+   "series": "Injustice: Year Zero",
+   "issue": "4",
+   "volume": "2020",
+   "year": "2020",
+   "owned": true
+  },
+  {
+   "order": 5,
+   "series": "Injustice: Year Zero",
+   "issue": "5",
+   "volume": "2020",
+   "year": "2020",
+   "owned": true
+  },
+  {
+   "order": 6,
+   "series": "Injustice: Year Zero",
+   "issue": "6",
+   "volume": "2020",
+   "year": "2020",
+   "owned": true
+  },
+  {
+   "order": 7,
+   "series": "Injustice: Year Zero",
+   "issue": "7",
+   "volume": "2020",
+   "year": "2020",
+   "owned": true
+  },
+  {
+   "order": 8,
+   "series": "Injustice: Year Zero",
+   "issue": "8",
+   "volume": "2020",
+   "year": "2020",
+   "owned": true
+  },
+  {
+   "order": 9,
+   "series": "Injustice: Year Zero",
+   "issue": "9",
+   "volume": "2020",
+   "year": "2020",
+   "owned": true
+  },
+  {
+   "order": 10,
+   "series": "Injustice: Year Zero",
+   "issue": "10",
+   "volume": "2020",
+   "year": "2020",
+   "owned": true
+  },
+  {
+   "order": 11,
+   "series": "Injustice: Year Zero",
+   "issue": "11",
+   "volume": "2020",
+   "year": "2020",
+   "owned": true
+  },
+  {
+   "order": 12,
+   "series": "Injustice: Year Zero",
+   "issue": "12",
+   "volume": "2020",
+   "year": "2020",
+   "owned": true
+  },
+  {
+   "order": 13,
+   "series": "Injustice: Year Zero",
+   "issue": "13",
+   "volume": "2020",
+   "year": "2020",
+   "owned": true
+  },
+  {
+   "order": 14,
+   "series": "Injustice: Year Zero",
+   "issue": "14",
+   "volume": "2020",
+   "year": "2021",
+   "owned": false
+  },
+  {
+   "order": 15,
+   "series": "Injustice: Gods Among Us",
+   "issue": "1",
+   "volume": "2013",
+   "year": "2013",
+   "owned": false
+  },
+  {
+   "order": 16,
+   "series": "Injustice: Gods Among Us",
+   "issue": "2",
+   "volume": "2013",
+   "year": "2013",
+   "owned": false
+  },
+  {
+   "order": 17,
+   "series": "Injustice: Gods Among Us",
+   "issue": "3",
+   "volume": "2013",
+   "year": "2013",
+   "owned": false
+  },
+  {
+   "order": 18,
+   "series": "Injustice: Gods Among Us",
+   "issue": "4",
+   "volume": "2013",
+   "year": "2013",
+   "owned": false
+  },
+  {
+   "order": 19,
+   "series": "Injustice: Gods Among Us",
+   "issue": "5",
+   "volume": "2013",
+   "year": "2013",
+   "owned": false
+  },
+  {
+   "order": 20,
+   "series": "Injustice: Gods Among Us",
+   "issue": "6",
+   "volume": "2013",
+   "year": "2013",
+   "owned": false
+  },
+  {
+   "order": 21,
+   "series": "Injustice: Gods Among Us",
+   "issue": "7",
+   "volume": "2013",
+   "year": "2013",
+   "owned": false
+  },
+  {
+   "order": 22,
+   "series": "Injustice: Gods Among Us",
+   "issue": "8",
+   "volume": "2013",
+   "year": "2013",
+   "owned": false
+  },
+  {
+   "order": 23,
+   "series": "Injustice: Gods Among Us",
+   "issue": "9",
+   "volume": "2013",
+   "year": "2013",
+   "owned": false
+  },
+  {
+   "order": 24,
+   "series": "Injustice: Gods Among Us",
+   "issue": "10",
+   "volume": "2013",
+   "year": "2013",
+   "owned": false
+  },
+  {
+   "order": 25,
+   "series": "Injustice: Gods Among Us",
+   "issue": "11",
+   "volume": "2013",
+   "year": "2013",
+   "owned": false
+  },
+  {
+   "order": 26,
+   "series": "Injustice: Gods Among Us",
+   "issue": "12",
+   "volume": "2013",
+   "year": "2013",
+   "owned": false
+  },
+  {
+   "order": 27,
+   "series": "Injustice: Gods Among Us",
+   "issue": "13",
+   "volume": "2013",
+   "year": "2013",
+   "owned": false
+  },
+  {
+   "order": 28,
+   "series": "Injustice: Gods Among Us",
+   "issue": "14",
+   "volume": "2013",
+   "year": "2013",
+   "owned": false
+  },
+  {
+   "order": 29,
+   "series": "Injustice: Gods Among Us",
+   "issue": "15",
+   "volume": "2013",
+   "year": "2013",
+   "owned": false
+  },
+  {
+   "order": 30,
+   "series": "Injustice: Gods Among Us",
+   "issue": "16",
+   "volume": "2013",
+   "year": "2013",
+   "owned": false
+  },
+  {
+   "order": 31,
+   "series": "Injustice: Gods Among Us",
+   "issue": "17",
+   "volume": "2013",
+   "year": "2013",
+   "owned": false
+  },
+  {
+   "order": 32,
+   "series": "Injustice: Gods Among Us",
+   "issue": "18",
+   "volume": "2013",
+   "year": "2013",
+   "owned": false
+  },
+  {
+   "order": 33,
+   "series": "Injustice: Gods Among Us",
+   "issue": "19",
+   "volume": "2013",
+   "year": "2013",
+   "owned": false
+  },
+  {
+   "order": 34,
+   "series": "Injustice: Gods Among Us",
+   "issue": "20",
+   "volume": "2013",
+   "year": "2013",
+   "owned": false
+  },
+  {
+   "order": 35,
+   "series": "Injustice: Gods Among Us",
+   "issue": "21",
+   "volume": "2013",
+   "year": "2013",
+   "owned": false
+  },
+  {
+   "order": 36,
+   "series": "Injustice: Gods Among Us",
+   "issue": "22",
+   "volume": "2013",
+   "year": "2013",
+   "owned": false
+  },
+  {
+   "order": 37,
+   "series": "Injustice: Gods Among Us",
+   "issue": "23",
+   "volume": "2013",
+   "year": "2013",
+   "owned": false
+  },
+  {
+   "order": 38,
+   "series": "Injustice: Gods Among Us",
+   "issue": "24",
+   "volume": "2013",
+   "year": "2013",
+   "owned": false
+  },
+  {
+   "order": 39,
+   "series": "Injustice: Gods Among Us",
+   "issue": "25",
+   "volume": "2013",
+   "year": "2013",
+   "owned": false
+  },
+  {
+   "order": 40,
+   "series": "Injustice: Gods Among Us Annual",
+   "issue": "1",
+   "volume": "2013",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 41,
+   "series": "Injustice: Gods Among Us",
+   "issue": "26",
+   "volume": "2013",
+   "year": "2013",
+   "owned": false
+  },
+  {
+   "order": 42,
+   "series": "Injustice: Gods Among Us",
+   "issue": "27",
+   "volume": "2013",
+   "year": "2013",
+   "owned": false
+  },
+  {
+   "order": 43,
+   "series": "Injustice: Gods Among Us",
+   "issue": "28",
+   "volume": "2013",
+   "year": "2013",
+   "owned": false
+  },
+  {
+   "order": 44,
+   "series": "Injustice: Gods Among Us",
+   "issue": "29",
+   "volume": "2013",
+   "year": "2013",
+   "owned": false
+  },
+  {
+   "order": 45,
+   "series": "Injustice: Gods Among Us",
+   "issue": "30",
+   "volume": "2013",
+   "year": "2013",
+   "owned": false
+  },
+  {
+   "order": 46,
+   "series": "Injustice: Gods Among Us",
+   "issue": "31",
+   "volume": "2013",
+   "year": "2013",
+   "owned": false
+  },
+  {
+   "order": 47,
+   "series": "Injustice: Gods Among Us",
+   "issue": "32",
+   "volume": "2013",
+   "year": "2013",
+   "owned": false
+  },
+  {
+   "order": 48,
+   "series": "Injustice: Gods Among Us",
+   "issue": "33",
+   "volume": "2013",
+   "year": "2013",
+   "owned": false
+  },
+  {
+   "order": 49,
+   "series": "Injustice: Gods Among Us",
+   "issue": "34",
+   "volume": "2013",
+   "year": "2013",
+   "owned": false
+  },
+  {
+   "order": 50,
+   "series": "Injustice: Gods Among Us",
+   "issue": "35",
+   "volume": "2013",
+   "year": "2013",
+   "owned": false
+  },
+  {
+   "order": 51,
+   "series": "Injustice: Gods Among Us",
+   "issue": "36",
+   "volume": "2013",
+   "year": "2013",
+   "owned": false
+  },
+  {
+   "order": 52,
+   "series": "Injustice: Gods Among Us Year Two",
+   "issue": "1",
+   "volume": "2014",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 53,
+   "series": "Injustice: Gods Among Us Year Two",
+   "issue": "2",
+   "volume": "2014",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 54,
+   "series": "Injustice: Gods Among Us Year Two",
+   "issue": "3",
+   "volume": "2014",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 55,
+   "series": "Injustice: Gods Among Us Year Two",
+   "issue": "4",
+   "volume": "2014",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 56,
+   "series": "Injustice: Gods Among Us Year Two",
+   "issue": "5",
+   "volume": "2014",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 57,
+   "series": "Injustice: Gods Among Us Year Two",
+   "issue": "6",
+   "volume": "2014",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 58,
+   "series": "Injustice: Gods Among Us Year Two",
+   "issue": "7",
+   "volume": "2014",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 59,
+   "series": "Injustice: Gods Among Us Year Two Annual",
+   "issue": "1",
+   "volume": "2014",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 60,
+   "series": "Injustice: Gods Among Us Year Two",
+   "issue": "8",
+   "volume": "2014",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 61,
+   "series": "Injustice: Gods Among Us Year Two",
+   "issue": "9",
+   "volume": "2014",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 62,
+   "series": "Injustice: Gods Among Us Year Two",
+   "issue": "10",
+   "volume": "2014",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 63,
+   "series": "Injustice: Gods Among Us Year Two",
+   "issue": "11",
+   "volume": "2014",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 64,
+   "series": "Injustice: Gods Among Us Year Two",
+   "issue": "12",
+   "volume": "2014",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 65,
+   "series": "Injustice: Gods Among Us Year Two",
+   "issue": "13",
+   "volume": "2014",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 66,
+   "series": "Injustice: Gods Among Us Year Two",
+   "issue": "14",
+   "volume": "2014",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 67,
+   "series": "Injustice: Gods Among Us Year Two",
+   "issue": "15",
+   "volume": "2014",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 68,
+   "series": "Injustice: Gods Among Us Year Two",
+   "issue": "16",
+   "volume": "2014",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 69,
+   "series": "Injustice: Gods Among Us Year Two",
+   "issue": "17",
+   "volume": "2014",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 70,
+   "series": "Injustice: Gods Among Us Year Two",
+   "issue": "18",
+   "volume": "2014",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 71,
+   "series": "Injustice: Gods Among Us Year Two",
+   "issue": "19",
+   "volume": "2014",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 72,
+   "series": "Injustice: Gods Among Us Year Two",
+   "issue": "20",
+   "volume": "2014",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 73,
+   "series": "Injustice: Gods Among Us Year Two",
+   "issue": "21",
+   "volume": "2014",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 74,
+   "series": "Injustice: Gods Among Us Year Two",
+   "issue": "22",
+   "volume": "2014",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 75,
+   "series": "Injustice: Gods Among Us Year Two",
+   "issue": "23",
+   "volume": "2014",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 76,
+   "series": "Injustice: Gods Among Us Year Two",
+   "issue": "24",
+   "volume": "2014",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 77,
+   "series": "Injustice: Gods Among Us Year Three Annual",
+   "issue": "1",
+   "volume": "2015",
+   "year": "2015",
+   "owned": false
+  },
+  {
+   "order": 78,
+   "series": "Injustice: Gods Among Us Year Three",
+   "issue": "1",
+   "volume": "2014",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 79,
+   "series": "Injustice: Gods Among Us Year Three",
+   "issue": "2",
+   "volume": "2014",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 80,
+   "series": "Injustice: Gods Among Us Year Three",
+   "issue": "3",
+   "volume": "2014",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 81,
+   "series": "Injustice: Gods Among Us Year Three",
+   "issue": "4",
+   "volume": "2014",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 82,
+   "series": "Injustice: Gods Among Us Year Three",
+   "issue": "5",
+   "volume": "2014",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 83,
+   "series": "Injustice: Gods Among Us Year Three",
+   "issue": "6",
+   "volume": "2014",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 84,
+   "series": "Injustice: Gods Among Us Year Three",
+   "issue": "7",
+   "volume": "2014",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 85,
+   "series": "Injustice: Gods Among Us Year Three",
+   "issue": "8",
+   "volume": "2014",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 86,
+   "series": "Injustice: Gods Among Us Year Three",
+   "issue": "9",
+   "volume": "2014",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 87,
+   "series": "Injustice: Gods Among Us Year Three",
+   "issue": "10",
+   "volume": "2014",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 88,
+   "series": "Injustice: Gods Among Us Year Three",
+   "issue": "11",
+   "volume": "2014",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 89,
+   "series": "Injustice: Gods Among Us Year Three",
+   "issue": "12",
+   "volume": "2014",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 90,
+   "series": "Injustice: Gods Among Us Year Three",
+   "issue": "13",
+   "volume": "2014",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 91,
+   "series": "Injustice: Gods Among Us Year Three",
+   "issue": "14",
+   "volume": "2014",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 92,
+   "series": "Injustice: Gods Among Us Year Three",
+   "issue": "15",
+   "volume": "2014",
+   "year": "2015",
+   "owned": false
+  },
+  {
+   "order": 93,
+   "series": "Injustice: Gods Among Us Year Three",
+   "issue": "16",
+   "volume": "2014",
+   "year": "2015",
+   "owned": false
+  },
+  {
+   "order": 94,
+   "series": "Injustice: Gods Among Us Year Three",
+   "issue": "17",
+   "volume": "2014",
+   "year": "2015",
+   "owned": false
+  },
+  {
+   "order": 95,
+   "series": "Injustice: Gods Among Us Year Three",
+   "issue": "18",
+   "volume": "2014",
+   "year": "2015",
+   "owned": false
+  },
+  {
+   "order": 96,
+   "series": "Injustice: Gods Among Us Year Three",
+   "issue": "19",
+   "volume": "2014",
+   "year": "2015",
+   "owned": false
+  },
+  {
+   "order": 97,
+   "series": "Injustice: Gods Among Us Year Three",
+   "issue": "20",
+   "volume": "2014",
+   "year": "2015",
+   "owned": false
+  },
+  {
+   "order": 98,
+   "series": "Injustice: Gods Among Us Year Three",
+   "issue": "21",
+   "volume": "2014",
+   "year": "2015",
+   "owned": false
+  },
+  {
+   "order": 99,
+   "series": "Injustice: Gods Among Us Year Three",
+   "issue": "22",
+   "volume": "2014",
+   "year": "2015",
+   "owned": false
+  },
+  {
+   "order": 100,
+   "series": "Injustice: Gods Among Us Year Three",
+   "issue": "23",
+   "volume": "2014",
+   "year": "2015",
+   "owned": false
+  },
+  {
+   "order": 101,
+   "series": "Injustice: Gods Among Us Year Three",
+   "issue": "24",
+   "volume": "2014",
+   "year": "2015",
+   "owned": false
+  },
+  {
+   "order": 102,
+   "series": "Injustice: Gods Among Us Year Four",
+   "issue": "1",
+   "volume": "2015",
+   "year": "2015",
+   "owned": false
+  },
+  {
+   "order": 103,
+   "series": "Injustice: Gods Among Us Year Four",
+   "issue": "2",
+   "volume": "2015",
+   "year": "2015",
+   "owned": false
+  },
+  {
+   "order": 104,
+   "series": "Injustice: Gods Among Us Year Four",
+   "issue": "3",
+   "volume": "2015",
+   "year": "2015",
+   "owned": false
+  },
+  {
+   "order": 105,
+   "series": "Injustice: Gods Among Us Year Four",
+   "issue": "4",
+   "volume": "2015",
+   "year": "2015",
+   "owned": false
+  },
+  {
+   "order": 106,
+   "series": "Injustice: Gods Among Us Year Four",
+   "issue": "5",
+   "volume": "2015",
+   "year": "2015",
+   "owned": false
+  },
+  {
+   "order": 107,
+   "series": "Injustice: Gods Among Us Year Four",
+   "issue": "6",
+   "volume": "2015",
+   "year": "2015",
+   "owned": false
+  },
+  {
+   "order": 108,
+   "series": "Injustice: Gods Among Us Year Four",
+   "issue": "7",
+   "volume": "2015",
+   "year": "2015",
+   "owned": false
+  },
+  {
+   "order": 109,
+   "series": "Injustice: Gods Among Us Year Four",
+   "issue": "8",
+   "volume": "2015",
+   "year": "2015",
+   "owned": false
+  },
+  {
+   "order": 110,
+   "series": "Injustice: Gods Among Us Year Four",
+   "issue": "9",
+   "volume": "2015",
+   "year": "2015",
+   "owned": false
+  },
+  {
+   "order": 111,
+   "series": "Injustice: Gods Among Us Year Four",
+   "issue": "10",
+   "volume": "2015",
+   "year": "2015",
+   "owned": false
+  },
+  {
+   "order": 112,
+   "series": "Injustice: Gods Among Us Year Four",
+   "issue": "11",
+   "volume": "2015",
+   "year": "2015",
+   "owned": false
+  },
+  {
+   "order": 113,
+   "series": "Injustice: Gods Among Us Year Four",
+   "issue": "12",
+   "volume": "2015",
+   "year": "2015",
+   "owned": false
+  },
+  {
+   "order": 114,
+   "series": "Injustice: Gods Among Us Year Four",
+   "issue": "13",
+   "volume": "2015",
+   "year": "2015",
+   "owned": false
+  },
+  {
+   "order": 115,
+   "series": "Injustice: Gods Among Us Year Four",
+   "issue": "14",
+   "volume": "2015",
+   "year": "2015",
+   "owned": false
+  },
+  {
+   "order": 116,
+   "series": "Injustice: Gods Among Us Year Four",
+   "issue": "15",
+   "volume": "2015",
+   "year": "2015",
+   "owned": false
+  },
+  {
+   "order": 117,
+   "series": "Injustice: Gods Among Us Year Four",
+   "issue": "16",
+   "volume": "2015",
+   "year": "2015",
+   "owned": false
+  },
+  {
+   "order": 118,
+   "series": "Injustice: Gods Among Us Year Four",
+   "issue": "17",
+   "volume": "2015",
+   "year": "2015",
+   "owned": false
+  },
+  {
+   "order": 119,
+   "series": "Injustice: Gods Among Us Year Four",
+   "issue": "18",
+   "volume": "2015",
+   "year": "2015",
+   "owned": false
+  },
+  {
+   "order": 120,
+   "series": "Injustice: Gods Among Us Year Four",
+   "issue": "19",
+   "volume": "2015",
+   "year": "2015",
+   "owned": false
+  },
+  {
+   "order": 121,
+   "series": "Injustice: Gods Among Us Year Four",
+   "issue": "20",
+   "volume": "2015",
+   "year": "2015",
+   "owned": false
+  },
+  {
+   "order": 122,
+   "series": "Injustice: Gods Among Us Year Four",
+   "issue": "21",
+   "volume": "2015",
+   "year": "2015",
+   "owned": false
+  },
+  {
+   "order": 123,
+   "series": "Injustice: Gods Among Us Year Four",
+   "issue": "22",
+   "volume": "2015",
+   "year": "2015",
+   "owned": false
+  },
+  {
+   "order": 124,
+   "series": "Injustice: Gods Among Us Year Four",
+   "issue": "23",
+   "volume": "2015",
+   "year": "2015",
+   "owned": false
+  },
+  {
+   "order": 125,
+   "series": "Injustice: Gods Among Us Year Four",
+   "issue": "24",
+   "volume": "2015",
+   "year": "2015",
+   "owned": false
+  },
+  {
+   "order": 126,
+   "series": "Injustice: Gods Among Us: Year Four Annual",
+   "issue": "1",
+   "volume": "2015",
+   "year": "2016",
+   "owned": false
+  },
+  {
+   "order": 127,
+   "series": "Injustice: Gods Among Us Year Five",
+   "issue": "1",
+   "volume": "2015",
+   "year": "2015",
+   "owned": false
+  },
+  {
+   "order": 128,
+   "series": "Injustice: Gods Among Us Year Five",
+   "issue": "2",
+   "volume": "2015",
+   "year": "2015",
+   "owned": false
+  },
+  {
+   "order": 129,
+   "series": "Injustice: Gods Among Us Year Five",
+   "issue": "3",
+   "volume": "2015",
+   "year": "2016",
+   "owned": false
+  },
+  {
+   "order": 130,
+   "series": "Injustice: Gods Among Us Year Five",
+   "issue": "4",
+   "volume": "2015",
+   "year": "2016",
+   "owned": false
+  },
+  {
+   "order": 131,
+   "series": "Injustice: Gods Among Us Year Five",
+   "issue": "5",
+   "volume": "2015",
+   "year": "2016",
+   "owned": false
+  },
+  {
+   "order": 132,
+   "series": "Injustice: Gods Among Us Year Five",
+   "issue": "6",
+   "volume": "2015",
+   "year": "2016",
+   "owned": false
+  },
+  {
+   "order": 133,
+   "series": "Injustice: Gods Among Us Year Five",
+   "issue": "7",
+   "volume": "2015",
+   "year": "2016",
+   "owned": false
+  },
+  {
+   "order": 134,
+   "series": "Injustice: Gods Among Us Year Five",
+   "issue": "8",
+   "volume": "2015",
+   "year": "2016",
+   "owned": false
+  },
+  {
+   "order": 135,
+   "series": "Injustice: Gods Among Us Year Five",
+   "issue": "9",
+   "volume": "2015",
+   "year": "2016",
+   "owned": false
+  },
+  {
+   "order": 136,
+   "series": "Injustice: Gods Among Us Year Five",
+   "issue": "10",
+   "volume": "2015",
+   "year": "2016",
+   "owned": false
+  },
+  {
+   "order": 137,
+   "series": "Injustice: Gods Among Us Year Five",
+   "issue": "11",
+   "volume": "2015",
+   "year": "2016",
+   "owned": false
+  },
+  {
+   "order": 138,
+   "series": "Injustice: Gods Among Us Year Five",
+   "issue": "12",
+   "volume": "2015",
+   "year": "2016",
+   "owned": false
+  },
+  {
+   "order": 139,
+   "series": "Injustice: Gods Among Us Year Five",
+   "issue": "13",
+   "volume": "2015",
+   "year": "2016",
+   "owned": false
+  },
+  {
+   "order": 140,
+   "series": "Injustice: Gods Among Us Year Five",
+   "issue": "14",
+   "volume": "2015",
+   "year": "2016",
+   "owned": false
+  },
+  {
+   "order": 141,
+   "series": "Injustice: Gods Among Us Year Five",
+   "issue": "15",
+   "volume": "2015",
+   "year": "2016",
+   "owned": false
+  },
+  {
+   "order": 142,
+   "series": "Injustice: Gods Among Us Year Five",
+   "issue": "16",
+   "volume": "2015",
+   "year": "2016",
+   "owned": false
+  },
+  {
+   "order": 143,
+   "series": "Injustice: Gods Among Us Year Five",
+   "issue": "17",
+   "volume": "2015",
+   "year": "2016",
+   "owned": false
+  },
+  {
+   "order": 144,
+   "series": "Injustice: Gods Among Us Year Five",
+   "issue": "18",
+   "volume": "2015",
+   "year": "2016",
+   "owned": false
+  },
+  {
+   "order": 145,
+   "series": "Injustice: Gods Among Us Year Five",
+   "issue": "19",
+   "volume": "2015",
+   "year": "2016",
+   "owned": false
+  },
+  {
+   "order": 146,
+   "series": "Injustice: Gods Among Us Year Five",
+   "issue": "20",
+   "volume": "2015",
+   "year": "2016",
+   "owned": false
+  },
+  {
+   "order": 147,
+   "series": "Injustice: Gods Among Us Year Five",
+   "issue": "21",
+   "volume": "2015",
+   "year": "2016",
+   "owned": false
+  },
+  {
+   "order": 148,
+   "series": "Injustice: Gods Among Us Year Five",
+   "issue": "22",
+   "volume": "2015",
+   "year": "2016",
+   "owned": false
+  },
+  {
+   "order": 149,
+   "series": "Injustice: Gods Among Us Year Five",
+   "issue": "23",
+   "volume": "2015",
+   "year": "2016",
+   "owned": false
+  },
+  {
+   "order": 150,
+   "series": "Injustice: Gods Among Us Year Five",
+   "issue": "24",
+   "volume": "2015",
+   "year": "2016",
+   "owned": false
+  },
+  {
+   "order": 151,
+   "series": "Injustice: Gods Among Us Year Five",
+   "issue": "25",
+   "volume": "2015",
+   "year": "2016",
+   "owned": false
+  },
+  {
+   "order": 152,
+   "series": "Injustice: Gods Among Us Year Five",
+   "issue": "26",
+   "volume": "2015",
+   "year": "2016",
+   "owned": false
+  },
+  {
+   "order": 153,
+   "series": "Injustice: Gods Among Us Year Five",
+   "issue": "27",
+   "volume": "2015",
+   "year": "2016",
+   "owned": false
+  },
+  {
+   "order": 154,
+   "series": "Injustice: Gods Among Us Year Five",
+   "issue": "28",
+   "volume": "2015",
+   "year": "2016",
+   "owned": false
+  },
+  {
+   "order": 155,
+   "series": "Injustice: Gods Among Us Year Five",
+   "issue": "29",
+   "volume": "2015",
+   "year": "2016",
+   "owned": false
+  },
+  {
+   "order": 156,
+   "series": "Injustice: Gods Among Us Year Five",
+   "issue": "30",
+   "volume": "2015",
+   "year": "2016",
+   "owned": false
+  },
+  {
+   "order": 157,
+   "series": "Injustice: Gods Among Us Year Five",
+   "issue": "31",
+   "volume": "2015",
+   "year": "2016",
+   "owned": false
+  },
+  {
+   "order": 158,
+   "series": "Injustice: Gods Among Us Year Five",
+   "issue": "32",
+   "volume": "2015",
+   "year": "2016",
+   "owned": false
+  },
+  {
+   "order": 159,
+   "series": "Injustice: Gods Among Us Year Five",
+   "issue": "33",
+   "volume": "2015",
+   "year": "2016",
+   "owned": false
+  },
+  {
+   "order": 160,
+   "series": "Injustice: Gods Among Us Year Five",
+   "issue": "34",
+   "volume": "2015",
+   "year": "2016",
+   "owned": false
+  },
+  {
+   "order": 161,
+   "series": "Injustice: Gods Among Us Year Five",
+   "issue": "35",
+   "volume": "2015",
+   "year": "2016",
+   "owned": false
+  },
+  {
+   "order": 162,
+   "series": "Injustice: Gods Among Us Year Five",
+   "issue": "36",
+   "volume": "2015",
+   "year": "2016",
+   "owned": false
+  },
+  {
+   "order": 163,
+   "series": "Injustice: Gods Among Us Year Five",
+   "issue": "37",
+   "volume": "2015",
+   "year": "2016",
+   "owned": false
+  },
+  {
+   "order": 164,
+   "series": "Injustice: Gods Among Us Year Five",
+   "issue": "38",
+   "volume": "2015",
+   "year": "2016",
+   "owned": false
+  },
+  {
+   "order": 165,
+   "series": "Injustice: Gods Among Us Year Five",
+   "issue": "39",
+   "volume": "2015",
+   "year": "2016",
+   "owned": false
+  },
+  {
+   "order": 166,
+   "series": "Injustice: Gods Among Us Year Five",
+   "issue": "40",
+   "volume": "2015",
+   "year": "2016",
+   "owned": false
+  },
+  {
+   "order": 167,
+   "series": "Injustice: Gods Among Us: Year Five Annual",
+   "issue": "1",
+   "volume": "2016",
+   "year": "2017",
+   "owned": false
+  },
+  {
+   "order": 168,
+   "series": "Injustice: Ground Zero",
+   "issue": "1",
+   "volume": "2016",
+   "year": "2016",
+   "owned": false
+  },
+  {
+   "order": 169,
+   "series": "Injustice: Ground Zero",
+   "issue": "2",
+   "volume": "2016",
+   "year": "2016",
+   "owned": false
+  },
+  {
+   "order": 170,
+   "series": "Injustice: Ground Zero",
+   "issue": "3",
+   "volume": "2016",
+   "year": "2016",
+   "owned": false
+  },
+  {
+   "order": 171,
+   "series": "Injustice: Ground Zero",
+   "issue": "4",
+   "volume": "2016",
+   "year": "2016",
+   "owned": false
+  },
+  {
+   "order": 172,
+   "series": "Injustice: Ground Zero",
+   "issue": "5",
+   "volume": "2016",
+   "year": "2016",
+   "owned": false
+  },
+  {
+   "order": 173,
+   "series": "Injustice: Ground Zero",
+   "issue": "6",
+   "volume": "2016",
+   "year": "2016",
+   "owned": false
+  },
+  {
+   "order": 174,
+   "series": "Injustice: Ground Zero",
+   "issue": "7",
+   "volume": "2016",
+   "year": "2016",
+   "owned": false
+  },
+  {
+   "order": 175,
+   "series": "Injustice: Ground Zero",
+   "issue": "8",
+   "volume": "2016",
+   "year": "2016",
+   "owned": false
+  },
+  {
+   "order": 176,
+   "series": "Injustice: Ground Zero",
+   "issue": "9",
+   "volume": "2016",
+   "year": "2016",
+   "owned": false
+  },
+  {
+   "order": 177,
+   "series": "Injustice: Ground Zero",
+   "issue": "10",
+   "volume": "2016",
+   "year": "2016",
+   "owned": false
+  },
+  {
+   "order": 178,
+   "series": "Injustice: Ground Zero",
+   "issue": "11",
+   "volume": "2016",
+   "year": "2016",
+   "owned": false
+  },
+  {
+   "order": 179,
+   "series": "Injustice: Ground Zero",
+   "issue": "12",
+   "volume": "2016",
+   "year": "2016",
+   "owned": false
+  },
+  {
+   "order": 180,
+   "series": "Injustice: Ground Zero",
+   "issue": "13",
+   "volume": "2016",
+   "year": "2016",
+   "owned": false
+  },
+  {
+   "order": 181,
+   "series": "Injustice: Ground Zero",
+   "issue": "14",
+   "volume": "2016",
+   "year": "2017",
+   "owned": false
+  },
+  {
+   "order": 182,
+   "series": "Injustice: Ground Zero",
+   "issue": "15",
+   "volume": "2016",
+   "year": "2017",
+   "owned": false
+  },
+  {
+   "order": 183,
+   "series": "Injustice: Ground Zero",
+   "issue": "16",
+   "volume": "2016",
+   "year": "2017",
+   "owned": false
+  },
+  {
+   "order": 184,
+   "series": "Injustice: Ground Zero",
+   "issue": "17",
+   "volume": "2016",
+   "year": "2017",
+   "owned": false
+  },
+  {
+   "order": 185,
+   "series": "Injustice: Ground Zero",
+   "issue": "18",
+   "volume": "2016",
+   "year": "2017",
+   "owned": false
+  },
+  {
+   "order": 186,
+   "series": "Injustice: Ground Zero",
+   "issue": "19",
+   "volume": "2016",
+   "year": "2017",
+   "owned": false
+  },
+  {
+   "order": 187,
+   "series": "Injustice: Ground Zero",
+   "issue": "20",
+   "volume": "2016",
+   "year": "2017",
+   "owned": false
+  },
+  {
+   "order": 188,
+   "series": "Injustice: Ground Zero",
+   "issue": "21",
+   "volume": "2016",
+   "year": "2017",
+   "owned": false
+  },
+  {
+   "order": 189,
+   "series": "Injustice: Ground Zero",
+   "issue": "22",
+   "volume": "2016",
+   "year": "2017",
+   "owned": false
+  },
+  {
+   "order": 190,
+   "series": "Injustice: Ground Zero",
+   "issue": "23",
+   "volume": "2016",
+   "year": "2017",
+   "owned": false
+  },
+  {
+   "order": 191,
+   "series": "Injustice: Ground Zero",
+   "issue": "24",
+   "volume": "2016",
+   "year": "2017",
+   "owned": false
+  },
+  {
+   "order": 192,
+   "series": "Injustice 2 Annual",
+   "issue": "1",
+   "volume": "2017",
+   "year": "2018",
+   "owned": false
+  },
+  {
+   "order": 193,
+   "series": "Injustice 2",
+   "issue": "1",
+   "volume": "2017",
+   "year": "2017",
+   "owned": false
+  },
+  {
+   "order": 194,
+   "series": "Injustice 2",
+   "issue": "2",
+   "volume": "2017",
+   "year": "2017",
+   "owned": false
+  },
+  {
+   "order": 195,
+   "series": "Injustice 2",
+   "issue": "3",
+   "volume": "2017",
+   "year": "2017",
+   "owned": false
+  },
+  {
+   "order": 196,
+   "series": "Injustice 2",
+   "issue": "4",
+   "volume": "2017",
+   "year": "2017",
+   "owned": false
+  },
+  {
+   "order": 197,
+   "series": "Injustice 2",
+   "issue": "5",
+   "volume": "2017",
+   "year": "2017",
+   "owned": false
+  },
+  {
+   "order": 198,
+   "series": "Injustice 2",
+   "issue": "6",
+   "volume": "2017",
+   "year": "2017",
+   "owned": false
+  },
+  {
+   "order": 199,
+   "series": "Injustice 2",
+   "issue": "7",
+   "volume": "2017",
+   "year": "2017",
+   "owned": false
+  },
+  {
+   "order": 200,
+   "series": "Injustice 2",
+   "issue": "8",
+   "volume": "2017",
+   "year": "2017",
+   "owned": false
+  },
+  {
+   "order": 201,
+   "series": "Injustice 2",
+   "issue": "9",
+   "volume": "2017",
+   "year": "2017",
+   "owned": false
+  },
+  {
+   "order": 202,
+   "series": "Injustice 2",
+   "issue": "10",
+   "volume": "2017",
+   "year": "2017",
+   "owned": false
+  },
+  {
+   "order": 203,
+   "series": "Injustice 2",
+   "issue": "11",
+   "volume": "2017",
+   "year": "2017",
+   "owned": false
+  },
+  {
+   "order": 204,
+   "series": "Injustice 2",
+   "issue": "12",
+   "volume": "2017",
+   "year": "2017",
+   "owned": false
+  },
+  {
+   "order": 205,
+   "series": "Injustice 2",
+   "issue": "13",
+   "volume": "2017",
+   "year": "2017",
+   "owned": false
+  },
+  {
+   "order": 206,
+   "series": "Injustice 2",
+   "issue": "14",
+   "volume": "2017",
+   "year": "2017",
+   "owned": false
+  },
+  {
+   "order": 207,
+   "series": "Injustice 2",
+   "issue": "15",
+   "volume": "2017",
+   "year": "2017",
+   "owned": false
+  },
+  {
+   "order": 208,
+   "series": "Injustice 2",
+   "issue": "16",
+   "volume": "2017",
+   "year": "2017",
+   "owned": false
+  },
+  {
+   "order": 209,
+   "series": "Injustice 2",
+   "issue": "17",
+   "volume": "2017",
+   "year": "2017",
+   "owned": false
+  },
+  {
+   "order": 210,
+   "series": "Injustice 2",
+   "issue": "18",
+   "volume": "2017",
+   "year": "2017",
+   "owned": false
+  },
+  {
+   "order": 211,
+   "series": "Injustice 2",
+   "issue": "19",
+   "volume": "2017",
+   "year": "2017",
+   "owned": false
+  },
+  {
+   "order": 212,
+   "series": "Injustice 2",
+   "issue": "20",
+   "volume": "2017",
+   "year": "2017",
+   "owned": false
+  },
+  {
+   "order": 213,
+   "series": "Injustice 2",
+   "issue": "21",
+   "volume": "2017",
+   "year": "2017",
+   "owned": false
+  },
+  {
+   "order": 214,
+   "series": "Injustice 2",
+   "issue": "22",
+   "volume": "2017",
+   "year": "2017",
+   "owned": false
+  },
+  {
+   "order": 215,
+   "series": "Injustice 2",
+   "issue": "23",
+   "volume": "2017",
+   "year": "2017",
+   "owned": false
+  },
+  {
+   "order": 216,
+   "series": "Injustice 2",
+   "issue": "24",
+   "volume": "2017",
+   "year": "2017",
+   "owned": false
+  },
+  {
+   "order": 217,
+   "series": "Injustice 2",
+   "issue": "25",
+   "volume": "2017",
+   "year": "2017",
+   "owned": false
+  },
+  {
+   "order": 218,
+   "series": "Injustice 2",
+   "issue": "26",
+   "volume": "2017",
+   "year": "2017",
+   "owned": false
+  },
+  {
+   "order": 219,
+   "series": "Injustice 2",
+   "issue": "27",
+   "volume": "2017",
+   "year": "2017",
+   "owned": false
+  },
+  {
+   "order": 220,
+   "series": "Injustice 2",
+   "issue": "28",
+   "volume": "2017",
+   "year": "2017",
+   "owned": false
+  },
+  {
+   "order": 221,
+   "series": "Injustice 2",
+   "issue": "29",
+   "volume": "2017",
+   "year": "2017",
+   "owned": false
+  },
+  {
+   "order": 222,
+   "series": "Injustice 2",
+   "issue": "30",
+   "volume": "2017",
+   "year": "2017",
+   "owned": false
+  },
+  {
+   "order": 223,
+   "series": "Injustice 2",
+   "issue": "31",
+   "volume": "2017",
+   "year": "2017",
+   "owned": false
+  },
+  {
+   "order": 224,
+   "series": "Injustice 2",
+   "issue": "32",
+   "volume": "2017",
+   "year": "2017",
+   "owned": false
+  },
+  {
+   "order": 225,
+   "series": "Injustice 2",
+   "issue": "33",
+   "volume": "2017",
+   "year": "2017",
+   "owned": false
+  },
+  {
+   "order": 226,
+   "series": "Injustice 2",
+   "issue": "34",
+   "volume": "2017",
+   "year": "2017",
+   "owned": false
+  },
+  {
+   "order": 227,
+   "series": "Injustice 2",
+   "issue": "35",
+   "volume": "2017",
+   "year": "2017",
+   "owned": false
+  },
+  {
+   "order": 228,
+   "series": "Injustice 2",
+   "issue": "36",
+   "volume": "2017",
+   "year": "2017",
+   "owned": false
+  },
+  {
+   "order": 229,
+   "series": "Injustice 2",
+   "issue": "37",
+   "volume": "2017",
+   "year": "2017",
+   "owned": false
+  },
+  {
+   "order": 230,
+   "series": "Injustice 2",
+   "issue": "38",
+   "volume": "2017",
+   "year": "2017",
+   "owned": false
+  },
+  {
+   "order": 231,
+   "series": "Injustice 2",
+   "issue": "39",
+   "volume": "2017",
+   "year": "2018",
+   "owned": false
+  },
+  {
+   "order": 232,
+   "series": "Injustice 2",
+   "issue": "40",
+   "volume": "2017",
+   "year": "2018",
+   "owned": false
+  },
+  {
+   "order": 233,
+   "series": "Injustice 2 Annual",
+   "issue": "2",
+   "volume": "2017",
+   "year": "2019",
+   "owned": false
+  },
+  {
+   "order": 234,
+   "series": "Injustice 2",
+   "issue": "41",
+   "volume": "2017",
+   "year": "2018",
+   "owned": false
+  },
+  {
+   "order": 235,
+   "series": "Injustice 2",
+   "issue": "42",
+   "volume": "2017",
+   "year": "2018",
+   "owned": false
+  },
+  {
+   "order": 236,
+   "series": "Injustice 2",
+   "issue": "43",
+   "volume": "2017",
+   "year": "2018",
+   "owned": false
+  },
+  {
+   "order": 237,
+   "series": "Injustice 2",
+   "issue": "44",
+   "volume": "2017",
+   "year": "2018",
+   "owned": false
+  },
+  {
+   "order": 238,
+   "series": "Injustice 2",
+   "issue": "45",
+   "volume": "2017",
+   "year": "2018",
+   "owned": false
+  },
+  {
+   "order": 239,
+   "series": "Injustice 2",
+   "issue": "46",
+   "volume": "2017",
+   "year": "2018",
+   "owned": false
+  },
+  {
+   "order": 240,
+   "series": "Injustice 2",
+   "issue": "47",
+   "volume": "2017",
+   "year": "2018",
+   "owned": false
+  },
+  {
+   "order": 241,
+   "series": "Injustice 2",
+   "issue": "48",
+   "volume": "2017",
+   "year": "2018",
+   "owned": false
+  },
+  {
+   "order": 242,
+   "series": "Injustice 2",
+   "issue": "49",
+   "volume": "2017",
+   "year": "2018",
+   "owned": false
+  },
+  {
+   "order": 243,
+   "series": "Injustice 2",
+   "issue": "50",
+   "volume": "2017",
+   "year": "2018",
+   "owned": false
+  },
+  {
+   "order": 244,
+   "series": "Injustice 2",
+   "issue": "51",
+   "volume": "2017",
+   "year": "2018",
+   "owned": false
+  },
+  {
+   "order": 245,
+   "series": "Injustice 2",
+   "issue": "52",
+   "volume": "2017",
+   "year": "2018",
+   "owned": false
+  },
+  {
+   "order": 246,
+   "series": "Injustice 2",
+   "issue": "53",
+   "volume": "2017",
+   "year": "2018",
+   "owned": false
+  },
+  {
+   "order": 247,
+   "series": "Injustice 2",
+   "issue": "54",
+   "volume": "2017",
+   "year": "2018",
+   "owned": false
+  },
+  {
+   "order": 248,
+   "series": "Injustice 2",
+   "issue": "55",
+   "volume": "2017",
+   "year": "2018",
+   "owned": false
+  },
+  {
+   "order": 249,
+   "series": "Injustice 2",
+   "issue": "56",
+   "volume": "2017",
+   "year": "2018",
+   "owned": false
+  },
+  {
+   "order": 250,
+   "series": "Injustice 2",
+   "issue": "57",
+   "volume": "2017",
+   "year": "2018",
+   "owned": false
+  },
+  {
+   "order": 251,
+   "series": "Injustice 2",
+   "issue": "58",
+   "volume": "2017",
+   "year": "2018",
+   "owned": false
+  },
+  {
+   "order": 252,
+   "series": "Injustice 2",
+   "issue": "59",
+   "volume": "2017",
+   "year": "2018",
+   "owned": false
+  },
+  {
+   "order": 253,
+   "series": "Injustice 2",
+   "issue": "60",
+   "volume": "2017",
+   "year": "2018",
+   "owned": false
+  },
+  {
+   "order": 254,
+   "series": "Injustice 2",
+   "issue": "61",
+   "volume": "2017",
+   "year": "2018",
+   "owned": false
+  },
+  {
+   "order": 255,
+   "series": "Injustice 2",
+   "issue": "62",
+   "volume": "2017",
+   "year": "2018",
+   "owned": false
+  },
+  {
+   "order": 256,
+   "series": "Injustice 2",
+   "issue": "63",
+   "volume": "2017",
+   "year": "2018",
+   "owned": false
+  },
+  {
+   "order": 257,
+   "series": "Injustice 2",
+   "issue": "64",
+   "volume": "2017",
+   "year": "2018",
+   "owned": false
+  },
+  {
+   "order": 258,
+   "series": "Injustice 2",
+   "issue": "65",
+   "volume": "2017",
+   "year": "2018",
+   "owned": false
+  },
+  {
+   "order": 259,
+   "series": "Injustice 2",
+   "issue": "66",
+   "volume": "2017",
+   "year": "2018",
+   "owned": false
+  },
+  {
+   "order": 260,
+   "series": "Injustice 2",
+   "issue": "67",
+   "volume": "2017",
+   "year": "2018",
+   "owned": false
+  },
+  {
+   "order": 261,
+   "series": "Injustice 2",
+   "issue": "68",
+   "volume": "2017",
+   "year": "2018",
+   "owned": false
+  },
+  {
+   "order": 262,
+   "series": "Injustice 2",
+   "issue": "69",
+   "volume": "2017",
+   "year": "2018",
+   "owned": false
+  },
+  {
+   "order": 263,
+   "series": "Injustice 2",
+   "issue": "70",
+   "volume": "2017",
+   "year": "2018",
+   "owned": false
+  },
+  {
+   "order": 264,
+   "series": "Injustice 2",
+   "issue": "71",
+   "volume": "2017",
+   "year": "2018",
+   "owned": false
+  },
+  {
+   "order": 265,
+   "series": "Injustice 2",
+   "issue": "72",
+   "volume": "2017",
+   "year": "2018",
+   "owned": false
+  }
+ ]
+}
