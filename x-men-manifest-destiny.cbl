@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
-<ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<?xml version='1.0' encoding='utf-8'?>
+<ReadingList>
   <Name>X-Men Manifest Destiny</Name>
   <Books>
     <Book Series="Astonishing X-Men" Number="25" Volume="2004" Year="2008" />
@@ -8,11 +8,7 @@
     <Book Series="Astonishing X-Men" Number="28" Volume="2004" Year="2009" />
     <Book Series="Astonishing X-Men" Number="29" Volume="2004" Year="2009" />
     <Book Series="Astonishing X-Men" Number="30" Volume="2004" Year="2009" />
-    <Book Series="The Uncanny X-Men" Number="500" Volume="1981" Year="2008" />
-    <Book Series="The Uncanny X-Men" Number="501" Volume="1981" Year="2008" />
-    <Book Series="The Uncanny X-Men" Number="502" Volume="1981" Year="2008" />
-    <Book Series="The Uncanny X-Men" Number="503" Volume="1981" Year="2008" />
-    <Book Series="Cable" Number="6" Volume="2008" Year="2008" />
+    <Book Series="Uncanny X-Men" Number="500" Year="2008" /><Book Series="Uncanny X-Men" Number="501" Year="2008" /><Book Series="Uncanny X-Men" Number="502" Year="2008" /><Book Series="Uncanny X-Men" Number="503" Year="2008" /><Book Series="Cable" Number="6" Volume="2008" Year="2008" />
     <Book Series="X-Men: Legacy" Number="215" Volume="2008" Year="2008" />
     <Book Series="X-Men: Legacy" Number="216" Volume="2008" Year="2008" />
     <Book Series="X-Men: Manifest Destiny" Number="1" Volume="2008" Year="2008" />
@@ -33,6 +29,10 @@
     <Book Series="Eternals" Number="9" Volume="2008" Year="2009" />
     <Book Series="X-Men: Manifest Destiny: Nightcrawler" Number="1" Volume="2009" Year="2009" />
     <Book Series="Runaways" Number="10" Volume="2008" Year="2009" />
+    <Book Series="Uncanny X-Men" Number="504" Year="2008" /><Book Series="Uncanny X-Men" Number="505" Year="2008" /><Book Series="Uncanny X-Men" Number="506" Year="2009" /><Book Series="Uncanny X-Men" Number="507" Year="2009" /><Book Series="The Uncanny X-Men" Number="500" Volume="1981" Year="2008" />
+    <Book Series="The Uncanny X-Men" Number="501" Volume="1981" Year="2008" />
+    <Book Series="The Uncanny X-Men" Number="502" Volume="1981" Year="2008" />
+    <Book Series="The Uncanny X-Men" Number="503" Volume="1981" Year="2008" />
     <Book Series="The Uncanny X-Men" Number="504" Volume="1981" Year="2009" />
     <Book Series="The Uncanny X-Men" Number="505" Volume="1981" Year="2009" />
     <Book Series="The Uncanny X-Men" Number="506" Volume="1981" Year="2009" />

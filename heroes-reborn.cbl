@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
-<ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<?xml version='1.0' encoding='utf-8'?>
+<ReadingList>
   <Name>Heroes Reborn</Name>
   <Books>
     <Book Series="Heroes Reborn" Number="1" Volume="2021" Year="2021" />

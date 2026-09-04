@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
-<ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<?xml version='1.0' encoding='utf-8'?>
+<ReadingList>
   <Name>Realm of Kings</Name>
   <Books>
     <Book Series="Realm of Kings" Number="1" Volume="2010" Year="2010" />

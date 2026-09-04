@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
-<ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<?xml version='1.0' encoding='utf-8'?>
+<ReadingList>
   <Name>Sins of Sinister</Name>
   <Books>
     <Book Series="Immortal X-Men" Number="9" Volume="2022" Year="2023" />
