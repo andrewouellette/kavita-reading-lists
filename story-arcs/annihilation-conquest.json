@@ -1,272 +1,213 @@
 {
- "arc": "Annihilation- Conquest",
+ "arc": "Annihilation: Conquest",
  "slug": "annihilation-conquest",
- "issue_count": 33,
- "owned_count": 9,
+ "issue_count": 29,
+ "source": "League of Comic Geeks",
+ "source_url": "https://leagueofcomicgeeks.com/comics/event/14277/annihilation-conquest",
+ "ordering": "publication order as curated by LoCG; roles are theirs",
  "entries": [
   {
    "order": 1,
-   "series": "Annihilation Saga",
+   "series": "Annihilation: Conquest \u2013 Prologue",
    "issue": "1",
-   "volume": "2007",
-   "year": "2007",
-   "owned": false
+   "role": "PROLOGUE",
+   "release_date": "Jun 20th, 2007"
   },
   {
    "order": 2,
-   "series": "Annihilation Conquest: Prologue",
+   "series": "Annihilation: Conquest \u2013 Starlord",
    "issue": "1",
-   "volume": "2007",
-   "year": "2007",
-   "owned": false
+   "role": "TIE-IN",
+   "release_date": "Jul 25th, 2007"
   },
   {
    "order": 3,
-   "series": "Annihilation: Conquest - Starlord",
-   "issue": "1",
-   "volume": "2007",
-   "year": "2007",
-   "owned": false
+   "series": "Annihilation: Conquest \u2013 Starlord",
+   "issue": "2",
+   "role": "TIE-IN",
+   "release_date": "Aug 22nd, 2007"
   },
   {
    "order": 4,
-   "series": "Annihilation: Conquest - Starlord",
-   "issue": "2",
-   "volume": "2007",
-   "year": "2007",
-   "owned": false
+   "series": "Annihilation: Conquest \u2013 Starlord",
+   "issue": "3",
+   "role": "TIE-IN",
+   "release_date": "Sep 26th, 2007"
   },
   {
    "order": 5,
-   "series": "Annihilation: Conquest - Starlord",
-   "issue": "3",
-   "volume": "2007",
-   "year": "2007",
-   "owned": false
+   "series": "Annihilation: Conquest \u2013 Starlord",
+   "issue": "4",
+   "role": "TIE-IN",
+   "release_date": "Nov 7th, 2007"
   },
   {
    "order": 6,
-   "series": "Annihilation: Conquest - Starlord",
-   "issue": "4",
-   "volume": "2007",
-   "year": "2007",
-   "owned": false
+   "series": "Annihilation: Conquest \u2013 Quasar",
+   "issue": "1",
+   "role": "TIE-IN",
+   "release_date": "Jul 18th, 2007"
   },
   {
    "order": 7,
-   "series": "Annihilation: Conquest - Quasar",
-   "issue": "1",
-   "volume": "2007",
-   "year": "2007",
-   "owned": false
+   "series": "Annihilation: Conquest \u2013 Quasar",
+   "issue": "2",
+   "role": "TIE-IN",
+   "release_date": "Aug 15th, 2007"
   },
   {
    "order": 8,
-   "series": "Annihilation: Conquest - Quasar",
-   "issue": "2",
-   "volume": "2007",
-   "year": "2007",
-   "owned": false
+   "series": "Annihilation: Conquest \u2013 Quasar",
+   "issue": "3",
+   "role": "TIE-IN",
+   "release_date": "Sep 19th, 2007"
   },
   {
    "order": 9,
-   "series": "Annihilation: Conquest - Quasar",
-   "issue": "3",
-   "volume": "2007",
-   "year": "2007",
-   "owned": false
+   "series": "Annihilation: Conquest \u2013 Quasar",
+   "issue": "4",
+   "role": "TIE-IN",
+   "release_date": "Oct 31st, 2007"
   },
   {
    "order": 10,
-   "series": "Annihilation: Conquest - Quasar",
+   "series": "Nova",
    "issue": "4",
-   "volume": "2007",
-   "year": "2007",
-   "owned": false
+   "role": "TIE-IN",
+   "release_date": "Jul 11th, 2007"
   },
   {
    "order": 11,
-   "series": "Annihilation: Conquest - Wraith",
-   "issue": "1",
-   "volume": "2007",
-   "year": "2007",
-   "owned": false
+   "series": "Nova",
+   "issue": "5",
+   "role": "TIE-IN",
+   "release_date": "Aug 8th, 2007"
   },
   {
    "order": 12,
-   "series": "Annihilation: Conquest - Wraith",
-   "issue": "2",
-   "volume": "2007",
-   "year": "2007",
-   "owned": false
+   "series": "Nova",
+   "issue": "6",
+   "role": "TIE-IN",
+   "release_date": "Sep 12th, 2007"
   },
   {
    "order": 13,
-   "series": "Annihilation: Conquest - Wraith",
-   "issue": "3",
-   "volume": "2007",
-   "year": "2007",
-   "owned": false
+   "series": "Nova",
+   "issue": "7",
+   "role": "TIE-IN",
+   "release_date": "Oct 10th, 2007"
   },
   {
    "order": 14,
-   "series": "Annihilation: Conquest - Wraith",
-   "issue": "4",
-   "volume": "2007",
-   "year": "2007",
-   "owned": false
+   "series": "Annihilation: Conquest \u2013 Wraith",
+   "issue": "1",
+   "role": "TIE-IN",
+   "release_date": "Jul 11th, 2007"
   },
   {
    "order": 15,
-   "series": "Nova",
-   "issue": "4",
-   "volume": "2007",
-   "year": "2007",
-   "owned": true
+   "series": "Annihilation: Conquest \u2013 Wraith",
+   "issue": "2",
+   "role": "TIE-IN",
+   "release_date": "Aug 8th, 2007"
   },
   {
    "order": 16,
-   "series": "Nova",
-   "issue": "5",
-   "volume": "2007",
-   "year": "2007",
-   "owned": true
+   "series": "Annihilation: Conquest \u2013 Wraith",
+   "issue": "3",
+   "role": "TIE-IN",
+   "release_date": "Sep 5th, 2007"
   },
   {
    "order": 17,
-   "series": "Nova",
-   "issue": "6",
-   "volume": "2007",
-   "year": "2007",
-   "owned": true
+   "series": "Annihilation: Conquest \u2013 Wraith",
+   "issue": "4",
+   "role": "TIE-IN",
+   "release_date": "Oct 24th, 2007"
   },
   {
    "order": 18,
-   "series": "Nova",
-   "issue": "7",
-   "volume": "2007",
-   "year": "2007",
-   "owned": true
+   "series": "Annihilation: Conquest",
+   "issue": "1",
+   "role": "CORE ISSUE",
+   "release_date": "Nov 7th, 2007"
   },
   {
    "order": 19,
    "series": "Annihilation: Conquest",
-   "issue": "1",
-   "volume": "2008",
-   "year": "2008",
-   "owned": false
+   "issue": "2",
+   "role": "CORE ISSUE",
+   "release_date": "Dec 5th, 2007"
   },
   {
    "order": 20,
-   "series": "Annihilation: Conquest",
-   "issue": "2",
-   "volume": "2008",
-   "year": "2008",
-   "owned": false
+   "series": "Nova",
+   "issue": "8",
+   "role": "TIE-IN",
+   "release_date": "Nov 14th, 2007"
   },
   {
    "order": 21,
    "series": "Nova",
-   "issue": "8",
-   "volume": "2007",
-   "year": "2008",
-   "owned": false
+   "issue": "9",
+   "role": "TIE-IN",
+   "release_date": "Dec 12th, 2007"
   },
   {
    "order": 22,
    "series": "Nova",
-   "issue": "9",
-   "volume": "2007",
-   "year": "2008",
-   "owned": false
+   "issue": "10",
+   "role": "TIE-IN",
+   "release_date": "Jan 9th, 2008"
   },
   {
    "order": 23,
-   "series": "Nova",
-   "issue": "10",
-   "volume": "2007",
-   "year": "2008",
-   "owned": true
+   "series": "Nova Annual",
+   "issue": "1",
+   "role": "TIE-IN",
+   "release_date": "Feb 13th, 2008"
   },
   {
    "order": 24,
-   "series": "Nova Annual",
-   "issue": "1",
-   "volume": "2008",
-   "year": "2008",
-   "owned": false
+   "series": "Annihilation: Conquest",
+   "issue": "3",
+   "role": "CORE ISSUE",
+   "release_date": "Jan 2nd, 2008"
   },
   {
    "order": 25,
    "series": "Annihilation: Conquest",
-   "issue": "3",
-   "volume": "2008",
-   "year": "2008",
-   "owned": false
+   "issue": "4",
+   "role": "CORE ISSUE",
+   "release_date": "Feb 6th, 2008"
   },
   {
    "order": 26,
    "series": "Annihilation: Conquest",
-   "issue": "4",
-   "volume": "2008",
-   "year": "2008",
-   "owned": false
+   "issue": "5",
+   "role": "CORE ISSUE",
+   "release_date": "Mar 12th, 2008"
   },
   {
    "order": 27,
-   "series": "Annihilation: Conquest",
-   "issue": "5",
-   "volume": "2008",
-   "year": "2008",
-   "owned": false
+   "series": "Nova",
+   "issue": "11",
+   "role": "TIE-IN",
+   "release_date": "Mar 12th, 2008"
   },
   {
    "order": 28,
    "series": "Nova",
-   "issue": "11",
-   "volume": "2007",
-   "year": "2008",
-   "owned": true
+   "issue": "12",
+   "role": "TIE-IN",
+   "release_date": "Apr 9th, 2008"
   },
   {
    "order": 29,
-   "series": "Nova",
-   "issue": "12",
-   "volume": "2007",
-   "year": "2008",
-   "owned": false
-  },
-  {
-   "order": 30,
    "series": "Annihilation: Conquest",
    "issue": "6",
-   "volume": "2008",
-   "year": "2008",
-   "owned": false
-  },
-  {
-   "order": 31,
-   "series": "Guardians of the Galaxy",
-   "issue": "1",
-   "volume": "2008",
-   "year": "2008",
-   "owned": true
-  },
-  {
-   "order": 32,
-   "series": "Guardians of the Galaxy",
-   "issue": "2",
-   "volume": "2008",
-   "year": "2008",
-   "owned": true
-  },
-  {
-   "order": 33,
-   "series": "Guardians of the Galaxy",
-   "issue": "3",
-   "volume": "2008",
-   "year": "2008",
-   "owned": true
+   "role": "CORE ISSUE",
+   "release_date": "Apr 16th, 2008"
   }
  ]
 }

@@ -1,272 +1,213 @@
 {
  "arc": "Annihilation",
  "slug": "annihilation",
- "issue_count": 33,
- "owned_count": 3,
+ "issue_count": 29,
+ "source": "League of Comic Geeks",
+ "source_url": "https://leagueofcomicgeeks.com/comics/event/14276/annihilation",
+ "ordering": "publication order as curated by LoCG; roles are theirs",
  "entries": [
   {
    "order": 1,
    "series": "Drax the Destroyer",
    "issue": "1",
-   "volume": "2005",
-   "year": "2005",
-   "owned": false
+   "role": "TIE-IN",
+   "release_date": "Sep 28th, 2005"
   },
   {
    "order": 2,
    "series": "Drax the Destroyer",
    "issue": "2",
-   "volume": "2005",
-   "year": "2005",
-   "owned": false
+   "role": "TIE-IN",
+   "release_date": "Oct 26th, 2005"
   },
   {
    "order": 3,
    "series": "Drax the Destroyer",
    "issue": "3",
-   "volume": "2005",
-   "year": "2006",
-   "owned": false
+   "role": "TIE-IN",
+   "release_date": "Nov 9th, 2005"
   },
   {
    "order": 4,
    "series": "Drax the Destroyer",
    "issue": "4",
-   "volume": "2005",
-   "year": "2006",
-   "owned": false
+   "role": "TIE-IN",
+   "release_date": "Dec 28th, 2005"
   },
   {
    "order": 5,
    "series": "Annihilation: Prologue",
    "issue": "1",
-   "volume": "2006",
-   "year": "2006",
-   "owned": false
+   "role": "PROLOGUE",
+   "release_date": "Mar 15th, 2006"
   },
   {
    "order": 6,
    "series": "Annihilation: Nova",
    "issue": "1",
-   "volume": "2006",
-   "year": "2006",
-   "owned": false
+   "role": "TIE-IN",
+   "release_date": "Apr 19th, 2006"
   },
   {
    "order": 7,
    "series": "Annihilation: Nova",
    "issue": "2",
-   "volume": "2006",
-   "year": "2006",
-   "owned": false
+   "role": "TIE-IN",
+   "release_date": "May 17th, 2006"
   },
   {
    "order": 8,
    "series": "Annihilation: Nova",
    "issue": "3",
-   "volume": "2006",
-   "year": "2006",
-   "owned": false
+   "role": "TIE-IN",
+   "release_date": "Jun 21st, 2006"
   },
   {
    "order": 9,
    "series": "Annihilation: Nova",
    "issue": "4",
-   "volume": "2006",
-   "year": "2006",
-   "owned": false
+   "role": "TIE-IN",
+   "release_date": "Jul 19th, 2006"
   },
   {
    "order": 10,
-   "series": "Annihilation: Silver Surfer",
+   "series": "Annihilation: Ronan",
    "issue": "1",
-   "volume": "2006",
-   "year": "2006",
-   "owned": false
+   "role": "TIE-IN",
+   "release_date": "Apr 26th, 2006"
   },
   {
    "order": 11,
-   "series": "Annihilation: Silver Surfer",
+   "series": "Annihilation: Ronan",
    "issue": "2",
-   "volume": "2006",
-   "year": "2006",
-   "owned": false
+   "role": "TIE-IN",
+   "release_date": "May 24th, 2006"
   },
   {
    "order": 12,
-   "series": "Annihilation: Silver Surfer",
+   "series": "Annihilation: Ronan",
    "issue": "3",
-   "volume": "2006",
-   "year": "2006",
-   "owned": false
+   "role": "TIE-IN",
+   "release_date": "Jun 28th, 2006"
   },
   {
    "order": 13,
-   "series": "Annihilation: Silver Surfer",
+   "series": "Annihilation: Ronan",
    "issue": "4",
-   "volume": "2006",
-   "year": "2006",
-   "owned": false
+   "role": "TIE-IN",
+   "release_date": "Jul 26th, 2006"
   },
   {
    "order": 14,
    "series": "Annihilation: Super-Skrull",
    "issue": "1",
-   "volume": "2006",
-   "year": "2006",
-   "owned": false
+   "role": "TIE-IN",
+   "release_date": "Apr 12th, 2006"
   },
   {
    "order": 15,
    "series": "Annihilation: Super-Skrull",
    "issue": "2",
-   "volume": "2006",
-   "year": "2006",
-   "owned": false
+   "role": "TIE-IN",
+   "release_date": "May 10th, 2006"
   },
   {
    "order": 16,
    "series": "Annihilation: Super-Skrull",
    "issue": "3",
-   "volume": "2006",
-   "year": "2006",
-   "owned": false
+   "role": "TIE-IN",
+   "release_date": "Jun 14th, 2006"
   },
   {
    "order": 17,
    "series": "Annihilation: Super-Skrull",
    "issue": "4",
-   "volume": "2006",
-   "year": "2006",
-   "owned": false
+   "role": "TIE-IN",
+   "release_date": "Jul 12th, 2006"
   },
   {
    "order": 18,
-   "series": "Annihilation: Ronan",
+   "series": "Annihilation: Silver Surfer",
    "issue": "1",
-   "volume": "2006",
-   "year": "2006",
-   "owned": false
+   "role": "TIE-IN",
+   "release_date": "Apr 5th, 2006"
   },
   {
    "order": 19,
-   "series": "Annihilation: Ronan",
+   "series": "Annihilation: Silver Surfer",
    "issue": "2",
-   "volume": "2006",
-   "year": "2006",
-   "owned": false
+   "role": "TIE-IN",
+   "release_date": "May 3rd, 2006"
   },
   {
    "order": 20,
-   "series": "Annihilation: Ronan",
+   "series": "Annihilation: Silver Surfer",
    "issue": "3",
-   "volume": "2006",
-   "year": "2006",
-   "owned": false
+   "role": "TIE-IN",
+   "release_date": "Jun 7th, 2006"
   },
   {
    "order": 21,
-   "series": "Annihilation: Ronan",
+   "series": "Annihilation: Silver Surfer",
    "issue": "4",
-   "volume": "2006",
-   "year": "2006",
-   "owned": false
+   "role": "TIE-IN",
+   "release_date": "Jul 12th, 2006"
   },
   {
    "order": 22,
    "series": "Annihilation",
    "issue": "1",
-   "volume": "2006",
-   "year": "2006",
-   "owned": false
+   "role": "CORE ISSUE",
+   "release_date": "Aug 9th, 2006"
   },
   {
    "order": 23,
    "series": "Annihilation",
    "issue": "2",
-   "volume": "2006",
-   "year": "2006",
-   "owned": false
+   "role": "CORE ISSUE",
+   "release_date": "Sep 13th, 2006"
   },
   {
    "order": 24,
    "series": "Annihilation",
    "issue": "3",
-   "volume": "2006",
-   "year": "2006",
-   "owned": false
+   "role": "CORE ISSUE",
+   "release_date": "Oct 11th, 2006"
   },
   {
    "order": 25,
    "series": "Annihilation",
    "issue": "4",
-   "volume": "2006",
-   "year": "2007",
-   "owned": false
+   "role": "CORE ISSUE",
+   "release_date": "Nov 8th, 2006"
   },
   {
    "order": 26,
    "series": "Annihilation",
    "issue": "5",
-   "volume": "2006",
-   "year": "2007",
-   "owned": false
+   "role": "CORE ISSUE",
+   "release_date": "Dec 27th, 2006"
   },
   {
    "order": 27,
    "series": "Annihilation",
    "issue": "6",
-   "volume": "2006",
-   "year": "2007",
-   "owned": false
+   "role": "CORE ISSUE",
+   "release_date": "Jan 31st, 2007"
   },
   {
    "order": 28,
    "series": "Annihilation: Heralds of Galactus",
    "issue": "1",
-   "volume": "2007",
-   "year": "2007",
-   "owned": false
+   "role": "EPILOGUE",
+   "release_date": "Feb 28th, 2007"
   },
   {
    "order": 29,
    "series": "Annihilation: Heralds of Galactus",
    "issue": "2",
-   "volume": "2007",
-   "year": "2007",
-   "owned": false
-  },
-  {
-   "order": 30,
-   "series": "What If? Annihilation",
-   "issue": "1",
-   "volume": "2008",
-   "year": "2008",
-   "owned": false
-  },
-  {
-   "order": 31,
-   "series": "Nova",
-   "issue": "1",
-   "volume": "2007",
-   "year": "2007",
-   "owned": true
-  },
-  {
-   "order": 32,
-   "series": "Nova",
-   "issue": "2",
-   "volume": "2007",
-   "year": "2007",
-   "owned": true
-  },
-  {
-   "order": 33,
-   "series": "Nova",
-   "issue": "3",
-   "volume": "2007",
-   "year": "2007",
-   "owned": true
+   "role": "EPILOGUE",
+   "release_date": "Apr 4th, 2007"
   }
  ]
 }

@@ -1,328 +1,283 @@
 {
- "arc": "X-Men Divided We Stand",
+ "arc": "X-Men: Divided We Stand",
  "slug": "x-men-divided-we-stand",
- "issue_count": 40,
- "owned_count": 12,
+ "issue_count": 39,
+ "source": "League of Comic Geeks",
+ "source_url": "https://leagueofcomicgeeks.com/comics/event/14390/x-men-divided-we-stand",
+ "ordering": "publication order as curated by LoCG; roles are theirs",
  "entries": [
   {
    "order": 1,
-   "series": "The Uncanny X-Men",
+   "series": "Uncanny X-Men",
    "issue": "495",
-   "volume": "1981",
-   "year": "2008",
-   "owned": false
+   "role": "CORE ISSUE",
+   "release_date": "Feb 6th, 2008"
   },
   {
    "order": 2,
-   "series": "The Uncanny X-Men",
+   "series": "Uncanny X-Men",
    "issue": "496",
-   "volume": "1981",
-   "year": "2008",
-   "owned": false
+   "role": "CORE ISSUE",
+   "release_date": "Mar 5th, 2008"
   },
   {
    "order": 3,
-   "series": "The Uncanny X-Men",
+   "series": "Uncanny X-Men",
    "issue": "497",
-   "volume": "1981",
-   "year": "2008",
-   "owned": false
+   "role": "CORE ISSUE",
+   "release_date": "Apr 23rd, 2008"
   },
   {
    "order": 4,
-   "series": "The Uncanny X-Men",
+   "series": "Uncanny X-Men",
    "issue": "498",
-   "volume": "1981",
-   "year": "2008",
-   "owned": false
+   "role": "CORE ISSUE",
+   "release_date": "May 28th, 2008"
   },
   {
    "order": 5,
-   "series": "The Uncanny X-Men",
+   "series": "Uncanny X-Men",
    "issue": "499",
-   "volume": "1981",
-   "year": "2008",
-   "owned": false
+   "role": "CORE ISSUE",
+   "release_date": "Jun 25th, 2008"
   },
   {
    "order": 6,
    "series": "X-Men: Legacy",
    "issue": "208",
-   "volume": "2008",
-   "year": "2008",
-   "owned": true
+   "role": "CORE ISSUE",
+   "release_date": "Feb 27th, 2008"
   },
   {
    "order": 7,
    "series": "X-Men: Legacy",
    "issue": "209",
-   "volume": "2008",
-   "year": "2008",
-   "owned": false
+   "role": "CORE ISSUE",
+   "release_date": "Mar 26th, 2008"
   },
   {
    "order": 8,
    "series": "X-Men: Legacy",
    "issue": "210",
-   "volume": "2008",
-   "year": "2008",
-   "owned": false
+   "role": "CORE ISSUE",
+   "release_date": "Apr 30th, 2008"
   },
   {
    "order": 9,
    "series": "X-Men: Legacy",
    "issue": "211",
-   "volume": "2008",
-   "year": "2008",
-   "owned": false
+   "role": "CORE ISSUE",
+   "release_date": "May 14th, 2008"
   },
   {
    "order": 10,
    "series": "X-Men: Legacy",
    "issue": "212",
-   "volume": "2008",
-   "year": "2008",
-   "owned": false
+   "role": "CORE ISSUE",
+   "release_date": "May 28th, 2008"
   },
   {
    "order": 11,
    "series": "X-Men: Legacy",
    "issue": "213",
-   "volume": "2008",
-   "year": "2008",
-   "owned": false
+   "role": "CORE ISSUE",
+   "release_date": "Jun 25th, 2008"
   },
   {
    "order": 12,
    "series": "X-Men: Legacy",
    "issue": "214",
-   "volume": "2008",
-   "year": "2008",
-   "owned": false
+   "role": "CORE ISSUE",
+   "release_date": "Jul 23rd, 2008"
   },
   {
    "order": 13,
    "series": "X-Factor",
    "issue": "28",
-   "volume": "2006",
-   "year": "2008",
-   "owned": false
+   "role": "CORE ISSUE",
+   "release_date": "Feb 13th, 2008"
   },
   {
    "order": 14,
    "series": "X-Factor",
    "issue": "29",
-   "volume": "2006",
-   "year": "2008",
-   "owned": false
+   "role": "CORE ISSUE",
+   "release_date": "Mar 12th, 2008"
   },
   {
    "order": 15,
    "series": "X-Factor",
    "issue": "30",
-   "volume": "2006",
-   "year": "2008",
-   "owned": false
+   "role": "CORE ISSUE",
+   "release_date": "Apr 16th, 2008"
   },
   {
    "order": 16,
    "series": "X-Factor",
    "issue": "31",
-   "volume": "2006",
-   "year": "2008",
-   "owned": false
+   "role": "CORE ISSUE",
+   "release_date": "May 21st, 2008"
   },
   {
    "order": 17,
    "series": "X-Factor",
    "issue": "32",
-   "volume": "2006",
-   "year": "2008",
-   "owned": false
+   "role": "CORE ISSUE",
+   "release_date": "Jun 18th, 2008"
   },
   {
    "order": 18,
    "series": "X-Force",
    "issue": "1",
-   "volume": "2008",
-   "year": "2008",
-   "owned": true
+   "role": "CORE ISSUE",
+   "release_date": "Feb 13th, 2008"
   },
   {
    "order": 19,
    "series": "X-Force",
    "issue": "2",
-   "volume": "2008",
-   "year": "2008",
-   "owned": true
+   "role": "CORE ISSUE",
+   "release_date": "Mar 5th, 2008"
   },
   {
    "order": 20,
    "series": "X-Force",
    "issue": "3",
-   "volume": "2008",
-   "year": "2008",
-   "owned": true
+   "role": "CORE ISSUE",
+   "release_date": "Apr 23rd, 2008"
   },
   {
    "order": 21,
    "series": "X-Force",
    "issue": "4",
-   "volume": "2008",
-   "year": "2008",
-   "owned": true
+   "role": "CORE ISSUE",
+   "release_date": "May 28th, 2008"
   },
   {
    "order": 22,
    "series": "X-Force",
    "issue": "5",
-   "volume": "2008",
-   "year": "2008",
-   "owned": true
+   "role": "CORE ISSUE",
+   "release_date": "Jul 16th, 2008"
   },
   {
    "order": 23,
    "series": "X-Force",
    "issue": "6",
-   "volume": "2008",
-   "year": "2008",
-   "owned": true
+   "role": "CORE ISSUE",
+   "release_date": "Aug 27th, 2008"
   },
   {
    "order": 24,
    "series": "Wolverine",
    "issue": "62",
-   "volume": "2003",
-   "year": "2008",
-   "owned": true
+   "role": "CORE ISSUE",
+   "release_date": "Feb 13th, 2008"
   },
   {
    "order": 25,
    "series": "Wolverine",
    "issue": "63",
-   "volume": "2003",
-   "year": "2008",
-   "owned": true
+   "role": "CORE ISSUE",
+   "release_date": "Mar 12th, 2008"
   },
   {
    "order": 26,
    "series": "Wolverine",
    "issue": "64",
-   "volume": "2003",
-   "year": "2008",
-   "owned": true
+   "role": "CORE ISSUE",
+   "release_date": "Apr 9th, 2008"
   },
   {
    "order": 27,
    "series": "Wolverine",
    "issue": "65",
-   "volume": "2003",
-   "year": "2008",
-   "owned": false
+   "role": "CORE ISSUE",
+   "release_date": "May 14th, 2008"
   },
   {
    "order": 28,
    "series": "Cable",
    "issue": "1",
-   "volume": "2008",
-   "year": "2008",
-   "owned": true
+   "role": "CORE ISSUE",
+   "release_date": "Mar 5th, 2008"
   },
   {
    "order": 29,
    "series": "Cable",
    "issue": "2",
-   "volume": "2008",
-   "year": "2008",
-   "owned": true
+   "role": "CORE ISSUE",
+   "release_date": "Apr 2nd, 2008"
   },
   {
    "order": 30,
    "series": "Cable",
    "issue": "3",
-   "volume": "2008",
-   "year": "2008",
-   "owned": false
+   "role": "CORE ISSUE",
+   "release_date": "May 7th, 2008"
   },
   {
    "order": 31,
    "series": "Cable",
    "issue": "4",
-   "volume": "2008",
-   "year": "2008",
-   "owned": false
+   "role": "CORE ISSUE",
+   "release_date": "Jun 4th, 2008"
   },
   {
    "order": 32,
    "series": "Cable",
    "issue": "5",
-   "volume": "2008",
-   "year": "2008",
-   "owned": false
+   "role": "CORE ISSUE",
+   "release_date": "Jul 2nd, 2008"
   },
   {
    "order": 33,
-   "series": "King-Size Cable Spectacular",
+   "series": "X-Men: Divided We Stand",
    "issue": "1",
-   "volume": "2008",
-   "year": "2008",
-   "owned": false
+   "role": "CORE ISSUE",
+   "release_date": "Apr 16th, 2008"
   },
   {
    "order": 34,
    "series": "X-Men: Divided We Stand",
-   "issue": "1",
-   "volume": "2008",
-   "year": "2008",
-   "owned": false
+   "issue": "2",
+   "role": "CORE ISSUE",
+   "release_date": "May 21st, 2008"
   },
   {
    "order": 35,
-   "series": "X-Men: Divided We Stand",
-   "issue": "2",
-   "volume": "2008",
-   "year": "2008",
-   "owned": false
+   "series": "Young X-Men",
+   "issue": "1",
+   "role": "CORE ISSUE",
+   "release_date": "Apr 2nd, 2008"
   },
   {
    "order": 36,
    "series": "Young X-Men",
-   "issue": "1",
-   "volume": "2008",
-   "year": "2008",
-   "owned": false
+   "issue": "2",
+   "role": "CORE ISSUE",
+   "release_date": "May 7th, 2008"
   },
   {
    "order": 37,
    "series": "Young X-Men",
-   "issue": "2",
-   "volume": "2008",
-   "year": "2008",
-   "owned": false
+   "issue": "3",
+   "role": "CORE ISSUE",
+   "release_date": "Jun 4th, 2008"
   },
   {
    "order": 38,
    "series": "Young X-Men",
-   "issue": "3",
-   "volume": "2008",
-   "year": "2008",
-   "owned": false
+   "issue": "4",
+   "role": "CORE ISSUE",
+   "release_date": "Jul 9th, 2008"
   },
   {
    "order": 39,
    "series": "Young X-Men",
-   "issue": "4",
-   "volume": "2008",
-   "year": "2008",
-   "owned": false
-  },
-  {
-   "order": 40,
-   "series": "Young X-Men",
    "issue": "5",
-   "volume": "2008",
-   "year": "2008",
-   "owned": false
+   "role": "CORE ISSUE",
+   "release_date": "Aug 20th, 2008"
   }
  ]
 }

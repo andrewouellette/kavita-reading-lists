@@ -1,280 +1,241 @@
 {
  "arc": "Avengers Disassembled",
  "slug": "avengers-disassembled",
- "issue_count": 34,
- "owned_count": 1,
+ "issue_count": 33,
+ "source": "League of Comic Geeks",
+ "source_url": "https://leagueofcomicgeeks.com/comics/event/14228/avengers-disassembled",
+ "ordering": "publication order as curated by LoCG; roles are theirs",
  "entries": [
   {
    "order": 1,
-   "series": "Spectacular Spider-Man",
-   "issue": "15",
-   "volume": "2003",
-   "year": "2004",
-   "owned": false
+   "series": "Thor",
+   "issue": "80",
+   "role": "TIE-IN",
+   "release_date": "Jun 2nd, 2004"
   },
   {
    "order": 2,
-   "series": "Spectacular Spider-Man",
-   "issue": "16",
-   "volume": "2003",
-   "year": "2004",
-   "owned": false
+   "series": "Thor",
+   "issue": "81",
+   "role": "TIE-IN",
+   "release_date": "Jun 16th, 2004"
   },
   {
    "order": 3,
-   "series": "Spectacular Spider-Man",
-   "issue": "17",
-   "volume": "2003",
-   "year": "2004",
-   "owned": false
+   "series": "Thor",
+   "issue": "82",
+   "role": "TIE-IN",
+   "release_date": "Jul 7th, 2004"
   },
   {
    "order": 4,
-   "series": "Spectacular Spider-Man",
-   "issue": "18",
-   "volume": "2003",
-   "year": "2004",
-   "owned": false
+   "series": "Thor",
+   "issue": "83",
+   "role": "TIE-IN",
+   "release_date": "Aug 4th, 2004"
   },
   {
    "order": 5,
-   "series": "Spectacular Spider-Man",
-   "issue": "19",
-   "volume": "2003",
-   "year": "2004",
-   "owned": false
+   "series": "Thor",
+   "issue": "84",
+   "role": "TIE-IN",
+   "release_date": "Sep 1st, 2004"
   },
   {
    "order": 6,
-   "series": "Spectacular Spider-Man",
-   "issue": "20",
-   "volume": "2003",
-   "year": "2004",
-   "owned": false
+   "series": "Thor",
+   "issue": "85",
+   "role": "TIE-IN",
+   "release_date": "Oct 6th, 2004"
   },
   {
    "order": 7,
    "series": "Iron Man",
    "issue": "84",
-   "volume": "1998",
-   "year": "2004",
-   "owned": false
+   "role": "TIE-IN",
+   "release_date": "Jun 9th, 2004"
   },
   {
    "order": 8,
    "series": "Iron Man",
    "issue": "85",
-   "volume": "1998",
-   "year": "2004",
-   "owned": false
+   "role": "TIE-IN",
+   "release_date": "Jun 30th, 2004"
   },
   {
    "order": 9,
-   "series": "Thor",
-   "issue": "80",
-   "volume": "1998",
-   "year": "2004",
-   "owned": false
+   "series": "The Spectacular Spider-Man",
+   "issue": "15",
+   "role": "TIE-IN",
+   "release_date": "Jun 9th, 2004"
   },
   {
    "order": 10,
-   "series": "Thor",
-   "issue": "81",
-   "volume": "1998",
-   "year": "2004",
-   "owned": false
+   "series": "The Spectacular Spider-Man",
+   "issue": "16",
+   "role": "TIE-IN",
+   "release_date": "Jun 30th, 2004"
   },
   {
    "order": 11,
-   "series": "Captain America & the Falcon",
-   "issue": "5",
-   "volume": "2004",
-   "year": "2004",
-   "owned": false
+   "series": "The Spectacular Spider-Man",
+   "issue": "17",
+   "role": "TIE-IN",
+   "release_date": "Jul 14th, 2004"
   },
   {
    "order": 12,
-   "series": "Captain America & the Falcon",
-   "issue": "6",
-   "volume": "2004",
-   "year": "2004",
-   "owned": false
+   "series": "The Spectacular Spider-Man",
+   "issue": "18",
+   "role": "TIE-IN",
+   "release_date": "Aug 11th, 2004"
   },
   {
    "order": 13,
-   "series": "Captain America & the Falcon",
-   "issue": "7",
-   "volume": "2004",
-   "year": "2004",
-   "owned": false
+   "series": "The Spectacular Spider-Man",
+   "issue": "19",
+   "role": "TIE-IN",
+   "release_date": "Sep 8th, 2004"
   },
   {
    "order": 14,
-   "series": "Captain America",
-   "issue": "29",
-   "volume": "2002",
-   "year": "2004",
-   "owned": false
+   "series": "The Spectacular Spider-Man",
+   "issue": "20",
+   "role": "TIE-IN",
+   "release_date": "Oct 20th, 2004"
   },
   {
    "order": 15,
-   "series": "Avengers",
-   "issue": "500",
-   "volume": "1998",
-   "year": "2004",
-   "owned": false
+   "series": "Captain America and the Falcon",
+   "issue": "5",
+   "role": "TIE-IN",
+   "release_date": "Jul 8th, 2004"
   },
   {
    "order": 16,
-   "series": "Avengers",
-   "issue": "501",
-   "volume": "1998",
-   "year": "2004",
-   "owned": false
+   "series": "Captain America and the Falcon",
+   "issue": "6",
+   "role": "TIE-IN",
+   "release_date": "Aug 4th, 2004"
   },
   {
    "order": 17,
-   "series": "Avengers",
-   "issue": "502",
-   "volume": "1998",
-   "year": "2004",
-   "owned": false
+   "series": "Captain America and the Falcon",
+   "issue": "7",
+   "role": "TIE-IN",
+   "release_date": "Sep 1st, 2004"
   },
   {
    "order": 18,
-   "series": "Avengers",
-   "issue": "503",
-   "volume": "1998",
-   "year": "2004",
-   "owned": false
+   "series": "Captain America",
+   "issue": "29",
+   "role": "TIE-IN",
+   "release_date": "Jul 14th, 2004"
   },
   {
    "order": 19,
-   "series": "Excalibur",
-   "issue": "8",
-   "volume": "2004",
-   "year": "2005",
-   "owned": true
+   "series": "The Avengers",
+   "issue": "500",
+   "role": "CORE ISSUE",
+   "release_date": "Jul 28th, 2004"
   },
   {
    "order": 20,
    "series": "Iron Man",
    "issue": "86",
-   "volume": "1998",
-   "year": "2004",
-   "owned": false
+   "role": "TIE-IN",
+   "release_date": "Jul 14th, 2004"
   },
   {
    "order": 21,
-   "series": "Iron Man",
-   "issue": "87",
-   "volume": "1998",
-   "year": "2004",
-   "owned": false
+   "series": "The Avengers",
+   "issue": "501",
+   "role": "CORE ISSUE",
+   "release_date": "Sep 1st, 2004"
   },
   {
    "order": 22,
-   "series": "Iron Man",
-   "issue": "88",
-   "volume": "1998",
-   "year": "2004",
-   "owned": false
+   "series": "The Avengers",
+   "issue": "502",
+   "role": "CORE ISSUE",
+   "release_date": "Sep 22nd, 2004"
   },
   {
    "order": 23,
-   "series": "Iron Man",
-   "issue": "89",
-   "volume": "1998",
-   "year": "2004",
-   "owned": false
+   "series": "Captain America",
+   "issue": "30",
+   "role": "TIE-IN",
+   "release_date": "Aug 11th, 2004"
   },
   {
    "order": 24,
    "series": "Captain America",
-   "issue": "30",
-   "volume": "2002",
-   "year": "2004",
-   "owned": false
+   "issue": "31",
+   "role": "TIE-IN",
+   "release_date": "Sep 9th, 2004"
   },
   {
    "order": 25,
    "series": "Captain America",
-   "issue": "31",
-   "volume": "2002",
-   "year": "2004",
-   "owned": false
+   "issue": "32",
+   "role": "TIE-IN",
+   "release_date": "Oct 13th, 2004"
   },
   {
    "order": 26,
-   "series": "Captain America",
-   "issue": "32",
-   "volume": "2002",
-   "year": "2004",
-   "owned": false
+   "series": "The Avengers",
+   "issue": "503",
+   "role": "CORE ISSUE",
+   "release_date": "Nov 3rd, 2004"
   },
   {
    "order": 27,
-   "series": "Fantastic Four",
-   "issue": "517",
-   "volume": "1998",
-   "year": "2004",
-   "owned": false
+   "series": "Iron Man",
+   "issue": "87",
+   "role": "TIE-IN",
+   "release_date": "Aug 11th, 2004"
   },
   {
    "order": 28,
-   "series": "Fantastic Four",
-   "issue": "518",
-   "volume": "1998",
-   "year": "2004",
-   "owned": false
+   "series": "Iron Man",
+   "issue": "88",
+   "role": "TIE-IN",
+   "release_date": "Sep 15th, 2004"
   },
   {
    "order": 29,
-   "series": "Fantastic Four",
-   "issue": "519",
-   "volume": "1998",
-   "year": "2004",
-   "owned": false
+   "series": "Iron Man",
+   "issue": "89",
+   "role": "TIE-IN",
+   "release_date": "Oct 13th, 2004"
   },
   {
    "order": 30,
-   "series": "Thor",
-   "issue": "82",
-   "volume": "1998",
-   "year": "2004",
-   "owned": false
+   "series": "The Avengers Finale",
+   "issue": "1",
+   "role": "CORE ISSUE",
+   "release_date": "Nov 10th, 2004"
   },
   {
    "order": 31,
-   "series": "Thor",
-   "issue": "83",
-   "volume": "1998",
-   "year": "2004",
-   "owned": false
+   "series": "Fantastic Four",
+   "issue": "517",
+   "role": "TIE-IN",
+   "release_date": "Aug 18th, 2004"
   },
   {
    "order": 32,
-   "series": "Thor",
-   "issue": "84",
-   "volume": "1998",
-   "year": "2004",
-   "owned": false
+   "series": "Fantastic Four",
+   "issue": "518",
+   "role": "TIE-IN",
+   "release_date": "Sep 15th, 2004"
   },
   {
    "order": 33,
-   "series": "Thor",
-   "issue": "85",
-   "volume": "1998",
-   "year": "2004",
-   "owned": false
-  },
-  {
-   "order": 34,
-   "series": "Avengers Finale",
-   "issue": "1",
-   "volume": "2005",
-   "year": "2005",
-   "owned": false
+   "series": "Fantastic Four",
+   "issue": "519",
+   "role": "TIE-IN",
+   "release_date": "Oct 20th, 2004"
   }
  ]
 }

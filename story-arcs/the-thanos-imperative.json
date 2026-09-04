@@ -2,87 +2,79 @@
  "arc": "The Thanos Imperative",
  "slug": "the-thanos-imperative",
  "issue_count": 10,
- "owned_count": 0,
+ "source": "League of Comic Geeks",
+ "source_url": "https://leagueofcomicgeeks.com/comics/event/14282/the-thanos-imperative",
+ "ordering": "publication order as curated by LoCG; roles are theirs",
  "entries": [
   {
    "order": 1,
    "series": "Guardians of the Galaxy",
    "issue": "25",
-   "volume": "2008",
-   "year": "2010",
-   "owned": false
+   "role": "PROLOGUE",
+   "release_date": "Apr 21st, 2010"
   },
   {
    "order": 2,
    "series": "Nova",
    "issue": "36",
-   "volume": "2007",
-   "year": "2010",
-   "owned": false
+   "role": "PROLOGUE",
+   "release_date": "Apr 21st, 2010"
   },
   {
    "order": 3,
    "series": "The Thanos Imperative: Ignition",
    "issue": "1",
-   "volume": "2010",
-   "year": "2010",
-   "owned": false
+   "role": "PROLOGUE",
+   "release_date": "May 26th, 2010"
   },
   {
    "order": 4,
    "series": "The Thanos Imperative",
    "issue": "1",
-   "volume": "2010",
-   "year": "2010",
-   "owned": false
+   "role": "CORE ISSUE",
+   "release_date": "Jun 2nd, 2010"
   },
   {
    "order": 5,
    "series": "The Thanos Imperative",
    "issue": "2",
-   "volume": "2010",
-   "year": "2010",
-   "owned": false
+   "role": "CORE ISSUE",
+   "release_date": "Jul 14th, 2010"
   },
   {
    "order": 6,
    "series": "The Thanos Imperative",
    "issue": "3",
-   "volume": "2010",
-   "year": "2010",
-   "owned": false
+   "role": "CORE ISSUE",
+   "release_date": "Aug 11th, 2010"
   },
   {
    "order": 7,
    "series": "The Thanos Imperative",
    "issue": "4",
-   "volume": "2010",
-   "year": "2010",
-   "owned": false
+   "role": "CORE ISSUE",
+   "release_date": "Sep 8th, 2010"
   },
   {
    "order": 8,
    "series": "The Thanos Imperative",
    "issue": "5",
-   "volume": "2010",
-   "year": "2010",
-   "owned": false
+   "role": "CORE ISSUE",
+   "release_date": "Oct 13th, 2010"
   },
   {
    "order": 9,
    "series": "The Thanos Imperative",
    "issue": "6",
-   "volume": "2010",
-   "year": "2011",
-   "owned": false
+   "role": "CORE ISSUE",
+   "release_date": "Nov 10th, 2010"
   },
   {
    "order": 10,
    "series": "The Thanos Imperative: Devastation",
    "issue": "1",
-   "volume": "2011",
-   "year": "2011",
-   "owned": false
+   "role": "EPILOGUE",
+   "release_date": "Jan 5th, 2011"
   }
  ]
 }

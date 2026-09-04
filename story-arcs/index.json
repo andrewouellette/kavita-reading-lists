@@ -1,8 +1,8 @@
 {
  "description": "Comic story arc reading orders, exported from ComicBookList (.cbl) files.",
- "note": "order is the complete arc reading order; owned reflects what is in the source Kavita library at export time",
+ "note": "order is the complete arc reading order. Arcs marked source=League of Comic Geeks are publication-order curated by LoCG and include role labels (PROLOGUE/CORE ISSUE/TIE-IN/EPILOGUE). The rest are derived from .cbl files and may group issues by title rather than interleaving them - see ORDERING.md",
  "arc_count": 258,
- "total_entries": 8901,
+ "total_entries": 8877,
  "arcs": [
   {
    "arc": "2099",
@@ -57,8 +57,8 @@
    "arc": "Age of X-Man",
    "slug": "age-of-x-man",
    "file": "age-of-x-man.json",
-   "issue_count": 42,
-   "owned_count": 10
+   "issue_count": 33,
+   "source": "League of Comic Geeks"
   },
   {
    "arc": "Age of X",
@@ -85,8 +85,8 @@
    "arc": "Annihilation- Conquest",
    "slug": "annihilation-conquest",
    "file": "annihilation-conquest.json",
-   "issue_count": 33,
-   "owned_count": 9
+   "issue_count": 29,
+   "source": "League of Comic Geeks"
   },
   {
    "arc": "Annihilation: Scourge",
@@ -99,8 +99,8 @@
    "arc": "Annihilation",
    "slug": "annihilation",
    "file": "annihilation.json",
-   "issue_count": 33,
-   "owned_count": 3
+   "issue_count": 29,
+   "source": "League of Comic Geeks"
   },
   {
    "arc": "Apocalypse- The Twelve",
@@ -127,8 +127,8 @@
    "arc": "Avengers Disassembled",
    "slug": "avengers-disassembled",
    "file": "avengers-disassembled.json",
-   "issue_count": 34,
-   "owned_count": 1
+   "issue_count": 33,
+   "source": "League of Comic Geeks"
   },
   {
    "arc": "Avengers Standoff",
@@ -505,8 +505,8 @@
    "arc": "Decimation",
    "slug": "decimation",
    "file": "decimation.json",
-   "issue_count": 53,
-   "owned_count": 6
+   "issue_count": 52,
+   "source": "League of Comic Geeks"
   },
   {
    "arc": "Devil's Reign",
@@ -785,8 +785,8 @@
    "arc": "House of M",
    "slug": "house-of-m",
    "file": "house-of-m.json",
-   "issue_count": 64,
-   "owned_count": 4
+   "issue_count": 51,
+   "source": "League of Comic Geeks"
   },
   {
    "arc": "Hulk vs. Thor: Banner of War",
@@ -1100,8 +1100,8 @@
    "arc": "One World Under Doom",
    "slug": "one-world-under-doom",
    "file": "one-world-under-doom.json",
-   "issue_count": 83,
-   "owned_count": 55
+   "issue_count": 82,
+   "source": "League of Comic Geeks"
   },
   {
    "arc": "Original Clone Saga",
@@ -1114,8 +1114,8 @@
    "arc": "Original Sin",
    "slug": "original-sin",
    "file": "original-sin.json",
-   "issue_count": 58,
-   "owned_count": 17
+   "issue_count": 67,
+   "source": "League of Comic Geeks"
   },
   {
    "arc": "Our Worlds at War",
@@ -1157,7 +1157,7 @@
    "slug": "realm-of-kings",
    "file": "realm-of-kings.json",
    "issue_count": 24,
-   "owned_count": 2
+   "source": "League of Comic Geeks"
   },
   {
    "arc": "Red Daughter of Krypton",
@@ -1240,8 +1240,8 @@
    "arc": "Secret Wars",
    "slug": "secret-wars",
    "file": "secret-wars.json",
-   "issue_count": 229,
-   "owned_count": 7
+   "issue_count": 230,
+   "source": "League of Comic Geeks"
   },
   {
    "arc": "Seven Soldiers",
@@ -1556,7 +1556,7 @@
    "slug": "the-thanos-imperative",
    "file": "the-thanos-imperative.json",
    "issue_count": 10,
-   "owned_count": 0
+   "source": "League of Comic Geeks"
   },
   {
    "arc": "The Trial of Jean Grey",
@@ -1723,8 +1723,8 @@
    "arc": "X-Men Divided We Stand",
    "slug": "x-men-divided-we-stand",
    "file": "x-men-divided-we-stand.json",
-   "issue_count": 40,
-   "owned_count": 12
+   "issue_count": 39,
+   "source": "League of Comic Geeks"
   },
   {
    "arc": "X-Men Endangered Species",
@@ -1738,7 +1738,7 @@
    "slug": "x-men-manifest-destiny",
    "file": "x-men-manifest-destiny.json",
    "issue_count": 35,
-   "owned_count": 4
+   "source": "League of Comic Geeks"
   },
   {
    "arc": "X-Men Messiah Complex",

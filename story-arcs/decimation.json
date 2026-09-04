@@ -1,432 +1,374 @@
 {
  "arc": "Decimation",
  "slug": "decimation",
- "issue_count": 53,
- "owned_count": 6,
+ "issue_count": 52,
+ "source": "League of Comic Geeks",
+ "source_url": "https://leagueofcomicgeeks.com/comics/event/14249/decimation",
+ "ordering": "publication order as curated by LoCG; roles are theirs",
  "entries": [
   {
    "order": 1,
-   "series": "Decimation: House of M - The Day After",
+   "series": "Decimation: House of M \u2013 The Day After",
    "issue": "1",
-   "volume": "2006",
-   "year": "2006",
-   "owned": false
+   "role": "CORE ISSUE",
+   "release_date": "Nov 9th, 2005"
   },
   {
    "order": 2,
-   "series": "Mutopia X",
-   "issue": "5",
-   "volume": "2005",
-   "year": "2006",
-   "owned": false
+   "series": "X-Men",
+   "issue": "177",
+   "role": "CORE ISSUE",
+   "release_date": "Nov 16th, 2005"
   },
   {
    "order": 3,
-   "series": "X-Men: The 198 Files",
-   "issue": "1",
-   "volume": "2006",
-   "year": "2006",
-   "owned": false
+   "series": "X-Men",
+   "issue": "178",
+   "role": "CORE ISSUE",
+   "release_date": "Nov 30th, 2005"
   },
   {
    "order": 4,
-   "series": "Sentinel Squad O*N*E",
-   "issue": "1",
-   "volume": "2006",
-   "year": "2006",
-   "owned": false
+   "series": "X-Men",
+   "issue": "179",
+   "role": "CORE ISSUE",
+   "release_date": "Dec 14th, 2005"
   },
   {
    "order": 5,
    "series": "Sentinel Squad O*N*E",
-   "issue": "2",
-   "volume": "2006",
-   "year": "2006",
-   "owned": false
+   "issue": "1",
+   "role": "TIE-IN",
+   "release_date": "Jan 18th, 2006"
   },
   {
    "order": 6,
    "series": "Sentinel Squad O*N*E",
-   "issue": "3",
-   "volume": "2006",
-   "year": "2006",
-   "owned": false
+   "issue": "2",
+   "role": "TIE-IN",
+   "release_date": "Feb 15th, 2006"
   },
   {
    "order": 7,
    "series": "Sentinel Squad O*N*E",
-   "issue": "4",
-   "volume": "2006",
-   "year": "2006",
-   "owned": false
+   "issue": "3",
+   "role": "TIE-IN",
+   "release_date": "Mar 8th, 2006"
   },
   {
    "order": 8,
    "series": "Sentinel Squad O*N*E",
-   "issue": "5",
-   "volume": "2006",
-   "year": "2006",
-   "owned": false
+   "issue": "4",
+   "role": "TIE-IN",
+   "release_date": "Apr 19th, 2006"
   },
   {
    "order": 9,
-   "series": "New Excalibur",
-   "issue": "1",
-   "volume": "2006",
-   "year": "2006",
-   "owned": false
+   "series": "Sentinel Squad O*N*E",
+   "issue": "5",
+   "role": "TIE-IN",
+   "release_date": "May 3rd, 2006"
   },
   {
    "order": 10,
-   "series": "New Excalibur",
-   "issue": "2",
-   "volume": "2006",
-   "year": "2006",
-   "owned": false
+   "series": "Mutopia X",
+   "issue": "5",
+   "role": "TIE-IN",
+   "release_date": "Nov 16th, 2005"
   },
   {
    "order": 11,
    "series": "New Excalibur",
-   "issue": "3",
-   "volume": "2006",
-   "year": "2006",
-   "owned": false
+   "issue": "1",
+   "role": "TIE-IN",
+   "release_date": "Nov 9th, 2005"
   },
   {
    "order": 12,
-   "series": "X-Men",
-   "issue": "177",
-   "volume": "2004",
-   "year": "2006",
-   "owned": false
+   "series": "New Excalibur",
+   "issue": "2",
+   "role": "TIE-IN",
+   "release_date": "Dec 7th, 2005"
   },
   {
    "order": 13,
-   "series": "X-Men",
-   "issue": "178",
-   "volume": "2004",
-   "year": "2006",
-   "owned": false
+   "series": "New Excalibur",
+   "issue": "3",
+   "role": "TIE-IN",
+   "release_date": "Jan 5th, 2006"
   },
   {
    "order": 14,
-   "series": "X-Men",
-   "issue": "179",
-   "volume": "2004",
-   "year": "2006",
-   "owned": false
+   "series": "Son of M",
+   "issue": "1",
+   "role": "TIE-IN",
+   "release_date": "Dec 14th, 2005"
   },
   {
    "order": 15,
-   "series": "New X-Men",
-   "issue": "20",
-   "volume": "2004",
-   "year": "2006",
-   "owned": false
+   "series": "Son of M",
+   "issue": "2",
+   "role": "TIE-IN",
+   "release_date": "Jan 11th, 2006"
   },
   {
    "order": 16,
-   "series": "New X-Men",
-   "issue": "21",
-   "volume": "2004",
-   "year": "2006",
-   "owned": false
+   "series": "Son of M",
+   "issue": "3",
+   "role": "TIE-IN",
+   "release_date": "Feb 8th, 2006"
   },
   {
    "order": 17,
-   "series": "New X-Men",
-   "issue": "22",
-   "volume": "2004",
-   "year": "2006",
-   "owned": false
+   "series": "Son of M",
+   "issue": "4",
+   "role": "TIE-IN",
+   "release_date": "Mar 8th, 2006"
   },
   {
    "order": 18,
-   "series": "New X-Men",
-   "issue": "23",
-   "volume": "2004",
-   "year": "2006",
-   "owned": false
+   "series": "Son of M",
+   "issue": "5",
+   "role": "TIE-IN",
+   "release_date": "Apr 12th, 2006"
   },
   {
    "order": 19,
-   "series": "Generation M",
-   "issue": "1",
-   "volume": "2006",
-   "year": "2006",
-   "owned": false
+   "series": "Son of M",
+   "issue": "6",
+   "role": "TIE-IN",
+   "release_date": "May 31st, 2006"
   },
   {
    "order": 20,
-   "series": "Generation M",
-   "issue": "2",
-   "volume": "2006",
-   "year": "2006",
-   "owned": false
+   "series": "X-Men: The 198",
+   "issue": "1",
+   "role": "TIE-IN",
+   "release_date": "Jan 11th, 2006"
   },
   {
    "order": 21,
-   "series": "Generation M",
-   "issue": "3",
-   "volume": "2006",
-   "year": "2006",
-   "owned": false
+   "series": "X-Men: The 198",
+   "issue": "2",
+   "role": "TIE-IN",
+   "release_date": "Feb 8th, 2006"
   },
   {
    "order": 22,
-   "series": "Generation M",
-   "issue": "4",
-   "volume": "2006",
-   "year": "2006",
-   "owned": false
+   "series": "X-Men: The 198",
+   "issue": "3",
+   "role": "TIE-IN",
+   "release_date": "Mar 8th, 2006"
   },
   {
    "order": 23,
-   "series": "Generation M",
-   "issue": "5",
-   "volume": "2006",
-   "year": "2006",
-   "owned": false
+   "series": "X-Men: The 198",
+   "issue": "4",
+   "role": "TIE-IN",
+   "release_date": "Apr 12th, 2006"
   },
   {
    "order": 24,
-   "series": "Son of M",
-   "issue": "1",
-   "volume": "2006",
-   "year": "2006",
-   "owned": false
+   "series": "X-Men: The 198",
+   "issue": "5",
+   "role": "TIE-IN",
+   "release_date": "May 10th, 2006"
   },
   {
    "order": 25,
-   "series": "Son of M",
-   "issue": "2",
-   "volume": "2006",
-   "year": "2006",
-   "owned": false
+   "series": "X-Men: Deadly Genesis",
+   "issue": "1",
+   "role": "TIE-IN",
+   "release_date": "Nov 16th, 2005"
   },
   {
    "order": 26,
-   "series": "Son of M",
-   "issue": "3",
-   "volume": "2006",
-   "year": "2006",
-   "owned": false
+   "series": "X-Men: Deadly Genesis",
+   "issue": "2",
+   "role": "TIE-IN",
+   "release_date": "Dec 21st, 2005"
   },
   {
    "order": 27,
-   "series": "Son of M",
-   "issue": "4",
-   "volume": "2006",
-   "year": "2006",
-   "owned": false
+   "series": "X-Men: Deadly Genesis",
+   "issue": "3",
+   "role": "TIE-IN",
+   "release_date": "Jan 25th, 2006"
   },
   {
    "order": 28,
-   "series": "Son of M",
-   "issue": "5",
-   "volume": "2006",
-   "year": "2006",
-   "owned": false
+   "series": "X-Men: Deadly Genesis",
+   "issue": "4",
+   "role": "TIE-IN",
+   "release_date": "Feb 15th, 2006"
   },
   {
    "order": 29,
-   "series": "Son of M",
-   "issue": "6",
-   "volume": "2006",
-   "year": "2006",
-   "owned": false
+   "series": "X-Men: Deadly Genesis",
+   "issue": "5",
+   "role": "TIE-IN",
+   "release_date": "Mar 15th, 2006"
   },
   {
    "order": 30,
-   "series": "X-Men: The 198",
-   "issue": "1",
-   "volume": "2006",
-   "year": "2006",
-   "owned": false
+   "series": "X-Men: Deadly Genesis",
+   "issue": "6",
+   "role": "TIE-IN",
+   "release_date": "May 17th, 2006"
   },
   {
    "order": 31,
-   "series": "X-Men: The 198",
-   "issue": "2",
-   "volume": "2006",
-   "year": "2006",
-   "owned": false
+   "series": "Generation M",
+   "issue": "1",
+   "role": "TIE-IN",
+   "release_date": "Nov 30th, 2005"
   },
   {
    "order": 32,
-   "series": "X-Men: The 198",
-   "issue": "3",
-   "volume": "2006",
-   "year": "2006",
-   "owned": false
+   "series": "Generation M",
+   "issue": "2",
+   "role": "TIE-IN",
+   "release_date": "Dec 21st, 2005"
   },
   {
    "order": 33,
-   "series": "X-Men: The 198",
-   "issue": "4",
-   "volume": "2006",
-   "year": "2006",
-   "owned": false
+   "series": "Generation M",
+   "issue": "3",
+   "role": "TIE-IN",
+   "release_date": "Jan 18th, 2006"
   },
   {
    "order": 34,
-   "series": "X-Men: The 198",
-   "issue": "5",
-   "volume": "2006",
-   "year": "2006",
-   "owned": false
+   "series": "Generation M",
+   "issue": "4",
+   "role": "TIE-IN",
+   "release_date": "Feb 15th, 2006"
   },
   {
    "order": 35,
-   "series": "X-Men: Deadly Genesis",
-   "issue": "1",
-   "volume": "2006",
-   "year": "2006",
-   "owned": false
+   "series": "Generation M",
+   "issue": "5",
+   "role": "TIE-IN",
+   "release_date": "Mar 15th, 2006"
   },
   {
    "order": 36,
-   "series": "X-Men: Deadly Genesis",
-   "issue": "2",
-   "volume": "2006",
-   "year": "2006",
-   "owned": false
+   "series": "Uncanny X-Men",
+   "issue": "466",
+   "role": "TIE-IN",
+   "release_date": "Nov 23rd, 2005"
   },
   {
    "order": 37,
-   "series": "X-Men: Deadly Genesis",
-   "issue": "3",
-   "volume": "2006",
-   "year": "2006",
-   "owned": false
+   "series": "Uncanny X-Men",
+   "issue": "467",
+   "role": "TIE-IN",
+   "release_date": "Dec 14th, 2005"
   },
   {
    "order": 38,
-   "series": "X-Men: Deadly Genesis",
-   "issue": "4",
-   "volume": "2006",
-   "year": "2006",
-   "owned": false
+   "series": "Uncanny X-Men",
+   "issue": "468",
+   "role": "TIE-IN",
+   "release_date": "Jan 18th, 2006"
   },
   {
    "order": 39,
-   "series": "X-Men: Deadly Genesis",
-   "issue": "5",
-   "volume": "2006",
-   "year": "2006",
-   "owned": false
+   "series": "X-Factor",
+   "issue": "1",
+   "role": "TIE-IN",
+   "release_date": "Dec 14th, 2005"
   },
   {
    "order": 40,
-   "series": "X-Men: Deadly Genesis",
-   "issue": "6",
-   "volume": "2006",
-   "year": "2006",
-   "owned": false
+   "series": "X-Factor",
+   "issue": "2",
+   "role": "TIE-IN",
+   "release_date": "Dec 28th, 2005"
   },
   {
    "order": 41,
-   "series": "Wolverine",
-   "issue": "36",
-   "volume": "2003",
-   "year": "2006",
-   "owned": true
+   "series": "X-Factor",
+   "issue": "3",
+   "role": "TIE-IN",
+   "release_date": "Feb 1st, 2006"
   },
   {
    "order": 42,
-   "series": "Wolverine",
-   "issue": "37",
-   "volume": "2003",
-   "year": "2006",
-   "owned": true
+   "series": "X-Factor",
+   "issue": "4",
+   "role": "TIE-IN",
+   "release_date": "Mar 1st, 2006"
   },
   {
    "order": 43,
-   "series": "Wolverine",
-   "issue": "38",
-   "volume": "2003",
-   "year": "2006",
-   "owned": true
+   "series": "X-Men Unlimited",
+   "issue": "13",
+   "role": "TIE-IN",
+   "release_date": "Feb 8th, 2006"
   },
   {
    "order": 44,
    "series": "Wolverine",
-   "issue": "39",
-   "volume": "2003",
-   "year": "2006",
-   "owned": true
+   "issue": "36",
+   "role": "TIE-IN",
+   "release_date": "Nov 30th, 2005"
   },
   {
    "order": 45,
    "series": "Wolverine",
-   "issue": "40",
-   "volume": "2003",
-   "year": "2006",
-   "owned": true
+   "issue": "37",
+   "role": "TIE-IN",
+   "release_date": "Dec 28th, 2005"
   },
   {
    "order": 46,
-   "series": "The Uncanny X-Men",
-   "issue": "466",
-   "volume": "1981",
-   "year": "2006",
-   "owned": false
+   "series": "Wolverine",
+   "issue": "38",
+   "role": "TIE-IN",
+   "release_date": "Jan 25th, 2006"
   },
   {
    "order": 47,
-   "series": "The Uncanny X-Men",
-   "issue": "467",
-   "volume": "1981",
-   "year": "2006",
-   "owned": false
+   "series": "Wolverine",
+   "issue": "39",
+   "role": "TIE-IN",
+   "release_date": "Feb 22nd, 2006"
   },
   {
    "order": 48,
-   "series": "The Uncanny X-Men",
-   "issue": "468",
-   "volume": "1981",
-   "year": "2006",
-   "owned": false
+   "series": "Wolverine",
+   "issue": "40",
+   "role": "TIE-IN",
+   "release_date": "Mar 22nd, 2006"
   },
   {
    "order": 49,
-   "series": "X-Factor",
-   "issue": "1",
-   "volume": "2006",
-   "year": "2006",
-   "owned": true
+   "series": "New X-Men",
+   "issue": "20",
+   "role": "TIE-IN",
+   "release_date": "Nov 9th, 2005"
   },
   {
    "order": 50,
-   "series": "X-Factor",
-   "issue": "2",
-   "volume": "2006",
-   "year": "2006",
-   "owned": false
+   "series": "New X-Men",
+   "issue": "21",
+   "role": "TIE-IN",
+   "release_date": "Dec 14th, 2005"
   },
   {
    "order": 51,
-   "series": "X-Factor",
-   "issue": "3",
-   "volume": "2006",
-   "year": "2006",
-   "owned": false
+   "series": "New X-Men",
+   "issue": "22",
+   "role": "TIE-IN",
+   "release_date": "Jan 11th, 2006"
   },
   {
    "order": 52,
-   "series": "X-Factor",
-   "issue": "4",
-   "volume": "2006",
-   "year": "2006",
-   "owned": false
-  },
-  {
-   "order": 53,
-   "series": "X-Men Unlimited",
-   "issue": "13",
-   "volume": "2004",
-   "year": "2006",
-   "owned": false
+   "series": "New X-Men",
+   "issue": "23",
+   "role": "TIE-IN",
+   "release_date": "Feb 22nd, 2006"
   }
  ]
 }

@@ -1,344 +1,241 @@
 {
  "arc": "Age of X-Man",
  "slug": "age-of-x-man",
- "issue_count": 42,
- "owned_count": 10,
+ "issue_count": 33,
+ "source": "League of Comic Geeks",
+ "source_url": "https://leagueofcomicgeeks.com/comics/event/14646/age-of-x-man",
+ "ordering": "publication order as curated by LoCG; roles are theirs",
  "entries": [
   {
    "order": 1,
    "series": "Uncanny X-Men",
-   "issue": "1",
-   "volume": "2018",
-   "year": "2019",
-   "owned": true
+   "issue": "10",
+   "role": "PROLOGUE",
+   "release_date": "Jan 16th, 2019"
   },
   {
    "order": 2,
-   "series": "Uncanny X-Men",
-   "issue": "2",
-   "volume": "2018",
-   "year": "2019",
-   "owned": true
+   "series": "Age of X-Man: Alpha",
+   "issue": "1",
+   "role": "CORE ISSUE",
+   "release_date": "Jan 30th, 2019"
   },
   {
    "order": 3,
-   "series": "Uncanny X-Men",
-   "issue": "3",
-   "volume": "2018",
-   "year": "2019",
-   "owned": true
+   "series": "Age of X-Man: The Marvelous X-Men",
+   "issue": "1",
+   "role": "CORE ISSUE",
+   "release_date": "Feb 6th, 2019"
   },
   {
    "order": 4,
-   "series": "Uncanny X-Men",
-   "issue": "4",
-   "volume": "2018",
-   "year": "2019",
-   "owned": true
+   "series": "Age of X-Man: Nextgen",
+   "issue": "1",
+   "role": "TIE-IN",
+   "release_date": "Feb 13th, 2019"
   },
   {
    "order": 5,
-   "series": "Uncanny X-Men",
-   "issue": "5",
-   "volume": "2018",
-   "year": "2019",
-   "owned": true
+   "series": "Age of X-Man: The Amazing Nightcrawler",
+   "issue": "1",
+   "role": "TIE-IN",
+   "release_date": "Feb 20th, 2019"
   },
   {
    "order": 6,
-   "series": "Uncanny X-Men",
-   "issue": "6",
-   "volume": "2018",
-   "year": "2019",
-   "owned": true
+   "series": "Age of X-Man: X-Tremists",
+   "issue": "1",
+   "role": "TIE-IN",
+   "release_date": "Feb 27th, 2019"
   },
   {
    "order": 7,
-   "series": "Uncanny X-Men",
-   "issue": "7",
-   "volume": "2018",
-   "year": "2019",
-   "owned": true
+   "series": "Age of X-Man: Prisoner X",
+   "issue": "1",
+   "role": "TIE-IN",
+   "release_date": "Mar 6th, 2019"
   },
   {
    "order": 8,
-   "series": "Uncanny X-Men",
-   "issue": "8",
-   "volume": "2018",
-   "year": "2019",
-   "owned": true
+   "series": "Age of X-Man: Apocalypse and the X-Tracts",
+   "issue": "1",
+   "role": "TIE-IN",
+   "release_date": "Mar 13th, 2019"
   },
   {
    "order": 9,
-   "series": "Uncanny X-Men",
-   "issue": "9",
-   "volume": "2018",
-   "year": "2019",
-   "owned": true
+   "series": "Age of X-Man: The Marvelous X-Men",
+   "issue": "2",
+   "role": "CORE ISSUE",
+   "release_date": "Mar 13th, 2019"
   },
   {
    "order": 10,
-   "series": "Uncanny X-Men",
-   "issue": "10",
-   "volume": "2018",
-   "year": "2019",
-   "owned": true
+   "series": "Age of X-Man: Nextgen",
+   "issue": "2",
+   "role": "TIE-IN",
+   "release_date": "Mar 20th, 2019"
   },
   {
    "order": 11,
-   "series": "Age of X-Man Alpha",
-   "issue": "1",
-   "volume": "2019",
-   "year": "2019",
-   "owned": false
+   "series": "Age of X-Man: The Amazing Nightcrawler",
+   "issue": "2",
+   "role": "TIE-IN",
+   "release_date": "Mar 20th, 2019"
   },
   {
    "order": 12,
-   "series": "Age of X-Man: The Marvelous X-Men",
-   "issue": "1",
-   "volume": "2019",
-   "year": "2019",
-   "owned": false
+   "series": "Age of X-Man: X-Tremists",
+   "issue": "2",
+   "role": "TIE-IN",
+   "release_date": "Mar 27th, 2019"
   },
   {
    "order": 13,
-   "series": "Age of X-Man: NextGen",
-   "issue": "1",
-   "volume": "2019",
-   "year": "2019",
-   "owned": false
+   "series": "Age of X-Man: Prisoner X",
+   "issue": "2",
+   "role": "TIE-IN",
+   "release_date": "Apr 3rd, 2019"
   },
   {
    "order": 14,
-   "series": "Age of X-Man: The Amazing Nightcrawler",
-   "issue": "1",
-   "volume": "2019",
-   "year": "2019",
-   "owned": false
+   "series": "Age of X-Man: Apocalypse and the X-Tracts",
+   "issue": "2",
+   "role": "TIE-IN",
+   "release_date": "Apr 10th, 2019"
   },
   {
    "order": 15,
-   "series": "Age of X-Man: X-Tremists",
-   "issue": "1",
-   "volume": "2019",
-   "year": "2019",
-   "owned": false
+   "series": "Age of X-Man: The Marvelous X-Men",
+   "issue": "3",
+   "role": "CORE ISSUE",
+   "release_date": "Apr 10th, 2019"
   },
   {
    "order": 16,
-   "series": "Age of X-Man: Prisoner X",
-   "issue": "1",
-   "volume": "2019",
-   "year": "2019",
-   "owned": false
+   "series": "Age of X-Man: Nextgen",
+   "issue": "3",
+   "role": "TIE-IN",
+   "release_date": "Apr 17th, 2019"
   },
   {
    "order": 17,
-   "series": "Age of X-Man: Apocalypse and the X-Tracts",
-   "issue": "1",
-   "volume": "2019",
-   "year": "2019",
-   "owned": false
+   "series": "Age of X-Man: The Amazing Nightcrawler",
+   "issue": "3",
+   "role": "TIE-IN",
+   "release_date": "Apr 17th, 2019"
   },
   {
    "order": 18,
-   "series": "Age of X-Man: The Marvelous X-Men",
-   "issue": "2",
-   "volume": "2019",
-   "year": "2019",
-   "owned": false
+   "series": "Age of X-Man: X-Tremists",
+   "issue": "3",
+   "role": "TIE-IN",
+   "release_date": "Apr 24th, 2019"
   },
   {
    "order": 19,
-   "series": "Age of X-Man: The Marvelous X-Men",
+   "series": "Age of X-Man: Prisoner X",
    "issue": "3",
-   "volume": "2019",
-   "year": "2019",
-   "owned": false
+   "role": "TIE-IN",
+   "release_date": "May 1st, 2019"
   },
   {
    "order": 20,
-   "series": "Age of X-Man: The Marvelous X-Men",
-   "issue": "4",
-   "volume": "2019",
-   "year": "2019",
-   "owned": false
+   "series": "Age of X-Man: Apocalypse and the X-Tracts",
+   "issue": "3",
+   "role": "TIE-IN",
+   "release_date": "May 8th, 2019"
   },
   {
    "order": 21,
    "series": "Age of X-Man: The Marvelous X-Men",
-   "issue": "5",
-   "volume": "2019",
-   "year": "2019",
-   "owned": false
+   "issue": "4",
+   "role": "CORE ISSUE",
+   "release_date": "May 15th, 2019"
   },
   {
    "order": 22,
-   "series": "Age of X-Man: NextGen",
-   "issue": "2",
-   "volume": "2019",
-   "year": "2019",
-   "owned": false
+   "series": "Age of X-Man: Nextgen",
+   "issue": "4",
+   "role": "TIE-IN",
+   "release_date": "May 15th, 2019"
   },
   {
    "order": 23,
-   "series": "Age of X-Man: NextGen",
-   "issue": "3",
-   "volume": "2019",
-   "year": "2019",
-   "owned": false
+   "series": "Age of X-Man: The Amazing Nightcrawler",
+   "issue": "4",
+   "role": "TIE-IN",
+   "release_date": "May 22nd, 2019"
   },
   {
    "order": 24,
-   "series": "Age of X-Man: NextGen",
+   "series": "Age of X-Man: X-Tremists",
    "issue": "4",
-   "volume": "2019",
-   "year": "2019",
-   "owned": false
+   "role": "TIE-IN",
+   "release_date": "May 29th, 2019"
   },
   {
    "order": 25,
-   "series": "Age of X-Man: NextGen",
-   "issue": "5",
-   "volume": "2019",
-   "year": "2019",
-   "owned": false
+   "series": "Age of X-Man: Prisoner X",
+   "issue": "4",
+   "role": "TIE-IN",
+   "release_date": "Jun 5th, 2019"
   },
   {
    "order": 26,
-   "series": "Age of X-Man: The Amazing Nightcrawler",
-   "issue": "2",
-   "volume": "2019",
-   "year": "2019",
-   "owned": false
+   "series": "Age of X-Man: Apocalypse and the X-Tracts",
+   "issue": "4",
+   "role": "TIE-IN",
+   "release_date": "Jun 12th, 2019"
   },
   {
    "order": 27,
-   "series": "Age of X-Man: The Amazing Nightcrawler",
-   "issue": "3",
-   "volume": "2019",
-   "year": "2019",
-   "owned": false
+   "series": "Age of X-Man: The Marvelous X-Men",
+   "issue": "5",
+   "role": "CORE ISSUE",
+   "release_date": "Jun 12th, 2019"
   },
   {
    "order": 28,
-   "series": "Age of X-Man: The Amazing Nightcrawler",
-   "issue": "4",
-   "volume": "2019",
-   "year": "2019",
-   "owned": false
+   "series": "Age of X-Man: Nextgen",
+   "issue": "5",
+   "role": "TIE-IN",
+   "release_date": "Jun 19th, 2019"
   },
   {
    "order": 29,
    "series": "Age of X-Man: The Amazing Nightcrawler",
    "issue": "5",
-   "volume": "2019",
-   "year": "2019",
-   "owned": false
+   "role": "TIE-IN",
+   "release_date": "Jun 19th, 2019"
   },
   {
    "order": 30,
    "series": "Age of X-Man: X-Tremists",
-   "issue": "2",
-   "volume": "2019",
-   "year": "2019",
-   "owned": false
+   "issue": "5",
+   "role": "TIE-IN",
+   "release_date": "Jun 26th, 2019"
   },
   {
    "order": 31,
-   "series": "Age of X-Man: X-Tremists",
-   "issue": "3",
-   "volume": "2019",
-   "year": "2019",
-   "owned": false
+   "series": "Age of X-Man: Prisoner X",
+   "issue": "5",
+   "role": "TIE-IN",
+   "release_date": "Jul 3rd, 2019"
   },
   {
    "order": 32,
-   "series": "Age of X-Man: X-Tremists",
-   "issue": "4",
-   "volume": "2019",
-   "year": "2019",
-   "owned": false
+   "series": "Age of X-Man: Apocalypse and the X-Tracts",
+   "issue": "5",
+   "role": "TIE-IN",
+   "release_date": "Jul 10th, 2019"
   },
   {
    "order": 33,
-   "series": "Age of X-Man: X-Tremists",
-   "issue": "5",
-   "volume": "2019",
-   "year": "2019",
-   "owned": false
-  },
-  {
-   "order": 34,
-   "series": "Age of X-Man: Prisoner X",
-   "issue": "2",
-   "volume": "2019",
-   "year": "2019",
-   "owned": false
-  },
-  {
-   "order": 35,
-   "series": "Age of X-Man: Prisoner X",
-   "issue": "3",
-   "volume": "2019",
-   "year": "2019",
-   "owned": false
-  },
-  {
-   "order": 36,
-   "series": "Age of X-Man: Prisoner X",
-   "issue": "4",
-   "volume": "2019",
-   "year": "2019",
-   "owned": false
-  },
-  {
-   "order": 37,
-   "series": "Age of X-Man: Prisoner X",
-   "issue": "5",
-   "volume": "2019",
-   "year": "2019",
-   "owned": false
-  },
-  {
-   "order": 38,
-   "series": "Age of X-Man: Apocalypse and the X-Tracts",
-   "issue": "2",
-   "volume": "2019",
-   "year": "2019",
-   "owned": false
-  },
-  {
-   "order": 39,
-   "series": "Age of X-Man: Apocalypse and the X-Tracts",
-   "issue": "3",
-   "volume": "2019",
-   "year": "2019",
-   "owned": false
-  },
-  {
-   "order": 40,
-   "series": "Age of X-Man: Apocalypse and the X-Tracts",
-   "issue": "4",
-   "volume": "2019",
-   "year": "2019",
-   "owned": false
-  },
-  {
-   "order": 41,
-   "series": "Age of X-Man: Apocalypse and the X-Tracts",
-   "issue": "5",
-   "volume": "2019",
-   "year": "2019",
-   "owned": false
-  },
-  {
-   "order": 42,
-   "series": "Age of X-Man Omega",
+   "series": "Age of X-Man: Omega",
    "issue": "1",
-   "volume": "2019",
-   "year": "2019",
-   "owned": false
+   "role": "CORE ISSUE",
+   "release_date": "Jul 17th, 2019"
   }
  ]
 }

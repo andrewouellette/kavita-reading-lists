@@ -1,472 +1,479 @@
 {
  "arc": "Original Sin",
  "slug": "original-sin",
- "issue_count": 58,
- "owned_count": 17,
+ "issue_count": 67,
+ "source": "League of Comic Geeks",
+ "source_url": "https://leagueofcomicgeeks.com/comics/event/14297/original-sin",
+ "ordering": "publication order as curated by LoCG; roles are theirs",
  "entries": [
   {
    "order": 1,
    "series": "Original Sin",
    "issue": "0",
-   "volume": "2014",
-   "year": "2014",
-   "owned": false
+   "role": "CORE ISSUE",
+   "release_date": "Apr 23rd, 2014"
   },
   {
    "order": 2,
    "series": "Original Sin",
    "issue": "1",
-   "volume": "2014",
-   "year": "2014",
-   "owned": false
+   "role": "CORE ISSUE",
+   "release_date": "May 7th, 2014"
   },
   {
    "order": 3,
    "series": "Mighty Avengers",
    "issue": "10",
-   "volume": "2013",
-   "year": "2014",
-   "owned": false
+   "role": "TIE-IN",
+   "release_date": "May 28th, 2014"
   },
   {
    "order": 4,
    "series": "Original Sin",
    "issue": "2",
-   "volume": "2014",
-   "year": "2014",
-   "owned": false
+   "role": "CORE ISSUE",
+   "release_date": "May 21st, 2014"
   },
   {
    "order": 5,
    "series": "Nova",
    "issue": "18",
-   "volume": "2013",
-   "year": "2014",
-   "owned": false
+   "role": "TIE-IN",
+   "release_date": "Jun 18th, 2014"
   },
   {
    "order": 6,
-   "series": "Fantastic Four",
-   "issue": "6",
-   "volume": "2014",
-   "year": "2014",
-   "owned": true
+   "series": "Original Sin",
+   "issue": "3.1",
+   "role": "TIE-IN",
+   "release_date": "Jun 25th, 2014"
   },
   {
    "order": 7,
-   "series": "Fantastic Four",
-   "issue": "7",
-   "volume": "2014",
-   "year": "2014",
-   "owned": true
+   "series": "Original Sin",
+   "issue": "3.2",
+   "role": "TIE-IN",
+   "release_date": "Jul 16th, 2014"
   },
   {
    "order": 8,
-   "series": "Fantastic Four",
-   "issue": "8",
-   "volume": "2014",
-   "year": "2014",
-   "owned": true
+   "series": "Original Sin",
+   "issue": "3.3",
+   "role": "TIE-IN",
+   "release_date": "Jul 30th, 2014"
   },
   {
    "order": 9,
-   "series": "Original Sin: Secret Avengers Infinite Comic",
-   "issue": "1",
-   "volume": "2014",
-   "year": "2014",
-   "owned": false
+   "series": "Original Sin",
+   "issue": "3.4",
+   "role": "TIE-IN",
+   "release_date": "Aug 6th, 2014"
   },
   {
    "order": 10,
-   "series": "Original Sin: Secret Avengers Infinite Comic",
-   "issue": "2",
-   "volume": "2014",
-   "year": "2014",
-   "owned": false
+   "series": "Fantastic Four",
+   "issue": "6",
+   "role": "TIE-IN",
+   "release_date": "Jun 25th, 2014"
   },
   {
    "order": 11,
-   "series": "The Amazing Spider-Man",
-   "issue": "4",
-   "volume": "2014",
-   "year": "2014",
-   "owned": true
+   "series": "Fantastic Four",
+   "issue": "7",
+   "role": "TIE-IN",
+   "release_date": "Jul 9th, 2014"
   },
   {
    "order": 12,
-   "series": "The Amazing Spider-Man",
-   "issue": "5",
-   "volume": "2014",
-   "year": "2014",
-   "owned": true
+   "series": "Fantastic Four",
+   "issue": "8",
+   "role": "TIE-IN",
+   "release_date": "Aug 13th, 2014"
   },
   {
    "order": 13,
-   "series": "The Amazing Spider-Man",
-   "issue": "6",
-   "volume": "2014",
-   "year": "2014",
-   "owned": true
+   "series": "Original Sin: Secret Avengers Infinite Comic",
+   "issue": "1",
+   "role": "TIE-IN",
+   "release_date": "May 21st, 2014"
   },
   {
    "order": 14,
-   "series": "Mighty Avengers",
-   "issue": "11",
-   "volume": "2013",
-   "year": "2014",
-   "owned": false
+   "series": "Original Sin: Secret Avengers Infinite Comic",
+   "issue": "2",
+   "role": "TIE-IN",
+   "release_date": "Jun 4th, 2014"
   },
   {
    "order": 15,
-   "series": "Mighty Avengers",
-   "issue": "12",
-   "volume": "2013",
-   "year": "2014",
-   "owned": false
+   "series": "Original Sin",
+   "issue": "5.1",
+   "role": "TIE-IN",
+   "release_date": "Jul 9th, 2014"
   },
   {
    "order": 16,
-   "series": "Mighty Avengers",
-   "issue": "13",
-   "volume": "2013",
-   "year": "2014",
-   "owned": false
+   "series": "Original Sin",
+   "issue": "5.2",
+   "role": "TIE-IN",
+   "release_date": "Jul 23rd, 2014"
   },
   {
    "order": 17,
-   "series": "Mighty Avengers",
-   "issue": "14",
-   "volume": "2013",
-   "year": "2014",
-   "owned": false
+   "series": "Original Sin",
+   "issue": "5.3",
+   "role": "TIE-IN",
+   "release_date": "Aug 6th, 2014"
   },
   {
    "order": 18,
-   "series": "Daredevil",
-   "issue": "6",
-   "volume": "2014",
-   "year": "2014",
-   "owned": true
+   "series": "Original Sin",
+   "issue": "5.4",
+   "role": "TIE-IN",
+   "release_date": "Aug 27th, 2014"
   },
   {
    "order": 19,
-   "series": "Daredevil",
-   "issue": "7",
-   "volume": "2014",
-   "year": "2014",
-   "owned": false
+   "series": "Original Sin",
+   "issue": "5.5",
+   "role": "TIE-IN",
+   "release_date": "Sep 17th, 2014"
   },
   {
    "order": 20,
-   "series": "Deadpool",
-   "issue": "29",
-   "volume": "2012",
-   "year": "2014",
-   "owned": false
+   "series": "The Amazing Spider-Man",
+   "issue": "4",
+   "role": "TIE-IN",
+   "release_date": "Jul 23rd, 2014"
   },
   {
    "order": 21,
-   "series": "Deadpool",
-   "issue": "30",
-   "volume": "2012",
-   "year": "2014",
-   "owned": false
+   "series": "The Amazing Spider-Man",
+   "issue": "5",
+   "role": "TIE-IN",
+   "release_date": "Aug 13th, 2014"
   },
   {
    "order": 22,
-   "series": "Deadpool",
-   "issue": "31",
-   "volume": "2012",
-   "year": "2014",
-   "owned": false
+   "series": "The Amazing Spider-Man",
+   "issue": "6",
+   "role": "TIE-IN",
+   "release_date": "Sep 10th, 2014"
   },
   {
    "order": 23,
-   "series": "Deadpool",
-   "issue": "32",
-   "volume": "2012",
-   "year": "2014",
-   "owned": false
+   "series": "Mighty Avengers",
+   "issue": "11",
+   "role": "TIE-IN",
+   "release_date": "Jun 11th, 2014"
   },
   {
    "order": 24,
-   "series": "Deadpool",
-   "issue": "33",
-   "volume": "2012",
-   "year": "2014",
-   "owned": false
+   "series": "Mighty Avengers",
+   "issue": "12",
+   "role": "TIE-IN",
+   "release_date": "Jul 23rd, 2014"
   },
   {
    "order": 25,
-   "series": "Deadpool",
-   "issue": "34",
-   "volume": "2012",
-   "year": "2014",
-   "owned": false
+   "series": "Mighty Avengers",
+   "issue": "13",
+   "role": "TIE-IN",
+   "release_date": "Aug 20th, 2014"
   },
   {
    "order": 26,
-   "series": "Original Sin",
-   "issue": "3",
-   "volume": "2014",
-   "year": "2014",
-   "owned": false
+   "series": "Mighty Avengers",
+   "issue": "14",
+   "role": "TIE-IN",
+   "release_date": "Sep 24th, 2014"
   },
   {
    "order": 27,
-   "series": "Original Sins",
-   "issue": "1",
-   "volume": "2014",
-   "year": "2014",
-   "owned": false
+   "series": "Daredevil",
+   "issue": "6",
+   "role": "TIE-IN",
+   "release_date": "Jul 23rd, 2014"
   },
   {
    "order": 28,
-   "series": "Original Sins",
-   "issue": "2",
-   "volume": "2014",
-   "year": "2014",
-   "owned": false
+   "series": "Daredevil",
+   "issue": "7",
+   "role": "TIE-IN",
+   "release_date": "Aug 20th, 2014"
   },
   {
    "order": 29,
-   "series": "Original Sins",
-   "issue": "3",
-   "volume": "2014",
-   "year": "2014",
-   "owned": false
+   "series": "Deadpool",
+   "issue": "29",
+   "role": "TIE-IN",
+   "release_date": "May 28th, 2014"
   },
   {
    "order": 30,
-   "series": "Original Sins",
-   "issue": "4",
-   "volume": "2014",
-   "year": "2014",
-   "owned": false
+   "series": "Deadpool",
+   "issue": "30",
+   "role": "TIE-IN",
+   "release_date": "Jun 11th, 2014"
   },
   {
    "order": 31,
-   "series": "Nova",
-   "issue": "19",
-   "volume": "2013",
-   "year": "2014",
-   "owned": false
+   "series": "Deadpool",
+   "issue": "31",
+   "role": "TIE-IN",
+   "release_date": "Jul 9th, 2014"
   },
   {
    "order": 32,
-   "series": "Nova",
-   "issue": "20",
-   "volume": "2013",
-   "year": "2014",
-   "owned": true
+   "series": "Deadpool",
+   "issue": "32",
+   "role": "TIE-IN",
+   "release_date": "Jul 23rd, 2014"
   },
   {
    "order": 33,
-   "series": "Original Sin",
-   "issue": "4",
-   "volume": "2014",
-   "year": "2014",
-   "owned": false
+   "series": "Deadpool",
+   "issue": "33",
+   "role": "TIE-IN",
+   "release_date": "Aug 13th, 2014"
   },
   {
    "order": 34,
-   "series": "Original Sin",
-   "issue": "5",
-   "volume": "2014",
-   "year": "2014",
-   "owned": false
+   "series": "Deadpool",
+   "issue": "34",
+   "role": "TIE-IN",
+   "release_date": "Sep 10th, 2014"
   },
   {
    "order": 35,
    "series": "Original Sin",
-   "issue": "6",
-   "volume": "2014",
-   "year": "2014",
-   "owned": false
+   "issue": "3",
+   "role": "CORE ISSUE",
+   "release_date": "Jun 4th, 2014"
   },
   {
    "order": 36,
    "series": "Original Sins",
-   "issue": "5",
-   "volume": "2014",
-   "year": "2014",
-   "owned": false
+   "issue": "1",
+   "role": "TIE-IN",
+   "release_date": "Jun 11th, 2014"
   },
   {
    "order": 37,
-   "series": "Original Sin",
-   "issue": "7",
-   "volume": "2014",
-   "year": "2014",
-   "owned": false
+   "series": "Original Sins",
+   "issue": "2",
+   "role": "TIE-IN",
+   "release_date": "Jun 25th, 2014"
   },
   {
    "order": 38,
-   "series": "Original Sin",
-   "issue": "8",
-   "volume": "2014",
-   "year": "2014",
-   "owned": false
+   "series": "Original Sins",
+   "issue": "3",
+   "role": "TIE-IN",
+   "release_date": "Jul 9th, 2014"
   },
   {
    "order": 39,
-   "series": "Original Sin Annual",
-   "issue": "1",
-   "volume": "2014",
-   "year": "2014",
-   "owned": false
+   "series": "Original Sins",
+   "issue": "4",
+   "role": "TIE-IN",
+   "release_date": "Jul 23rd, 2014"
   },
   {
    "order": 40,
-   "series": "All-New Invaders",
-   "issue": "6",
-   "volume": "2014",
-   "year": "2014",
-   "owned": false
+   "series": "Nova",
+   "issue": "19",
+   "role": "TIE-IN",
+   "release_date": "Jul 16th, 2014"
   },
   {
    "order": 41,
-   "series": "All-New Invaders",
-   "issue": "7",
-   "volume": "2014",
-   "year": "2014",
-   "owned": false
+   "series": "Nova",
+   "issue": "20",
+   "role": "TIE-IN",
+   "release_date": "Aug 20th, 2014"
   },
   {
    "order": 42,
-   "series": "Avengers",
-   "issue": "29",
-   "volume": "2012",
-   "year": "2014",
-   "owned": true
+   "series": "Original Sin",
+   "issue": "4",
+   "role": "CORE ISSUE",
+   "release_date": "Jun 18th, 2014"
   },
   {
    "order": 43,
-   "series": "Avengers",
-   "issue": "30",
-   "volume": "2012",
-   "year": "2014",
-   "owned": true
+   "series": "Original Sin",
+   "issue": "5",
+   "role": "CORE ISSUE",
+   "release_date": "Jul 2nd, 2014"
   },
   {
    "order": 44,
-   "series": "Avengers",
-   "issue": "31",
-   "volume": "2012",
-   "year": "2014",
-   "owned": true
+   "series": "Original Sin",
+   "issue": "6",
+   "role": "CORE ISSUE",
+   "release_date": "Jul 16th, 2014"
   },
   {
    "order": 45,
-   "series": "Avengers",
-   "issue": "32",
-   "volume": "2012",
-   "year": "2014",
-   "owned": true
+   "series": "Original Sins",
+   "issue": "5",
+   "role": "TIE-IN",
+   "release_date": "Aug 20th, 2014"
   },
   {
    "order": 46,
-   "series": "Avengers",
-   "issue": "33",
-   "volume": "2012",
-   "year": "2014",
-   "owned": true
+   "series": "Original Sin",
+   "issue": "7",
+   "role": "CORE ISSUE",
+   "release_date": "Aug 13th, 2014"
   },
   {
    "order": 47,
-   "series": "Avengers",
-   "issue": "34",
-   "volume": "2012",
-   "year": "2014",
-   "owned": false
+   "series": "Original Sin",
+   "issue": "8",
+   "role": "CORE ISSUE",
+   "release_date": "Sep 3rd, 2014"
   },
   {
    "order": 48,
-   "series": "Guardians of the Galaxy",
-   "issue": "18",
-   "volume": "2013",
-   "year": "2014",
-   "owned": true
+   "series": "Original Sin Annual",
+   "issue": "1",
+   "role": "TIE-IN",
+   "release_date": "Oct 15th, 2014"
   },
   {
    "order": 49,
-   "series": "Guardians of the Galaxy",
-   "issue": "19",
-   "volume": "2013",
-   "year": "2014",
-   "owned": false
+   "series": "All-New Invaders",
+   "issue": "6",
+   "role": "TIE-IN",
+   "release_date": "Jun 11th, 2014"
   },
   {
    "order": 50,
-   "series": "Guardians of the Galaxy",
-   "issue": "20",
-   "volume": "2013",
-   "year": "2014",
-   "owned": false
+   "series": "All-New Invaders",
+   "issue": "7",
+   "role": "TIE-IN",
+   "release_date": "Jul 9th, 2014"
   },
   {
    "order": 51,
-   "series": "Uncanny X-Men",
-   "issue": "23",
-   "volume": "2013",
-   "year": "2014",
-   "owned": true
+   "series": "Avengers",
+   "issue": "29",
+   "role": "TIE-IN",
+   "release_date": "May 14th, 2014"
   },
   {
    "order": 52,
-   "series": "Uncanny X-Men",
-   "issue": "24",
-   "volume": "2013",
-   "year": "2014",
-   "owned": true
+   "series": "Avengers",
+   "issue": "30",
+   "role": "TIE-IN",
+   "release_date": "May 28th, 2014"
   },
   {
    "order": 53,
-   "series": "Uncanny X-Men",
-   "issue": "25",
-   "volume": "2013",
-   "year": "2014",
-   "owned": true
+   "series": "Avengers",
+   "issue": "31",
+   "role": "TIE-IN",
+   "release_date": "Jun 18th, 2014"
   },
   {
    "order": 54,
-   "series": "Operation: S.I.N.",
-   "issue": "1",
-   "volume": "2015",
-   "year": "2015",
-   "owned": false
+   "series": "Avengers",
+   "issue": "32",
+   "role": "TIE-IN",
+   "release_date": "Jul 9th, 2014"
   },
   {
    "order": 55,
-   "series": "Operation: S.I.N.",
-   "issue": "2",
-   "volume": "2015",
-   "year": "2015",
-   "owned": false
+   "series": "Avengers",
+   "issue": "33",
+   "role": "TIE-IN",
+   "release_date": "Jul 30th, 2014"
   },
   {
    "order": 56,
-   "series": "Operation: S.I.N.",
-   "issue": "3",
-   "volume": "2015",
-   "year": "2015",
-   "owned": false
+   "series": "Avengers",
+   "issue": "34",
+   "role": "TIE-IN",
+   "release_date": "Aug 27th, 2014"
   },
   {
    "order": 57,
-   "series": "Operation: S.I.N.",
-   "issue": "4",
-   "volume": "2015",
-   "year": "2015",
-   "owned": false
+   "series": "Guardians of the Galaxy",
+   "issue": "18",
+   "role": "TIE-IN",
+   "release_date": "Aug 27th, 2014"
   },
   {
    "order": 58,
-   "series": "Operation: S.I.N.",
+   "series": "Guardians of the Galaxy",
+   "issue": "19",
+   "role": "TIE-IN",
+   "release_date": "Sep 24th, 2014"
+  },
+  {
+   "order": 59,
+   "series": "Guardians of the Galaxy",
+   "issue": "20",
+   "role": "TIE-IN",
+   "release_date": "Oct 29th, 2014"
+  },
+  {
+   "order": 60,
+   "series": "Uncanny X-Men",
+   "issue": "23",
+   "role": "TIE-IN",
+   "release_date": "Jul 16th, 2014"
+  },
+  {
+   "order": 61,
+   "series": "Uncanny X-Men",
+   "issue": "24",
+   "role": "TIE-IN",
+   "release_date": "Jul 30th, 2014"
+  },
+  {
+   "order": 62,
+   "series": "Uncanny X-Men",
+   "issue": "25",
+   "role": "TIE-IN",
+   "release_date": "Sep 3rd, 2014"
+  },
+  {
+   "order": 63,
+   "series": "Operation S.I.N.",
+   "issue": "1",
+   "role": "TIE-IN",
+   "release_date": "Jan 7th, 2015"
+  },
+  {
+   "order": 64,
+   "series": "Operation S.I.N.",
+   "issue": "2",
+   "role": "TIE-IN",
+   "release_date": "Feb 4th, 2015"
+  },
+  {
+   "order": 65,
+   "series": "Operation S.I.N.",
+   "issue": "3",
+   "role": "TIE-IN",
+   "release_date": "Mar 4th, 2015"
+  },
+  {
+   "order": 66,
+   "series": "Operation S.I.N.",
+   "issue": "4",
+   "role": "TIE-IN",
+   "release_date": "Apr 1st, 2015"
+  },
+  {
+   "order": 67,
+   "series": "Operation S.I.N.",
    "issue": "5",
-   "volume": "2015",
-   "year": "2015",
-   "owned": false
+   "role": "TIE-IN",
+   "release_date": "May 6th, 2015"
   }
  ]
 }

@@ -1,288 +1,255 @@
 {
- "arc": "X-Men Manifest Destiny",
+ "arc": "X-Men: Manifest Destiny",
  "slug": "x-men-manifest-destiny",
  "issue_count": 35,
- "owned_count": 4,
+ "source": "League of Comic Geeks",
+ "source_url": "https://leagueofcomicgeeks.com/comics/event/14392/x-men-manifest-destiny",
+ "ordering": "publication order as curated by LoCG; roles are theirs",
  "entries": [
   {
    "order": 1,
    "series": "Astonishing X-Men",
    "issue": "25",
-   "volume": "2004",
-   "year": "2008",
-   "owned": true
+   "role": "CORE ISSUE",
+   "release_date": "Jul 2nd, 2008"
   },
   {
    "order": 2,
    "series": "Astonishing X-Men",
    "issue": "26",
-   "volume": "2004",
-   "year": "2008",
-   "owned": true
+   "role": "CORE ISSUE",
+   "release_date": "Aug 13th, 2008"
   },
   {
    "order": 3,
    "series": "Astonishing X-Men",
    "issue": "27",
-   "volume": "2004",
-   "year": "2008",
-   "owned": false
+   "role": "CORE ISSUE",
+   "release_date": "Oct 15th, 2008"
   },
   {
    "order": 4,
    "series": "Astonishing X-Men",
    "issue": "28",
-   "volume": "2004",
-   "year": "2009",
-   "owned": true
+   "role": "CORE ISSUE",
+   "release_date": "Jan 21st, 2009"
   },
   {
    "order": 5,
    "series": "Astonishing X-Men",
    "issue": "29",
-   "volume": "2004",
-   "year": "2009",
-   "owned": true
+   "role": "CORE ISSUE",
+   "release_date": "Apr 22nd, 2009"
   },
   {
    "order": 6,
    "series": "Astonishing X-Men",
    "issue": "30",
-   "volume": "2004",
-   "year": "2009",
-   "owned": false
+   "role": "CORE ISSUE",
+   "release_date": "Jun 24th, 2009"
   },
   {
    "order": 7,
-   "series": "The Uncanny X-Men",
+   "series": "Uncanny X-Men",
    "issue": "500",
-   "volume": "1981",
-   "year": "2008",
-   "owned": false
+   "role": "CORE ISSUE",
+   "release_date": "Jul 23rd, 2008"
   },
   {
    "order": 8,
-   "series": "The Uncanny X-Men",
+   "series": "Uncanny X-Men",
    "issue": "501",
-   "volume": "1981",
-   "year": "2008",
-   "owned": false
+   "role": "CORE ISSUE",
+   "release_date": "Aug 20th, 2008"
   },
   {
    "order": 9,
-   "series": "The Uncanny X-Men",
+   "series": "Uncanny X-Men",
    "issue": "502",
-   "volume": "1981",
-   "year": "2008",
-   "owned": false
+   "role": "CORE ISSUE",
+   "release_date": "Sep 17th, 2008"
   },
   {
    "order": 10,
-   "series": "The Uncanny X-Men",
+   "series": "Uncanny X-Men",
    "issue": "503",
-   "volume": "1981",
-   "year": "2008",
-   "owned": false
+   "role": "CORE ISSUE",
+   "release_date": "Oct 15th, 2008"
   },
   {
    "order": 11,
    "series": "Cable",
    "issue": "6",
-   "volume": "2008",
-   "year": "2008",
-   "owned": false
+   "role": "CORE ISSUE",
+   "release_date": "Aug 6th, 2008"
   },
   {
    "order": 12,
    "series": "X-Men: Legacy",
    "issue": "215",
-   "volume": "2008",
-   "year": "2008",
-   "owned": false
+   "role": "CORE ISSUE",
+   "release_date": "Aug 27th, 2008"
   },
   {
    "order": 13,
    "series": "X-Men: Legacy",
    "issue": "216",
-   "volume": "2008",
-   "year": "2008",
-   "owned": false
+   "role": "CORE ISSUE",
+   "release_date": "Sep 24th, 2008"
   },
   {
    "order": 14,
    "series": "X-Men: Manifest Destiny",
    "issue": "1",
-   "volume": "2008",
-   "year": "2008",
-   "owned": false
+   "role": "CORE ISSUE",
+   "release_date": "Sep 3rd, 2008"
   },
   {
    "order": 15,
    "series": "Young X-Men",
    "issue": "6",
-   "volume": "2008",
-   "year": "2008",
-   "owned": false
+   "role": "CORE ISSUE",
+   "release_date": "Sep 17th, 2008"
   },
   {
    "order": 16,
    "series": "Young X-Men",
    "issue": "7",
-   "volume": "2008",
-   "year": "2008",
-   "owned": false
+   "role": "CORE ISSUE",
+   "release_date": "Oct 15th, 2008"
   },
   {
    "order": 17,
    "series": "Young X-Men",
    "issue": "8",
-   "volume": "2008",
-   "year": "2009",
-   "owned": false
+   "role": "CORE ISSUE",
+   "release_date": "Nov 19th, 2008"
   },
   {
    "order": 18,
    "series": "Young X-Men",
    "issue": "9",
-   "volume": "2008",
-   "year": "2009",
-   "owned": false
+   "role": "CORE ISSUE",
+   "release_date": "Dec 31st, 2008"
   },
   {
    "order": 19,
    "series": "X-Men: Manifest Destiny",
    "issue": "2",
-   "volume": "2008",
-   "year": "2008",
-   "owned": false
+   "role": "CORE ISSUE",
+   "release_date": "Oct 8th, 2008"
   },
   {
    "order": 20,
    "series": "Wolverine: Manifest Destiny",
    "issue": "1",
-   "volume": "2008",
-   "year": "2008",
-   "owned": false
+   "role": "CORE ISSUE",
+   "release_date": "Oct 22nd, 2008"
   },
   {
    "order": 21,
    "series": "Wolverine: Manifest Destiny",
    "issue": "2",
-   "volume": "2008",
-   "year": "2009",
-   "owned": false
+   "role": "CORE ISSUE",
+   "release_date": "Dec 3rd, 2008"
   },
   {
    "order": 22,
    "series": "Wolverine: Manifest Destiny",
    "issue": "3",
-   "volume": "2008",
-   "year": "2009",
-   "owned": false
+   "role": "CORE ISSUE",
+   "release_date": "Jan 2nd, 2009"
   },
   {
    "order": 23,
    "series": "Wolverine: Manifest Destiny",
    "issue": "4",
-   "volume": "2008",
-   "year": "2009",
-   "owned": false
+   "role": "CORE ISSUE",
+   "release_date": "Feb 11th, 2009"
   },
   {
    "order": 24,
    "series": "X-Men: Manifest Destiny",
    "issue": "3",
-   "volume": "2008",
-   "year": "2009",
-   "owned": false
+   "role": "CORE ISSUE",
+   "release_date": "Nov 5th, 2008"
   },
   {
    "order": 25,
    "series": "X-Men: Manifest Destiny",
    "issue": "4",
-   "volume": "2008",
-   "year": "2009",
-   "owned": false
+   "role": "CORE ISSUE",
+   "release_date": "Dec 3rd, 2008"
   },
   {
    "order": 26,
    "series": "X-Men: Manifest Destiny",
    "issue": "5",
-   "volume": "2008",
-   "year": "2009",
-   "owned": false
+   "role": "CORE ISSUE",
+   "release_date": "Jan 7th, 2009"
   },
   {
    "order": 27,
    "series": "Eternals",
    "issue": "7",
-   "volume": "2008",
-   "year": "2009",
-   "owned": false
+   "role": "CORE ISSUE",
+   "release_date": "Jan 7th, 2009"
   },
   {
    "order": 28,
    "series": "Eternals",
    "issue": "8",
-   "volume": "2008",
-   "year": "2009",
-   "owned": false
+   "role": "CORE ISSUE",
+   "release_date": "Feb 11th, 2009"
   },
   {
    "order": 29,
    "series": "Eternals",
    "issue": "9",
-   "volume": "2008",
-   "year": "2009",
-   "owned": false
+   "role": "CORE ISSUE",
+   "release_date": "Mar 18th, 2009"
   },
   {
    "order": 30,
-   "series": "X-Men: Manifest Destiny: Nightcrawler",
+   "series": "X-Men: Manifest Destiny - Nightcrawler",
    "issue": "1",
-   "volume": "2009",
-   "year": "2009",
-   "owned": false
+   "role": "CORE ISSUE",
+   "release_date": "Mar 11th, 2009"
   },
   {
    "order": 31,
    "series": "Runaways",
    "issue": "10",
-   "volume": "2008",
-   "year": "2009",
-   "owned": false
+   "role": "CORE ISSUE",
+   "release_date": "May 27th, 2009"
   },
   {
    "order": 32,
-   "series": "The Uncanny X-Men",
+   "series": "Uncanny X-Men",
    "issue": "504",
-   "volume": "1981",
-   "year": "2009",
-   "owned": false
+   "role": "CORE ISSUE",
+   "release_date": "Nov 19th, 2008"
   },
   {
    "order": 33,
-   "series": "The Uncanny X-Men",
+   "series": "Uncanny X-Men",
    "issue": "505",
-   "volume": "1981",
-   "year": "2009",
-   "owned": false
+   "role": "CORE ISSUE",
+   "release_date": "Dec 17th, 2008"
   },
   {
    "order": 34,
-   "series": "The Uncanny X-Men",
+   "series": "Uncanny X-Men",
    "issue": "506",
-   "volume": "1981",
-   "year": "2009",
-   "owned": false
+   "role": "CORE ISSUE",
+   "release_date": "Feb 18th, 2009"
   },
   {
    "order": 35,
-   "series": "The Uncanny X-Men",
+   "series": "Uncanny X-Men",
    "issue": "507",
-   "volume": "1981",
-   "year": "2009",
-   "owned": false
+   "role": "CORE ISSUE",
+   "release_date": "Mar 18th, 2009"
   }
  ]
 }

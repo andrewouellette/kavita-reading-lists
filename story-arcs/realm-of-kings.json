@@ -2,199 +2,177 @@
  "arc": "Realm of Kings",
  "slug": "realm-of-kings",
  "issue_count": 24,
- "owned_count": 2,
+ "source": "League of Comic Geeks",
+ "source_url": "https://leagueofcomicgeeks.com/comics/event/14280/realm-of-kings",
+ "ordering": "publication order as curated by LoCG; roles are theirs",
  "entries": [
   {
    "order": 1,
    "series": "Realm of Kings",
    "issue": "1",
-   "volume": "2010",
-   "year": "2010",
-   "owned": false
+   "role": "PROLOGUE",
+   "release_date": "Nov 18th, 2009"
   },
   {
    "order": 2,
    "series": "Guardians of the Galaxy",
    "issue": "20",
-   "volume": "2008",
-   "year": "2010",
-   "owned": false
+   "role": "CORE ISSUE",
+   "release_date": "Nov 25th, 2009"
   },
   {
    "order": 3,
    "series": "Guardians of the Galaxy",
    "issue": "21",
-   "volume": "2008",
-   "year": "2010",
-   "owned": false
+   "role": "CORE ISSUE",
+   "release_date": "Dec 23rd, 2009"
   },
   {
    "order": 4,
    "series": "Guardians of the Galaxy",
    "issue": "22",
-   "volume": "2008",
-   "year": "2010",
-   "owned": false
+   "role": "CORE ISSUE",
+   "release_date": "Jan 27th, 2010"
   },
   {
    "order": 5,
    "series": "Guardians of the Galaxy",
    "issue": "23",
-   "volume": "2008",
-   "year": "2010",
-   "owned": false
+   "role": "CORE ISSUE",
+   "release_date": "Feb 17th, 2010"
   },
   {
    "order": 6,
    "series": "Guardians of the Galaxy",
    "issue": "24",
-   "volume": "2008",
-   "year": "2010",
-   "owned": false
+   "role": "CORE ISSUE",
+   "release_date": "Mar 17th, 2010"
   },
   {
    "order": 7,
    "series": "Nova",
    "issue": "32",
-   "volume": "2007",
-   "year": "2010",
-   "owned": true
+   "role": "CORE ISSUE",
+   "release_date": "Dec 2nd, 2009"
   },
   {
    "order": 8,
    "series": "Nova",
    "issue": "33",
-   "volume": "2007",
-   "year": "2010",
-   "owned": true
+   "role": "CORE ISSUE",
+   "release_date": "Jan 20th, 2010"
   },
   {
    "order": 9,
    "series": "Nova",
    "issue": "34",
-   "volume": "2007",
-   "year": "2010",
-   "owned": false
+   "role": "CORE ISSUE",
+   "release_date": "Feb 3rd, 2010"
   },
   {
    "order": 10,
    "series": "Nova",
    "issue": "35",
-   "volume": "2007",
-   "year": "2010",
-   "owned": false
+   "role": "CORE ISSUE",
+   "release_date": "Mar 17th, 2010"
   },
   {
    "order": 11,
    "series": "Realm of Kings: Imperial Guard",
    "issue": "1",
-   "volume": "2010",
-   "year": "2010",
-   "owned": false
+   "role": "TIE-IN",
+   "release_date": "Nov 11th, 2009"
   },
   {
    "order": 12,
    "series": "Realm of Kings: Imperial Guard",
    "issue": "2",
-   "volume": "2010",
-   "year": "2010",
-   "owned": false
+   "role": "TIE-IN",
+   "release_date": "Dec 9th, 2009"
   },
   {
    "order": 13,
    "series": "Realm of Kings: Imperial Guard",
    "issue": "3",
-   "volume": "2010",
-   "year": "2010",
-   "owned": false
+   "role": "TIE-IN",
+   "release_date": "Jan 13th, 2010"
   },
   {
    "order": 14,
    "series": "Realm of Kings: Imperial Guard",
    "issue": "4",
-   "volume": "2010",
-   "year": "2010",
-   "owned": false
+   "role": "TIE-IN",
+   "release_date": "Feb 10th, 2010"
   },
   {
    "order": 15,
    "series": "Realm of Kings: Imperial Guard",
    "issue": "5",
-   "volume": "2010",
-   "year": "2010",
-   "owned": false
+   "role": "TIE-IN",
+   "release_date": "Mar 17th, 2010"
   },
   {
    "order": 16,
-   "series": "Realm of Kings Inhumans",
+   "series": "Realm of Kings: Inhumans",
    "issue": "1",
-   "volume": "2010",
-   "year": "2010",
-   "owned": false
+   "role": "TIE-IN",
+   "release_date": "Nov 18th, 2009"
   },
   {
    "order": 17,
-   "series": "Realm of Kings Inhumans",
+   "series": "Realm of Kings: Inhumans",
    "issue": "2",
-   "volume": "2010",
-   "year": "2010",
-   "owned": false
+   "role": "TIE-IN",
+   "release_date": "Dec 16th, 2009"
   },
   {
    "order": 18,
-   "series": "Realm of Kings Inhumans",
+   "series": "Realm of Kings: Inhumans",
    "issue": "3",
-   "volume": "2010",
-   "year": "2010",
-   "owned": false
+   "role": "TIE-IN",
+   "release_date": "Jan 20th, 2010"
   },
   {
    "order": 19,
-   "series": "Realm of Kings Inhumans",
+   "series": "Realm of Kings: Inhumans",
    "issue": "4",
-   "volume": "2010",
-   "year": "2010",
-   "owned": false
+   "role": "TIE-IN",
+   "release_date": "Feb 24th, 2010"
   },
   {
    "order": 20,
-   "series": "Realm of Kings Inhumans",
+   "series": "Realm of Kings: Inhumans",
    "issue": "5",
-   "volume": "2010",
-   "year": "2010",
-   "owned": false
+   "role": "TIE-IN",
+   "release_date": "Mar 31st, 2010"
   },
   {
    "order": 21,
-   "series": "Realm of Kings Son of Hulk",
+   "series": "Realm of Kings: Son of Hulk",
    "issue": "1",
-   "volume": "2010",
-   "year": "2010",
-   "owned": false
+   "role": "TIE-IN",
+   "release_date": "Feb 3rd, 2010"
   },
   {
    "order": 22,
-   "series": "Realm of Kings Son of Hulk",
+   "series": "Realm of Kings: Son of Hulk",
    "issue": "2",
-   "volume": "2010",
-   "year": "2010",
-   "owned": false
+   "role": "TIE-IN",
+   "release_date": "Mar 3rd, 2010"
   },
   {
    "order": 23,
-   "series": "Realm of Kings Son of Hulk",
+   "series": "Realm of Kings: Son of Hulk",
    "issue": "3",
-   "volume": "2010",
-   "year": "2010",
-   "owned": false
+   "role": "TIE-IN",
+   "release_date": "Apr 7th, 2010"
   },
   {
    "order": 24,
-   "series": "Realm of Kings Son of Hulk",
+   "series": "Realm of Kings: Son of Hulk",
    "issue": "4",
-   "volume": "2010",
-   "year": "2010",
-   "owned": false
+   "role": "TIE-IN",
+   "release_date": "May 5th, 2010"
   }
  ]
 }
