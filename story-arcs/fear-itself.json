@@ -1,0 +1,1008 @@
+{
+ "arc": "Fear Itself",
+ "slug": "fear-itself",
+ "issue_count": 125,
+ "owned_count": 16,
+ "entries": [
+  {
+   "order": 1,
+   "series": "The Mighty Thor",
+   "issue": "7",
+   "volume": "2011",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 2,
+   "series": "Fear Itself: Book of the Skull",
+   "issue": "1",
+   "volume": "2011",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 3,
+   "series": "Fear Itself: Sin's Past",
+   "issue": "1",
+   "volume": "2011",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 4,
+   "series": "Invincible Iron Man",
+   "issue": "503",
+   "volume": "2008",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 5,
+   "series": "Fear Itself",
+   "issue": "1",
+   "volume": "2011",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 6,
+   "series": "Journey into Mystery",
+   "issue": "622",
+   "volume": "2011",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 7,
+   "series": "Journey into Mystery",
+   "issue": "626.1",
+   "volume": "2011",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 8,
+   "series": "Fear Itself: The Home Front",
+   "issue": "1",
+   "volume": "2011",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 9,
+   "series": "Fear Itself",
+   "issue": "2",
+   "volume": "2011",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 10,
+   "series": "Thunderbolts",
+   "issue": "158",
+   "volume": "2006",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 11,
+   "series": "Thunderbolts",
+   "issue": "159",
+   "volume": "2006",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 12,
+   "series": "Invincible Iron Man",
+   "issue": "504",
+   "volume": "2008",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 13,
+   "series": "Invincible Iron Man",
+   "issue": "505",
+   "volume": "2008",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 14,
+   "series": "Alpha Flight",
+   "issue": "1",
+   "volume": "2011",
+   "year": "2011",
+   "owned": true
+  },
+  {
+   "order": 15,
+   "series": "Thunderbolts",
+   "issue": "160",
+   "volume": "2006",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 16,
+   "series": "Thunderbolts",
+   "issue": "161",
+   "volume": "2006",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 17,
+   "series": "Thunderbolts",
+   "issue": "162",
+   "volume": "2006",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 18,
+   "series": "Fear Itself: The Home Front",
+   "issue": "2",
+   "volume": "2011",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 19,
+   "series": "Fear Itself: The Home Front",
+   "issue": "3",
+   "volume": "2011",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 20,
+   "series": "Fear Itself: The Home Front",
+   "issue": "4",
+   "volume": "2011",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 21,
+   "series": "Journey into Mystery",
+   "issue": "623",
+   "volume": "2011",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 22,
+   "series": "Fear Itself: Spider-Man",
+   "issue": "1",
+   "volume": "2011",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 23,
+   "series": "Fear Itself: Spider-Man",
+   "issue": "2",
+   "volume": "2011",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 24,
+   "series": "Avengers",
+   "issue": "13",
+   "volume": "2010",
+   "year": "2011",
+   "owned": true
+  },
+  {
+   "order": 25,
+   "series": "Fear Itself: Youth in Revolt",
+   "issue": "1",
+   "volume": "2011",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 26,
+   "series": "Fear Itself: Fearsome Four",
+   "issue": "1",
+   "volume": "2011",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 27,
+   "series": "Fear Itself: Fearsome Four",
+   "issue": "2",
+   "volume": "2011",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 28,
+   "series": "Fear Itself: Fearsome Four",
+   "issue": "3",
+   "volume": "2011",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 29,
+   "series": "Fear Itself: Fearsome Four",
+   "issue": "4",
+   "volume": "2011",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 30,
+   "series": "Secret Avengers",
+   "issue": "13",
+   "volume": "2010",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 31,
+   "series": "Iron Man 2.0",
+   "issue": "5",
+   "volume": "2011",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 32,
+   "series": "Iron Man 2.0",
+   "issue": "6",
+   "volume": "2011",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 33,
+   "series": "Iron Man 2.0",
+   "issue": "7",
+   "volume": "2011",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 34,
+   "series": "Fear Itself: The Monkey King",
+   "issue": "1",
+   "volume": "2011",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 35,
+   "series": "Fear Itself",
+   "issue": "3",
+   "volume": "2011",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 36,
+   "series": "Fear Itself: The Worthy",
+   "issue": "1",
+   "volume": "2011",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 37,
+   "series": "Fear Itself: Uncanny X-Force",
+   "issue": "1",
+   "volume": "2011",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 38,
+   "series": "Fear Itself: Uncanny X-Force",
+   "issue": "2",
+   "volume": "2011",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 39,
+   "series": "Fear Itself: Uncanny X-Force",
+   "issue": "3",
+   "volume": "2011",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 40,
+   "series": "Avengers Academy",
+   "issue": "15",
+   "volume": "2010",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 41,
+   "series": "Avengers Academy",
+   "issue": "16",
+   "volume": "2010",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 42,
+   "series": "Avengers Academy",
+   "issue": "17",
+   "volume": "2010",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 43,
+   "series": "Avengers Academy",
+   "issue": "18",
+   "volume": "2010",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 44,
+   "series": "Avengers Academy",
+   "issue": "19",
+   "volume": "2010",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 45,
+   "series": "Fear Itself: Deadpool",
+   "issue": "1",
+   "volume": "2011",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 46,
+   "series": "Fear Itself: Deadpool",
+   "issue": "2",
+   "volume": "2011",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 47,
+   "series": "Fear Itself: Deadpool",
+   "issue": "3",
+   "volume": "2011",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 48,
+   "series": "Fear Itself: Youth in Revolt",
+   "issue": "2",
+   "volume": "2011",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 49,
+   "series": "Fear Itself: Youth in Revolt",
+   "issue": "3",
+   "volume": "2011",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 50,
+   "series": "Fear Itself: FF",
+   "issue": "1",
+   "volume": "2011",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 51,
+   "series": "Fear Itself: Wolverine",
+   "issue": "1",
+   "volume": "2011",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 52,
+   "series": "Fear Itself: Wolverine",
+   "issue": "2",
+   "volume": "2011",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 53,
+   "series": "Avengers",
+   "issue": "14",
+   "volume": "2010",
+   "year": "2011",
+   "owned": true
+  },
+  {
+   "order": 54,
+   "series": "Avengers",
+   "issue": "15",
+   "volume": "2010",
+   "year": "2011",
+   "owned": true
+  },
+  {
+   "order": 55,
+   "series": "Avengers",
+   "issue": "16",
+   "volume": "2010",
+   "year": "2011",
+   "owned": true
+  },
+  {
+   "order": 56,
+   "series": "Hulk",
+   "issue": "37",
+   "volume": "2008",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 57,
+   "series": "Hulk",
+   "issue": "38",
+   "volume": "2008",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 58,
+   "series": "Fear Itself: Wolverine",
+   "issue": "3",
+   "volume": "2011",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 59,
+   "series": "Black Panther: The Man Without Fear",
+   "issue": "521",
+   "volume": "2011",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 60,
+   "series": "Black Panther: The Man Without Fear",
+   "issue": "522",
+   "volume": "2011",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 61,
+   "series": "Black Panther: The Man Without Fear",
+   "issue": "523",
+   "volume": "2011",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 62,
+   "series": "Heroes for Hire",
+   "issue": "9",
+   "volume": "2011",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 63,
+   "series": "Heroes for Hire",
+   "issue": "10",
+   "volume": "2011",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 64,
+   "series": "Heroes for Hire",
+   "issue": "11",
+   "volume": "2011",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 65,
+   "series": "Journey into Mystery",
+   "issue": "624",
+   "volume": "2011",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 66,
+   "series": "Journey into Mystery",
+   "issue": "625",
+   "volume": "2011",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 67,
+   "series": "Fear Itself",
+   "issue": "4",
+   "volume": "2011",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 68,
+   "series": "Fear Itself",
+   "issue": "5",
+   "volume": "2011",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 69,
+   "series": "Herc",
+   "issue": "3",
+   "volume": "2011",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 70,
+   "series": "Herc",
+   "issue": "4",
+   "volume": "2011",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 71,
+   "series": "Herc",
+   "issue": "5",
+   "volume": "2011",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 72,
+   "series": "Herc",
+   "issue": "6",
+   "volume": "2011",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 73,
+   "series": "Ghost Rider",
+   "issue": "0.1",
+   "volume": "2011",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 74,
+   "series": "Ghost Rider",
+   "issue": "1",
+   "volume": "2011",
+   "year": "2011",
+   "owned": true
+  },
+  {
+   "order": 75,
+   "series": "Ghost Rider",
+   "issue": "2",
+   "volume": "2011",
+   "year": "2011",
+   "owned": true
+  },
+  {
+   "order": 76,
+   "series": "Ghost Rider",
+   "issue": "3",
+   "volume": "2011",
+   "year": "2011",
+   "owned": true
+  },
+  {
+   "order": 77,
+   "series": "New Avengers",
+   "issue": "14",
+   "volume": "2010",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 78,
+   "series": "New Avengers",
+   "issue": "15",
+   "volume": "2010",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 79,
+   "series": "New Avengers",
+   "issue": "16",
+   "volume": "2010",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 80,
+   "series": "Secret Avengers",
+   "issue": "14",
+   "volume": "2010",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 81,
+   "series": "Secret Avengers",
+   "issue": "15",
+   "volume": "2010",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 82,
+   "series": "Avengers",
+   "issue": "17",
+   "volume": "2010",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 83,
+   "series": "Fear Itself: Youth in Revolt",
+   "issue": "4",
+   "volume": "2011",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 84,
+   "series": "Fear Itself: Youth in Revolt",
+   "issue": "5",
+   "volume": "2011",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 85,
+   "series": "Invincible Iron Man",
+   "issue": "506",
+   "volume": "2008",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 86,
+   "series": "The Uncanny X-Men",
+   "issue": "540",
+   "volume": "1981",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 87,
+   "series": "The Uncanny X-Men",
+   "issue": "541",
+   "volume": "1981",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 88,
+   "series": "Fear Itself: The Deep",
+   "issue": "1",
+   "volume": "2011",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 89,
+   "series": "Fear Itself: The Deep",
+   "issue": "2",
+   "volume": "2011",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 90,
+   "series": "Fear Itself: The Deep",
+   "issue": "3",
+   "volume": "2011",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 91,
+   "series": "Fear Itself: The Home Front",
+   "issue": "5",
+   "volume": "2011",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 92,
+   "series": "Ghost Rider",
+   "issue": "4",
+   "volume": "2011",
+   "year": "2011",
+   "owned": true
+  },
+  {
+   "order": 93,
+   "series": "New Mutants",
+   "issue": "29",
+   "volume": "2009",
+   "year": "2011",
+   "owned": true
+  },
+  {
+   "order": 94,
+   "series": "Journey into Mystery",
+   "issue": "626",
+   "volume": "2011",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 95,
+   "series": "New Mutants",
+   "issue": "30",
+   "volume": "2009",
+   "year": "2011",
+   "owned": true
+  },
+  {
+   "order": 96,
+   "series": "New Mutants",
+   "issue": "31",
+   "volume": "2009",
+   "year": "2011",
+   "owned": true
+  },
+  {
+   "order": 97,
+   "series": "The Uncanny X-Men",
+   "issue": "542",
+   "volume": "1981",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 98,
+   "series": "The Uncanny X-Men",
+   "issue": "543",
+   "volume": "1981",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 99,
+   "series": "New Mutants",
+   "issue": "32",
+   "volume": "2009",
+   "year": "2011",
+   "owned": true
+  },
+  {
+   "order": 100,
+   "series": "Journey into Mystery",
+   "issue": "627",
+   "volume": "2011",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 101,
+   "series": "Alpha Flight",
+   "issue": "2",
+   "volume": "2011",
+   "year": "2011",
+   "owned": true
+  },
+  {
+   "order": 102,
+   "series": "Alpha Flight",
+   "issue": "3",
+   "volume": "2011",
+   "year": "2011",
+   "owned": true
+  },
+  {
+   "order": 103,
+   "series": "Fear Itself: The Deep",
+   "issue": "4",
+   "volume": "2011",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 104,
+   "series": "Fear Itself: Spider-Man",
+   "issue": "3",
+   "volume": "2011",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 105,
+   "series": "Invincible Iron Man",
+   "issue": "507",
+   "volume": "2008",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 106,
+   "series": "Fear Itself: The Black Widow",
+   "issue": "1",
+   "volume": "2011",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 107,
+   "series": "Alpha Flight",
+   "issue": "4",
+   "volume": "2011",
+   "year": "2011",
+   "owned": true
+  },
+  {
+   "order": 108,
+   "series": "Tomb of Dracula Presents: Throne of Blood",
+   "issue": "1",
+   "volume": "2011",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 109,
+   "series": "Fear Itself: Hulk vs. Dracula",
+   "issue": "1",
+   "volume": "2011",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 110,
+   "series": "Fear Itself",
+   "issue": "6",
+   "volume": "2011",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 111,
+   "series": "Fear Itself: The Home Front",
+   "issue": "6",
+   "volume": "2011",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 112,
+   "series": "Fear Itself: The Home Front",
+   "issue": "7",
+   "volume": "2011",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 113,
+   "series": "Fear Itself: Hulk vs. Dracula",
+   "issue": "2",
+   "volume": "2011",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 114,
+   "series": "Invincible Iron Man",
+   "issue": "508",
+   "volume": "2008",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 115,
+   "series": "Invincible Iron Man",
+   "issue": "509",
+   "volume": "2008",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 116,
+   "series": "Fear Itself",
+   "issue": "7",
+   "volume": "2011",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 117,
+   "series": "Journey into Mystery",
+   "issue": "628",
+   "volume": "2011",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 118,
+   "series": "Journey into Mystery",
+   "issue": "629",
+   "volume": "2011",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 119,
+   "series": "Fear Itself: Hulk vs. Dracula",
+   "issue": "3",
+   "volume": "2011",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 120,
+   "series": "Journey into Mystery",
+   "issue": "630",
+   "volume": "2011",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 121,
+   "series": "Avengers Academy",
+   "issue": "20",
+   "volume": "2010",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 122,
+   "series": "Fear Itself: Youth in Revolt",
+   "issue": "6",
+   "volume": "2011",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 123,
+   "series": "Fear Itself",
+   "issue": "7.1",
+   "volume": "2011",
+   "year": "2012",
+   "owned": false
+  },
+  {
+   "order": 124,
+   "series": "Fear Itself",
+   "issue": "7.2",
+   "volume": "2011",
+   "year": "2012",
+   "owned": false
+  },
+  {
+   "order": 125,
+   "series": "Fear Itself",
+   "issue": "7.3",
+   "volume": "2011",
+   "year": "2012",
+   "owned": false
+  }
+ ]
+}

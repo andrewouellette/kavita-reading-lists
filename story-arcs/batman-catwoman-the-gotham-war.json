@@ -1,0 +1,80 @@
+{
+ "arc": "Batman/Catwoman: The Gotham War",
+ "slug": "batman-catwoman-the-gotham-war",
+ "issue_count": 9,
+ "owned_count": 2,
+ "entries": [
+  {
+   "order": 1,
+   "series": "Batman/Catwoman: The Gotham War: Prelude - Batman Day Special Edition",
+   "issue": "1",
+   "volume": "2023",
+   "year": "2023",
+   "owned": false
+  },
+  {
+   "order": 2,
+   "series": "Batman/Catwoman: The Gotham War: Battle Lines",
+   "issue": "1",
+   "volume": "2023",
+   "year": "2023",
+   "owned": false
+  },
+  {
+   "order": 3,
+   "series": "Batman",
+   "issue": "137",
+   "volume": "2016",
+   "year": "2023",
+   "owned": true
+  },
+  {
+   "order": 4,
+   "series": "Catwoman",
+   "issue": "57",
+   "volume": "2018",
+   "year": "2023",
+   "owned": false
+  },
+  {
+   "order": 5,
+   "series": "Batman/Catwoman: The Gotham War: Red Hood",
+   "issue": "1",
+   "volume": "2023",
+   "year": "2023",
+   "owned": false
+  },
+  {
+   "order": 6,
+   "series": "Batman",
+   "issue": "138",
+   "volume": "2016",
+   "year": "2023",
+   "owned": true
+  },
+  {
+   "order": 7,
+   "series": "Catwoman",
+   "issue": "58",
+   "volume": "2018",
+   "year": "2023",
+   "owned": false
+  },
+  {
+   "order": 8,
+   "series": "Batman/Catwoman: The Gotham War: Red Hood",
+   "issue": "2",
+   "volume": "2023",
+   "year": "2023",
+   "owned": false
+  },
+  {
+   "order": 9,
+   "series": "Batman/Catwoman: The Gotham War: Scorched Earth",
+   "issue": "1",
+   "volume": "2023",
+   "year": "2023",
+   "owned": false
+  }
+ ]
+}

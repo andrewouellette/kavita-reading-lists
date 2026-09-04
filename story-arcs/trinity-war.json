@@ -1,0 +1,160 @@
+{
+ "arc": "Trinity War",
+ "slug": "trinity-war",
+ "issue_count": 19,
+ "owned_count": 6,
+ "entries": [
+  {
+   "order": 1,
+   "series": "Justice League",
+   "issue": "19",
+   "volume": "2011",
+   "year": "2013",
+   "owned": true
+  },
+  {
+   "order": 2,
+   "series": "Justice League",
+   "issue": "20",
+   "volume": "2011",
+   "year": "2013",
+   "owned": true
+  },
+  {
+   "order": 3,
+   "series": "Justice League of America",
+   "issue": "1",
+   "volume": "2013",
+   "year": "2013",
+   "owned": false
+  },
+  {
+   "order": 4,
+   "series": "Justice League of America",
+   "issue": "2",
+   "volume": "2013",
+   "year": "2013",
+   "owned": false
+  },
+  {
+   "order": 5,
+   "series": "Justice League of America",
+   "issue": "3",
+   "volume": "2013",
+   "year": "2013",
+   "owned": false
+  },
+  {
+   "order": 6,
+   "series": "Justice League of America",
+   "issue": "4",
+   "volume": "2013",
+   "year": "2013",
+   "owned": false
+  },
+  {
+   "order": 7,
+   "series": "Justice League of America",
+   "issue": "5",
+   "volume": "2013",
+   "year": "2013",
+   "owned": false
+  },
+  {
+   "order": 8,
+   "series": "DC Comics - The New 52 FCBD Special Edition",
+   "issue": "1",
+   "volume": "2012",
+   "year": "2012",
+   "owned": false
+  },
+  {
+   "order": 9,
+   "series": "Trinity of Sin: Pandora",
+   "issue": "1",
+   "volume": "2013",
+   "year": "2013",
+   "owned": false
+  },
+  {
+   "order": 10,
+   "series": "Justice League",
+   "issue": "22",
+   "volume": "2011",
+   "year": "2013",
+   "owned": true
+  },
+  {
+   "order": 11,
+   "series": "Justice League of America",
+   "issue": "6",
+   "volume": "2013",
+   "year": "2013",
+   "owned": false
+  },
+  {
+   "order": 12,
+   "series": "Justice League Dark",
+   "issue": "22",
+   "volume": "2011",
+   "year": "2013",
+   "owned": true
+  },
+  {
+   "order": 13,
+   "series": "Constantine",
+   "issue": "5",
+   "volume": "2013",
+   "year": "2013",
+   "owned": false
+  },
+  {
+   "order": 14,
+   "series": "Trinity of Sin: Pandora",
+   "issue": "2",
+   "volume": "2013",
+   "year": "2013",
+   "owned": false
+  },
+  {
+   "order": 15,
+   "series": "The Phantom Stranger",
+   "issue": "11",
+   "volume": "2012",
+   "year": "2013",
+   "owned": false
+  },
+  {
+   "order": 16,
+   "series": "Justice League of America",
+   "issue": "7",
+   "volume": "2013",
+   "year": "2013",
+   "owned": false
+  },
+  {
+   "order": 17,
+   "series": "Trinity of Sin: Pandora",
+   "issue": "3",
+   "volume": "2013",
+   "year": "2013",
+   "owned": false
+  },
+  {
+   "order": 18,
+   "series": "Justice League Dark",
+   "issue": "23",
+   "volume": "2011",
+   "year": "2013",
+   "owned": true
+  },
+  {
+   "order": 19,
+   "series": "Justice League",
+   "issue": "23",
+   "volume": "2011",
+   "year": "2013",
+   "owned": true
+  }
+ ]
+}

@@ -1,0 +1,496 @@
+{
+ "arc": "52",
+ "slug": "52",
+ "issue_count": 61,
+ "owned_count": 0,
+ "entries": [
+  {
+   "order": 1,
+   "series": "52",
+   "issue": "1",
+   "volume": "2006",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 2,
+   "series": "52/WW III",
+   "issue": "1",
+   "volume": "2007",
+   "year": "2007",
+   "owned": false
+  },
+  {
+   "order": 3,
+   "series": "52",
+   "issue": "2",
+   "volume": "2006",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 4,
+   "series": "52/WW III",
+   "issue": "2",
+   "volume": "2007",
+   "year": "2007",
+   "owned": false
+  },
+  {
+   "order": 5,
+   "series": "52",
+   "issue": "3",
+   "volume": "2006",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 6,
+   "series": "52/WW III",
+   "issue": "3",
+   "volume": "2007",
+   "year": "2007",
+   "owned": false
+  },
+  {
+   "order": 7,
+   "series": "52",
+   "issue": "4",
+   "volume": "2006",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 8,
+   "series": "52",
+   "issue": "5",
+   "volume": "2006",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 9,
+   "series": "52",
+   "issue": "6",
+   "volume": "2006",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 10,
+   "series": "52",
+   "issue": "7",
+   "volume": "2006",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 11,
+   "series": "52",
+   "issue": "8",
+   "volume": "2006",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 12,
+   "series": "52",
+   "issue": "9",
+   "volume": "2006",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 13,
+   "series": "52",
+   "issue": "10",
+   "volume": "2006",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 14,
+   "series": "52",
+   "issue": "11",
+   "volume": "2006",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 15,
+   "series": "52",
+   "issue": "12",
+   "volume": "2006",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 16,
+   "series": "52",
+   "issue": "13",
+   "volume": "2006",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 17,
+   "series": "52",
+   "issue": "14",
+   "volume": "2006",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 18,
+   "series": "52",
+   "issue": "15",
+   "volume": "2006",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 19,
+   "series": "52",
+   "issue": "16",
+   "volume": "2006",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 20,
+   "series": "52",
+   "issue": "17",
+   "volume": "2006",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 21,
+   "series": "52",
+   "issue": "18",
+   "volume": "2006",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 22,
+   "series": "52",
+   "issue": "19",
+   "volume": "2006",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 23,
+   "series": "52",
+   "issue": "20",
+   "volume": "2006",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 24,
+   "series": "52",
+   "issue": "21",
+   "volume": "2006",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 25,
+   "series": "52",
+   "issue": "22",
+   "volume": "2006",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 26,
+   "series": "52",
+   "issue": "23",
+   "volume": "2006",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 27,
+   "series": "52",
+   "issue": "24",
+   "volume": "2006",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 28,
+   "series": "52",
+   "issue": "25",
+   "volume": "2006",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 29,
+   "series": "52",
+   "issue": "26",
+   "volume": "2006",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 30,
+   "series": "52",
+   "issue": "27",
+   "volume": "2006",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 31,
+   "series": "52",
+   "issue": "28",
+   "volume": "2006",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 32,
+   "series": "52",
+   "issue": "29",
+   "volume": "2006",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 33,
+   "series": "52",
+   "issue": "30",
+   "volume": "2006",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 34,
+   "series": "52",
+   "issue": "31",
+   "volume": "2006",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 35,
+   "series": "52",
+   "issue": "32",
+   "volume": "2006",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 36,
+   "series": "52",
+   "issue": "33",
+   "volume": "2006",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 37,
+   "series": "52",
+   "issue": "34",
+   "volume": "2006",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 38,
+   "series": "52",
+   "issue": "35",
+   "volume": "2006",
+   "year": "2007",
+   "owned": false
+  },
+  {
+   "order": 39,
+   "series": "52",
+   "issue": "36",
+   "volume": "2006",
+   "year": "2007",
+   "owned": false
+  },
+  {
+   "order": 40,
+   "series": "52",
+   "issue": "37",
+   "volume": "2006",
+   "year": "2007",
+   "owned": false
+  },
+  {
+   "order": 41,
+   "series": "52",
+   "issue": "38",
+   "volume": "2006",
+   "year": "2007",
+   "owned": false
+  },
+  {
+   "order": 42,
+   "series": "52",
+   "issue": "39",
+   "volume": "2006",
+   "year": "2007",
+   "owned": false
+  },
+  {
+   "order": 43,
+   "series": "52",
+   "issue": "40",
+   "volume": "2006",
+   "year": "2007",
+   "owned": false
+  },
+  {
+   "order": 44,
+   "series": "52",
+   "issue": "41",
+   "volume": "2006",
+   "year": "2007",
+   "owned": false
+  },
+  {
+   "order": 45,
+   "series": "52",
+   "issue": "42",
+   "volume": "2006",
+   "year": "2007",
+   "owned": false
+  },
+  {
+   "order": 46,
+   "series": "52",
+   "issue": "43",
+   "volume": "2006",
+   "year": "2007",
+   "owned": false
+  },
+  {
+   "order": 47,
+   "series": "52",
+   "issue": "44",
+   "volume": "2006",
+   "year": "2007",
+   "owned": false
+  },
+  {
+   "order": 48,
+   "series": "52",
+   "issue": "45",
+   "volume": "2006",
+   "year": "2007",
+   "owned": false
+  },
+  {
+   "order": 49,
+   "series": "52",
+   "issue": "46",
+   "volume": "2006",
+   "year": "2007",
+   "owned": false
+  },
+  {
+   "order": 50,
+   "series": "52",
+   "issue": "47",
+   "volume": "2006",
+   "year": "2007",
+   "owned": false
+  },
+  {
+   "order": 51,
+   "series": "52",
+   "issue": "48",
+   "volume": "2006",
+   "year": "2007",
+   "owned": false
+  },
+  {
+   "order": 52,
+   "series": "52",
+   "issue": "49",
+   "volume": "2006",
+   "year": "2007",
+   "owned": false
+  },
+  {
+   "order": 53,
+   "series": "52",
+   "issue": "50",
+   "volume": "2006",
+   "year": "2007",
+   "owned": false
+  },
+  {
+   "order": 54,
+   "series": "52",
+   "issue": "51",
+   "volume": "2006",
+   "year": "2007",
+   "owned": false
+  },
+  {
+   "order": 55,
+   "series": "52",
+   "issue": "52",
+   "volume": "2006",
+   "year": "2007",
+   "owned": false
+  },
+  {
+   "order": 56,
+   "series": "Crime Bible: The Five Lessons of Blood",
+   "issue": "1",
+   "volume": "2007",
+   "year": "2007",
+   "owned": false
+  },
+  {
+   "order": 57,
+   "series": "52 Aftermath: The Four Horsemen",
+   "issue": "1",
+   "volume": "2007",
+   "year": "2007",
+   "owned": false
+  },
+  {
+   "order": 58,
+   "series": "Crime Bible: The Five Lessons of Blood",
+   "issue": "2",
+   "volume": "2007",
+   "year": "2008",
+   "owned": false
+  },
+  {
+   "order": 59,
+   "series": "52 Aftermath: The Four Horsemen",
+   "issue": "2",
+   "volume": "2007",
+   "year": "2007",
+   "owned": false
+  },
+  {
+   "order": 60,
+   "series": "52 Aftermath: The Four Horsemen",
+   "issue": "3",
+   "volume": "2007",
+   "year": "2007",
+   "owned": false
+  },
+  {
+   "order": 61,
+   "series": "52 Aftermath: The Four Horsemen",
+   "issue": "4",
+   "volume": "2007",
+   "year": "2008",
+   "owned": false
+  }
+ ]
+}

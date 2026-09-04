@@ -1,0 +1,176 @@
+{
+ "arc": "Dark Web",
+ "slug": "dark-web",
+ "issue_count": 21,
+ "owned_count": 20,
+ "entries": [
+  {
+   "order": 1,
+   "series": "Free Comic Book Day 2022: Spider-Man/Venom",
+   "issue": "1",
+   "volume": "2022",
+   "year": "2022",
+   "owned": false
+  },
+  {
+   "order": 2,
+   "series": "Venom",
+   "issue": "13",
+   "volume": "2021",
+   "year": "2023",
+   "owned": true
+  },
+  {
+   "order": 3,
+   "series": "The Amazing Spider-Man",
+   "issue": "14",
+   "volume": "2022",
+   "year": "2023",
+   "owned": true
+  },
+  {
+   "order": 4,
+   "series": "Dark Web",
+   "issue": "1",
+   "volume": "2022",
+   "year": "2023",
+   "owned": true
+  },
+  {
+   "order": 5,
+   "series": "Dark Web: X-Men",
+   "issue": "1",
+   "volume": "2022",
+   "year": "2023",
+   "owned": true
+  },
+  {
+   "order": 6,
+   "series": "The Amazing Spider-Man",
+   "issue": "15",
+   "volume": "2022",
+   "year": "2023",
+   "owned": true
+  },
+  {
+   "order": 7,
+   "series": "Mary Jane & Black Cat",
+   "issue": "1",
+   "volume": "2023",
+   "year": "2023",
+   "owned": true
+  },
+  {
+   "order": 8,
+   "series": "Dark Web: Ms. Marvel",
+   "issue": "1",
+   "volume": "2023",
+   "year": "2023",
+   "owned": true
+  },
+  {
+   "order": 9,
+   "series": "Dark Web: Ms. Marvel",
+   "issue": "2",
+   "volume": "2023",
+   "year": "2023",
+   "owned": true
+  },
+  {
+   "order": 10,
+   "series": "Gold Goblin",
+   "issue": "2",
+   "volume": "2022",
+   "year": "2023",
+   "owned": true
+  },
+  {
+   "order": 11,
+   "series": "The Amazing Spider-Man",
+   "issue": "16",
+   "volume": "2022",
+   "year": "2023",
+   "owned": true
+  },
+  {
+   "order": 12,
+   "series": "Venom",
+   "issue": "14",
+   "volume": "2021",
+   "year": "2023",
+   "owned": true
+  },
+  {
+   "order": 13,
+   "series": "The Amazing Spider-Man",
+   "issue": "17",
+   "volume": "2022",
+   "year": "2023",
+   "owned": true
+  },
+  {
+   "order": 14,
+   "series": "Dark Web: X-Men",
+   "issue": "2",
+   "volume": "2022",
+   "year": "2023",
+   "owned": true
+  },
+  {
+   "order": 15,
+   "series": "Mary Jane & Black Cat",
+   "issue": "2",
+   "volume": "2023",
+   "year": "2023",
+   "owned": true
+  },
+  {
+   "order": 16,
+   "series": "Gold Goblin",
+   "issue": "3",
+   "volume": "2022",
+   "year": "2023",
+   "owned": true
+  },
+  {
+   "order": 17,
+   "series": "Dark Web: X-Men",
+   "issue": "3",
+   "volume": "2022",
+   "year": "2023",
+   "owned": true
+  },
+  {
+   "order": 18,
+   "series": "The Amazing Spider-Man",
+   "issue": "18",
+   "volume": "2022",
+   "year": "2023",
+   "owned": true
+  },
+  {
+   "order": 19,
+   "series": "Venom",
+   "issue": "15",
+   "volume": "2021",
+   "year": "2023",
+   "owned": true
+  },
+  {
+   "order": 20,
+   "series": "Venom",
+   "issue": "16",
+   "volume": "2021",
+   "year": "2023",
+   "owned": true
+  },
+  {
+   "order": 21,
+   "series": "Dark Web: Finale",
+   "issue": "1",
+   "volume": "2023",
+   "year": "2023",
+   "owned": true
+  }
+ ]
+}

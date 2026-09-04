@@ -1,0 +1,128 @@
+{
+ "arc": "City of Bane",
+ "slug": "city-of-bane",
+ "issue_count": 15,
+ "owned_count": 14,
+ "entries": [
+  {
+   "order": 1,
+   "series": "Batman",
+   "issue": "75",
+   "volume": "2016",
+   "year": "2019",
+   "owned": true
+  },
+  {
+   "order": 2,
+   "series": "Batman Secret Files",
+   "issue": "2",
+   "volume": "2018",
+   "year": "2019",
+   "owned": true
+  },
+  {
+   "order": 3,
+   "series": "Batman",
+   "issue": "76",
+   "volume": "2016",
+   "year": "2019",
+   "owned": true
+  },
+  {
+   "order": 4,
+   "series": "Batman",
+   "issue": "77",
+   "volume": "2016",
+   "year": "2019",
+   "owned": true
+  },
+  {
+   "order": 5,
+   "series": "Batman",
+   "issue": "78",
+   "volume": "2016",
+   "year": "2019",
+   "owned": true
+  },
+  {
+   "order": 6,
+   "series": "Batman",
+   "issue": "79",
+   "volume": "2016",
+   "year": "2019",
+   "owned": true
+  },
+  {
+   "order": 7,
+   "series": "Batman",
+   "issue": "80",
+   "volume": "2016",
+   "year": "2019",
+   "owned": true
+  },
+  {
+   "order": 8,
+   "series": "Batman",
+   "issue": "81",
+   "volume": "2016",
+   "year": "2019",
+   "owned": true
+  },
+  {
+   "order": 9,
+   "series": "Batman Annual",
+   "issue": "4",
+   "volume": "2016",
+   "year": "2019",
+   "owned": false
+  },
+  {
+   "order": 10,
+   "series": "Batman",
+   "issue": "82",
+   "volume": "2016",
+   "year": "2020",
+   "owned": true
+  },
+  {
+   "order": 11,
+   "series": "Batman",
+   "issue": "83",
+   "volume": "2016",
+   "year": "2020",
+   "owned": true
+  },
+  {
+   "order": 12,
+   "series": "Batman",
+   "issue": "84",
+   "volume": "2016",
+   "year": "2020",
+   "owned": true
+  },
+  {
+   "order": 13,
+   "series": "Batman",
+   "issue": "85",
+   "volume": "2016",
+   "year": "2020",
+   "owned": true
+  },
+  {
+   "order": 14,
+   "series": "Detective Comics Annual",
+   "issue": "3",
+   "volume": "2016",
+   "year": "2020",
+   "owned": true
+  },
+  {
+   "order": 15,
+   "series": "Batman: Pennyworth R.I.P.",
+   "issue": "1",
+   "volume": "2020",
+   "year": "2020",
+   "owned": true
+  }
+ ]
+}

@@ -1,0 +1,1016 @@
+{
+ "arc": "Brightest Day",
+ "slug": "brightest-day",
+ "issue_count": 126,
+ "owned_count": 23,
+ "entries": [
+  {
+   "order": 1,
+   "series": "Brightest Day",
+   "issue": "0",
+   "volume": "2010",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 2,
+   "series": "Justice League: Generation Lost",
+   "issue": "1",
+   "volume": "2010",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 3,
+   "series": "Justice League: Generation Lost",
+   "issue": "2",
+   "volume": "2010",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 4,
+   "series": "Justice League: Generation Lost",
+   "issue": "3",
+   "volume": "2010",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 5,
+   "series": "Justice League: Generation Lost",
+   "issue": "4",
+   "volume": "2010",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 6,
+   "series": "Justice League: Generation Lost",
+   "issue": "5",
+   "volume": "2010",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 7,
+   "series": "Justice League: Generation Lost",
+   "issue": "6",
+   "volume": "2010",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 8,
+   "series": "Green Lantern",
+   "issue": "53",
+   "volume": "2005",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 9,
+   "series": "Green Lantern Corps",
+   "issue": "48",
+   "volume": "2006",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 10,
+   "series": "Brightest Day",
+   "issue": "1",
+   "volume": "2010",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 11,
+   "series": "Green Lantern: Emerald Warriors",
+   "issue": "1",
+   "volume": "2010",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 12,
+   "series": "Green Lantern",
+   "issue": "54",
+   "volume": "2005",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 13,
+   "series": "Green Lantern",
+   "issue": "55",
+   "volume": "2005",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 14,
+   "series": "Brightest Day",
+   "issue": "2",
+   "volume": "2010",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 15,
+   "series": "Brightest Day",
+   "issue": "3",
+   "volume": "2010",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 16,
+   "series": "Brightest Day",
+   "issue": "4",
+   "volume": "2010",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 17,
+   "series": "Brightest Day",
+   "issue": "5",
+   "volume": "2010",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 18,
+   "series": "Brightest Day",
+   "issue": "6",
+   "volume": "2010",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 19,
+   "series": "Green Lantern Corps",
+   "issue": "49",
+   "volume": "2006",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 20,
+   "series": "Green Lantern Corps",
+   "issue": "50",
+   "volume": "2006",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 21,
+   "series": "Green Lantern Corps",
+   "issue": "51",
+   "volume": "2006",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 22,
+   "series": "Green Lantern Corps",
+   "issue": "52",
+   "volume": "2006",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 23,
+   "series": "Titans: Villains For Hire Special",
+   "issue": "1",
+   "volume": "2010",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 24,
+   "series": "Titans",
+   "issue": "24",
+   "volume": "2008",
+   "year": "2010",
+   "owned": true
+  },
+  {
+   "order": 25,
+   "series": "Green Lantern Corps",
+   "issue": "47",
+   "volume": "2006",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 26,
+   "series": "Titans",
+   "issue": "25",
+   "volume": "2008",
+   "year": "2010",
+   "owned": true
+  },
+  {
+   "order": 27,
+   "series": "Brightest Day: The Atom Special",
+   "issue": "1",
+   "volume": "2010",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 28,
+   "series": "The Flash",
+   "issue": "1",
+   "volume": "2010",
+   "year": "2010",
+   "owned": true
+  },
+  {
+   "order": 29,
+   "series": "The Flash",
+   "issue": "2",
+   "volume": "2010",
+   "year": "2010",
+   "owned": true
+  },
+  {
+   "order": 30,
+   "series": "The Flash",
+   "issue": "3",
+   "volume": "2010",
+   "year": "2010",
+   "owned": true
+  },
+  {
+   "order": 31,
+   "series": "The Flash",
+   "issue": "4",
+   "volume": "2010",
+   "year": "2010",
+   "owned": true
+  },
+  {
+   "order": 32,
+   "series": "Green Arrow",
+   "issue": "1",
+   "volume": "2010",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 33,
+   "series": "Green Arrow",
+   "issue": "2",
+   "volume": "2010",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 34,
+   "series": "Green Arrow",
+   "issue": "3",
+   "volume": "2010",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 35,
+   "series": "Brightest Day",
+   "issue": "7",
+   "volume": "2010",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 36,
+   "series": "Brightest Day",
+   "issue": "8",
+   "volume": "2010",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 37,
+   "series": "The Flash",
+   "issue": "5",
+   "volume": "2010",
+   "year": "2010",
+   "owned": true
+  },
+  {
+   "order": 38,
+   "series": "The Flash",
+   "issue": "6",
+   "volume": "2010",
+   "year": "2011",
+   "owned": true
+  },
+  {
+   "order": 39,
+   "series": "Justice League of America",
+   "issue": "44",
+   "volume": "2006",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 40,
+   "series": "Justice League of America",
+   "issue": "45",
+   "volume": "2006",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 41,
+   "series": "Justice League of America",
+   "issue": "46",
+   "volume": "2006",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 42,
+   "series": "Justice Society of America",
+   "issue": "41",
+   "volume": "2007",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 43,
+   "series": "Adventure Comics",
+   "issue": "516",
+   "volume": "2009",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 44,
+   "series": "Justice League of America",
+   "issue": "47",
+   "volume": "2006",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 45,
+   "series": "Justice Society of America",
+   "issue": "42",
+   "volume": "2007",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 46,
+   "series": "Justice League of America",
+   "issue": "48",
+   "volume": "2006",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 47,
+   "series": "Justice Society of America",
+   "issue": "43",
+   "volume": "2007",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 48,
+   "series": "Adventure Comics",
+   "issue": "517",
+   "volume": "2009",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 49,
+   "series": "Justice League: Generation Lost",
+   "issue": "7",
+   "volume": "2010",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 50,
+   "series": "Justice League: Generation Lost",
+   "issue": "8",
+   "volume": "2010",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 51,
+   "series": "Justice League: Generation Lost",
+   "issue": "9",
+   "volume": "2010",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 52,
+   "series": "Brightest Day",
+   "issue": "9",
+   "volume": "2010",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 53,
+   "series": "Green Arrow",
+   "issue": "4",
+   "volume": "2010",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 54,
+   "series": "Green Arrow",
+   "issue": "5",
+   "volume": "2010",
+   "year": "2010",
+   "owned": true
+  },
+  {
+   "order": 55,
+   "series": "Green Arrow",
+   "issue": "6",
+   "volume": "2010",
+   "year": "2011",
+   "owned": true
+  },
+  {
+   "order": 56,
+   "series": "Green Arrow",
+   "issue": "7",
+   "volume": "2010",
+   "year": "2011",
+   "owned": true
+  },
+  {
+   "order": 57,
+   "series": "Birds of Prey",
+   "issue": "1",
+   "volume": "2010",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 58,
+   "series": "Birds of Prey",
+   "issue": "2",
+   "volume": "2010",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 59,
+   "series": "Birds of Prey",
+   "issue": "3",
+   "volume": "2010",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 60,
+   "series": "Birds of Prey",
+   "issue": "4",
+   "volume": "2010",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 61,
+   "series": "Birds of Prey",
+   "issue": "5",
+   "volume": "2010",
+   "year": "2010",
+   "owned": true
+  },
+  {
+   "order": 62,
+   "series": "Brightest Day",
+   "issue": "10",
+   "volume": "2010",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 63,
+   "series": "Brightest Day",
+   "issue": "11",
+   "volume": "2010",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 64,
+   "series": "Brightest Day",
+   "issue": "12",
+   "volume": "2010",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 65,
+   "series": "Justice League: Generation Lost",
+   "issue": "10",
+   "volume": "2010",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 66,
+   "series": "Justice League: Generation Lost",
+   "issue": "11",
+   "volume": "2010",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 67,
+   "series": "Justice League: Generation Lost",
+   "issue": "12",
+   "volume": "2010",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 68,
+   "series": "Adventure Comics",
+   "issue": "518",
+   "volume": "2009",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 69,
+   "series": "Justice League: Generation Lost",
+   "issue": "13",
+   "volume": "2010",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 70,
+   "series": "Justice League: Generation Lost",
+   "issue": "14",
+   "volume": "2010",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 71,
+   "series": "Titans",
+   "issue": "26",
+   "volume": "2008",
+   "year": "2010",
+   "owned": true
+  },
+  {
+   "order": 72,
+   "series": "Titans",
+   "issue": "27",
+   "volume": "2008",
+   "year": "2010",
+   "owned": true
+  },
+  {
+   "order": 73,
+   "series": "Titans",
+   "issue": "28",
+   "volume": "2008",
+   "year": "2010",
+   "owned": true
+  },
+  {
+   "order": 74,
+   "series": "Titans",
+   "issue": "29",
+   "volume": "2008",
+   "year": "2011",
+   "owned": true
+  },
+  {
+   "order": 75,
+   "series": "Adventure Comics",
+   "issue": "519",
+   "volume": "2009",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 76,
+   "series": "Titans",
+   "issue": "30",
+   "volume": "2008",
+   "year": "2011",
+   "owned": true
+  },
+  {
+   "order": 77,
+   "series": "Justice League: Generation Lost",
+   "issue": "15",
+   "volume": "2010",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 78,
+   "series": "Justice League: Generation Lost",
+   "issue": "16",
+   "volume": "2010",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 79,
+   "series": "Adventure Comics",
+   "issue": "520",
+   "volume": "2009",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 80,
+   "series": "Justice League: Generation Lost",
+   "issue": "17",
+   "volume": "2010",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 81,
+   "series": "Justice League: Generation Lost",
+   "issue": "18",
+   "volume": "2010",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 82,
+   "series": "Justice League: Generation Lost",
+   "issue": "19",
+   "volume": "2010",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 83,
+   "series": "Justice League: Generation Lost",
+   "issue": "20",
+   "volume": "2010",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 84,
+   "series": "Green Lantern: Emerald Warriors",
+   "issue": "2",
+   "volume": "2010",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 85,
+   "series": "Green Lantern: Emerald Warriors",
+   "issue": "3",
+   "volume": "2010",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 86,
+   "series": "Green Lantern",
+   "issue": "56",
+   "volume": "2005",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 87,
+   "series": "Green Lantern",
+   "issue": "57",
+   "volume": "2005",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 88,
+   "series": "Green Lantern",
+   "issue": "58",
+   "volume": "2005",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 89,
+   "series": "Brightest Day",
+   "issue": "13",
+   "volume": "2010",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 90,
+   "series": "Brightest Day",
+   "issue": "14",
+   "volume": "2010",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 91,
+   "series": "Justice League: Generation Lost",
+   "issue": "21",
+   "volume": "2010",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 92,
+   "series": "Justice League: Generation Lost",
+   "issue": "22",
+   "volume": "2010",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 93,
+   "series": "Justice League: Generation Lost",
+   "issue": "23",
+   "volume": "2010",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 94,
+   "series": "Justice League: Generation Lost",
+   "issue": "24",
+   "volume": "2010",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 95,
+   "series": "Green Lantern",
+   "issue": "59",
+   "volume": "2005",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 96,
+   "series": "Green Lantern: Emerald Warriors",
+   "issue": "4",
+   "volume": "2010",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 97,
+   "series": "Green Lantern Corps",
+   "issue": "53",
+   "volume": "2006",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 98,
+   "series": "Green Lantern Corps",
+   "issue": "54",
+   "volume": "2006",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 99,
+   "series": "Brightest Day",
+   "issue": "15",
+   "volume": "2010",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 100,
+   "series": "Brightest Day",
+   "issue": "16",
+   "volume": "2010",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 101,
+   "series": "Adventure Comics",
+   "issue": "521",
+   "volume": "2009",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 102,
+   "series": "Brightest Day",
+   "issue": "17",
+   "volume": "2010",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 103,
+   "series": "The Flash",
+   "issue": "7",
+   "volume": "2010",
+   "year": "2011",
+   "owned": true
+  },
+  {
+   "order": 104,
+   "series": "Brightest Day",
+   "issue": "18",
+   "volume": "2010",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 105,
+   "series": "Green Lantern",
+   "issue": "60",
+   "volume": "2005",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 106,
+   "series": "Green Lantern",
+   "issue": "61",
+   "volume": "2005",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 107,
+   "series": "Green Lantern",
+   "issue": "62",
+   "volume": "2005",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 108,
+   "series": "Green Lantern: Emerald Warriors",
+   "issue": "5",
+   "volume": "2010",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 109,
+   "series": "Green Lantern: Emerald Warriors",
+   "issue": "6",
+   "volume": "2010",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 110,
+   "series": "Green Lantern Corps",
+   "issue": "55",
+   "volume": "2006",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 111,
+   "series": "Green Lantern Corps",
+   "issue": "56",
+   "volume": "2006",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 112,
+   "series": "Brightest Day",
+   "issue": "19",
+   "volume": "2010",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 113,
+   "series": "Brightest Day",
+   "issue": "20",
+   "volume": "2010",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 114,
+   "series": "Brightest Day",
+   "issue": "21",
+   "volume": "2010",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 115,
+   "series": "Green Arrow",
+   "issue": "8",
+   "volume": "2010",
+   "year": "2011",
+   "owned": true
+  },
+  {
+   "order": 116,
+   "series": "Green Arrow",
+   "issue": "9",
+   "volume": "2010",
+   "year": "2011",
+   "owned": true
+  },
+  {
+   "order": 117,
+   "series": "Green Arrow",
+   "issue": "10",
+   "volume": "2010",
+   "year": "2011",
+   "owned": true
+  },
+  {
+   "order": 118,
+   "series": "Green Lantern Corps",
+   "issue": "57",
+   "volume": "2006",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 119,
+   "series": "Brightest Day",
+   "issue": "22",
+   "volume": "2010",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 120,
+   "series": "Green Arrow",
+   "issue": "11",
+   "volume": "2010",
+   "year": "2011",
+   "owned": true
+  },
+  {
+   "order": 121,
+   "series": "Brightest Day",
+   "issue": "23",
+   "volume": "2010",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 122,
+   "series": "Brightest Day",
+   "issue": "24",
+   "volume": "2010",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 123,
+   "series": "Green Arrow",
+   "issue": "12",
+   "volume": "2010",
+   "year": "2011",
+   "owned": true
+  },
+  {
+   "order": 124,
+   "series": "Brightest Day Aftermath: The Search for Swamp Thing",
+   "issue": "1",
+   "volume": "2011",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 125,
+   "series": "Brightest Day Aftermath: The Search for Swamp Thing",
+   "issue": "2",
+   "volume": "2011",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 126,
+   "series": "Brightest Day Aftermath: The Search for Swamp Thing",
+   "issue": "3",
+   "volume": "2011",
+   "year": "2011",
+   "owned": false
+  }
+ ]
+}

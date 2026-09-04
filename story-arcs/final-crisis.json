@@ -1,0 +1,352 @@
+{
+ "arc": "Final Crisis",
+ "slug": "final-crisis",
+ "issue_count": 43,
+ "owned_count": 2,
+ "entries": [
+  {
+   "order": 1,
+   "series": "Final Crisis: Rage of the Red Lanterns",
+   "issue": "1",
+   "volume": "2008",
+   "year": "2008",
+   "owned": false
+  },
+  {
+   "order": 2,
+   "series": "DC Universe",
+   "issue": "0",
+   "volume": "2008",
+   "year": "2008",
+   "owned": false
+  },
+  {
+   "order": 3,
+   "series": "Final Crisis Sketchbook",
+   "issue": "1",
+   "volume": "2008",
+   "year": "2008",
+   "owned": false
+  },
+  {
+   "order": 4,
+   "series": "Birds of Prey",
+   "issue": "118",
+   "volume": "1999",
+   "year": "2008",
+   "owned": false
+  },
+  {
+   "order": 5,
+   "series": "The Flash",
+   "issue": "240",
+   "volume": "1987",
+   "year": "2008",
+   "owned": false
+  },
+  {
+   "order": 6,
+   "series": "Teen Titans",
+   "issue": "59",
+   "volume": "2003",
+   "year": "2008",
+   "owned": false
+  },
+  {
+   "order": 7,
+   "series": "The Flash",
+   "issue": "241",
+   "volume": "1987",
+   "year": "2008",
+   "owned": false
+  },
+  {
+   "order": 8,
+   "series": "Teen Titans",
+   "issue": "60",
+   "volume": "2003",
+   "year": "2008",
+   "owned": false
+  },
+  {
+   "order": 9,
+   "series": "Final Crisis",
+   "issue": "1",
+   "volume": "2008",
+   "year": "2008",
+   "owned": false
+  },
+  {
+   "order": 10,
+   "series": "Final Crisis: Requiem",
+   "issue": "1",
+   "volume": "2008",
+   "year": "2008",
+   "owned": false
+  },
+  {
+   "order": 11,
+   "series": "Final Crisis",
+   "issue": "2",
+   "volume": "2008",
+   "year": "2008",
+   "owned": false
+  },
+  {
+   "order": 12,
+   "series": "Final Crisis: Rogues' Revenge",
+   "issue": "1",
+   "volume": "2008",
+   "year": "2008",
+   "owned": false
+  },
+  {
+   "order": 13,
+   "series": "Final Crisis: Rogues' Revenge",
+   "issue": "2",
+   "volume": "2008",
+   "year": "2008",
+   "owned": false
+  },
+  {
+   "order": 14,
+   "series": "Final Crisis: Rogues' Revenge",
+   "issue": "3",
+   "volume": "2008",
+   "year": "2008",
+   "owned": false
+  },
+  {
+   "order": 15,
+   "series": "Final Crisis",
+   "issue": "3",
+   "volume": "2008",
+   "year": "2008",
+   "owned": false
+  },
+  {
+   "order": 16,
+   "series": "DC Universe: Last Will And Testament",
+   "issue": "1",
+   "volume": "2008",
+   "year": "2008",
+   "owned": false
+  },
+  {
+   "order": 17,
+   "series": "Final Crisis: Superman Beyond",
+   "issue": "1",
+   "volume": "2008",
+   "year": "2008",
+   "owned": false
+  },
+  {
+   "order": 18,
+   "series": "Final Crisis: Superman Beyond",
+   "issue": "2",
+   "volume": "2008",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 19,
+   "series": "Final Crisis: Legion of Three Worlds",
+   "issue": "1",
+   "volume": "2008",
+   "year": "2008",
+   "owned": false
+  },
+  {
+   "order": 20,
+   "series": "Final Crisis: Legion of Three Worlds",
+   "issue": "2",
+   "volume": "2008",
+   "year": "2008",
+   "owned": false
+  },
+  {
+   "order": 21,
+   "series": "Final Crisis: Legion of Three Worlds",
+   "issue": "3",
+   "volume": "2008",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 22,
+   "series": "Terror Titans",
+   "issue": "5",
+   "volume": "2008",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 23,
+   "series": "Terror Titans",
+   "issue": "6",
+   "volume": "2008",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 24,
+   "series": "Final Crisis: Legion of Three Worlds",
+   "issue": "4",
+   "volume": "2008",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 25,
+   "series": "Final Crisis: Legion of Three Worlds",
+   "issue": "5",
+   "volume": "2008",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 26,
+   "series": "Final Crisis: Revelations",
+   "issue": "1",
+   "volume": "2008",
+   "year": "2008",
+   "owned": false
+  },
+  {
+   "order": 27,
+   "series": "Final Crisis: Revelations",
+   "issue": "2",
+   "volume": "2008",
+   "year": "2008",
+   "owned": false
+  },
+  {
+   "order": 28,
+   "series": "Terror Titans",
+   "issue": "1",
+   "volume": "2008",
+   "year": "2008",
+   "owned": false
+  },
+  {
+   "order": 29,
+   "series": "Final Crisis: Revelations",
+   "issue": "3",
+   "volume": "2008",
+   "year": "2008",
+   "owned": false
+  },
+  {
+   "order": 30,
+   "series": "Final Crisis: Revelations",
+   "issue": "4",
+   "volume": "2008",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 31,
+   "series": "Final Crisis: Revelations",
+   "issue": "5",
+   "volume": "2008",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 32,
+   "series": "Final Crisis: Secret Files",
+   "issue": "1",
+   "volume": "2009",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 33,
+   "series": "Final Crisis: Resist",
+   "issue": "1",
+   "volume": "2008",
+   "year": "2008",
+   "owned": false
+  },
+  {
+   "order": 34,
+   "series": "Final Crisis: Submit",
+   "issue": "1",
+   "volume": "2008",
+   "year": "2008",
+   "owned": false
+  },
+  {
+   "order": 35,
+   "series": "Terror Titans",
+   "issue": "2",
+   "volume": "2008",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 36,
+   "series": "Terror Titans",
+   "issue": "3",
+   "volume": "2008",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 37,
+   "series": "Final Crisis",
+   "issue": "4",
+   "volume": "2008",
+   "year": "2008",
+   "owned": false
+  },
+  {
+   "order": 38,
+   "series": "Terror Titans",
+   "issue": "4",
+   "volume": "2008",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 39,
+   "series": "Final Crisis",
+   "issue": "5",
+   "volume": "2008",
+   "year": "2008",
+   "owned": false
+  },
+  {
+   "order": 40,
+   "series": "Batman",
+   "issue": "682",
+   "volume": "1940",
+   "year": "2009",
+   "owned": true
+  },
+  {
+   "order": 41,
+   "series": "Batman",
+   "issue": "683",
+   "volume": "1940",
+   "year": "2009",
+   "owned": true
+  },
+  {
+   "order": 42,
+   "series": "Final Crisis",
+   "issue": "6",
+   "volume": "2008",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 43,
+   "series": "Final Crisis",
+   "issue": "7",
+   "volume": "2008",
+   "year": "2009",
+   "owned": false
+  }
+ ]
+}

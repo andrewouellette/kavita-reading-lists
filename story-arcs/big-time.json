@@ -1,0 +1,1192 @@
+{
+ "arc": "Big Time",
+ "slug": "big-time",
+ "issue_count": 148,
+ "owned_count": 27,
+ "entries": [
+  {
+   "order": 1,
+   "series": "The Amazing Spider-Man",
+   "issue": "648",
+   "volume": "1963",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 2,
+   "series": "The Amazing Spider-Man",
+   "issue": "649",
+   "volume": "1963",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 3,
+   "series": "The Amazing Spider-Man",
+   "issue": "650",
+   "volume": "1963",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 4,
+   "series": "The Amazing Spider-Man",
+   "issue": "651",
+   "volume": "1963",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 5,
+   "series": "The Amazing Spider-Man",
+   "issue": "652",
+   "volume": "1963",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 6,
+   "series": "The Amazing Spider-Man",
+   "issue": "653",
+   "volume": "1963",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 7,
+   "series": "The Amazing Spider-Man",
+   "issue": "654",
+   "volume": "1963",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 8,
+   "series": "The Amazing Spider-Man",
+   "issue": "654.1",
+   "volume": "1963",
+   "year": "2011",
+   "owned": true
+  },
+  {
+   "order": 9,
+   "series": "The Amazing Spider-Man",
+   "issue": "655",
+   "volume": "1963",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 10,
+   "series": "The Amazing Spider-Man",
+   "issue": "656",
+   "volume": "1963",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 11,
+   "series": "The Amazing Spider-Man",
+   "issue": "657",
+   "volume": "1963",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 12,
+   "series": "Fantastic Four",
+   "issue": "588",
+   "volume": "1998",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 13,
+   "series": "The Amazing Spider-Man",
+   "issue": "658",
+   "volume": "1963",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 14,
+   "series": "The Amazing Spider-Man",
+   "issue": "659",
+   "volume": "1963",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 15,
+   "series": "FF",
+   "issue": "1",
+   "volume": "2011",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 16,
+   "series": "The Amazing Spider-Man",
+   "issue": "660",
+   "volume": "1963",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 17,
+   "series": "FF",
+   "issue": "2",
+   "volume": "2011",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 18,
+   "series": "The Amazing Spider-Man",
+   "issue": "661",
+   "volume": "1963",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 19,
+   "series": "The Amazing Spider-Man",
+   "issue": "662",
+   "volume": "1963",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 20,
+   "series": "FF",
+   "issue": "3",
+   "volume": "2011",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 21,
+   "series": "FF",
+   "issue": "4",
+   "volume": "2011",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 22,
+   "series": "FF",
+   "issue": "5",
+   "volume": "2011",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 23,
+   "series": "FF",
+   "issue": "6",
+   "volume": "2011",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 24,
+   "series": "FF",
+   "issue": "7",
+   "volume": "2011",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 25,
+   "series": "FF",
+   "issue": "8",
+   "volume": "2011",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 26,
+   "series": "FF",
+   "issue": "9",
+   "volume": "2011",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 27,
+   "series": "FF",
+   "issue": "10",
+   "volume": "2011",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 28,
+   "series": "FF",
+   "issue": "11",
+   "volume": "2011",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 29,
+   "series": "Fantastic Four",
+   "issue": "600",
+   "volume": "1998",
+   "year": "2012",
+   "owned": false
+  },
+  {
+   "order": 30,
+   "series": "Fantastic Four",
+   "issue": "601",
+   "volume": "1998",
+   "year": "2012",
+   "owned": false
+  },
+  {
+   "order": 31,
+   "series": "Fantastic Four",
+   "issue": "602",
+   "volume": "1998",
+   "year": "2012",
+   "owned": false
+  },
+  {
+   "order": 32,
+   "series": "Fantastic Four",
+   "issue": "603",
+   "volume": "1998",
+   "year": "2012",
+   "owned": false
+  },
+  {
+   "order": 33,
+   "series": "FF",
+   "issue": "15",
+   "volume": "2011",
+   "year": "2012",
+   "owned": false
+  },
+  {
+   "order": 34,
+   "series": "Fantastic Four",
+   "issue": "604",
+   "volume": "1998",
+   "year": "2012",
+   "owned": false
+  },
+  {
+   "order": 35,
+   "series": "Fantastic Four",
+   "issue": "605.1",
+   "volume": "1998",
+   "year": "2012",
+   "owned": false
+  },
+  {
+   "order": 36,
+   "series": "FF",
+   "issue": "16",
+   "volume": "2011",
+   "year": "2012",
+   "owned": false
+  },
+  {
+   "order": 37,
+   "series": "Fantastic Four",
+   "issue": "609",
+   "volume": "1998",
+   "year": "2012",
+   "owned": false
+  },
+  {
+   "order": 38,
+   "series": "FF",
+   "issue": "17",
+   "volume": "2011",
+   "year": "2012",
+   "owned": false
+  },
+  {
+   "order": 39,
+   "series": "Fantastic Four",
+   "issue": "610",
+   "volume": "1998",
+   "year": "2012",
+   "owned": false
+  },
+  {
+   "order": 40,
+   "series": "Avengers",
+   "issue": "1",
+   "volume": "2010",
+   "year": "2010",
+   "owned": true
+  },
+  {
+   "order": 41,
+   "series": "Avengers",
+   "issue": "2",
+   "volume": "2010",
+   "year": "2010",
+   "owned": true
+  },
+  {
+   "order": 42,
+   "series": "Avengers",
+   "issue": "3",
+   "volume": "2010",
+   "year": "2010",
+   "owned": true
+  },
+  {
+   "order": 43,
+   "series": "Avengers",
+   "issue": "4",
+   "volume": "2010",
+   "year": "2010",
+   "owned": true
+  },
+  {
+   "order": 44,
+   "series": "Avengers",
+   "issue": "5",
+   "volume": "2010",
+   "year": "2010",
+   "owned": true
+  },
+  {
+   "order": 45,
+   "series": "Avengers",
+   "issue": "6",
+   "volume": "2010",
+   "year": "2010",
+   "owned": true
+  },
+  {
+   "order": 46,
+   "series": "New Avengers",
+   "issue": "1",
+   "volume": "2010",
+   "year": "2010",
+   "owned": true
+  },
+  {
+   "order": 47,
+   "series": "New Avengers",
+   "issue": "2",
+   "volume": "2010",
+   "year": "2010",
+   "owned": true
+  },
+  {
+   "order": 48,
+   "series": "New Avengers",
+   "issue": "3",
+   "volume": "2010",
+   "year": "2010",
+   "owned": true
+  },
+  {
+   "order": 49,
+   "series": "New Avengers",
+   "issue": "4",
+   "volume": "2010",
+   "year": "2010",
+   "owned": true
+  },
+  {
+   "order": 50,
+   "series": "New Avengers",
+   "issue": "5",
+   "volume": "2010",
+   "year": "2010",
+   "owned": true
+  },
+  {
+   "order": 51,
+   "series": "New Avengers",
+   "issue": "6",
+   "volume": "2010",
+   "year": "2011",
+   "owned": true
+  },
+  {
+   "order": 52,
+   "series": "Avengers",
+   "issue": "7",
+   "volume": "2010",
+   "year": "2011",
+   "owned": true
+  },
+  {
+   "order": 53,
+   "series": "Avengers",
+   "issue": "8",
+   "volume": "2010",
+   "year": "2011",
+   "owned": true
+  },
+  {
+   "order": 54,
+   "series": "Avengers",
+   "issue": "9",
+   "volume": "2010",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 55,
+   "series": "Avengers",
+   "issue": "10",
+   "volume": "2010",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 56,
+   "series": "Avengers",
+   "issue": "11",
+   "volume": "2010",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 57,
+   "series": "Avengers",
+   "issue": "12",
+   "volume": "2010",
+   "year": "2011",
+   "owned": true
+  },
+  {
+   "order": 58,
+   "series": "New Avengers",
+   "issue": "7",
+   "volume": "2010",
+   "year": "2011",
+   "owned": true
+  },
+  {
+   "order": 59,
+   "series": "New Avengers",
+   "issue": "8",
+   "volume": "2010",
+   "year": "2011",
+   "owned": true
+  },
+  {
+   "order": 60,
+   "series": "New Avengers",
+   "issue": "9",
+   "volume": "2010",
+   "year": "2011",
+   "owned": true
+  },
+  {
+   "order": 61,
+   "series": "New Avengers",
+   "issue": "10",
+   "volume": "2010",
+   "year": "2011",
+   "owned": true
+  },
+  {
+   "order": 62,
+   "series": "New Avengers",
+   "issue": "11",
+   "volume": "2010",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 63,
+   "series": "New Avengers",
+   "issue": "12",
+   "volume": "2010",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 64,
+   "series": "New Avengers",
+   "issue": "13",
+   "volume": "2010",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 65,
+   "series": "Avengers",
+   "issue": "12.1",
+   "volume": "2010",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 66,
+   "series": "Avengers Annual",
+   "issue": "1",
+   "volume": "2012",
+   "year": "2012",
+   "owned": true
+  },
+  {
+   "order": 67,
+   "series": "New Avengers Annual",
+   "issue": "1",
+   "volume": "2011",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 68,
+   "series": "Avengers",
+   "issue": "18",
+   "volume": "2010",
+   "year": "2011",
+   "owned": true
+  },
+  {
+   "order": 69,
+   "series": "New Avengers",
+   "issue": "16.1",
+   "volume": "2010",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 70,
+   "series": "New Avengers",
+   "issue": "17",
+   "volume": "2010",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 71,
+   "series": "New Avengers",
+   "issue": "18",
+   "volume": "2010",
+   "year": "2012",
+   "owned": false
+  },
+  {
+   "order": 72,
+   "series": "New Avengers",
+   "issue": "19",
+   "volume": "2010",
+   "year": "2012",
+   "owned": false
+  },
+  {
+   "order": 73,
+   "series": "New Avengers",
+   "issue": "20",
+   "volume": "2010",
+   "year": "2012",
+   "owned": false
+  },
+  {
+   "order": 74,
+   "series": "New Avengers",
+   "issue": "21",
+   "volume": "2010",
+   "year": "2012",
+   "owned": false
+  },
+  {
+   "order": 75,
+   "series": "New Avengers",
+   "issue": "22",
+   "volume": "2010",
+   "year": "2012",
+   "owned": false
+  },
+  {
+   "order": 76,
+   "series": "New Avengers",
+   "issue": "23",
+   "volume": "2010",
+   "year": "2012",
+   "owned": false
+  },
+  {
+   "order": 77,
+   "series": "Avengers",
+   "issue": "19",
+   "volume": "2010",
+   "year": "2012",
+   "owned": true
+  },
+  {
+   "order": 78,
+   "series": "The Amazing Spider-Man",
+   "issue": "663",
+   "volume": "1963",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 79,
+   "series": "Free Comic Book Day 2011 (Spider-Man)",
+   "issue": "1",
+   "volume": "2011",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 80,
+   "series": "The Amazing Spider-Man",
+   "issue": "664",
+   "volume": "1963",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 81,
+   "series": "The Amazing Spider-Man",
+   "issue": "665",
+   "volume": "1963",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 82,
+   "series": "The Amazing Spider-Man",
+   "issue": "674",
+   "volume": "1963",
+   "year": "2012",
+   "owned": false
+  },
+  {
+   "order": 83,
+   "series": "The Amazing Spider-Man",
+   "issue": "675",
+   "volume": "1963",
+   "year": "2012",
+   "owned": false
+  },
+  {
+   "order": 84,
+   "series": "Carnage U.S.A.",
+   "issue": "1",
+   "volume": "2012",
+   "year": "2012",
+   "owned": false
+  },
+  {
+   "order": 85,
+   "series": "Carnage U.S.A.",
+   "issue": "2",
+   "volume": "2012",
+   "year": "2012",
+   "owned": false
+  },
+  {
+   "order": 86,
+   "series": "Carnage U.S.A.",
+   "issue": "3",
+   "volume": "2012",
+   "year": "2012",
+   "owned": false
+  },
+  {
+   "order": 87,
+   "series": "Carnage U.S.A.",
+   "issue": "4",
+   "volume": "2012",
+   "year": "2012",
+   "owned": false
+  },
+  {
+   "order": 88,
+   "series": "Carnage U.S.A.",
+   "issue": "5",
+   "volume": "2012",
+   "year": "2012",
+   "owned": false
+  },
+  {
+   "order": 89,
+   "series": "Avenging Spider-Man",
+   "issue": "1",
+   "volume": "2011",
+   "year": "2012",
+   "owned": false
+  },
+  {
+   "order": 90,
+   "series": "Avenging Spider-Man",
+   "issue": "2",
+   "volume": "2011",
+   "year": "2012",
+   "owned": false
+  },
+  {
+   "order": 91,
+   "series": "Avenging Spider-Man",
+   "issue": "3",
+   "volume": "2011",
+   "year": "2012",
+   "owned": false
+  },
+  {
+   "order": 92,
+   "series": "The Amazing Spider-Man",
+   "issue": "676",
+   "volume": "1963",
+   "year": "2012",
+   "owned": false
+  },
+  {
+   "order": 93,
+   "series": "The Amazing Spider-Man",
+   "issue": "677",
+   "volume": "1963",
+   "year": "2012",
+   "owned": false
+  },
+  {
+   "order": 94,
+   "series": "Daredevil",
+   "issue": "8",
+   "volume": "2011",
+   "year": "2012",
+   "owned": false
+  },
+  {
+   "order": 95,
+   "series": "The Amazing Spider-Man",
+   "issue": "678",
+   "volume": "1963",
+   "year": "2012",
+   "owned": false
+  },
+  {
+   "order": 96,
+   "series": "The Amazing Spider-Man",
+   "issue": "679",
+   "volume": "1963",
+   "year": "2012",
+   "owned": false
+  },
+  {
+   "order": 97,
+   "series": "The Amazing Spider-Man",
+   "issue": "679.1",
+   "volume": "1963",
+   "year": "2012",
+   "owned": true
+  },
+  {
+   "order": 98,
+   "series": "Avenging Spider-Man",
+   "issue": "4",
+   "volume": "2011",
+   "year": "2012",
+   "owned": false
+  },
+  {
+   "order": 99,
+   "series": "Avenging Spider-Man",
+   "issue": "5",
+   "volume": "2011",
+   "year": "2012",
+   "owned": false
+  },
+  {
+   "order": 100,
+   "series": "The Amazing Spider-Man",
+   "issue": "680",
+   "volume": "1963",
+   "year": "2012",
+   "owned": false
+  },
+  {
+   "order": 101,
+   "series": "The Amazing Spider-Man",
+   "issue": "681",
+   "volume": "1963",
+   "year": "2012",
+   "owned": false
+  },
+  {
+   "order": 102,
+   "series": "Avenging Spider-Man",
+   "issue": "6",
+   "volume": "2011",
+   "year": "2012",
+   "owned": false
+  },
+  {
+   "order": 103,
+   "series": "The Punisher",
+   "issue": "10",
+   "volume": "2016",
+   "year": "2017",
+   "owned": false
+  },
+  {
+   "order": 104,
+   "series": "Daredevil",
+   "issue": "11",
+   "volume": "2011",
+   "year": "2012",
+   "owned": false
+  },
+  {
+   "order": 105,
+   "series": "The Amazing Spider-Man Annual",
+   "issue": "39",
+   "volume": "1964",
+   "year": "2012",
+   "owned": false
+  },
+  {
+   "order": 106,
+   "series": "Avenging Spider-Man",
+   "issue": "7",
+   "volume": "2011",
+   "year": "2012",
+   "owned": false
+  },
+  {
+   "order": 107,
+   "series": "Avenging Spider-Man",
+   "issue": "8",
+   "volume": "2011",
+   "year": "2012",
+   "owned": false
+  },
+  {
+   "order": 108,
+   "series": "The Amazing Spider-Man",
+   "issue": "682",
+   "volume": "1963",
+   "year": "2012",
+   "owned": false
+  },
+  {
+   "order": 109,
+   "series": "The Amazing Spider-Man",
+   "issue": "683",
+   "volume": "1963",
+   "year": "2012",
+   "owned": false
+  },
+  {
+   "order": 110,
+   "series": "The Amazing Spider-Man",
+   "issue": "684",
+   "volume": "1963",
+   "year": "2012",
+   "owned": false
+  },
+  {
+   "order": 111,
+   "series": "The Amazing Spider-Man",
+   "issue": "685",
+   "volume": "1963",
+   "year": "2012",
+   "owned": false
+  },
+  {
+   "order": 112,
+   "series": "Amazing Spider-Man: Ends of the Earth",
+   "issue": "1",
+   "volume": "2012",
+   "year": "2012",
+   "owned": false
+  },
+  {
+   "order": 113,
+   "series": "The Amazing Spider-Man",
+   "issue": "686",
+   "volume": "1963",
+   "year": "2012",
+   "owned": false
+  },
+  {
+   "order": 114,
+   "series": "The Amazing Spider-Man",
+   "issue": "687",
+   "volume": "1963",
+   "year": "2012",
+   "owned": false
+  },
+  {
+   "order": 115,
+   "series": "Spider-Men",
+   "issue": "1",
+   "volume": "2012",
+   "year": "2012",
+   "owned": false
+  },
+  {
+   "order": 116,
+   "series": "Spider-Men",
+   "issue": "2",
+   "volume": "2012",
+   "year": "2012",
+   "owned": false
+  },
+  {
+   "order": 117,
+   "series": "Spider-Men",
+   "issue": "3",
+   "volume": "2012",
+   "year": "2012",
+   "owned": false
+  },
+  {
+   "order": 118,
+   "series": "Spider-Men",
+   "issue": "4",
+   "volume": "2012",
+   "year": "2012",
+   "owned": false
+  },
+  {
+   "order": 119,
+   "series": "Spider-Men",
+   "issue": "5",
+   "volume": "2012",
+   "year": "2012",
+   "owned": false
+  },
+  {
+   "order": 120,
+   "series": "The Amazing Spider-Man",
+   "issue": "688",
+   "volume": "1963",
+   "year": "2012",
+   "owned": false
+  },
+  {
+   "order": 121,
+   "series": "The Amazing Spider-Man",
+   "issue": "689",
+   "volume": "1963",
+   "year": "2012",
+   "owned": false
+  },
+  {
+   "order": 122,
+   "series": "The Amazing Spider-Man",
+   "issue": "690",
+   "volume": "1963",
+   "year": "2012",
+   "owned": false
+  },
+  {
+   "order": 123,
+   "series": "The Amazing Spider-Man",
+   "issue": "691",
+   "volume": "1963",
+   "year": "2012",
+   "owned": false
+  },
+  {
+   "order": 124,
+   "series": "Avenging Spider-Man",
+   "issue": "9",
+   "volume": "2011",
+   "year": "2012",
+   "owned": false
+  },
+  {
+   "order": 125,
+   "series": "Avenging Spider-Man",
+   "issue": "10",
+   "volume": "2011",
+   "year": "2012",
+   "owned": false
+  },
+  {
+   "order": 126,
+   "series": "The Amazing Spider-Man",
+   "issue": "692",
+   "volume": "1963",
+   "year": "2012",
+   "owned": false
+  },
+  {
+   "order": 127,
+   "series": "The Amazing Spider-Man",
+   "issue": "693",
+   "volume": "1963",
+   "year": "2012",
+   "owned": false
+  },
+  {
+   "order": 128,
+   "series": "The Amazing Spider-Man",
+   "issue": "694",
+   "volume": "1963",
+   "year": "2012",
+   "owned": false
+  },
+  {
+   "order": 129,
+   "series": "Avenging Spider-Man",
+   "issue": "11",
+   "volume": "2011",
+   "year": "2012",
+   "owned": false
+  },
+  {
+   "order": 130,
+   "series": "Avenging Spider-Man",
+   "issue": "12",
+   "volume": "2011",
+   "year": "2012",
+   "owned": false
+  },
+  {
+   "order": 131,
+   "series": "Avenging Spider-Man",
+   "issue": "13",
+   "volume": "2011",
+   "year": "2012",
+   "owned": false
+  },
+  {
+   "order": 132,
+   "series": "The Amazing Spider-Man",
+   "issue": "695",
+   "volume": "1963",
+   "year": "2012",
+   "owned": false
+  },
+  {
+   "order": 133,
+   "series": "The Amazing Spider-Man",
+   "issue": "696",
+   "volume": "1963",
+   "year": "2012",
+   "owned": false
+  },
+  {
+   "order": 134,
+   "series": "The Amazing Spider-Man",
+   "issue": "697",
+   "volume": "1963",
+   "year": "2013",
+   "owned": false
+  },
+  {
+   "order": 135,
+   "series": "Avenging Spider-Man Annual",
+   "issue": "1",
+   "volume": "2012",
+   "year": "2012",
+   "owned": false
+  },
+  {
+   "order": 136,
+   "series": "Avenging Spider-Man",
+   "issue": "14",
+   "volume": "2011",
+   "year": "2013",
+   "owned": false
+  },
+  {
+   "order": 137,
+   "series": "Avenging Spider-Man",
+   "issue": "15",
+   "volume": "2011",
+   "year": "2013",
+   "owned": false
+  },
+  {
+   "order": 138,
+   "series": "New Avengers",
+   "issue": "31",
+   "volume": "2010",
+   "year": "2012",
+   "owned": false
+  },
+  {
+   "order": 139,
+   "series": "New Avengers",
+   "issue": "32",
+   "volume": "2010",
+   "year": "2013",
+   "owned": false
+  },
+  {
+   "order": 140,
+   "series": "New Avengers",
+   "issue": "33",
+   "volume": "2010",
+   "year": "2013",
+   "owned": false
+  },
+  {
+   "order": 141,
+   "series": "New Avengers",
+   "issue": "34",
+   "volume": "2010",
+   "year": "2013",
+   "owned": false
+  },
+  {
+   "order": 142,
+   "series": "Avengers",
+   "issue": "1",
+   "volume": "2012",
+   "year": "2013",
+   "owned": true
+  },
+  {
+   "order": 143,
+   "series": "Avengers",
+   "issue": "2",
+   "volume": "2012",
+   "year": "2013",
+   "owned": true
+  },
+  {
+   "order": 144,
+   "series": "Avengers",
+   "issue": "3",
+   "volume": "2012",
+   "year": "2013",
+   "owned": true
+  },
+  {
+   "order": 145,
+   "series": "The Amazing Spider-Man",
+   "issue": "698",
+   "volume": "1963",
+   "year": "2013",
+   "owned": false
+  },
+  {
+   "order": 146,
+   "series": "The Amazing Spider-Man",
+   "issue": "699.1",
+   "volume": "1963",
+   "year": "2013",
+   "owned": false
+  },
+  {
+   "order": 147,
+   "series": "The Amazing Spider-Man",
+   "issue": "699",
+   "volume": "1963",
+   "year": "2013",
+   "owned": false
+  },
+  {
+   "order": 148,
+   "series": "The Amazing Spider-Man",
+   "issue": "700",
+   "volume": "1963",
+   "year": "2013",
+   "owned": false
+  }
+ ]
+}

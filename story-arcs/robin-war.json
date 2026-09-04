@@ -1,0 +1,80 @@
+{
+ "arc": "Robin War",
+ "slug": "robin-war",
+ "issue_count": 9,
+ "owned_count": 1,
+ "entries": [
+  {
+   "order": 1,
+   "series": "Robin War",
+   "issue": "1",
+   "volume": "2015",
+   "year": "2016",
+   "owned": false
+  },
+  {
+   "order": 2,
+   "series": "Grayson",
+   "issue": "15",
+   "volume": "2014",
+   "year": "2016",
+   "owned": false
+  },
+  {
+   "order": 3,
+   "series": "Detective Comics",
+   "issue": "47",
+   "volume": "2011",
+   "year": "2016",
+   "owned": false
+  },
+  {
+   "order": 4,
+   "series": "We Are Robin",
+   "issue": "7",
+   "volume": "2015",
+   "year": "2016",
+   "owned": false
+  },
+  {
+   "order": 5,
+   "series": "Red Hood/Arsenal",
+   "issue": "7",
+   "volume": "2015",
+   "year": "2016",
+   "owned": false
+  },
+  {
+   "order": 6,
+   "series": "Robin: Son of Batman",
+   "issue": "7",
+   "volume": "2015",
+   "year": "2016",
+   "owned": false
+  },
+  {
+   "order": 7,
+   "series": "Gotham Academy",
+   "issue": "13",
+   "volume": "2014",
+   "year": "2016",
+   "owned": false
+  },
+  {
+   "order": 8,
+   "series": "Teen Titans",
+   "issue": "15",
+   "volume": "2014",
+   "year": "2016",
+   "owned": true
+  },
+  {
+   "order": 9,
+   "series": "Robin War",
+   "issue": "2",
+   "volume": "2015",
+   "year": "2016",
+   "owned": false
+  }
+ ]
+}

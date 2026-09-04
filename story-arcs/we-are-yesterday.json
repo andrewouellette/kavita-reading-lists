@@ -1,0 +1,56 @@
+{
+ "arc": "We Are Yesterday",
+ "slug": "we-are-yesterday",
+ "issue_count": 6,
+ "owned_count": 6,
+ "entries": [
+  {
+   "order": 1,
+   "series": "Batman/Superman: World's Finest",
+   "issue": "38",
+   "volume": "2022",
+   "year": "2025",
+   "owned": true
+  },
+  {
+   "order": 2,
+   "series": "Justice League Unlimited",
+   "issue": "6",
+   "volume": "2024",
+   "year": "2025",
+   "owned": true
+  },
+  {
+   "order": 3,
+   "series": "Batman/Superman: World's Finest 2025 Annual",
+   "issue": "1",
+   "volume": "2025",
+   "year": "2025",
+   "owned": true
+  },
+  {
+   "order": 4,
+   "series": "Batman/Superman: World's Finest",
+   "issue": "39",
+   "volume": "2022",
+   "year": "2025",
+   "owned": true
+  },
+  {
+   "order": 5,
+   "series": "Justice League Unlimited",
+   "issue": "7",
+   "volume": "2024",
+   "year": "2025",
+   "owned": true
+  },
+  {
+   "order": 6,
+   "series": "Justice League Unlimited",
+   "issue": "8",
+   "volume": "2024",
+   "year": "2025",
+   "owned": true
+  }
+ ]
+}

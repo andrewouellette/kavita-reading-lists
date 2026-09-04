@@ -1,0 +1,672 @@
+{
+ "arc": "One World Under Doom",
+ "slug": "one-world-under-doom",
+ "issue_count": 83,
+ "owned_count": 55,
+ "entries": [
+  {
+   "order": 1,
+   "series": "The Amazing Spider-Man",
+   "issue": "69",
+   "volume": "2022",
+   "year": "2025",
+   "owned": true
+  },
+  {
+   "order": 2,
+   "series": "The Amazing Spider-Man",
+   "issue": "70",
+   "volume": "2022",
+   "year": "2025",
+   "owned": true
+  },
+  {
+   "order": 3,
+   "series": "Storm",
+   "issue": "5",
+   "volume": "2024",
+   "year": "2025",
+   "owned": true
+  },
+  {
+   "order": 4,
+   "series": "Doctor Strange of Asgard",
+   "issue": "1",
+   "volume": "2025",
+   "year": "2025",
+   "owned": false
+  },
+  {
+   "order": 5,
+   "series": "Doctor Strange of Asgard",
+   "issue": "2",
+   "volume": "2025",
+   "year": "2025",
+   "owned": false
+  },
+  {
+   "order": 6,
+   "series": "Doctor Strange of Asgard",
+   "issue": "3",
+   "volume": "2025",
+   "year": "2025",
+   "owned": false
+  },
+  {
+   "order": 7,
+   "series": "Doctor Strange of Asgard",
+   "issue": "4",
+   "volume": "2025",
+   "year": "2025",
+   "owned": false
+  },
+  {
+   "order": 8,
+   "series": "Doctor Strange of Asgard",
+   "issue": "5",
+   "volume": "2025",
+   "year": "2025",
+   "owned": true
+  },
+  {
+   "order": 9,
+   "series": "Fantastic Four",
+   "issue": "28",
+   "volume": "2022",
+   "year": "2025",
+   "owned": true
+  },
+  {
+   "order": 10,
+   "series": "One World Under Doom",
+   "issue": "1",
+   "volume": "2025",
+   "year": "2025",
+   "owned": true
+  },
+  {
+   "order": 11,
+   "series": "X-Factor",
+   "issue": "7",
+   "volume": "2024",
+   "year": "2025",
+   "owned": true
+  },
+  {
+   "order": 12,
+   "series": "Weapon X-Men",
+   "issue": "1",
+   "volume": "2025",
+   "year": "2025",
+   "owned": false
+  },
+  {
+   "order": 13,
+   "series": "NYX",
+   "issue": "9",
+   "volume": "2024",
+   "year": "2025",
+   "owned": false
+  },
+  {
+   "order": 14,
+   "series": "Red Hulk",
+   "issue": "1",
+   "volume": "2025",
+   "year": "2025",
+   "owned": true
+  },
+  {
+   "order": 15,
+   "series": "Fantastic Four",
+   "issue": "29",
+   "volume": "2022",
+   "year": "2025",
+   "owned": true
+  },
+  {
+   "order": 16,
+   "series": "Iron Man",
+   "issue": "6",
+   "volume": "2024",
+   "year": "2025",
+   "owned": true
+  },
+  {
+   "order": 17,
+   "series": "One World Under Doom",
+   "issue": "2",
+   "volume": "2025",
+   "year": "2025",
+   "owned": true
+  },
+  {
+   "order": 18,
+   "series": "Fantastic Four",
+   "issue": "30",
+   "volume": "2022",
+   "year": "2025",
+   "owned": true
+  },
+  {
+   "order": 19,
+   "series": "Fantastic Four",
+   "issue": "31",
+   "volume": "2022",
+   "year": "2025",
+   "owned": true
+  },
+  {
+   "order": 20,
+   "series": "Fantastic Four",
+   "issue": "32",
+   "volume": "2022",
+   "year": "2025",
+   "owned": true
+  },
+  {
+   "order": 21,
+   "series": "Fantastic Four",
+   "issue": "33",
+   "volume": "2022",
+   "year": "2025",
+   "owned": true
+  },
+  {
+   "order": 22,
+   "series": "Thunderbolts: Doomstrike",
+   "issue": "1",
+   "volume": "2025",
+   "year": "2025",
+   "owned": false
+  },
+  {
+   "order": 23,
+   "series": "Thunderbolts: Doomstrike",
+   "issue": "2",
+   "volume": "2025",
+   "year": "2025",
+   "owned": false
+  },
+  {
+   "order": 24,
+   "series": "Thunderbolts: Doomstrike",
+   "issue": "3",
+   "volume": "2025",
+   "year": "2025",
+   "owned": false
+  },
+  {
+   "order": 25,
+   "series": "Thunderbolts: Doomstrike",
+   "issue": "4",
+   "volume": "2025",
+   "year": "2025",
+   "owned": false
+  },
+  {
+   "order": 26,
+   "series": "Thunderbolts: Doomstrike",
+   "issue": "5",
+   "volume": "2025",
+   "year": "2025",
+   "owned": false
+  },
+  {
+   "order": 27,
+   "series": "G.O.D.S.: One World Under Doom",
+   "issue": "1",
+   "volume": "2025",
+   "year": "2025",
+   "owned": true
+  },
+  {
+   "order": 28,
+   "series": "Doom Academy",
+   "issue": "1",
+   "volume": "2025",
+   "year": "2025",
+   "owned": false
+  },
+  {
+   "order": 29,
+   "series": "Doom Academy",
+   "issue": "2",
+   "volume": "2025",
+   "year": "2025",
+   "owned": false
+  },
+  {
+   "order": 30,
+   "series": "Doom Academy",
+   "issue": "3",
+   "volume": "2025",
+   "year": "2025",
+   "owned": false
+  },
+  {
+   "order": 31,
+   "series": "Doom Academy",
+   "issue": "4",
+   "volume": "2025",
+   "year": "2025",
+   "owned": false
+  },
+  {
+   "order": 32,
+   "series": "Doom Academy",
+   "issue": "5",
+   "volume": "2025",
+   "year": "2025",
+   "owned": false
+  },
+  {
+   "order": 33,
+   "series": "Red Hulk",
+   "issue": "2",
+   "volume": "2025",
+   "year": "2025",
+   "owned": true
+  },
+  {
+   "order": 34,
+   "series": "Red Hulk",
+   "issue": "3",
+   "volume": "2025",
+   "year": "2025",
+   "owned": true
+  },
+  {
+   "order": 35,
+   "series": "Red Hulk",
+   "issue": "4",
+   "volume": "2025",
+   "year": "2025",
+   "owned": true
+  },
+  {
+   "order": 36,
+   "series": "Red Hulk",
+   "issue": "5",
+   "volume": "2025",
+   "year": "2025",
+   "owned": true
+  },
+  {
+   "order": 37,
+   "series": "Doom's Division",
+   "issue": "1",
+   "volume": "2025",
+   "year": "2025",
+   "owned": false
+  },
+  {
+   "order": 38,
+   "series": "Doom's Division",
+   "issue": "2",
+   "volume": "2025",
+   "year": "2025",
+   "owned": false
+  },
+  {
+   "order": 39,
+   "series": "Doom's Division",
+   "issue": "3",
+   "volume": "2025",
+   "year": "2025",
+   "owned": false
+  },
+  {
+   "order": 40,
+   "series": "Doom's Division",
+   "issue": "4",
+   "volume": "2025",
+   "year": "2025",
+   "owned": false
+  },
+  {
+   "order": 41,
+   "series": "Doom's Division",
+   "issue": "5",
+   "volume": "2025",
+   "year": "2025",
+   "owned": true
+  },
+  {
+   "order": 42,
+   "series": "Iron Man",
+   "issue": "7",
+   "volume": "2024",
+   "year": "2025",
+   "owned": true
+  },
+  {
+   "order": 43,
+   "series": "Avengers Academy: Marvel's Voices Infinity Comic",
+   "issue": "43",
+   "volume": "2024",
+   "year": "2025",
+   "owned": false
+  },
+  {
+   "order": 44,
+   "series": "Avengers Academy: Marvel's Voices Infinity Comic",
+   "issue": "44",
+   "volume": "2024",
+   "year": "2025",
+   "owned": false
+  },
+  {
+   "order": 45,
+   "series": "Avengers Academy: Marvel's Voices Infinity Comic",
+   "issue": "45",
+   "volume": "2024",
+   "year": "2025",
+   "owned": false
+  },
+  {
+   "order": 46,
+   "series": "Superior Avengers",
+   "issue": "1",
+   "volume": "2025",
+   "year": "2025",
+   "owned": true
+  },
+  {
+   "order": 47,
+   "series": "One World Under Doom",
+   "issue": "3",
+   "volume": "2025",
+   "year": "2025",
+   "owned": true
+  },
+  {
+   "order": 48,
+   "series": "Avengers",
+   "issue": "25",
+   "volume": "2023",
+   "year": "2025",
+   "owned": true
+  },
+  {
+   "order": 49,
+   "series": "Avengers",
+   "issue": "26",
+   "volume": "2023",
+   "year": "2025",
+   "owned": true
+  },
+  {
+   "order": 50,
+   "series": "Avengers",
+   "issue": "27",
+   "volume": "2023",
+   "year": "2025",
+   "owned": true
+  },
+  {
+   "order": 51,
+   "series": "Superior Avengers",
+   "issue": "2",
+   "volume": "2025",
+   "year": "2025",
+   "owned": true
+  },
+  {
+   "order": 52,
+   "series": "Red Hulk",
+   "issue": "6",
+   "volume": "2025",
+   "year": "2025",
+   "owned": true
+  },
+  {
+   "order": 53,
+   "series": "Red Hulk",
+   "issue": "7",
+   "volume": "2025",
+   "year": "2025",
+   "owned": true
+  },
+  {
+   "order": 54,
+   "series": "Red Hulk",
+   "issue": "8",
+   "volume": "2025",
+   "year": "2025",
+   "owned": true
+  },
+  {
+   "order": 55,
+   "series": "Fantastic Four",
+   "issue": "1",
+   "volume": "2025",
+   "year": "2025",
+   "owned": true
+  },
+  {
+   "order": 56,
+   "series": "Fantastic Four",
+   "issue": "2",
+   "volume": "2025",
+   "year": "2025",
+   "owned": true
+  },
+  {
+   "order": 57,
+   "series": "Fantastic Four",
+   "issue": "3",
+   "volume": "2025",
+   "year": "2025",
+   "owned": true
+  },
+  {
+   "order": 58,
+   "series": "One World Under Doom",
+   "issue": "4",
+   "volume": "2025",
+   "year": "2025",
+   "owned": true
+  },
+  {
+   "order": 59,
+   "series": "One World Under Doom",
+   "issue": "5",
+   "volume": "2025",
+   "year": "2025",
+   "owned": true
+  },
+  {
+   "order": 60,
+   "series": "Avengers",
+   "issue": "28",
+   "volume": "2023",
+   "year": "2025",
+   "owned": true
+  },
+  {
+   "order": 61,
+   "series": "Iron Man",
+   "issue": "8",
+   "volume": "2024",
+   "year": "2025",
+   "owned": true
+  },
+  {
+   "order": 62,
+   "series": "Iron Man",
+   "issue": "9",
+   "volume": "2024",
+   "year": "2025",
+   "owned": true
+  },
+  {
+   "order": 63,
+   "series": "Iron Man",
+   "issue": "10",
+   "volume": "2024",
+   "year": "2025",
+   "owned": true
+  },
+  {
+   "order": 64,
+   "series": "Runaways",
+   "issue": "1",
+   "volume": "2025",
+   "year": "2025",
+   "owned": false
+  },
+  {
+   "order": 65,
+   "series": "Runaways",
+   "issue": "2",
+   "volume": "2025",
+   "year": "2025",
+   "owned": true
+  },
+  {
+   "order": 66,
+   "series": "Runaways",
+   "issue": "3",
+   "volume": "2025",
+   "year": "2025",
+   "owned": true
+  },
+  {
+   "order": 67,
+   "series": "Runaways",
+   "issue": "4",
+   "volume": "2025",
+   "year": "2025",
+   "owned": true
+  },
+  {
+   "order": 68,
+   "series": "Astonishing Avengers Infinity Comic",
+   "issue": "21",
+   "volume": "2025",
+   "year": "2025",
+   "owned": false
+  },
+  {
+   "order": 69,
+   "series": "Astonishing Avengers Infinity Comic",
+   "issue": "22",
+   "volume": "2025",
+   "year": "2025",
+   "owned": false
+  },
+  {
+   "order": 70,
+   "series": "Astonishing Avengers Infinity Comic",
+   "issue": "23",
+   "volume": "2025",
+   "year": "2025",
+   "owned": false
+  },
+  {
+   "order": 71,
+   "series": "Superior Avengers",
+   "issue": "3",
+   "volume": "2025",
+   "year": "2025",
+   "owned": true
+  },
+  {
+   "order": 72,
+   "series": "Superior Avengers",
+   "issue": "4",
+   "volume": "2025",
+   "year": "2025",
+   "owned": true
+  },
+  {
+   "order": 73,
+   "series": "Superior Avengers",
+   "issue": "5",
+   "volume": "2025",
+   "year": "2025",
+   "owned": true
+  },
+  {
+   "order": 74,
+   "series": "Superior Avengers",
+   "issue": "6",
+   "volume": "2025",
+   "year": "2025",
+   "owned": true
+  },
+  {
+   "order": 75,
+   "series": "Red Hulk",
+   "issue": "9",
+   "volume": "2025",
+   "year": "2025",
+   "owned": true
+  },
+  {
+   "order": 76,
+   "series": "One World Under Doom",
+   "issue": "6",
+   "volume": "2025",
+   "year": "2025",
+   "owned": true
+  },
+  {
+   "order": 77,
+   "series": "Runaways",
+   "issue": "5",
+   "volume": "2025",
+   "year": "2025",
+   "owned": true
+  },
+  {
+   "order": 78,
+   "series": "Red Hulk",
+   "issue": "10",
+   "volume": "2025",
+   "year": "2025",
+   "owned": true
+  },
+  {
+   "order": 79,
+   "series": "One World Under Doom",
+   "issue": "7",
+   "volume": "2025",
+   "year": "2025",
+   "owned": true
+  },
+  {
+   "order": 80,
+   "series": "One World Under Doom",
+   "issue": "8",
+   "volume": "2025",
+   "year": "2025",
+   "owned": true
+  },
+  {
+   "order": 81,
+   "series": "Doomed 2099",
+   "issue": "1",
+   "volume": "2025",
+   "year": "2025",
+   "owned": false
+  },
+  {
+   "order": 82,
+   "series": "One World Under Doom",
+   "issue": "9",
+   "volume": "2025",
+   "year": "2025",
+   "owned": true
+  },
+  {
+   "order": 83,
+   "series": "The Will of Doom",
+   "issue": "1",
+   "volume": "2026",
+   "year": "2025",
+   "owned": true
+  }
+ ]
+}

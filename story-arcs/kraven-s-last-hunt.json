@@ -1,0 +1,56 @@
+{
+ "arc": "Kraven's Last Hunt",
+ "slug": "kraven-s-last-hunt",
+ "issue_count": 6,
+ "owned_count": 0,
+ "entries": [
+  {
+   "order": 1,
+   "series": "Web of Spider-Man",
+   "issue": "31",
+   "volume": "1985",
+   "year": "1987",
+   "owned": false
+  },
+  {
+   "order": 2,
+   "series": "The Amazing Spider-Man",
+   "issue": "293",
+   "volume": "1963",
+   "year": "1987",
+   "owned": false
+  },
+  {
+   "order": 3,
+   "series": "Peter Parker, the Spectacular Spider-Man",
+   "issue": "131",
+   "volume": "1980",
+   "year": "1987",
+   "owned": false
+  },
+  {
+   "order": 4,
+   "series": "Web of Spider-Man",
+   "issue": "32",
+   "volume": "1985",
+   "year": "1987",
+   "owned": false
+  },
+  {
+   "order": 5,
+   "series": "The Amazing Spider-Man",
+   "issue": "294",
+   "volume": "1963",
+   "year": "1987",
+   "owned": false
+  },
+  {
+   "order": 6,
+   "series": "Peter Parker, the Spectacular Spider-Man",
+   "issue": "132",
+   "volume": "1980",
+   "year": "1987",
+   "owned": false
+  }
+ ]
+}

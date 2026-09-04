@@ -1,0 +1,112 @@
+{
+ "arc": "Original Clone Saga",
+ "slug": "original-clone-saga",
+ "issue_count": 13,
+ "owned_count": 0,
+ "entries": [
+  {
+   "order": 1,
+   "series": "The Amazing Spider-Man",
+   "issue": "139",
+   "volume": "1963",
+   "year": "1974",
+   "owned": false
+  },
+  {
+   "order": 2,
+   "series": "The Amazing Spider-Man",
+   "issue": "140",
+   "volume": "1963",
+   "year": "1975",
+   "owned": false
+  },
+  {
+   "order": 3,
+   "series": "The Amazing Spider-Man",
+   "issue": "141",
+   "volume": "1963",
+   "year": "1975",
+   "owned": false
+  },
+  {
+   "order": 4,
+   "series": "The Amazing Spider-Man",
+   "issue": "142",
+   "volume": "1963",
+   "year": "1975",
+   "owned": false
+  },
+  {
+   "order": 5,
+   "series": "The Amazing Spider-Man",
+   "issue": "143",
+   "volume": "1963",
+   "year": "1975",
+   "owned": false
+  },
+  {
+   "order": 6,
+   "series": "The Amazing Spider-Man",
+   "issue": "144",
+   "volume": "1963",
+   "year": "1975",
+   "owned": false
+  },
+  {
+   "order": 7,
+   "series": "The Amazing Spider-Man",
+   "issue": "145",
+   "volume": "1963",
+   "year": "1975",
+   "owned": false
+  },
+  {
+   "order": 8,
+   "series": "The Amazing Spider-Man",
+   "issue": "146",
+   "volume": "1963",
+   "year": "1975",
+   "owned": false
+  },
+  {
+   "order": 9,
+   "series": "The Amazing Spider-Man",
+   "issue": "147",
+   "volume": "1963",
+   "year": "1975",
+   "owned": false
+  },
+  {
+   "order": 10,
+   "series": "The Amazing Spider-Man",
+   "issue": "148",
+   "volume": "1963",
+   "year": "1975",
+   "owned": false
+  },
+  {
+   "order": 11,
+   "series": "The Amazing Spider-Man",
+   "issue": "149",
+   "volume": "1963",
+   "year": "1975",
+   "owned": false
+  },
+  {
+   "order": 12,
+   "series": "The Amazing Spider-Man",
+   "issue": "150",
+   "volume": "1963",
+   "year": "1975",
+   "owned": false
+  },
+  {
+   "order": 13,
+   "series": "The Amazing Spider-Man",
+   "issue": "151",
+   "volume": "1963",
+   "year": "1975",
+   "owned": false
+  }
+ ]
+}

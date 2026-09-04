@@ -1,0 +1,80 @@
+{
+ "arc": "Superman: Emperor Joker",
+ "slug": "superman-emperor-joker",
+ "issue_count": 9,
+ "owned_count": 0,
+ "entries": [
+  {
+   "order": 1,
+   "series": "Superman",
+   "issue": "160",
+   "volume": "1987",
+   "year": "2000",
+   "owned": false
+  },
+  {
+   "order": 2,
+   "series": "Adventures of Superman",
+   "issue": "582",
+   "volume": "1987",
+   "year": "2000",
+   "owned": false
+  },
+  {
+   "order": 3,
+   "series": "Superman: The Man of Steel",
+   "issue": "104",
+   "volume": "1991",
+   "year": "2000",
+   "owned": false
+  },
+  {
+   "order": 4,
+   "series": "Action Comics",
+   "issue": "769",
+   "volume": "1938",
+   "year": "2000",
+   "owned": false
+  },
+  {
+   "order": 5,
+   "series": "Superman: Emperor Joker",
+   "issue": "1",
+   "volume": "2000",
+   "year": "2000",
+   "owned": false
+  },
+  {
+   "order": 6,
+   "series": "Superman",
+   "issue": "161",
+   "volume": "1987",
+   "year": "2000",
+   "owned": false
+  },
+  {
+   "order": 7,
+   "series": "Adventures of Superman",
+   "issue": "583",
+   "volume": "1987",
+   "year": "2000",
+   "owned": false
+  },
+  {
+   "order": 8,
+   "series": "Superman: The Man of Steel",
+   "issue": "105",
+   "volume": "1991",
+   "year": "2000",
+   "owned": false
+  },
+  {
+   "order": 9,
+   "series": "Action Comics",
+   "issue": "770",
+   "volume": "1938",
+   "year": "2000",
+   "owned": false
+  }
+ ]
+}

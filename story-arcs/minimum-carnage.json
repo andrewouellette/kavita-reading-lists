@@ -1,0 +1,56 @@
+{
+ "arc": "Minimum Carnage",
+ "slug": "minimum-carnage",
+ "issue_count": 6,
+ "owned_count": 2,
+ "entries": [
+  {
+   "order": 1,
+   "series": "Minimum Carnage: Alpha",
+   "issue": "1",
+   "volume": "2012",
+   "year": "2012",
+   "owned": false
+  },
+  {
+   "order": 2,
+   "series": "Scarlet Spider",
+   "issue": "10",
+   "volume": "2012",
+   "year": "2012",
+   "owned": false
+  },
+  {
+   "order": 3,
+   "series": "Venom",
+   "issue": "26",
+   "volume": "2011",
+   "year": "2012",
+   "owned": true
+  },
+  {
+   "order": 4,
+   "series": "Scarlet Spider",
+   "issue": "11",
+   "volume": "2012",
+   "year": "2013",
+   "owned": false
+  },
+  {
+   "order": 5,
+   "series": "Venom",
+   "issue": "27",
+   "volume": "2011",
+   "year": "2013",
+   "owned": true
+  },
+  {
+   "order": 6,
+   "series": "Minimum Carnage: Omega",
+   "issue": "1",
+   "volume": "2013",
+   "year": "2013",
+   "owned": false
+  }
+ ]
+}

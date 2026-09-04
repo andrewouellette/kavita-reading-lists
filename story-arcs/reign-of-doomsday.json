@@ -1,0 +1,88 @@
+{
+ "arc": "Reign of Doomsday",
+ "slug": "reign-of-doomsday",
+ "issue_count": 10,
+ "owned_count": 1,
+ "entries": [
+  {
+   "order": 1,
+   "series": "Steel",
+   "issue": "1",
+   "volume": "2011",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 2,
+   "series": "The Outsiders",
+   "issue": "37",
+   "volume": "2009",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 3,
+   "series": "Justice League of America",
+   "issue": "55",
+   "volume": "2006",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 4,
+   "series": "Superman/Batman Annual",
+   "issue": "5",
+   "volume": "2006",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 5,
+   "series": "Superboy",
+   "issue": "6",
+   "volume": "2010",
+   "year": "2011",
+   "owned": true
+  },
+  {
+   "order": 6,
+   "series": "Action Comics",
+   "issue": "900",
+   "volume": "1938",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 7,
+   "series": "Action Comics",
+   "issue": "901",
+   "volume": "1938",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 8,
+   "series": "Action Comics",
+   "issue": "902",
+   "volume": "1938",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 9,
+   "series": "Action Comics",
+   "issue": "903",
+   "volume": "1938",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 10,
+   "series": "Action Comics",
+   "issue": "904",
+   "volume": "1938",
+   "year": "2011",
+   "owned": false
+  }
+ ]
+}

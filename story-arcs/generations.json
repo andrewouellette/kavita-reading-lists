@@ -1,0 +1,88 @@
+{
+ "arc": "Generations",
+ "slug": "generations",
+ "issue_count": 10,
+ "owned_count": 0,
+ "entries": [
+  {
+   "order": 1,
+   "series": "Generations: Banner Hulk & Totally Awesome Hulk",
+   "issue": "1",
+   "volume": "2017",
+   "year": "2017",
+   "owned": false
+  },
+  {
+   "order": 2,
+   "series": "Generations: Phoenix & Jean Grey",
+   "issue": "1",
+   "volume": "2017",
+   "year": "2017",
+   "owned": false
+  },
+  {
+   "order": 3,
+   "series": "Generations: Wolverine & All-New Wolverine",
+   "issue": "1",
+   "volume": "2017",
+   "year": "2017",
+   "owned": false
+  },
+  {
+   "order": 4,
+   "series": "Generations: The Unworthy Thor & The Mighty Thor",
+   "issue": "1",
+   "volume": "2017",
+   "year": "2017",
+   "owned": false
+  },
+  {
+   "order": 5,
+   "series": "Generations: Hawkeye & Hawkeye",
+   "issue": "1",
+   "volume": "2017",
+   "year": "2017",
+   "owned": false
+  },
+  {
+   "order": 6,
+   "series": "Generations: Iron Man & Ironheart",
+   "issue": "1",
+   "volume": "2017",
+   "year": "2017",
+   "owned": false
+  },
+  {
+   "order": 7,
+   "series": "Generations: Captain Marvel & Captain Mar-vell",
+   "issue": "1",
+   "volume": "2017",
+   "year": "2017",
+   "owned": false
+  },
+  {
+   "order": 8,
+   "series": "Generations: Ms. Marvel & Ms. Marvel",
+   "issue": "1",
+   "volume": "2017",
+   "year": "2017",
+   "owned": false
+  },
+  {
+   "order": 9,
+   "series": "Generations: Miles Morales: Spider-Man & Peter Parker: Spider-Man",
+   "issue": "1",
+   "volume": "2017",
+   "year": "2017",
+   "owned": false
+  },
+  {
+   "order": 10,
+   "series": "Generations: Sam Wilson: Captain America & Steve Rogers: Captain America",
+   "issue": "1",
+   "volume": "2017",
+   "year": "2017",
+   "owned": false
+  }
+ ]
+}

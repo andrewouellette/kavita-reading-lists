@@ -1,0 +1,64 @@
+{
+ "arc": "Bring on the Bad Guys",
+ "slug": "bring-on-the-bad-guys",
+ "issue_count": 7,
+ "owned_count": 6,
+ "entries": [
+  {
+   "order": 1,
+   "series": "Bring on the Bad Guys: Doom",
+   "issue": "1",
+   "volume": "2025",
+   "year": "2025",
+   "owned": false
+  },
+  {
+   "order": 2,
+   "series": "Bring on the Bad Guys: Green Goblin",
+   "issue": "1",
+   "volume": "2025",
+   "year": "2025",
+   "owned": true
+  },
+  {
+   "order": 3,
+   "series": "Bring on the Bad Guys: Abomination",
+   "issue": "1",
+   "volume": "2025",
+   "year": "2025",
+   "owned": true
+  },
+  {
+   "order": 4,
+   "series": "Bring on the Bad Guys: Loki",
+   "issue": "1",
+   "volume": "2025",
+   "year": "2025",
+   "owned": true
+  },
+  {
+   "order": 5,
+   "series": "Bring on the Bad Guys: Red Skull",
+   "issue": "1",
+   "volume": "2025",
+   "year": "2025",
+   "owned": true
+  },
+  {
+   "order": 6,
+   "series": "Bring on the Bad Guys: Dormammu",
+   "issue": "1",
+   "volume": "2025",
+   "year": "2025",
+   "owned": true
+  },
+  {
+   "order": 7,
+   "series": "Bring on the Bad Guys: Mephisto",
+   "issue": "1",
+   "volume": "2025",
+   "year": "2025",
+   "owned": true
+  }
+ ]
+}

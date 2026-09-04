@@ -1,0 +1,48 @@
+{
+ "arc": "The Lazarus Contract",
+ "slug": "the-lazarus-contract",
+ "issue_count": 5,
+ "owned_count": 1,
+ "entries": [
+  {
+   "order": 1,
+   "series": "Titans",
+   "issue": "11",
+   "volume": "2016",
+   "year": "2017",
+   "owned": false
+  },
+  {
+   "order": 2,
+   "series": "Teen Titans",
+   "issue": "8",
+   "volume": "2016",
+   "year": "2017",
+   "owned": true
+  },
+  {
+   "order": 3,
+   "series": "Deathstroke",
+   "issue": "19",
+   "volume": "2016",
+   "year": "2017",
+   "owned": false
+  },
+  {
+   "order": 4,
+   "series": "Teen Titans: The Lazarus Contract Special",
+   "issue": "1",
+   "volume": "2017",
+   "year": "2017",
+   "owned": false
+  },
+  {
+   "order": 5,
+   "series": "Deathstroke",
+   "issue": "20",
+   "volume": "2016",
+   "year": "2017",
+   "owned": false
+  }
+ ]
+}

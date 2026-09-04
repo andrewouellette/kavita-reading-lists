@@ -1,0 +1,40 @@
+{
+ "arc": "Batman: War Crimes",
+ "slug": "batman-war-crimes",
+ "issue_count": 4,
+ "owned_count": 0,
+ "entries": [
+  {
+   "order": 1,
+   "series": "Detective Comics",
+   "issue": "809",
+   "volume": "1937",
+   "year": "2005",
+   "owned": false
+  },
+  {
+   "order": 2,
+   "series": "Batman",
+   "issue": "643",
+   "volume": "1940",
+   "year": "2005",
+   "owned": false
+  },
+  {
+   "order": 3,
+   "series": "Detective Comics",
+   "issue": "810",
+   "volume": "1937",
+   "year": "2005",
+   "owned": false
+  },
+  {
+   "order": 4,
+   "series": "Batman",
+   "issue": "644",
+   "volume": "1940",
+   "year": "2005",
+   "owned": false
+  }
+ ]
+}

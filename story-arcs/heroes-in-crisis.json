@@ -1,0 +1,216 @@
+{
+ "arc": "Heroes in Crisis",
+ "slug": "heroes-in-crisis",
+ "issue_count": 26,
+ "owned_count": 25,
+ "entries": [
+  {
+   "order": 1,
+   "series": "Batman",
+   "issue": "41",
+   "volume": "2016",
+   "year": "2018",
+   "owned": true
+  },
+  {
+   "order": 2,
+   "series": "Batman",
+   "issue": "42",
+   "volume": "2016",
+   "year": "2018",
+   "owned": true
+  },
+  {
+   "order": 3,
+   "series": "Batman",
+   "issue": "43",
+   "volume": "2016",
+   "year": "2018",
+   "owned": true
+  },
+  {
+   "order": 4,
+   "series": "Batman",
+   "issue": "45",
+   "volume": "2016",
+   "year": "2018",
+   "owned": true
+  },
+  {
+   "order": 5,
+   "series": "Batman",
+   "issue": "46",
+   "volume": "2016",
+   "year": "2018",
+   "owned": true
+  },
+  {
+   "order": 6,
+   "series": "Batman",
+   "issue": "47",
+   "volume": "2016",
+   "year": "2018",
+   "owned": true
+  },
+  {
+   "order": 7,
+   "series": "The Flash",
+   "issue": "51",
+   "volume": "2016",
+   "year": "2018",
+   "owned": true
+  },
+  {
+   "order": 8,
+   "series": "Red Hood and the Outlaws Annual",
+   "issue": "2",
+   "volume": "2016",
+   "year": "2018",
+   "owned": false
+  },
+  {
+   "order": 9,
+   "series": "Heroes In Crisis",
+   "issue": "1",
+   "volume": "2018",
+   "year": "2018",
+   "owned": true
+  },
+  {
+   "order": 10,
+   "series": "Green Arrow",
+   "issue": "45",
+   "volume": "2016",
+   "year": "2018",
+   "owned": true
+  },
+  {
+   "order": 11,
+   "series": "Heroes In Crisis",
+   "issue": "2",
+   "volume": "2018",
+   "year": "2018",
+   "owned": true
+  },
+  {
+   "order": 12,
+   "series": "Heroes In Crisis",
+   "issue": "3",
+   "volume": "2018",
+   "year": "2019",
+   "owned": true
+  },
+  {
+   "order": 13,
+   "series": "Heroes In Crisis",
+   "issue": "4",
+   "volume": "2018",
+   "year": "2019",
+   "owned": true
+  },
+  {
+   "order": 14,
+   "series": "The Flash Annual",
+   "issue": "2",
+   "volume": "2016",
+   "year": "2019",
+   "owned": true
+  },
+  {
+   "order": 15,
+   "series": "Batman",
+   "issue": "64",
+   "volume": "2016",
+   "year": "2019",
+   "owned": true
+  },
+  {
+   "order": 16,
+   "series": "The Flash",
+   "issue": "64",
+   "volume": "2016",
+   "year": "2019",
+   "owned": true
+  },
+  {
+   "order": 17,
+   "series": "Green Arrow",
+   "issue": "48",
+   "volume": "2016",
+   "year": "2019",
+   "owned": true
+  },
+  {
+   "order": 18,
+   "series": "Green Arrow",
+   "issue": "49",
+   "volume": "2016",
+   "year": "2019",
+   "owned": true
+  },
+  {
+   "order": 19,
+   "series": "Batman",
+   "issue": "65",
+   "volume": "2016",
+   "year": "2019",
+   "owned": true
+  },
+  {
+   "order": 20,
+   "series": "The Flash",
+   "issue": "65",
+   "volume": "2016",
+   "year": "2019",
+   "owned": true
+  },
+  {
+   "order": 21,
+   "series": "Heroes In Crisis",
+   "issue": "5",
+   "volume": "2018",
+   "year": "2019",
+   "owned": true
+  },
+  {
+   "order": 22,
+   "series": "Heroes In Crisis",
+   "issue": "6",
+   "volume": "2018",
+   "year": "2019",
+   "owned": true
+  },
+  {
+   "order": 23,
+   "series": "Green Arrow",
+   "issue": "50",
+   "volume": "2016",
+   "year": "2019",
+   "owned": true
+  },
+  {
+   "order": 24,
+   "series": "Heroes In Crisis",
+   "issue": "7",
+   "volume": "2018",
+   "year": "2019",
+   "owned": true
+  },
+  {
+   "order": 25,
+   "series": "Heroes In Crisis",
+   "issue": "8",
+   "volume": "2018",
+   "year": "2019",
+   "owned": true
+  },
+  {
+   "order": 26,
+   "series": "Heroes In Crisis",
+   "issue": "9",
+   "volume": "2018",
+   "year": "2019",
+   "owned": true
+  }
+ ]
+}

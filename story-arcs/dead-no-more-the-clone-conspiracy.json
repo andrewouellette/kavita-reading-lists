@@ -1,0 +1,208 @@
+{
+ "arc": "Dead No More The Clone Conspiracy",
+ "slug": "dead-no-more-the-clone-conspiracy",
+ "issue_count": 25,
+ "owned_count": 9,
+ "entries": [
+  {
+   "order": 1,
+   "series": "The Amazing Spider-Man",
+   "issue": "16",
+   "volume": "2015",
+   "year": "2016",
+   "owned": true
+  },
+  {
+   "order": 2,
+   "series": "The Amazing Spider-Man",
+   "issue": "17",
+   "volume": "2015",
+   "year": "2016",
+   "owned": true
+  },
+  {
+   "order": 3,
+   "series": "The Amazing Spider-Man",
+   "issue": "18",
+   "volume": "2015",
+   "year": "2016",
+   "owned": true
+  },
+  {
+   "order": 4,
+   "series": "The Amazing Spider-Man",
+   "issue": "19",
+   "volume": "2015",
+   "year": "2016",
+   "owned": true
+  },
+  {
+   "order": 5,
+   "series": "Free Comic Book Day 2016 (Captain America)",
+   "issue": "1",
+   "volume": "2016",
+   "year": "2016",
+   "owned": false
+  },
+  {
+   "order": 6,
+   "series": "The Clone Conspiracy",
+   "issue": "1",
+   "volume": "2016",
+   "year": "2016",
+   "owned": false
+  },
+  {
+   "order": 7,
+   "series": "The Amazing Spider-Man",
+   "issue": "20",
+   "volume": "2015",
+   "year": "2016",
+   "owned": true
+  },
+  {
+   "order": 8,
+   "series": "The Clone Conspiracy",
+   "issue": "2",
+   "volume": "2016",
+   "year": "2017",
+   "owned": false
+  },
+  {
+   "order": 9,
+   "series": "The Amazing Spider-Man",
+   "issue": "21",
+   "volume": "2015",
+   "year": "2017",
+   "owned": true
+  },
+  {
+   "order": 10,
+   "series": "Prowler",
+   "issue": "1",
+   "volume": "2016",
+   "year": "2016",
+   "owned": false
+  },
+  {
+   "order": 11,
+   "series": "Prowler",
+   "issue": "2",
+   "volume": "2016",
+   "year": "2017",
+   "owned": false
+  },
+  {
+   "order": 12,
+   "series": "Prowler",
+   "issue": "3",
+   "volume": "2016",
+   "year": "2017",
+   "owned": false
+  },
+  {
+   "order": 13,
+   "series": "Silk",
+   "issue": "14",
+   "volume": "2015",
+   "year": "2017",
+   "owned": false
+  },
+  {
+   "order": 14,
+   "series": "Silk",
+   "issue": "15",
+   "volume": "2015",
+   "year": "2017",
+   "owned": false
+  },
+  {
+   "order": 15,
+   "series": "The Clone Conspiracy",
+   "issue": "3",
+   "volume": "2016",
+   "year": "2017",
+   "owned": false
+  },
+  {
+   "order": 16,
+   "series": "The Amazing Spider-Man",
+   "issue": "22",
+   "volume": "2015",
+   "year": "2017",
+   "owned": true
+  },
+  {
+   "order": 17,
+   "series": "The Clone Conspiracy",
+   "issue": "4",
+   "volume": "2016",
+   "year": "2017",
+   "owned": false
+  },
+  {
+   "order": 18,
+   "series": "The Amazing Spider-Man",
+   "issue": "23",
+   "volume": "2015",
+   "year": "2017",
+   "owned": true
+  },
+  {
+   "order": 19,
+   "series": "Silk",
+   "issue": "16",
+   "volume": "2015",
+   "year": "2017",
+   "owned": false
+  },
+  {
+   "order": 20,
+   "series": "Prowler",
+   "issue": "4",
+   "volume": "2016",
+   "year": "2017",
+   "owned": false
+  },
+  {
+   "order": 21,
+   "series": "Prowler",
+   "issue": "5",
+   "volume": "2016",
+   "year": "2017",
+   "owned": false
+  },
+  {
+   "order": 22,
+   "series": "The Clone Conspiracy",
+   "issue": "5",
+   "volume": "2016",
+   "year": "2017",
+   "owned": false
+  },
+  {
+   "order": 23,
+   "series": "Silk",
+   "issue": "17",
+   "volume": "2015",
+   "year": "2017",
+   "owned": false
+  },
+  {
+   "order": 24,
+   "series": "The Amazing Spider-Man",
+   "issue": "24",
+   "volume": "2015",
+   "year": "2017",
+   "owned": true
+  },
+  {
+   "order": 25,
+   "series": "The Clone Conspiracy Omega",
+   "issue": "1",
+   "volume": "2017",
+   "year": "2017",
+   "owned": false
+  }
+ ]
+}

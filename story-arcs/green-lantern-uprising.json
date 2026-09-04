@@ -1,0 +1,56 @@
+{
+ "arc": "Green Lantern- Uprising",
+ "slug": "green-lantern-uprising",
+ "issue_count": 6,
+ "owned_count": 0,
+ "entries": [
+  {
+   "order": 1,
+   "series": "Green Lantern",
+   "issue": "31",
+   "volume": "2011",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 2,
+   "series": "Green Lantern Corps",
+   "issue": "31",
+   "volume": "2011",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 3,
+   "series": "Green Lantern",
+   "issue": "32",
+   "volume": "2011",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 4,
+   "series": "Green Lantern Corps",
+   "issue": "32",
+   "volume": "2011",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 5,
+   "series": "Green Lantern",
+   "issue": "33",
+   "volume": "2011",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 6,
+   "series": "Green Lantern Corps",
+   "issue": "33",
+   "volume": "2011",
+   "year": "2014",
+   "owned": false
+  }
+ ]
+}

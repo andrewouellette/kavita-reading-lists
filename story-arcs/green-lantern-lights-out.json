@@ -1,0 +1,48 @@
+{
+ "arc": "Green Lantern Lights Out",
+ "slug": "green-lantern-lights-out",
+ "issue_count": 5,
+ "owned_count": 1,
+ "entries": [
+  {
+   "order": 1,
+   "series": "Green Lantern",
+   "issue": "24",
+   "volume": "2011",
+   "year": "2013",
+   "owned": true
+  },
+  {
+   "order": 2,
+   "series": "Green Lantern Corps",
+   "issue": "24",
+   "volume": "2011",
+   "year": "2013",
+   "owned": false
+  },
+  {
+   "order": 3,
+   "series": "Green Lantern: New Guardians",
+   "issue": "24",
+   "volume": "2011",
+   "year": "2013",
+   "owned": false
+  },
+  {
+   "order": 4,
+   "series": "Red Lanterns",
+   "issue": "24",
+   "volume": "2011",
+   "year": "2013",
+   "owned": false
+  },
+  {
+   "order": 5,
+   "series": "Green Lantern Annual",
+   "issue": "2",
+   "volume": "2012",
+   "year": "2013",
+   "owned": false
+  }
+ ]
+}

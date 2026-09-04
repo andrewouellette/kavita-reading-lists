@@ -1,0 +1,120 @@
+{
+ "arc": "Superman: H'El on Earth",
+ "slug": "superman-h-el-on-earth",
+ "issue_count": 14,
+ "owned_count": 9,
+ "entries": [
+  {
+   "order": 1,
+   "series": "Superman",
+   "issue": "13",
+   "volume": "2011",
+   "year": "2012",
+   "owned": true
+  },
+  {
+   "order": 2,
+   "series": "Superboy",
+   "issue": "14",
+   "volume": "2011",
+   "year": "2013",
+   "owned": true
+  },
+  {
+   "order": 3,
+   "series": "Supergirl",
+   "issue": "14",
+   "volume": "2011",
+   "year": "2013",
+   "owned": true
+  },
+  {
+   "order": 4,
+   "series": "Superman",
+   "issue": "14",
+   "volume": "2011",
+   "year": "2013",
+   "owned": true
+  },
+  {
+   "order": 5,
+   "series": "Superboy",
+   "issue": "15",
+   "volume": "2011",
+   "year": "2013",
+   "owned": true
+  },
+  {
+   "order": 6,
+   "series": "Supergirl",
+   "issue": "15",
+   "volume": "2011",
+   "year": "2013",
+   "owned": true
+  },
+  {
+   "order": 7,
+   "series": "Superman",
+   "issue": "15",
+   "volume": "2011",
+   "year": "2013",
+   "owned": true
+  },
+  {
+   "order": 8,
+   "series": "Superboy",
+   "issue": "16",
+   "volume": "2011",
+   "year": "2013",
+   "owned": false
+  },
+  {
+   "order": 9,
+   "series": "Supergirl",
+   "issue": "16",
+   "volume": "2011",
+   "year": "2013",
+   "owned": false
+  },
+  {
+   "order": 10,
+   "series": "Superboy Annual",
+   "issue": "1",
+   "volume": "2013",
+   "year": "2013",
+   "owned": false
+  },
+  {
+   "order": 11,
+   "series": "Superman",
+   "issue": "16",
+   "volume": "2011",
+   "year": "2013",
+   "owned": true
+  },
+  {
+   "order": 12,
+   "series": "Superboy",
+   "issue": "17",
+   "volume": "2011",
+   "year": "2013",
+   "owned": false
+  },
+  {
+   "order": 13,
+   "series": "Supergirl",
+   "issue": "17",
+   "volume": "2011",
+   "year": "2013",
+   "owned": false
+  },
+  {
+   "order": 14,
+   "series": "Superman",
+   "issue": "17",
+   "volume": "2011",
+   "year": "2013",
+   "owned": true
+  }
+ ]
+}

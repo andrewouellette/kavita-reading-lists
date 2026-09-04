@@ -1,0 +1,128 @@
+{
+ "arc": "Doctor Strange: Damnation",
+ "slug": "doctor-strange-damnation",
+ "issue_count": 15,
+ "owned_count": 0,
+ "entries": [
+  {
+   "order": 1,
+   "series": "Doctor Strange: Damnation",
+   "issue": "1",
+   "volume": "2018",
+   "year": "2018",
+   "owned": false
+  },
+  {
+   "order": 2,
+   "series": "Doctor Strange",
+   "issue": "386",
+   "volume": "2015",
+   "year": "2018",
+   "owned": false
+  },
+  {
+   "order": 3,
+   "series": "Doctor Strange: Damnation",
+   "issue": "2",
+   "volume": "2018",
+   "year": "2018",
+   "owned": false
+  },
+  {
+   "order": 4,
+   "series": "Doctor Strange",
+   "issue": "387",
+   "volume": "2015",
+   "year": "2018",
+   "owned": false
+  },
+  {
+   "order": 5,
+   "series": "Ben Reilly: Scarlet Spider",
+   "issue": "15",
+   "volume": "2017",
+   "year": "2018",
+   "owned": false
+  },
+  {
+   "order": 6,
+   "series": "Doctor Strange: Damnation",
+   "issue": "3",
+   "volume": "2018",
+   "year": "2018",
+   "owned": false
+  },
+  {
+   "order": 7,
+   "series": "Iron Fist",
+   "issue": "78",
+   "volume": "2017",
+   "year": "2018",
+   "owned": false
+  },
+  {
+   "order": 8,
+   "series": "Ben Reilly: Scarlet Spider",
+   "issue": "16",
+   "volume": "2017",
+   "year": "2018",
+   "owned": false
+  },
+  {
+   "order": 9,
+   "series": "Damnation: Johnny Blaze - Ghost Rider",
+   "issue": "1",
+   "volume": "2018",
+   "year": "2018",
+   "owned": false
+  },
+  {
+   "order": 10,
+   "series": "Doctor Strange",
+   "issue": "388",
+   "volume": "2015",
+   "year": "2018",
+   "owned": false
+  },
+  {
+   "order": 11,
+   "series": "Iron Fist",
+   "issue": "79",
+   "volume": "2017",
+   "year": "2018",
+   "owned": false
+  },
+  {
+   "order": 12,
+   "series": "Iron Fist",
+   "issue": "80",
+   "volume": "2017",
+   "year": "2018",
+   "owned": false
+  },
+  {
+   "order": 13,
+   "series": "Ben Reilly: Scarlet Spider",
+   "issue": "17",
+   "volume": "2017",
+   "year": "2018",
+   "owned": false
+  },
+  {
+   "order": 14,
+   "series": "Doctor Strange: Damnation",
+   "issue": "4",
+   "volume": "2018",
+   "year": "2018",
+   "owned": false
+  },
+  {
+   "order": 15,
+   "series": "Doctor Strange",
+   "issue": "389",
+   "volume": "2015",
+   "year": "2018",
+   "owned": false
+  }
+ ]
+}

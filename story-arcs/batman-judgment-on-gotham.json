@@ -1,0 +1,40 @@
+{
+ "arc": "Batman: Judgment on Gotham",
+ "slug": "batman-judgment-on-gotham",
+ "issue_count": 4,
+ "owned_count": 0,
+ "entries": [
+  {
+   "order": 1,
+   "series": "Batman",
+   "issue": "708",
+   "volume": "1940",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 2,
+   "series": "Red Robin",
+   "issue": "22",
+   "volume": "2009",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 3,
+   "series": "Gotham City Sirens",
+   "issue": "22",
+   "volume": "2009",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 4,
+   "series": "Batman",
+   "issue": "709",
+   "volume": "1940",
+   "year": "2011",
+   "owned": false
+  }
+ ]
+}

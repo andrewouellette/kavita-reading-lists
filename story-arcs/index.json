@@ -1,0 +1,1814 @@
+{
+ "description": "Comic story arc reading orders, exported from ComicBookList (.cbl) files.",
+ "note": "order is the complete arc reading order; owned reflects what is in the source Kavita library at export time",
+ "arc_count": 258,
+ "total_entries": 8901,
+ "arcs": [
+  {
+   "arc": "2099",
+   "slug": "2099",
+   "file": "2099.json",
+   "issue_count": 14,
+   "owned_count": 5
+  },
+  {
+   "arc": "52",
+   "slug": "52",
+   "file": "52.json",
+   "issue_count": 61,
+   "owned_count": 0
+  },
+  {
+   "arc": "A.X.E.: Judgment Day",
+   "slug": "a-x-e-judgment-day",
+   "file": "a-x-e-judgment-day.json",
+   "issue_count": 38,
+   "owned_count": 36
+  },
+  {
+   "arc": "Absolute Carnage",
+   "slug": "absolute-carnage",
+   "file": "absolute-carnage.json",
+   "issue_count": 42,
+   "owned_count": 14
+  },
+  {
+   "arc": "Absolute Power",
+   "slug": "absolute-power",
+   "file": "absolute-power.json",
+   "issue_count": 33,
+   "owned_count": 15
+  },
+  {
+   "arc": "Age of Revelation",
+   "slug": "age-of-revelation",
+   "file": "age-of-revelation.json",
+   "issue_count": 52,
+   "owned_count": 33
+  },
+  {
+   "arc": "Age of Ultron",
+   "slug": "age-of-ultron",
+   "file": "age-of-ultron.json",
+   "issue_count": 19,
+   "owned_count": 0
+  },
+  {
+   "arc": "Age of X-Man",
+   "slug": "age-of-x-man",
+   "file": "age-of-x-man.json",
+   "issue_count": 42,
+   "owned_count": 10
+  },
+  {
+   "arc": "Age of X",
+   "slug": "age-of-x",
+   "file": "age-of-x.json",
+   "issue_count": 11,
+   "owned_count": 6
+  },
+  {
+   "arc": "Alien Costume Saga",
+   "slug": "alien-costume-saga",
+   "file": "alien-costume-saga.json",
+   "issue_count": 51,
+   "owned_count": 0
+  },
+  {
+   "arc": "Amazons Attack",
+   "slug": "amazons-attack",
+   "file": "amazons-attack.json",
+   "issue_count": 19,
+   "owned_count": 9
+  },
+  {
+   "arc": "Annihilation- Conquest",
+   "slug": "annihilation-conquest",
+   "file": "annihilation-conquest.json",
+   "issue_count": 33,
+   "owned_count": 9
+  },
+  {
+   "arc": "Annihilation: Scourge",
+   "slug": "annihilation-scourge",
+   "file": "annihilation-scourge.json",
+   "issue_count": 6,
+   "owned_count": 0
+  },
+  {
+   "arc": "Annihilation",
+   "slug": "annihilation",
+   "file": "annihilation.json",
+   "issue_count": 33,
+   "owned_count": 3
+  },
+  {
+   "arc": "Apocalypse- The Twelve",
+   "slug": "apocalypse-the-twelve",
+   "file": "apocalypse-the-twelve.json",
+   "issue_count": 51,
+   "owned_count": 4
+  },
+  {
+   "arc": "Apocalypse Wars",
+   "slug": "apocalypse-wars",
+   "file": "apocalypse-wars.json",
+   "issue_count": 13,
+   "owned_count": 8
+  },
+  {
+   "arc": "Avengers: Armageddon",
+   "slug": "avengers-armageddon",
+   "file": "avengers-armageddon.json",
+   "issue_count": 24,
+   "owned_count": 19
+  },
+  {
+   "arc": "Avengers Disassembled",
+   "slug": "avengers-disassembled",
+   "file": "avengers-disassembled.json",
+   "issue_count": 34,
+   "owned_count": 1
+  },
+  {
+   "arc": "Avengers Standoff",
+   "slug": "avengers-standoff",
+   "file": "avengers-standoff.json",
+   "issue_count": 18,
+   "owned_count": 3
+  },
+  {
+   "arc": "Avengers: The Children's Crusade",
+   "slug": "avengers-the-children-s-crusade",
+   "file": "avengers-the-children-s-crusade.json",
+   "issue_count": 9,
+   "owned_count": 0
+  },
+  {
+   "arc": "Avengers vs. X-Men",
+   "slug": "avengers-vs-x-men",
+   "file": "avengers-vs-x-men.json",
+   "issue_count": 74,
+   "owned_count": 22
+  },
+  {
+   "arc": "AXIS",
+   "slug": "axis",
+   "file": "axis.json",
+   "issue_count": 79,
+   "owned_count": 4
+  },
+  {
+   "arc": "Back in Black",
+   "slug": "back-in-black",
+   "file": "back-in-black.json",
+   "issue_count": 32,
+   "owned_count": 0
+  },
+  {
+   "arc": "Batman/Catwoman: The Gotham War",
+   "slug": "batman-catwoman-the-gotham-war",
+   "file": "batman-catwoman-the-gotham-war.json",
+   "issue_count": 9,
+   "owned_count": 2
+  },
+  {
+   "arc": "Batman Endgame",
+   "slug": "batman-endgame",
+   "file": "batman-endgame.json",
+   "issue_count": 11,
+   "owned_count": 6
+  },
+  {
+   "arc": "Batman: Face the Face",
+   "slug": "batman-face-the-face",
+   "file": "batman-face-the-face.json",
+   "issue_count": 8,
+   "owned_count": 0
+  },
+  {
+   "arc": "Batman: Judgment on Gotham",
+   "slug": "batman-judgment-on-gotham",
+   "file": "batman-judgment-on-gotham.json",
+   "issue_count": 4,
+   "owned_count": 0
+  },
+  {
+   "arc": "Batman: Officer Down",
+   "slug": "batman-officer-down",
+   "file": "batman-officer-down.json",
+   "issue_count": 8,
+   "owned_count": 2
+  },
+  {
+   "arc": "Batman: Requiem",
+   "slug": "batman-requiem",
+   "file": "batman-requiem.json",
+   "issue_count": 9,
+   "owned_count": 4
+  },
+  {
+   "arc": "Batman: War Crimes",
+   "slug": "batman-war-crimes",
+   "file": "batman-war-crimes.json",
+   "issue_count": 4,
+   "owned_count": 0
+  },
+  {
+   "arc": "Batman War Games",
+   "slug": "batman-war-games",
+   "file": "batman-war-games.json",
+   "issue_count": 42,
+   "owned_count": 3
+  },
+  {
+   "arc": "Batman Zero Year",
+   "slug": "batman-zero-year",
+   "file": "batman-zero-year.json",
+   "issue_count": 25,
+   "owned_count": 17
+  },
+  {
+   "arc": "Battle for the Cowl",
+   "slug": "battle-for-the-cowl",
+   "file": "battle-for-the-cowl.json",
+   "issue_count": 17,
+   "owned_count": 0
+  },
+  {
+   "arc": "Battle of The Atom",
+   "slug": "battle-of-the-atom",
+   "file": "battle-of-the-atom.json",
+   "issue_count": 18,
+   "owned_count": 13
+  },
+  {
+   "arc": "Big Time",
+   "slug": "big-time",
+   "file": "big-time.json",
+   "issue_count": 148,
+   "owned_count": 27
+  },
+  {
+   "arc": "Blackest Night",
+   "slug": "blackest-night",
+   "file": "blackest-night.json",
+   "issue_count": 97,
+   "owned_count": 1
+  },
+  {
+   "arc": "Blood Hunt",
+   "slug": "blood-hunt",
+   "file": "blood-hunt.json",
+   "issue_count": 54,
+   "owned_count": 12
+  },
+  {
+   "arc": "Brand New Day",
+   "slug": "brand-new-day",
+   "file": "brand-new-day.json",
+   "issue_count": 289,
+   "owned_count": 11
+  },
+  {
+   "arc": "Brightest Day",
+   "slug": "brightest-day",
+   "file": "brightest-day.json",
+   "issue_count": 126,
+   "owned_count": 23
+  },
+  {
+   "arc": "Bring on the Bad Guys",
+   "slug": "bring-on-the-bad-guys",
+   "file": "bring-on-the-bad-guys.json",
+   "issue_count": 7,
+   "owned_count": 6
+  },
+  {
+   "arc": "Bruce Wayne- Fugitive",
+   "slug": "bruce-wayne-fugitive",
+   "file": "bruce-wayne-fugitive.json",
+   "issue_count": 24,
+   "owned_count": 5
+  },
+  {
+   "arc": "Bruce Wayne Murderer",
+   "slug": "bruce-wayne-murderer",
+   "file": "bruce-wayne-murderer.json",
+   "issue_count": 13,
+   "owned_count": 3
+  },
+  {
+   "arc": "Carnage Reigns",
+   "slug": "carnage-reigns",
+   "file": "carnage-reigns.json",
+   "issue_count": 7,
+   "owned_count": 7
+  },
+  {
+   "arc": "Chaos War",
+   "slug": "chaos-war",
+   "file": "chaos-war.json",
+   "issue_count": 19,
+   "owned_count": 0
+  },
+  {
+   "arc": "City of Bane",
+   "slug": "city-of-bane",
+   "file": "city-of-bane.json",
+   "issue_count": 15,
+   "owned_count": 14
+  },
+  {
+   "arc": "Civil War II",
+   "slug": "civil-war-ii",
+   "file": "civil-war-ii.json",
+   "issue_count": 153,
+   "owned_count": 32
+  },
+  {
+   "arc": "Civil War",
+   "slug": "civil-war",
+   "file": "civil-war.json",
+   "issue_count": 132,
+   "owned_count": 16
+  },
+  {
+   "arc": "Contest of Chaos",
+   "slug": "contest-of-chaos",
+   "file": "contest-of-chaos.json",
+   "issue_count": 9,
+   "owned_count": 8
+  },
+  {
+   "arc": "Convergence",
+   "slug": "convergence",
+   "file": "convergence.json",
+   "issue_count": 90,
+   "owned_count": 2
+  },
+  {
+   "arc": "Countdown to Final Crisis",
+   "slug": "countdown-to-final-crisis",
+   "file": "countdown-to-final-crisis.json",
+   "issue_count": 52,
+   "owned_count": 0
+  },
+  {
+   "arc": "Countdown to Infinite Crisis",
+   "slug": "countdown-to-infinite-crisis",
+   "file": "countdown-to-infinite-crisis.json",
+   "issue_count": 254,
+   "owned_count": 16
+  },
+  {
+   "arc": "Curse of the Mutants",
+   "slug": "curse-of-the-mutants",
+   "file": "curse-of-the-mutants.json",
+   "issue_count": 19,
+   "owned_count": 6
+  },
+  {
+   "arc": "Dark Crisis on Infinite Earths",
+   "slug": "dark-crisis-on-infinite-earths",
+   "file": "dark-crisis-on-infinite-earths.json",
+   "issue_count": 27,
+   "owned_count": 4
+  },
+  {
+   "arc": "Dark Nights: Death Metal",
+   "slug": "dark-nights-death-metal",
+   "file": "dark-nights-death-metal.json",
+   "issue_count": 24,
+   "owned_count": 22
+  },
+  {
+   "arc": "Dark Nights: Metal",
+   "slug": "dark-nights-metal",
+   "file": "dark-nights-metal.json",
+   "issue_count": 26,
+   "owned_count": 5
+  },
+  {
+   "arc": "Dark Reign",
+   "slug": "dark-reign",
+   "file": "dark-reign.json",
+   "issue_count": 303,
+   "owned_count": 39
+  },
+  {
+   "arc": "Dark Web",
+   "slug": "dark-web",
+   "file": "dark-web.json",
+   "issue_count": 21,
+   "owned_count": 20
+  },
+  {
+   "arc": "Darkseid War",
+   "slug": "darkseid-war",
+   "file": "darkseid-war.json",
+   "issue_count": 19,
+   "owned_count": 11
+  },
+  {
+   "arc": "Dawn of X / Reign of X / Destiny of X",
+   "slug": "dawn-of-x-reign-of-x-destiny-of-x",
+   "file": "dawn-of-x-reign-of-x-destiny-of-x.json",
+   "issue_count": 463,
+   "owned_count": 404
+  },
+  {
+   "arc": "Day of Judgment",
+   "slug": "day-of-judgment",
+   "file": "day-of-judgment.json",
+   "issue_count": 21,
+   "owned_count": 1
+  },
+  {
+   "arc": "DC All In Special",
+   "slug": "dc-all-in-special",
+   "file": "dc-all-in-special.json",
+   "issue_count": 1,
+   "owned_count": 0
+  },
+  {
+   "arc": "DC K.O.",
+   "slug": "dc-k-o",
+   "file": "dc-k-o.json",
+   "issue_count": 41,
+   "owned_count": 26
+  },
+  {
+   "arc": "DC Universe: Rebirth",
+   "slug": "dc-universe-rebirth",
+   "file": "dc-universe-rebirth.json",
+   "issue_count": 1,
+   "owned_count": 0
+  },
+  {
+   "arc": "DC x Sonic the Hedgehog",
+   "slug": "dc-x-sonic-the-hedgehog",
+   "file": "dc-x-sonic-the-hedgehog.json",
+   "issue_count": 5,
+   "owned_count": 4
+  },
+  {
+   "arc": "DCeased",
+   "slug": "dceased",
+   "file": "dceased.json",
+   "issue_count": 40,
+   "owned_count": 27
+  },
+  {
+   "arc": "Dead No More The Clone Conspiracy",
+   "slug": "dead-no-more-the-clone-conspiracy",
+   "file": "dead-no-more-the-clone-conspiracy.json",
+   "issue_count": 25,
+   "owned_count": 9
+  },
+  {
+   "arc": "Deadpool/Batman",
+   "slug": "deadpool-batman",
+   "file": "deadpool-batman.json",
+   "issue_count": 2,
+   "owned_count": 1
+  },
+  {
+   "arc": "Death of Doctor Strange",
+   "slug": "death-of-doctor-strange",
+   "file": "death-of-doctor-strange.json",
+   "issue_count": 12,
+   "owned_count": 12
+  },
+  {
+   "arc": "Death of the Family",
+   "slug": "death-of-the-family",
+   "file": "death-of-the-family.json",
+   "issue_count": 30,
+   "owned_count": 21
+  },
+  {
+   "arc": "Death of Wolverine",
+   "slug": "death-of-wolverine",
+   "file": "death-of-wolverine.json",
+   "issue_count": 56,
+   "owned_count": 16
+  },
+  {
+   "arc": "Death of X",
+   "slug": "death-of-x",
+   "file": "death-of-x.json",
+   "issue_count": 4,
+   "owned_count": 0
+  },
+  {
+   "arc": "Decimation",
+   "slug": "decimation",
+   "file": "decimation.json",
+   "issue_count": 53,
+   "owned_count": 6
+  },
+  {
+   "arc": "Devil's Reign",
+   "slug": "devil-s-reign",
+   "file": "devil-s-reign.json",
+   "issue_count": 25,
+   "owned_count": 25
+  },
+  {
+   "arc": "DNX",
+   "slug": "dnx",
+   "file": "dnx.json",
+   "issue_count": 7,
+   "owned_count": 0
+  },
+  {
+   "arc": "Doctor Strange: Damnation",
+   "slug": "doctor-strange-damnation",
+   "file": "doctor-strange-damnation.json",
+   "issue_count": 15,
+   "owned_count": 0
+  },
+  {
+   "arc": "Doomsday Clock",
+   "slug": "doomsday-clock",
+   "file": "doomsday-clock.json",
+   "issue_count": 12,
+   "owned_count": 11
+  },
+  {
+   "arc": "Drowned Earth",
+   "slug": "drowned-earth",
+   "file": "drowned-earth.json",
+   "issue_count": 8,
+   "owned_count": 4
+  },
+  {
+   "arc": "Earth 2: World's End",
+   "slug": "earth-2-world-s-end",
+   "file": "earth-2-world-s-end.json",
+   "issue_count": 26,
+   "owned_count": 0
+  },
+  {
+   "arc": "Earth X",
+   "slug": "earth-x",
+   "file": "earth-x.json",
+   "issue_count": 62,
+   "owned_count": 0
+  },
+  {
+   "arc": "Edge of Spider-Verse",
+   "slug": "edge-of-spider-verse",
+   "file": "edge-of-spider-verse.json",
+   "issue_count": 10,
+   "owned_count": 7
+  },
+  {
+   "arc": "Empyre",
+   "slug": "empyre",
+   "file": "empyre.json",
+   "issue_count": 38,
+   "owned_count": 9
+  },
+  {
+   "arc": "End of the Spider-Verse",
+   "slug": "end-of-the-spider-verse",
+   "file": "end-of-the-spider-verse.json",
+   "issue_count": 51,
+   "owned_count": 51
+  },
+  {
+   "arc": "Endless Winter",
+   "slug": "endless-winter",
+   "file": "endless-winter.json",
+   "issue_count": 9,
+   "owned_count": 8
+  },
+  {
+   "arc": "Eve of Destruction",
+   "slug": "eve-of-destruction",
+   "file": "eve-of-destruction.json",
+   "issue_count": 19,
+   "owned_count": 0
+  },
+  {
+   "arc": "Event Leviathan",
+   "slug": "event-leviathan",
+   "file": "event-leviathan.json",
+   "issue_count": 11,
+   "owned_count": 11
+  },
+  {
+   "arc": "Faces of Evil",
+   "slug": "faces-of-evil",
+   "file": "faces-of-evil.json",
+   "issue_count": 12,
+   "owned_count": 1
+  },
+  {
+   "arc": "Fall of the House of X",
+   "slug": "fall-of-the-house-of-x",
+   "file": "fall-of-the-house-of-x.json",
+   "issue_count": 46,
+   "owned_count": 14
+  },
+  {
+   "arc": "Fall of the Hulks",
+   "slug": "fall-of-the-hulks",
+   "file": "fall-of-the-hulks.json",
+   "issue_count": 15,
+   "owned_count": 0
+  },
+  {
+   "arc": "Fall of X",
+   "slug": "fall-of-x",
+   "file": "fall-of-x.json",
+   "issue_count": 75,
+   "owned_count": 67
+  },
+  {
+   "arc": "Fantastic Four: Reckoning War",
+   "slug": "fantastic-four-reckoning-war",
+   "file": "fantastic-four-reckoning-war.json",
+   "issue_count": 8,
+   "owned_count": 8
+  },
+  {
+   "arc": "Fear Itself",
+   "slug": "fear-itself",
+   "file": "fear-itself.json",
+   "issue_count": 125,
+   "owned_count": 16
+  },
+  {
+   "arc": "Fear State",
+   "slug": "fear-state",
+   "file": "fear-state.json",
+   "issue_count": 28,
+   "owned_count": 18
+  },
+  {
+   "arc": "Final Crisis",
+   "slug": "final-crisis",
+   "file": "final-crisis.json",
+   "issue_count": 43,
+   "owned_count": 2
+  },
+  {
+   "arc": "Final Days of Superman",
+   "slug": "final-days-of-superman",
+   "file": "final-days-of-superman.json",
+   "issue_count": 8,
+   "owned_count": 0
+  },
+  {
+   "arc": "Flashpoint",
+   "slug": "flashpoint",
+   "file": "flashpoint.json",
+   "issue_count": 66,
+   "owned_count": 5
+  },
+  {
+   "arc": "Forever Evil- Blight",
+   "slug": "forever-evil-blight",
+   "file": "forever-evil-blight.json",
+   "issue_count": 18,
+   "owned_count": 6
+  },
+  {
+   "arc": "Forever Evil",
+   "slug": "forever-evil",
+   "file": "forever-evil.json",
+   "issue_count": 95,
+   "owned_count": 17
+  },
+  {
+   "arc": "Future State",
+   "slug": "future-state",
+   "file": "future-state.json",
+   "issue_count": 52,
+   "owned_count": 2
+  },
+  {
+   "arc": "Gang War",
+   "slug": "gang-war",
+   "file": "gang-war.json",
+   "issue_count": 38,
+   "owned_count": 21
+  },
+  {
+   "arc": "Generations",
+   "slug": "generations",
+   "file": "generations.json",
+   "issue_count": 10,
+   "owned_count": 0
+  },
+  {
+   "arc": "Giant-Size X-Men",
+   "slug": "giant-size-x-men",
+   "file": "giant-size-x-men.json",
+   "issue_count": 6,
+   "owned_count": 2
+  },
+  {
+   "arc": "Goblin Nation",
+   "slug": "goblin-nation",
+   "file": "goblin-nation.json",
+   "issue_count": 11,
+   "owned_count": 0
+  },
+  {
+   "arc": "Gothtopia",
+   "slug": "gothtopia",
+   "file": "gothtopia.json",
+   "issue_count": 10,
+   "owned_count": 3
+  },
+  {
+   "arc": "Green Lantern Godhead",
+   "slug": "green-lantern-godhead",
+   "file": "green-lantern-godhead.json",
+   "issue_count": 20,
+   "owned_count": 0
+  },
+  {
+   "arc": "Green Lantern Lights Out",
+   "slug": "green-lantern-lights-out",
+   "file": "green-lantern-lights-out.json",
+   "issue_count": 5,
+   "owned_count": 1
+  },
+  {
+   "arc": "Green Lantern- Uprising",
+   "slug": "green-lantern-uprising",
+   "file": "green-lantern-uprising.json",
+   "issue_count": 6,
+   "owned_count": 0
+  },
+  {
+   "arc": "Hellfire Gala",
+   "slug": "hellfire-gala",
+   "file": "hellfire-gala.json",
+   "issue_count": 14,
+   "owned_count": 14
+  },
+  {
+   "arc": "Heroes in Crisis",
+   "slug": "heroes-in-crisis",
+   "file": "heroes-in-crisis.json",
+   "issue_count": 26,
+   "owned_count": 25
+  },
+  {
+   "arc": "Heroes Reborn",
+   "slug": "heroes-reborn",
+   "file": "heroes-reborn.json",
+   "issue_count": 18,
+   "owned_count": 18
+  },
+  {
+   "arc": "Heroic Age",
+   "slug": "heroic-age",
+   "file": "heroic-age.json",
+   "issue_count": 116,
+   "owned_count": 19
+  },
+  {
+   "arc": "House of Brainiac",
+   "slug": "house-of-brainiac",
+   "file": "house-of-brainiac.json",
+   "issue_count": 13,
+   "owned_count": 6
+  },
+  {
+   "arc": "House of M",
+   "slug": "house-of-m",
+   "file": "house-of-m.json",
+   "issue_count": 64,
+   "owned_count": 4
+  },
+  {
+   "arc": "Hulk vs. Thor: Banner of War",
+   "slug": "hulk-vs-thor-banner-of-war",
+   "file": "hulk-vs-thor-banner-of-war.json",
+   "issue_count": 5,
+   "owned_count": 5
+  },
+  {
+   "arc": "Hunted",
+   "slug": "hunted",
+   "file": "hunted.json",
+   "issue_count": 23,
+   "owned_count": 18
+  },
+  {
+   "arc": "Identity Crisis",
+   "slug": "identity-crisis",
+   "file": "identity-crisis.json",
+   "issue_count": 23,
+   "owned_count": 0
+  },
+  {
+   "arc": "Imperial",
+   "slug": "imperial",
+   "file": "imperial.json",
+   "issue_count": 9,
+   "owned_count": 8
+  },
+  {
+   "arc": "Infinite Crisis",
+   "slug": "infinite-crisis",
+   "file": "infinite-crisis.json",
+   "issue_count": 124,
+   "owned_count": 6
+  },
+  {
+   "arc": "Infinite Frontier",
+   "slug": "infinite-frontier",
+   "file": "infinite-frontier.json",
+   "issue_count": 8,
+   "owned_count": 0
+  },
+  {
+   "arc": "Infinity Countdown",
+   "slug": "infinity-countdown",
+   "file": "infinity-countdown.json",
+   "issue_count": 16,
+   "owned_count": 5
+  },
+  {
+   "arc": "Infinity Wars",
+   "slug": "infinity-wars",
+   "file": "infinity-wars.json",
+   "issue_count": 47,
+   "owned_count": 9
+  },
+  {
+   "arc": "Infinity Watch",
+   "slug": "infinity-watch",
+   "file": "infinity-watch.json",
+   "issue_count": 9,
+   "owned_count": 2
+  },
+  {
+   "arc": "Infinity",
+   "slug": "infinity",
+   "file": "infinity.json",
+   "issue_count": 56,
+   "owned_count": 15
+  },
+  {
+   "arc": "Inhumanity",
+   "slug": "inhumanity",
+   "file": "inhumanity.json",
+   "issue_count": 21,
+   "owned_count": 2
+  },
+  {
+   "arc": "Inhumans vs. X-Men",
+   "slug": "inhumans-vs-x-men",
+   "file": "inhumans-vs-x-men.json",
+   "issue_count": 24,
+   "owned_count": 5
+  },
+  {
+   "arc": "Injustice",
+   "slug": "injustice",
+   "file": "injustice.json",
+   "issue_count": 265,
+   "owned_count": 13
+  },
+  {
+   "arc": "Iron Man 2020",
+   "slug": "iron-man-2020",
+   "file": "iron-man-2020.json",
+   "issue_count": 18,
+   "owned_count": 0
+  },
+  {
+   "arc": "JLA Avengers",
+   "slug": "jla-avengers",
+   "file": "jla-avengers.json",
+   "issue_count": 4,
+   "owned_count": 0
+  },
+  {
+   "arc": "Joker's Last Laugh",
+   "slug": "joker-s-last-laugh",
+   "file": "joker-s-last-laugh.json",
+   "issue_count": 32,
+   "owned_count": 3
+  },
+  {
+   "arc": "Joker War",
+   "slug": "joker-war",
+   "file": "joker-war.json",
+   "issue_count": 26,
+   "owned_count": 26
+  },
+  {
+   "arc": "JSA- Black Reign",
+   "slug": "jsa-black-reign",
+   "file": "jsa-black-reign.json",
+   "issue_count": 6,
+   "owned_count": 3
+  },
+  {
+   "arc": "Justice League: Dream Girls",
+   "slug": "justice-league-dream-girls",
+   "file": "justice-league-dream-girls.json",
+   "issue_count": 5,
+   "owned_count": 0
+  },
+  {
+   "arc": "Justice League Incarnate",
+   "slug": "justice-league-incarnate",
+   "file": "justice-league-incarnate.json",
+   "issue_count": 5,
+   "owned_count": 0
+  },
+  {
+   "arc": "Justice League vs. Suicide Squad",
+   "slug": "justice-league-vs-suicide-squad",
+   "file": "justice-league-vs-suicide-squad.json",
+   "issue_count": 11,
+   "owned_count": 10
+  },
+  {
+   "arc": "King in Black",
+   "slug": "king-in-black",
+   "file": "king-in-black.json",
+   "issue_count": 69,
+   "owned_count": 53
+  },
+  {
+   "arc": "Kingdom of Zod",
+   "slug": "kingdom-of-zod",
+   "file": "kingdom-of-zod.json",
+   "issue_count": 9,
+   "owned_count": 2
+  },
+  {
+   "arc": "Knight Terrors",
+   "slug": "knight-terrors",
+   "file": "knight-terrors.json",
+   "issue_count": 47,
+   "owned_count": 0
+  },
+  {
+   "arc": "Kraven's Last Hunt",
+   "slug": "kraven-s-last-hunt",
+   "file": "kraven-s-last-hunt.json",
+   "issue_count": 6,
+   "owned_count": 0
+  },
+  {
+   "arc": "Krypton Returns",
+   "slug": "krypton-returns",
+   "file": "krypton-returns.json",
+   "issue_count": 5,
+   "owned_count": 1
+  },
+  {
+   "arc": "Lazarus Planet",
+   "slug": "lazarus-planet",
+   "file": "lazarus-planet.json",
+   "issue_count": 19,
+   "owned_count": 4
+  },
+  {
+   "arc": "Lightning Saga",
+   "slug": "lightning-saga",
+   "file": "lightning-saga.json",
+   "issue_count": 6,
+   "owned_count": 0
+  },
+  {
+   "arc": "Magneto - Dark Seduction",
+   "slug": "magneto-dark-seduction",
+   "file": "magneto-dark-seduction.json",
+   "issue_count": 4,
+   "owned_count": 0
+  },
+  {
+   "arc": "Magneto War",
+   "slug": "magneto-war",
+   "file": "magneto-war.json",
+   "issue_count": 8,
+   "owned_count": 0
+  },
+  {
+   "arc": "Marvel 1602",
+   "slug": "marvel-1602",
+   "file": "marvel-1602.json",
+   "issue_count": 23,
+   "owned_count": 0
+  },
+  {
+   "arc": "Marvel Zombies",
+   "slug": "marvel-zombies",
+   "file": "marvel-zombies.json",
+   "issue_count": 116,
+   "owned_count": 0
+  },
+  {
+   "arc": "Maximum Carnage",
+   "slug": "maximum-carnage",
+   "file": "maximum-carnage.json",
+   "issue_count": 14,
+   "owned_count": 0
+  },
+  {
+   "arc": "Maximum Security",
+   "slug": "maximum-security",
+   "file": "maximum-security.json",
+   "issue_count": 28,
+   "owned_count": 6
+  },
+  {
+   "arc": "Messiah War",
+   "slug": "messiah-war",
+   "file": "messiah-war.json",
+   "issue_count": 7,
+   "owned_count": 1
+  },
+  {
+   "arc": "Minimum Carnage",
+   "slug": "minimum-carnage",
+   "file": "minimum-carnage.json",
+   "issue_count": 6,
+   "owned_count": 2
+  },
+  {
+   "arc": "Monsters Unleashed",
+   "slug": "monsters-unleashed",
+   "file": "monsters-unleashed.json",
+   "issue_count": 13,
+   "owned_count": 4
+  },
+  {
+   "arc": "Multiversity",
+   "slug": "multiversity",
+   "file": "multiversity.json",
+   "issue_count": 9,
+   "owned_count": 0
+  },
+  {
+   "arc": "Necrosha",
+   "slug": "necrosha",
+   "file": "necrosha.json",
+   "issue_count": 14,
+   "owned_count": 8
+  },
+  {
+   "arc": "New 52- Futures End",
+   "slug": "new-52-futures-end",
+   "file": "new-52-futures-end.json",
+   "issue_count": 90,
+   "owned_count": 0
+  },
+  {
+   "arc": "Night of the Monster Men",
+   "slug": "night-of-the-monster-men",
+   "file": "night-of-the-monster-men.json",
+   "issue_count": 6,
+   "owned_count": 6
+  },
+  {
+   "arc": "Night of the Owls",
+   "slug": "night-of-the-owls",
+   "file": "night-of-the-owls.json",
+   "issue_count": 15,
+   "owned_count": 14
+  },
+  {
+   "arc": "One Moment in Time",
+   "slug": "one-moment-in-time",
+   "file": "one-moment-in-time.json",
+   "issue_count": 4,
+   "owned_count": 0
+  },
+  {
+   "arc": "One More Day",
+   "slug": "one-more-day",
+   "file": "one-more-day.json",
+   "issue_count": 4,
+   "owned_count": 0
+  },
+  {
+   "arc": "One World Under Doom",
+   "slug": "one-world-under-doom",
+   "file": "one-world-under-doom.json",
+   "issue_count": 83,
+   "owned_count": 55
+  },
+  {
+   "arc": "Original Clone Saga",
+   "slug": "original-clone-saga",
+   "file": "original-clone-saga.json",
+   "issue_count": 13,
+   "owned_count": 0
+  },
+  {
+   "arc": "Original Sin",
+   "slug": "original-sin",
+   "file": "original-sin.json",
+   "issue_count": 58,
+   "owned_count": 17
+  },
+  {
+   "arc": "Our Worlds at War",
+   "slug": "our-worlds-at-war",
+   "file": "our-worlds-at-war.json",
+   "issue_count": 41,
+   "owned_count": 0
+  },
+  {
+   "arc": "Outlawed",
+   "slug": "outlawed",
+   "file": "outlawed.json",
+   "issue_count": 32,
+   "owned_count": 17
+  },
+  {
+   "arc": "Planet Hulk",
+   "slug": "planet-hulk",
+   "file": "planet-hulk.json",
+   "issue_count": 23,
+   "owned_count": 0
+  },
+  {
+   "arc": "Queen in Black",
+   "slug": "queen-in-black",
+   "file": "queen-in-black.json",
+   "issue_count": 25,
+   "owned_count": 2
+  },
+  {
+   "arc": "Raid on Graymalkin",
+   "slug": "raid-on-graymalkin",
+   "file": "raid-on-graymalkin.json",
+   "issue_count": 6,
+   "owned_count": 6
+  },
+  {
+   "arc": "Realm of Kings",
+   "slug": "realm-of-kings",
+   "file": "realm-of-kings.json",
+   "issue_count": 24,
+   "owned_count": 2
+  },
+  {
+   "arc": "Red Daughter of Krypton",
+   "slug": "red-daughter-of-krypton",
+   "file": "red-daughter-of-krypton.json",
+   "issue_count": 17,
+   "owned_count": 9
+  },
+  {
+   "arc": "Reign of Doomsday",
+   "slug": "reign-of-doomsday",
+   "file": "reign-of-doomsday.json",
+   "issue_count": 10,
+   "owned_count": 1
+  },
+  {
+   "arc": "Reign of the Superboys",
+   "slug": "reign-of-the-superboys",
+   "file": "reign-of-the-superboys.json",
+   "issue_count": 21,
+   "owned_count": 14
+  },
+  {
+   "arc": "Revolutionary War",
+   "slug": "revolutionary-war",
+   "file": "revolutionary-war.json",
+   "issue_count": 8,
+   "owned_count": 0
+  },
+  {
+   "arc": "Rise of the Third Army",
+   "slug": "rise-of-the-third-army",
+   "file": "rise-of-the-third-army.json",
+   "issue_count": 23,
+   "owned_count": 13
+  },
+  {
+   "arc": "Robin Rises",
+   "slug": "robin-rises",
+   "file": "robin-rises.json",
+   "issue_count": 11,
+   "owned_count": 0
+  },
+  {
+   "arc": "Robin War",
+   "slug": "robin-war",
+   "file": "robin-war.json",
+   "issue_count": 9,
+   "owned_count": 1
+  },
+  {
+   "arc": "Rotworld",
+   "slug": "rotworld",
+   "file": "rotworld.json",
+   "issue_count": 18,
+   "owned_count": 11
+  },
+  {
+   "arc": "Sabretooth War",
+   "slug": "sabretooth-war",
+   "file": "sabretooth-war.json",
+   "issue_count": 10,
+   "owned_count": 9
+  },
+  {
+   "arc": "Secret Empire",
+   "slug": "secret-empire",
+   "file": "secret-empire.json",
+   "issue_count": 77,
+   "owned_count": 25
+  },
+  {
+   "arc": "Secret Invasion",
+   "slug": "secret-invasion",
+   "file": "secret-invasion.json",
+   "issue_count": 126,
+   "owned_count": 11
+  },
+  {
+   "arc": "Secret Wars",
+   "slug": "secret-wars",
+   "file": "secret-wars.json",
+   "issue_count": 229,
+   "owned_count": 7
+  },
+  {
+   "arc": "Seven Soldiers",
+   "slug": "seven-soldiers",
+   "file": "seven-soldiers.json",
+   "issue_count": 30,
+   "owned_count": 0
+  },
+  {
+   "arc": "Shadow War",
+   "slug": "shadow-war",
+   "file": "shadow-war.json",
+   "issue_count": 9,
+   "owned_count": 2
+  },
+  {
+   "arc": "Shadowland",
+   "slug": "shadowland",
+   "file": "shadowland.json",
+   "issue_count": 31,
+   "owned_count": 0
+  },
+  {
+   "arc": "Shattered Heroes",
+   "slug": "shattered-heroes",
+   "file": "shattered-heroes.json",
+   "issue_count": 74,
+   "owned_count": 9
+  },
+  {
+   "arc": "Siege",
+   "slug": "siege",
+   "file": "siege.json",
+   "issue_count": 44,
+   "owned_count": 4
+  },
+  {
+   "arc": "Sinestro Corps War",
+   "slug": "sinestro-corps-war",
+   "file": "sinestro-corps-war.json",
+   "issue_count": 18,
+   "owned_count": 7
+  },
+  {
+   "arc": "Sinister War",
+   "slug": "sinister-war",
+   "file": "sinister-war.json",
+   "issue_count": 89,
+   "owned_count": 79
+  },
+  {
+   "arc": "Sins of Sinister",
+   "slug": "sins-of-sinister",
+   "file": "sins-of-sinister.json",
+   "issue_count": 13,
+   "owned_count": 13
+  },
+  {
+   "arc": "Sins Rising and Last Remains",
+   "slug": "sins-rising-and-last-remains",
+   "file": "sins-rising-and-last-remains.json",
+   "issue_count": 30,
+   "owned_count": 20
+  },
+  {
+   "arc": "Spider-Geddon",
+   "slug": "spider-geddon",
+   "file": "spider-geddon.json",
+   "issue_count": 27,
+   "owned_count": 0
+  },
+  {
+   "arc": "Spider-Island",
+   "slug": "spider-island",
+   "file": "spider-island.json",
+   "issue_count": 35,
+   "owned_count": 3
+  },
+  {
+   "arc": "Spider-Man Beyond",
+   "slug": "spider-man-beyond",
+   "file": "spider-man-beyond.json",
+   "issue_count": 16,
+   "owned_count": 12
+  },
+  {
+   "arc": "Spider-Man: Identity Crisis",
+   "slug": "spider-man-identity-crisis",
+   "file": "spider-man-identity-crisis.json",
+   "issue_count": 8,
+   "owned_count": 0
+  },
+  {
+   "arc": "Spider-Man The Other",
+   "slug": "spider-man-the-other",
+   "file": "spider-man-the-other.json",
+   "issue_count": 12,
+   "owned_count": 0
+  },
+  {
+   "arc": "Spider-Man/Venom: Death Spiral",
+   "slug": "spider-man-venom-death-spiral",
+   "file": "spider-man-venom-death-spiral.json",
+   "issue_count": 10,
+   "owned_count": 8
+  },
+  {
+   "arc": "Spider-Verse vs Venomverse",
+   "slug": "spider-verse-vs-venomverse",
+   "file": "spider-verse-vs-venomverse.json",
+   "issue_count": 7,
+   "owned_count": 2
+  },
+  {
+   "arc": "Spider-Verse",
+   "slug": "spider-verse",
+   "file": "spider-verse.json",
+   "issue_count": 33,
+   "owned_count": 18
+  },
+  {
+   "arc": "Spider-Women",
+   "slug": "spider-women",
+   "file": "spider-women.json",
+   "issue_count": 8,
+   "owned_count": 0
+  },
+  {
+   "arc": "Star Wars The Screaming Citadel",
+   "slug": "star-wars-the-screaming-citadel",
+   "file": "star-wars-the-screaming-citadel.json",
+   "issue_count": 5,
+   "owned_count": 2
+  },
+  {
+   "arc": "Star Wars Vader Down",
+   "slug": "star-wars-vader-down",
+   "file": "star-wars-vader-down.json",
+   "issue_count": 6,
+   "owned_count": 0
+  },
+  {
+   "arc": "Superior Spider-Man",
+   "slug": "superior-spider-man",
+   "file": "superior-spider-man.json",
+   "issue_count": 85,
+   "owned_count": 8
+  },
+  {
+   "arc": "Superman Doomed",
+   "slug": "superman-doomed",
+   "file": "superman-doomed.json",
+   "issue_count": 21,
+   "owned_count": 9
+  },
+  {
+   "arc": "Superman: Emperor Joker",
+   "slug": "superman-emperor-joker",
+   "file": "superman-emperor-joker.json",
+   "issue_count": 9,
+   "owned_count": 0
+  },
+  {
+   "arc": "Superman: H'El on Earth",
+   "slug": "superman-h-el-on-earth",
+   "file": "superman-h-el-on-earth.json",
+   "issue_count": 14,
+   "owned_count": 9
+  },
+  {
+   "arc": "Superman: New Krypton",
+   "slug": "superman-new-krypton",
+   "file": "superman-new-krypton.json",
+   "issue_count": 81,
+   "owned_count": 9
+  },
+  {
+   "arc": "Superman Reborn",
+   "slug": "superman-reborn",
+   "file": "superman-reborn.json",
+   "issue_count": 13,
+   "owned_count": 9
+  },
+  {
+   "arc": "Superman Savage Dawn",
+   "slug": "superman-savage-dawn",
+   "file": "superman-savage-dawn.json",
+   "issue_count": 10,
+   "owned_count": 0
+  },
+  {
+   "arc": "Superman: Up, Up, and Away!",
+   "slug": "superman-up-up-and-away",
+   "file": "superman-up-up-and-away.json",
+   "issue_count": 8,
+   "owned_count": 0
+  },
+  {
+   "arc": "Symbiosis Necrosis",
+   "slug": "symbiosis-necrosis",
+   "file": "symbiosis-necrosis.json",
+   "issue_count": 4,
+   "owned_count": 4
+  },
+  {
+   "arc": "The 8 Deaths of Spider-Man",
+   "slug": "the-8-deaths-of-spider-man",
+   "file": "the-8-deaths-of-spider-man.json",
+   "issue_count": 10,
+   "owned_count": 10
+  },
+  {
+   "arc": "The Black Diamond Probability",
+   "slug": "the-black-diamond-probability",
+   "file": "the-black-diamond-probability.json",
+   "issue_count": 16,
+   "owned_count": 8
+  },
+  {
+   "arc": "The Black Vortex",
+   "slug": "the-black-vortex",
+   "file": "the-black-vortex.json",
+   "issue_count": 13,
+   "owned_count": 3
+  },
+  {
+   "arc": "The Clone Saga",
+   "slug": "the-clone-saga",
+   "file": "the-clone-saga.json",
+   "issue_count": 167,
+   "owned_count": 0
+  },
+  {
+   "arc": "The Culling",
+   "slug": "the-culling",
+   "file": "the-culling.json",
+   "issue_count": 8,
+   "owned_count": 8
+  },
+  {
+   "arc": "The Eighth Day",
+   "slug": "the-eighth-day",
+   "file": "the-eighth-day.json",
+   "issue_count": 5,
+   "owned_count": 3
+  },
+  {
+   "arc": "The Enemy Within",
+   "slug": "the-enemy-within",
+   "file": "the-enemy-within.json",
+   "issue_count": 7,
+   "owned_count": 4
+  },
+  {
+   "arc": "The Infected",
+   "slug": "the-infected",
+   "file": "the-infected.json",
+   "issue_count": 23,
+   "owned_count": 23
+  },
+  {
+   "arc": "The Initiative",
+   "slug": "the-initiative",
+   "file": "the-initiative.json",
+   "issue_count": 80,
+   "owned_count": 5
+  },
+  {
+   "arc": "The Justice Society Returns!",
+   "slug": "the-justice-society-returns",
+   "file": "the-justice-society-returns.json",
+   "issue_count": 9,
+   "owned_count": 0
+  },
+  {
+   "arc": "The Last Annihilation",
+   "slug": "the-last-annihilation",
+   "file": "the-last-annihilation.json",
+   "issue_count": 7,
+   "owned_count": 7
+  },
+  {
+   "arc": "The Lazarus Contract",
+   "slug": "the-lazarus-contract",
+   "file": "the-lazarus-contract.json",
+   "issue_count": 5,
+   "owned_count": 1
+  },
+  {
+   "arc": "The Omega Effect",
+   "slug": "the-omega-effect",
+   "file": "the-omega-effect.json",
+   "issue_count": 3,
+   "owned_count": 0
+  },
+  {
+   "arc": "The Resurrection of Ra's al Ghul",
+   "slug": "the-resurrection-of-ra-s-al-ghul",
+   "file": "the-resurrection-of-ra-s-al-ghul.json",
+   "issue_count": 11,
+   "owned_count": 2
+  },
+  {
+   "arc": "The Starbreaker Supremacy",
+   "slug": "the-starbreaker-supremacy",
+   "file": "the-starbreaker-supremacy.json",
+   "issue_count": 6,
+   "owned_count": 6
+  },
+  {
+   "arc": "The Thanos Imperative",
+   "slug": "the-thanos-imperative",
+   "file": "the-thanos-imperative.json",
+   "issue_count": 10,
+   "owned_count": 0
+  },
+  {
+   "arc": "The Trial of Jean Grey",
+   "slug": "the-trial-of-jean-grey",
+   "file": "the-trial-of-jean-grey.json",
+   "issue_count": 6,
+   "owned_count": 4
+  },
+  {
+   "arc": "The Witching Hour",
+   "slug": "the-witching-hour",
+   "file": "the-witching-hour.json",
+   "issue_count": 5,
+   "owned_count": 2
+  },
+  {
+   "arc": "Throne of Atlantis",
+   "slug": "throne-of-atlantis",
+   "file": "throne-of-atlantis.json",
+   "issue_count": 7,
+   "owned_count": 7
+  },
+  {
+   "arc": "Titans: Beast World",
+   "slug": "titans-beast-world",
+   "file": "titans-beast-world.json",
+   "issue_count": 22,
+   "owned_count": 2
+  },
+  {
+   "arc": "Trial of the Amazons",
+   "slug": "trial-of-the-amazons",
+   "file": "trial-of-the-amazons.json",
+   "issue_count": 8,
+   "owned_count": 2
+  },
+  {
+   "arc": "Trinity War",
+   "slug": "trinity-war",
+   "file": "trinity-war.json",
+   "issue_count": 19,
+   "owned_count": 6
+  },
+  {
+   "arc": "Ultimate Endgame",
+   "slug": "ultimate-endgame",
+   "file": "ultimate-endgame.json",
+   "issue_count": 13,
+   "owned_count": 6
+  },
+  {
+   "arc": "Utopia",
+   "slug": "utopia",
+   "file": "utopia.json",
+   "issue_count": 13,
+   "owned_count": 0
+  },
+  {
+   "arc": "Venom Inc.",
+   "slug": "venom-inc",
+   "file": "venom-inc.json",
+   "issue_count": 6,
+   "owned_count": 2
+  },
+  {
+   "arc": "Venom War",
+   "slug": "venom-war",
+   "file": "venom-war.json",
+   "issue_count": 36,
+   "owned_count": 10
+  },
+  {
+   "arc": "Venomverse",
+   "slug": "venomverse",
+   "file": "venomverse.json",
+   "issue_count": 21,
+   "owned_count": 0
+  },
+  {
+   "arc": "War of Kings",
+   "slug": "war-of-kings",
+   "file": "war-of-kings.json",
+   "issue_count": 65,
+   "owned_count": 13
+  },
+  {
+   "arc": "War of the Green Lanterns",
+   "slug": "war-of-the-green-lanterns",
+   "file": "war-of-the-green-lanterns.json",
+   "issue_count": 14,
+   "owned_count": 0
+  },
+  {
+   "arc": "War of the Realms",
+   "slug": "war-of-the-realms",
+   "file": "war-of-the-realms.json",
+   "issue_count": 66,
+   "owned_count": 20
+  },
+  {
+   "arc": "We Are Yesterday",
+   "slug": "we-are-yesterday",
+   "file": "we-are-yesterday.json",
+   "issue_count": 6,
+   "owned_count": 6
+  },
+  {
+   "arc": "Wolverine Goes to Hell",
+   "slug": "wolverine-goes-to-hell",
+   "file": "wolverine-goes-to-hell.json",
+   "issue_count": 14,
+   "owned_count": 8
+  },
+  {
+   "arc": "World War Hulk",
+   "slug": "world-war-hulk",
+   "file": "world-war-hulk.json",
+   "issue_count": 52,
+   "owned_count": 4
+  },
+  {
+   "arc": "World War Hulks",
+   "slug": "world-war-hulks",
+   "file": "world-war-hulks.json",
+   "issue_count": 13,
+   "owned_count": 0
+  },
+  {
+   "arc": "World War III",
+   "slug": "world-war-iii",
+   "file": "world-war-iii.json",
+   "issue_count": 4,
+   "owned_count": 0
+  },
+  {
+   "arc": "World Without Young Justice",
+   "slug": "world-without-young-justice",
+   "file": "world-without-young-justice.json",
+   "issue_count": 5,
+   "owned_count": 0
+  },
+  {
+   "arc": "Worldwide",
+   "slug": "worldwide",
+   "file": "worldwide.json",
+   "issue_count": 94,
+   "owned_count": 50
+  },
+  {
+   "arc": "Wrath of the First Lantern",
+   "slug": "wrath-of-the-first-lantern",
+   "file": "wrath-of-the-first-lantern.json",
+   "issue_count": 16,
+   "owned_count": 2
+  },
+  {
+   "arc": "X-Manhunt",
+   "slug": "x-manhunt",
+   "file": "x-manhunt.json",
+   "issue_count": 8,
+   "owned_count": 4
+  },
+  {
+   "arc": "X-Men Divided We Stand",
+   "slug": "x-men-divided-we-stand",
+   "file": "x-men-divided-we-stand.json",
+   "issue_count": 40,
+   "owned_count": 12
+  },
+  {
+   "arc": "X-Men Endangered Species",
+   "slug": "x-men-endangered-species",
+   "file": "x-men-endangered-species.json",
+   "issue_count": 17,
+   "owned_count": 2
+  },
+  {
+   "arc": "X-Men Manifest Destiny",
+   "slug": "x-men-manifest-destiny",
+   "file": "x-men-manifest-destiny.json",
+   "issue_count": 35,
+   "owned_count": 4
+  },
+  {
+   "arc": "X-Men Messiah Complex",
+   "slug": "x-men-messiah-complex",
+   "file": "x-men-messiah-complex.json",
+   "issue_count": 13,
+   "owned_count": 2
+  },
+  {
+   "arc": "X-Men: Nation X",
+   "slug": "x-men-nation-x",
+   "file": "x-men-nation-x.json",
+   "issue_count": 21,
+   "owned_count": 1
+  },
+  {
+   "arc": "X-Men: Original Sin",
+   "slug": "x-men-original-sin",
+   "file": "x-men-original-sin.json",
+   "issue_count": 6,
+   "owned_count": 2
+  },
+  {
+   "arc": "X-Men: Regenesis",
+   "slug": "x-men-regenesis",
+   "file": "x-men-regenesis.json",
+   "issue_count": 46,
+   "owned_count": 21
+  },
+  {
+   "arc": "X-Men: Schism",
+   "slug": "x-men-schism",
+   "file": "x-men-schism.json",
+   "issue_count": 11,
+   "owned_count": 0
+  },
+  {
+   "arc": "X-Men: Second Coming",
+   "slug": "x-men-second-coming",
+   "file": "x-men-second-coming.json",
+   "issue_count": 21,
+   "owned_count": 5
+  },
+  {
+   "arc": "X of Swords",
+   "slug": "x-of-swords",
+   "file": "x-of-swords.json",
+   "issue_count": 35,
+   "owned_count": 9
+  },
+  {
+   "arc": "X-Termination",
+   "slug": "x-termination",
+   "file": "x-termination.json",
+   "issue_count": 8,
+   "owned_count": 2
+  },
+  {
+   "arc": "Year of the Villain: Hell Arisen",
+   "slug": "year-of-the-villain-hell-arisen",
+   "file": "year-of-the-villain-hell-arisen.json",
+   "issue_count": 4,
+   "owned_count": 4
+  },
+  {
+   "arc": "Year of the Villain",
+   "slug": "year-of-the-villain",
+   "file": "year-of-the-villain.json",
+   "issue_count": 12,
+   "owned_count": 11
+  }
+ ]
+}

@@ -1,0 +1,176 @@
+{
+ "arc": "X-Men: Nation X",
+ "slug": "x-men-nation-x",
+ "issue_count": 21,
+ "owned_count": 1,
+ "entries": [
+  {
+   "order": 1,
+   "series": "Deadpool",
+   "issue": "15",
+   "volume": "2008",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 2,
+   "series": "Deadpool",
+   "issue": "16",
+   "volume": "2008",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 3,
+   "series": "Deadpool",
+   "issue": "17",
+   "volume": "2008",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 4,
+   "series": "Deadpool",
+   "issue": "18",
+   "volume": "2008",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 5,
+   "series": "X-Men: Legacy Annual",
+   "issue": "1",
+   "volume": "2009",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 6,
+   "series": "X-Men: Legacy",
+   "issue": "228",
+   "volume": "2008",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 7,
+   "series": "X-Men: Legacy",
+   "issue": "229",
+   "volume": "2008",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 8,
+   "series": "X-Men: Legacy",
+   "issue": "230",
+   "volume": "2008",
+   "year": "2010",
+   "owned": true
+  },
+  {
+   "order": 9,
+   "series": "The Uncanny X-Men",
+   "issue": "515",
+   "volume": "1981",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 10,
+   "series": "The Uncanny X-Men",
+   "issue": "516",
+   "volume": "1981",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 11,
+   "series": "The Uncanny X-Men",
+   "issue": "517",
+   "volume": "1981",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 12,
+   "series": "The Uncanny X-Men",
+   "issue": "518",
+   "volume": "1981",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 13,
+   "series": "The Uncanny X-Men",
+   "issue": "519",
+   "volume": "1981",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 14,
+   "series": "The Uncanny X-Men",
+   "issue": "520",
+   "volume": "1981",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 15,
+   "series": "The Uncanny X-Men",
+   "issue": "521",
+   "volume": "1981",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 16,
+   "series": "The Uncanny X-Men",
+   "issue": "522",
+   "volume": "1981",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 17,
+   "series": "Nation X: X-Factor",
+   "issue": "1",
+   "volume": "2010",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 18,
+   "series": "Nation X",
+   "issue": "1",
+   "volume": "2010",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 19,
+   "series": "Nation X",
+   "issue": "2",
+   "volume": "2010",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 20,
+   "series": "Nation X",
+   "issue": "3",
+   "volume": "2010",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 21,
+   "series": "Nation X",
+   "issue": "4",
+   "volume": "2010",
+   "year": "2010",
+   "owned": false
+  }
+ ]
+}

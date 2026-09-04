@@ -1,0 +1,48 @@
+{
+ "arc": "Star Wars The Screaming Citadel",
+ "slug": "star-wars-the-screaming-citadel",
+ "issue_count": 5,
+ "owned_count": 2,
+ "entries": [
+  {
+   "order": 1,
+   "series": "Star Wars: Screaming Citadel",
+   "issue": "1",
+   "volume": "2017",
+   "year": "2017",
+   "owned": false
+  },
+  {
+   "order": 2,
+   "series": "Star Wars",
+   "issue": "31",
+   "volume": "2015",
+   "year": "2017",
+   "owned": false
+  },
+  {
+   "order": 3,
+   "series": "Star Wars: Doctor Aphra",
+   "issue": "7",
+   "volume": "2016",
+   "year": "2017",
+   "owned": true
+  },
+  {
+   "order": 4,
+   "series": "Star Wars",
+   "issue": "32",
+   "volume": "2015",
+   "year": "2017",
+   "owned": false
+  },
+  {
+   "order": 5,
+   "series": "Star Wars: Doctor Aphra",
+   "issue": "8",
+   "volume": "2016",
+   "year": "2017",
+   "owned": true
+  }
+ ]
+}

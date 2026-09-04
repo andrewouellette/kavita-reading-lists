@@ -1,0 +1,48 @@
+{
+ "arc": "World Without Young Justice",
+ "slug": "world-without-young-justice",
+ "issue_count": 5,
+ "owned_count": 0,
+ "entries": [
+  {
+   "order": 1,
+   "series": "Young Justice",
+   "issue": "44",
+   "volume": "1998",
+   "year": "2002",
+   "owned": false
+  },
+  {
+   "order": 2,
+   "series": "Impulse",
+   "issue": "85",
+   "volume": "1995",
+   "year": "2002",
+   "owned": false
+  },
+  {
+   "order": 3,
+   "series": "Robin",
+   "issue": "101",
+   "volume": "1993",
+   "year": "2002",
+   "owned": false
+  },
+  {
+   "order": 4,
+   "series": "Superboy",
+   "issue": "99",
+   "volume": "1994",
+   "year": "2002",
+   "owned": false
+  },
+  {
+   "order": 5,
+   "series": "Young Justice",
+   "issue": "45",
+   "volume": "1998",
+   "year": "2002",
+   "owned": false
+  }
+ ]
+}

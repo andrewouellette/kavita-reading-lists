@@ -1,0 +1,128 @@
+{
+ "arc": "Night of the Owls",
+ "slug": "night-of-the-owls",
+ "issue_count": 15,
+ "owned_count": 14,
+ "entries": [
+  {
+   "order": 1,
+   "series": "Batman",
+   "issue": "7",
+   "volume": "2011",
+   "year": "2012",
+   "owned": true
+  },
+  {
+   "order": 2,
+   "series": "Batman",
+   "issue": "8",
+   "volume": "2011",
+   "year": "2012",
+   "owned": true
+  },
+  {
+   "order": 3,
+   "series": "Red Hood and the Outlaws",
+   "issue": "8",
+   "volume": "2011",
+   "year": "2012",
+   "owned": true
+  },
+  {
+   "order": 4,
+   "series": "Batwing",
+   "issue": "9",
+   "volume": "2011",
+   "year": "2012",
+   "owned": true
+  },
+  {
+   "order": 5,
+   "series": "Batman and Robin",
+   "issue": "9",
+   "volume": "2011",
+   "year": "2012",
+   "owned": true
+  },
+  {
+   "order": 6,
+   "series": "Batgirl",
+   "issue": "9",
+   "volume": "2011",
+   "year": "2012",
+   "owned": true
+  },
+  {
+   "order": 7,
+   "series": "Batman",
+   "issue": "9",
+   "volume": "2011",
+   "year": "2012",
+   "owned": true
+  },
+  {
+   "order": 8,
+   "series": "Red Hood and the Outlaws",
+   "issue": "9",
+   "volume": "2011",
+   "year": "2012",
+   "owned": true
+  },
+  {
+   "order": 9,
+   "series": "Nightwing",
+   "issue": "8",
+   "volume": "2011",
+   "year": "2012",
+   "owned": true
+  },
+  {
+   "order": 10,
+   "series": "Nightwing",
+   "issue": "9",
+   "volume": "2011",
+   "year": "2012",
+   "owned": true
+  },
+  {
+   "order": 11,
+   "series": "Detective Comics",
+   "issue": "9",
+   "volume": "2011",
+   "year": "2012",
+   "owned": false
+  },
+  {
+   "order": 12,
+   "series": "Batman: The Dark Knight",
+   "issue": "9",
+   "volume": "2011",
+   "year": "2012",
+   "owned": true
+  },
+  {
+   "order": 13,
+   "series": "Birds of Prey",
+   "issue": "9",
+   "volume": "2011",
+   "year": "2012",
+   "owned": true
+  },
+  {
+   "order": 14,
+   "series": "Batman Annual",
+   "issue": "1",
+   "volume": "2012",
+   "year": "2012",
+   "owned": true
+  },
+  {
+   "order": 15,
+   "series": "Catwoman",
+   "issue": "9",
+   "volume": "2011",
+   "year": "2012",
+   "owned": true
+  }
+ ]
+}

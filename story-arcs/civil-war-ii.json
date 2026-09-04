@@ -1,0 +1,1232 @@
+{
+ "arc": "Civil War II",
+ "slug": "civil-war-ii",
+ "issue_count": 153,
+ "owned_count": 32,
+ "entries": [
+  {
+   "order": 1,
+   "series": "International Iron Man",
+   "issue": "4",
+   "volume": "2016",
+   "year": "2016",
+   "owned": false
+  },
+  {
+   "order": 2,
+   "series": "The Totally Awesome Hulk",
+   "issue": "7",
+   "volume": "2015",
+   "year": "2016",
+   "owned": false
+  },
+  {
+   "order": 3,
+   "series": "The Totally Awesome Hulk",
+   "issue": "8",
+   "volume": "2015",
+   "year": "2016",
+   "owned": false
+  },
+  {
+   "order": 4,
+   "series": "Invincible Iron Man",
+   "issue": "6",
+   "volume": "2015",
+   "year": "2016",
+   "owned": false
+  },
+  {
+   "order": 5,
+   "series": "Invincible Iron Man",
+   "issue": "7",
+   "volume": "2015",
+   "year": "2016",
+   "owned": false
+  },
+  {
+   "order": 6,
+   "series": "Invincible Iron Man",
+   "issue": "8",
+   "volume": "2015",
+   "year": "2016",
+   "owned": false
+  },
+  {
+   "order": 7,
+   "series": "Invincible Iron Man",
+   "issue": "9",
+   "volume": "2015",
+   "year": "2016",
+   "owned": false
+  },
+  {
+   "order": 8,
+   "series": "Invincible Iron Man",
+   "issue": "10",
+   "volume": "2015",
+   "year": "2016",
+   "owned": true
+  },
+  {
+   "order": 9,
+   "series": "Invincible Iron Man",
+   "issue": "11",
+   "volume": "2015",
+   "year": "2016",
+   "owned": false
+  },
+  {
+   "order": 10,
+   "series": "Ultimates",
+   "issue": "7",
+   "volume": "2015",
+   "year": "2016",
+   "owned": false
+  },
+  {
+   "order": 11,
+   "series": "Civil War II",
+   "issue": "0",
+   "volume": "2016",
+   "year": "2016",
+   "owned": false
+  },
+  {
+   "order": 12,
+   "series": "All-New Wolverine",
+   "issue": "8",
+   "volume": "2015",
+   "year": "2016",
+   "owned": false
+  },
+  {
+   "order": 13,
+   "series": "All-New Wolverine",
+   "issue": "9",
+   "volume": "2015",
+   "year": "2016",
+   "owned": false
+  },
+  {
+   "order": 14,
+   "series": "Ms. Marvel",
+   "issue": "7",
+   "volume": "2015",
+   "year": "2016",
+   "owned": false
+  },
+  {
+   "order": 15,
+   "series": "Civil War II: Ulysses Infinite Comic",
+   "issue": "1",
+   "volume": "2016",
+   "year": "2016",
+   "owned": false
+  },
+  {
+   "order": 16,
+   "series": "Civil War II: Ulysses Infinite Comic",
+   "issue": "2",
+   "volume": "2016",
+   "year": "2016",
+   "owned": false
+  },
+  {
+   "order": 17,
+   "series": "Civil War II: Ulysses Infinite Comic",
+   "issue": "3",
+   "volume": "2016",
+   "year": "2016",
+   "owned": false
+  },
+  {
+   "order": 18,
+   "series": "Civil War II: Ulysses Infinite Comic",
+   "issue": "4",
+   "volume": "2016",
+   "year": "2016",
+   "owned": false
+  },
+  {
+   "order": 19,
+   "series": "Civil War II: Ulysses Infinite Comic",
+   "issue": "5",
+   "volume": "2016",
+   "year": "2016",
+   "owned": false
+  },
+  {
+   "order": 20,
+   "series": "Civil War II: Ulysses Infinite Comic",
+   "issue": "6",
+   "volume": "2016",
+   "year": "2016",
+   "owned": false
+  },
+  {
+   "order": 21,
+   "series": "Civil War II",
+   "issue": "1",
+   "volume": "2016",
+   "year": "2016",
+   "owned": false
+  },
+  {
+   "order": 22,
+   "series": "Captain Marvel",
+   "issue": "6",
+   "volume": "2016",
+   "year": "2016",
+   "owned": true
+  },
+  {
+   "order": 23,
+   "series": "Free Comic Book Day 2016 (Civil War II)",
+   "issue": "1",
+   "volume": "2016",
+   "year": "2016",
+   "owned": false
+  },
+  {
+   "order": 24,
+   "series": "Civil War II: Gods of War",
+   "issue": "1",
+   "volume": "2016",
+   "year": "2016",
+   "owned": false
+  },
+  {
+   "order": 25,
+   "series": "New Avengers",
+   "issue": "12",
+   "volume": "2015",
+   "year": "2016",
+   "owned": false
+  },
+  {
+   "order": 26,
+   "series": "Civil War II: Choosing Sides",
+   "issue": "1",
+   "volume": "2016",
+   "year": "2016",
+   "owned": false
+  },
+  {
+   "order": 27,
+   "series": "Deadpool",
+   "issue": "14",
+   "volume": "2015",
+   "year": "2016",
+   "owned": true
+  },
+  {
+   "order": 28,
+   "series": "Deadpool",
+   "issue": "15",
+   "volume": "2015",
+   "year": "2016",
+   "owned": false
+  },
+  {
+   "order": 29,
+   "series": "Deadpool",
+   "issue": "16",
+   "volume": "2015",
+   "year": "2016",
+   "owned": false
+  },
+  {
+   "order": 30,
+   "series": "Deadpool",
+   "issue": "17",
+   "volume": "2015",
+   "year": "2016",
+   "owned": false
+  },
+  {
+   "order": 31,
+   "series": "Deadpool",
+   "issue": "18",
+   "volume": "2015",
+   "year": "2016",
+   "owned": false
+  },
+  {
+   "order": 32,
+   "series": "Spider-Man 2099",
+   "issue": "13",
+   "volume": "2015",
+   "year": "2016",
+   "owned": true
+  },
+  {
+   "order": 33,
+   "series": "Spider-Man 2099",
+   "issue": "14",
+   "volume": "2015",
+   "year": "2016",
+   "owned": true
+  },
+  {
+   "order": 34,
+   "series": "Spider-Man 2099",
+   "issue": "15",
+   "volume": "2015",
+   "year": "2016",
+   "owned": true
+  },
+  {
+   "order": 35,
+   "series": "Spider-Man 2099",
+   "issue": "16",
+   "volume": "2015",
+   "year": "2016",
+   "owned": true
+  },
+  {
+   "order": 36,
+   "series": "Civil War II: Amazing Spider-Man",
+   "issue": "1",
+   "volume": "2016",
+   "year": "2016",
+   "owned": false
+  },
+  {
+   "order": 37,
+   "series": "Civil War II: Amazing Spider-Man",
+   "issue": "2",
+   "volume": "2016",
+   "year": "2016",
+   "owned": false
+  },
+  {
+   "order": 38,
+   "series": "Civil War II: Amazing Spider-Man",
+   "issue": "3",
+   "volume": "2016",
+   "year": "2016",
+   "owned": false
+  },
+  {
+   "order": 39,
+   "series": "Civil War II: Amazing Spider-Man",
+   "issue": "4",
+   "volume": "2016",
+   "year": "2016",
+   "owned": false
+  },
+  {
+   "order": 40,
+   "series": "Spider-Woman",
+   "issue": "9",
+   "volume": "2015",
+   "year": "2016",
+   "owned": true
+  },
+  {
+   "order": 41,
+   "series": "All-New Wolverine",
+   "issue": "10",
+   "volume": "2015",
+   "year": "2016",
+   "owned": true
+  },
+  {
+   "order": 42,
+   "series": "All-New Wolverine",
+   "issue": "11",
+   "volume": "2015",
+   "year": "2016",
+   "owned": false
+  },
+  {
+   "order": 43,
+   "series": "All-New Wolverine",
+   "issue": "12",
+   "volume": "2015",
+   "year": "2016",
+   "owned": true
+  },
+  {
+   "order": 44,
+   "series": "Power Man and Iron Fist",
+   "issue": "6",
+   "volume": "2016",
+   "year": "2016",
+   "owned": false
+  },
+  {
+   "order": 45,
+   "series": "Ultimates",
+   "issue": "8",
+   "volume": "2015",
+   "year": "2016",
+   "owned": false
+  },
+  {
+   "order": 46,
+   "series": "Patsy Walker, A.K.A. Hellcat!",
+   "issue": "8",
+   "volume": "2015",
+   "year": "2016",
+   "owned": false
+  },
+  {
+   "order": 47,
+   "series": "A-Force",
+   "issue": "8",
+   "volume": "2016",
+   "year": "2016",
+   "owned": false
+  },
+  {
+   "order": 48,
+   "series": "A-Force",
+   "issue": "9",
+   "volume": "2016",
+   "year": "2016",
+   "owned": false
+  },
+  {
+   "order": 49,
+   "series": "A-Force",
+   "issue": "10",
+   "volume": "2016",
+   "year": "2016",
+   "owned": false
+  },
+  {
+   "order": 50,
+   "series": "Scarlet Witch",
+   "issue": "9",
+   "volume": "2015",
+   "year": "2016",
+   "owned": true
+  },
+  {
+   "order": 51,
+   "series": "Spider-Man",
+   "issue": "6",
+   "volume": "2016",
+   "year": "2016",
+   "owned": true
+  },
+  {
+   "order": 52,
+   "series": "Civil War II",
+   "issue": "2",
+   "volume": "2016",
+   "year": "2016",
+   "owned": false
+  },
+  {
+   "order": 53,
+   "series": "Agents of S.H.I.E.L.D.",
+   "issue": "7",
+   "volume": "2016",
+   "year": "2016",
+   "owned": false
+  },
+  {
+   "order": 54,
+   "series": "Uncanny Inhumans",
+   "issue": "11",
+   "volume": "2015",
+   "year": "2016",
+   "owned": false
+  },
+  {
+   "order": 55,
+   "series": "Uncanny Inhumans",
+   "issue": "12",
+   "volume": "2015",
+   "year": "2016",
+   "owned": false
+  },
+  {
+   "order": 56,
+   "series": "Uncanny Inhumans",
+   "issue": "13",
+   "volume": "2015",
+   "year": "2016",
+   "owned": false
+  },
+  {
+   "order": 57,
+   "series": "Uncanny Inhumans",
+   "issue": "14",
+   "volume": "2015",
+   "year": "2016",
+   "owned": false
+  },
+  {
+   "order": 58,
+   "series": "Invincible Iron Man",
+   "issue": "12",
+   "volume": "2015",
+   "year": "2016",
+   "owned": false
+  },
+  {
+   "order": 59,
+   "series": "Invincible Iron Man",
+   "issue": "13",
+   "volume": "2015",
+   "year": "2016",
+   "owned": true
+  },
+  {
+   "order": 60,
+   "series": "Captain America: Sam Wilson",
+   "issue": "10",
+   "volume": "2015",
+   "year": "2016",
+   "owned": true
+  },
+  {
+   "order": 61,
+   "series": "Civil War II: Choosing Sides",
+   "issue": "2",
+   "volume": "2016",
+   "year": "2016",
+   "owned": false
+  },
+  {
+   "order": 62,
+   "series": "Civil War II: X-Men",
+   "issue": "1",
+   "volume": "2016",
+   "year": "2016",
+   "owned": false
+  },
+  {
+   "order": 63,
+   "series": "Civil War II: X-Men",
+   "issue": "2",
+   "volume": "2016",
+   "year": "2016",
+   "owned": false
+  },
+  {
+   "order": 64,
+   "series": "Civil War II: X-Men",
+   "issue": "3",
+   "volume": "2016",
+   "year": "2016",
+   "owned": false
+  },
+  {
+   "order": 65,
+   "series": "Civil War II: X-Men",
+   "issue": "4",
+   "volume": "2016",
+   "year": "2016",
+   "owned": false
+  },
+  {
+   "order": 66,
+   "series": "Captain Marvel",
+   "issue": "7",
+   "volume": "2016",
+   "year": "2016",
+   "owned": true
+  },
+  {
+   "order": 67,
+   "series": "Ms. Marvel",
+   "issue": "8",
+   "volume": "2015",
+   "year": "2016",
+   "owned": false
+  },
+  {
+   "order": 68,
+   "series": "Ms. Marvel",
+   "issue": "9",
+   "volume": "2015",
+   "year": "2016",
+   "owned": false
+  },
+  {
+   "order": 69,
+   "series": "Ms. Marvel",
+   "issue": "10",
+   "volume": "2015",
+   "year": "2016",
+   "owned": false
+  },
+  {
+   "order": 70,
+   "series": "Captain America: Sam Wilson",
+   "issue": "11",
+   "volume": "2015",
+   "year": "2016",
+   "owned": true
+  },
+  {
+   "order": 71,
+   "series": "Captain America: Sam Wilson",
+   "issue": "12",
+   "volume": "2015",
+   "year": "2016",
+   "owned": true
+  },
+  {
+   "order": 72,
+   "series": "Captain America: Sam Wilson",
+   "issue": "13",
+   "volume": "2015",
+   "year": "2016",
+   "owned": true
+  },
+  {
+   "order": 73,
+   "series": "Civil War II: Kingpin",
+   "issue": "1",
+   "volume": "2016",
+   "year": "2016",
+   "owned": false
+  },
+  {
+   "order": 74,
+   "series": "Civil War II: Kingpin",
+   "issue": "2",
+   "volume": "2016",
+   "year": "2016",
+   "owned": false
+  },
+  {
+   "order": 75,
+   "series": "Civil War II: Kingpin",
+   "issue": "3",
+   "volume": "2016",
+   "year": "2016",
+   "owned": false
+  },
+  {
+   "order": 76,
+   "series": "Civil War II: Kingpin",
+   "issue": "4",
+   "volume": "2016",
+   "year": "2016",
+   "owned": false
+  },
+  {
+   "order": 77,
+   "series": "Civil War II: Gods of War",
+   "issue": "2",
+   "volume": "2016",
+   "year": "2016",
+   "owned": false
+  },
+  {
+   "order": 78,
+   "series": "Civil War II: Gods of War",
+   "issue": "3",
+   "volume": "2016",
+   "year": "2016",
+   "owned": false
+  },
+  {
+   "order": 79,
+   "series": "Civil War II: Gods of War",
+   "issue": "4",
+   "volume": "2016",
+   "year": "2016",
+   "owned": false
+  },
+  {
+   "order": 80,
+   "series": "Captain America: Steve Rogers",
+   "issue": "4",
+   "volume": "2016",
+   "year": "2016",
+   "owned": false
+  },
+  {
+   "order": 81,
+   "series": "Spider-Man",
+   "issue": "7",
+   "volume": "2016",
+   "year": "2016",
+   "owned": true
+  },
+  {
+   "order": 82,
+   "series": "Civil War II",
+   "issue": "3",
+   "volume": "2016",
+   "year": "2016",
+   "owned": false
+  },
+  {
+   "order": 83,
+   "series": "Spider-Man",
+   "issue": "8",
+   "volume": "2016",
+   "year": "2016",
+   "owned": true
+  },
+  {
+   "order": 84,
+   "series": "Civil War II: Choosing Sides",
+   "issue": "3",
+   "volume": "2016",
+   "year": "2016",
+   "owned": false
+  },
+  {
+   "order": 85,
+   "series": "Civil War II: Choosing Sides",
+   "issue": "4",
+   "volume": "2016",
+   "year": "2016",
+   "owned": false
+  },
+  {
+   "order": 86,
+   "series": "Civil War II: Choosing Sides",
+   "issue": "5",
+   "volume": "2016",
+   "year": "2016",
+   "owned": false
+  },
+  {
+   "order": 87,
+   "series": "Civil War II: Choosing Sides",
+   "issue": "6",
+   "volume": "2016",
+   "year": "2016",
+   "owned": false
+  },
+  {
+   "order": 88,
+   "series": "Nova",
+   "issue": "8",
+   "volume": "2015",
+   "year": "2016",
+   "owned": false
+  },
+  {
+   "order": 89,
+   "series": "Nova",
+   "issue": "9",
+   "volume": "2015",
+   "year": "2016",
+   "owned": false
+  },
+  {
+   "order": 90,
+   "series": "Spider-Woman",
+   "issue": "10",
+   "volume": "2015",
+   "year": "2016",
+   "owned": true
+  },
+  {
+   "order": 91,
+   "series": "Uncanny Avengers",
+   "issue": "13",
+   "volume": "2015",
+   "year": "2016",
+   "owned": false
+  },
+  {
+   "order": 92,
+   "series": "Spider-Woman",
+   "issue": "11",
+   "volume": "2015",
+   "year": "2016",
+   "owned": true
+  },
+  {
+   "order": 93,
+   "series": "Uncanny Avengers",
+   "issue": "14",
+   "volume": "2015",
+   "year": "2016",
+   "owned": false
+  },
+  {
+   "order": 94,
+   "series": "All-New, All-Different Avengers",
+   "issue": "13",
+   "volume": "2015",
+   "year": "2016",
+   "owned": false
+  },
+  {
+   "order": 95,
+   "series": "All-New, All-Different Avengers",
+   "issue": "14",
+   "volume": "2015",
+   "year": "2016",
+   "owned": false
+  },
+  {
+   "order": 96,
+   "series": "All-New, All-Different Avengers",
+   "issue": "15",
+   "volume": "2015",
+   "year": "2016",
+   "owned": false
+  },
+  {
+   "order": 97,
+   "series": "Captain Marvel",
+   "issue": "8",
+   "volume": "2016",
+   "year": "2016",
+   "owned": true
+  },
+  {
+   "order": 98,
+   "series": "Ms. Marvel",
+   "issue": "11",
+   "volume": "2015",
+   "year": "2016",
+   "owned": false
+  },
+  {
+   "order": 99,
+   "series": "Power Man and Iron Fist",
+   "issue": "7",
+   "volume": "2016",
+   "year": "2016",
+   "owned": false
+  },
+  {
+   "order": 100,
+   "series": "Power Man and Iron Fist",
+   "issue": "8",
+   "volume": "2016",
+   "year": "2016",
+   "owned": false
+  },
+  {
+   "order": 101,
+   "series": "Power Man and Iron Fist",
+   "issue": "9",
+   "volume": "2016",
+   "year": "2016",
+   "owned": false
+  },
+  {
+   "order": 102,
+   "series": "Mockingbird",
+   "issue": "6",
+   "volume": "2016",
+   "year": "2016",
+   "owned": false
+  },
+  {
+   "order": 103,
+   "series": "New Avengers",
+   "issue": "13",
+   "volume": "2015",
+   "year": "2016",
+   "owned": false
+  },
+  {
+   "order": 104,
+   "series": "New Avengers",
+   "issue": "14",
+   "volume": "2015",
+   "year": "2016",
+   "owned": false
+  },
+  {
+   "order": 105,
+   "series": "New Avengers",
+   "issue": "15",
+   "volume": "2015",
+   "year": "2016",
+   "owned": false
+  },
+  {
+   "order": 106,
+   "series": "New Avengers",
+   "issue": "16",
+   "volume": "2015",
+   "year": "2016",
+   "owned": false
+  },
+  {
+   "order": 107,
+   "series": "New Avengers",
+   "issue": "17",
+   "volume": "2015",
+   "year": "2016",
+   "owned": false
+  },
+  {
+   "order": 108,
+   "series": "New Avengers",
+   "issue": "18",
+   "volume": "2015",
+   "year": "2017",
+   "owned": false
+  },
+  {
+   "order": 109,
+   "series": "Ultimates",
+   "issue": "9",
+   "volume": "2015",
+   "year": "2016",
+   "owned": false
+  },
+  {
+   "order": 110,
+   "series": "Squadron Supreme",
+   "issue": "9",
+   "volume": "2015",
+   "year": "2016",
+   "owned": false
+  },
+  {
+   "order": 111,
+   "series": "Squadron Supreme",
+   "issue": "10",
+   "volume": "2015",
+   "year": "2016",
+   "owned": false
+  },
+  {
+   "order": 112,
+   "series": "Squadron Supreme",
+   "issue": "11",
+   "volume": "2015",
+   "year": "2016",
+   "owned": false
+  },
+  {
+   "order": 113,
+   "series": "Squadron Supreme",
+   "issue": "12",
+   "volume": "2015",
+   "year": "2016",
+   "owned": false
+  },
+  {
+   "order": 114,
+   "series": "Guardians of the Galaxy",
+   "issue": "11",
+   "volume": "2015",
+   "year": "2016",
+   "owned": true
+  },
+  {
+   "order": 115,
+   "series": "Rocket Raccoon & Groot",
+   "issue": "8",
+   "volume": "2016",
+   "year": "2016",
+   "owned": false
+  },
+  {
+   "order": 116,
+   "series": "Rocket Raccoon & Groot",
+   "issue": "9",
+   "volume": "2016",
+   "year": "2016",
+   "owned": false
+  },
+  {
+   "order": 117,
+   "series": "Rocket Raccoon & Groot",
+   "issue": "10",
+   "volume": "2016",
+   "year": "2016",
+   "owned": false
+  },
+  {
+   "order": 118,
+   "series": "Venom: Space Knight",
+   "issue": "11",
+   "volume": "2015",
+   "year": "2016",
+   "owned": false
+  },
+  {
+   "order": 119,
+   "series": "Venom: Space Knight",
+   "issue": "12",
+   "volume": "2015",
+   "year": "2016",
+   "owned": true
+  },
+  {
+   "order": 120,
+   "series": "Venom: Space Knight",
+   "issue": "13",
+   "volume": "2015",
+   "year": "2016",
+   "owned": false
+  },
+  {
+   "order": 121,
+   "series": "Ultimates",
+   "issue": "10",
+   "volume": "2015",
+   "year": "2016",
+   "owned": false
+  },
+  {
+   "order": 122,
+   "series": "Ultimates",
+   "issue": "11",
+   "volume": "2015",
+   "year": "2016",
+   "owned": false
+  },
+  {
+   "order": 123,
+   "series": "Civil War II",
+   "issue": "4",
+   "volume": "2016",
+   "year": "2016",
+   "owned": false
+  },
+  {
+   "order": 124,
+   "series": "Captain Marvel",
+   "issue": "9",
+   "volume": "2016",
+   "year": "2016",
+   "owned": true
+  },
+  {
+   "order": 125,
+   "series": "Captain Marvel",
+   "issue": "10",
+   "volume": "2016",
+   "year": "2017",
+   "owned": true
+  },
+  {
+   "order": 126,
+   "series": "The Accused",
+   "issue": "1",
+   "volume": "2016",
+   "year": "2016",
+   "owned": false
+  },
+  {
+   "order": 127,
+   "series": "The Fallen",
+   "issue": "1",
+   "volume": "2016",
+   "year": "2016",
+   "owned": false
+  },
+  {
+   "order": 128,
+   "series": "The Totally Awesome Hulk",
+   "issue": "9",
+   "volume": "2015",
+   "year": "2016",
+   "owned": false
+  },
+  {
+   "order": 129,
+   "series": "The Totally Awesome Hulk",
+   "issue": "10",
+   "volume": "2015",
+   "year": "2016",
+   "owned": false
+  },
+  {
+   "order": 130,
+   "series": "The Totally Awesome Hulk",
+   "issue": "11",
+   "volume": "2015",
+   "year": "2016",
+   "owned": false
+  },
+  {
+   "order": 131,
+   "series": "The Totally Awesome Hulk",
+   "issue": "12",
+   "volume": "2015",
+   "year": "2017",
+   "owned": false
+  },
+  {
+   "order": 132,
+   "series": "Mockingbird",
+   "issue": "7",
+   "volume": "2016",
+   "year": "2016",
+   "owned": false
+  },
+  {
+   "order": 133,
+   "series": "Mockingbird",
+   "issue": "8",
+   "volume": "2016",
+   "year": "2016",
+   "owned": false
+  },
+  {
+   "order": 134,
+   "series": "Agents of S.H.I.E.L.D.",
+   "issue": "8",
+   "volume": "2016",
+   "year": "2016",
+   "owned": false
+  },
+  {
+   "order": 135,
+   "series": "Agents of S.H.I.E.L.D.",
+   "issue": "9",
+   "volume": "2016",
+   "year": "2016",
+   "owned": false
+  },
+  {
+   "order": 136,
+   "series": "Agents of S.H.I.E.L.D.",
+   "issue": "10",
+   "volume": "2016",
+   "year": "2016",
+   "owned": false
+  },
+  {
+   "order": 137,
+   "series": "Invincible Iron Man",
+   "issue": "14",
+   "volume": "2015",
+   "year": "2016",
+   "owned": true
+  },
+  {
+   "order": 138,
+   "series": "Civil War II",
+   "issue": "5",
+   "volume": "2016",
+   "year": "2016",
+   "owned": false
+  },
+  {
+   "order": 139,
+   "series": "Civil War II",
+   "issue": "6",
+   "volume": "2016",
+   "year": "2016",
+   "owned": false
+  },
+  {
+   "order": 140,
+   "series": "Guardians of the Galaxy",
+   "issue": "12",
+   "volume": "2015",
+   "year": "2016",
+   "owned": true
+  },
+  {
+   "order": 141,
+   "series": "Guardians of the Galaxy",
+   "issue": "13",
+   "volume": "2015",
+   "year": "2016",
+   "owned": true
+  },
+  {
+   "order": 142,
+   "series": "Captain America: Steve Rogers",
+   "issue": "5",
+   "volume": "2016",
+   "year": "2016",
+   "owned": false
+  },
+  {
+   "order": 143,
+   "series": "Captain America: Steve Rogers",
+   "issue": "6",
+   "volume": "2016",
+   "year": "2016",
+   "owned": false
+  },
+  {
+   "order": 144,
+   "series": "Thunderbolts",
+   "issue": "5",
+   "volume": "2016",
+   "year": "2016",
+   "owned": false
+  },
+  {
+   "order": 145,
+   "series": "Spider-Man",
+   "issue": "9",
+   "volume": "2016",
+   "year": "2017",
+   "owned": true
+  },
+  {
+   "order": 146,
+   "series": "Civil War II",
+   "issue": "7",
+   "volume": "2016",
+   "year": "2017",
+   "owned": false
+  },
+  {
+   "order": 147,
+   "series": "Civil War II",
+   "issue": "8",
+   "volume": "2016",
+   "year": "2017",
+   "owned": false
+  },
+  {
+   "order": 148,
+   "series": "Spider-Man",
+   "issue": "10",
+   "volume": "2016",
+   "year": "2017",
+   "owned": true
+  },
+  {
+   "order": 149,
+   "series": "Ultimates",
+   "issue": "12",
+   "volume": "2015",
+   "year": "2016",
+   "owned": false
+  },
+  {
+   "order": 150,
+   "series": "Uncanny Avengers",
+   "issue": "15",
+   "volume": "2015",
+   "year": "2016",
+   "owned": false
+  },
+  {
+   "order": 151,
+   "series": "Uncanny Avengers",
+   "issue": "16",
+   "volume": "2015",
+   "year": "2017",
+   "owned": false
+  },
+  {
+   "order": 152,
+   "series": "Uncanny Avengers",
+   "issue": "17",
+   "volume": "2015",
+   "year": "2017",
+   "owned": false
+  },
+  {
+   "order": 153,
+   "series": "Civil War II: The Oath",
+   "issue": "1",
+   "volume": "2017",
+   "year": "2017",
+   "owned": false
+  }
+ ]
+}

@@ -1,0 +1,144 @@
+{
+ "arc": "Red Daughter of Krypton",
+ "slug": "red-daughter-of-krypton",
+ "issue_count": 17,
+ "owned_count": 9,
+ "entries": [
+  {
+   "order": 1,
+   "series": "Supergirl",
+   "issue": "26",
+   "volume": "2011",
+   "year": "2014",
+   "owned": true
+  },
+  {
+   "order": 2,
+   "series": "Supergirl",
+   "issue": "27",
+   "volume": "2011",
+   "year": "2014",
+   "owned": true
+  },
+  {
+   "order": 3,
+   "series": "Supergirl",
+   "issue": "28",
+   "volume": "2011",
+   "year": "2014",
+   "owned": true
+  },
+  {
+   "order": 4,
+   "series": "Supergirl",
+   "issue": "29",
+   "volume": "2011",
+   "year": "2014",
+   "owned": true
+  },
+  {
+   "order": 5,
+   "series": "Green Lantern",
+   "issue": "28",
+   "volume": "2011",
+   "year": "2014",
+   "owned": true
+  },
+  {
+   "order": 6,
+   "series": "Red Lanterns",
+   "issue": "28",
+   "volume": "2011",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 7,
+   "series": "Red Lanterns",
+   "issue": "29",
+   "volume": "2011",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 8,
+   "series": "Supergirl",
+   "issue": "30",
+   "volume": "2011",
+   "year": "2014",
+   "owned": true
+  },
+  {
+   "order": 9,
+   "series": "Red Lanterns",
+   "issue": "30",
+   "volume": "2011",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 10,
+   "series": "Supergirl",
+   "issue": "31",
+   "volume": "2011",
+   "year": "2014",
+   "owned": true
+  },
+  {
+   "order": 11,
+   "series": "Red Lanterns",
+   "issue": "31",
+   "volume": "2011",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 12,
+   "series": "Red Lanterns",
+   "issue": "32",
+   "volume": "2011",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 13,
+   "series": "Supergirl",
+   "issue": "32",
+   "volume": "2011",
+   "year": "2014",
+   "owned": true
+  },
+  {
+   "order": 14,
+   "series": "Supergirl",
+   "issue": "33",
+   "volume": "2011",
+   "year": "2014",
+   "owned": true
+  },
+  {
+   "order": 15,
+   "series": "Red Lanterns",
+   "issue": "33",
+   "volume": "2011",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 16,
+   "series": "Red Lanterns Annual",
+   "issue": "1",
+   "volume": "2014",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 17,
+   "series": "Red Lanterns",
+   "issue": "34",
+   "volume": "2011",
+   "year": "2014",
+   "owned": false
+  }
+ ]
+}

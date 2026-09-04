@@ -1,0 +1,936 @@
+{
+ "arc": "Marvel Zombies",
+ "slug": "marvel-zombies",
+ "issue_count": 116,
+ "owned_count": 0,
+ "entries": [
+  {
+   "order": 1,
+   "series": "Army of Darkness",
+   "issue": "12",
+   "volume": "2006",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 2,
+   "series": "Army of Darkness",
+   "issue": "13",
+   "volume": "2006",
+   "year": "2007",
+   "owned": false
+  },
+  {
+   "order": 3,
+   "series": "Marvel Zombies/Army of Darkness",
+   "issue": "1",
+   "volume": "2007",
+   "year": "2007",
+   "owned": false
+  },
+  {
+   "order": 4,
+   "series": "Marvel Zombies/Army of Darkness",
+   "issue": "2",
+   "volume": "2007",
+   "year": "2007",
+   "owned": false
+  },
+  {
+   "order": 5,
+   "series": "Marvel Zombies: Dead Days",
+   "issue": "1",
+   "volume": "2007",
+   "year": "2007",
+   "owned": false
+  },
+  {
+   "order": 6,
+   "series": "Marvel Zombies/Army of Darkness",
+   "issue": "3",
+   "volume": "2007",
+   "year": "2007",
+   "owned": false
+  },
+  {
+   "order": 7,
+   "series": "Marvel Zombies/Army of Darkness",
+   "issue": "4",
+   "volume": "2007",
+   "year": "2007",
+   "owned": false
+  },
+  {
+   "order": 8,
+   "series": "Marvel Zombies/Army of Darkness",
+   "issue": "5",
+   "volume": "2007",
+   "year": "2007",
+   "owned": false
+  },
+  {
+   "order": 9,
+   "series": "Ultimate Fantastic Four",
+   "issue": "21",
+   "volume": "2004",
+   "year": "2005",
+   "owned": false
+  },
+  {
+   "order": 10,
+   "series": "Ultimate Fantastic Four",
+   "issue": "22",
+   "volume": "2004",
+   "year": "2005",
+   "owned": false
+  },
+  {
+   "order": 11,
+   "series": "Ultimate Fantastic Four",
+   "issue": "23",
+   "volume": "2004",
+   "year": "2005",
+   "owned": false
+  },
+  {
+   "order": 12,
+   "series": "Marvel Zombies",
+   "issue": "1",
+   "volume": "2005",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 13,
+   "series": "Marvel Zombies",
+   "issue": "2",
+   "volume": "2005",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 14,
+   "series": "Marvel Zombies",
+   "issue": "3",
+   "volume": "2005",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 15,
+   "series": "Marvel Zombies",
+   "issue": "4",
+   "volume": "2005",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 16,
+   "series": "Marvel Zombies",
+   "issue": "5",
+   "volume": "2005",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 17,
+   "series": "Ultimate Fantastic Four",
+   "issue": "30",
+   "volume": "2004",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 18,
+   "series": "Ultimate Fantastic Four",
+   "issue": "31",
+   "volume": "2004",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 19,
+   "series": "Ultimate Fantastic Four",
+   "issue": "32",
+   "volume": "2004",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 20,
+   "series": "Exiles",
+   "issue": "85",
+   "volume": "2001",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 21,
+   "series": "Exiles",
+   "issue": "86",
+   "volume": "2001",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 22,
+   "series": "Ultimate Civil War: Spider-Ham",
+   "issue": "1",
+   "volume": "2007",
+   "year": "2007",
+   "owned": false
+  },
+  {
+   "order": 23,
+   "series": "Black Panther",
+   "issue": "26",
+   "volume": "2005",
+   "year": "2007",
+   "owned": false
+  },
+  {
+   "order": 24,
+   "series": "Fantastic Four",
+   "issue": "544",
+   "volume": "1998",
+   "year": "2007",
+   "owned": false
+  },
+  {
+   "order": 25,
+   "series": "Fantastic Four",
+   "issue": "545",
+   "volume": "1998",
+   "year": "2007",
+   "owned": false
+  },
+  {
+   "order": 26,
+   "series": "Fantastic Four",
+   "issue": "546",
+   "volume": "1998",
+   "year": "2007",
+   "owned": false
+  },
+  {
+   "order": 27,
+   "series": "Black Panther",
+   "issue": "27",
+   "volume": "2005",
+   "year": "2007",
+   "owned": false
+  },
+  {
+   "order": 28,
+   "series": "Black Panther",
+   "issue": "28",
+   "volume": "2005",
+   "year": "2007",
+   "owned": false
+  },
+  {
+   "order": 29,
+   "series": "Black Panther",
+   "issue": "29",
+   "volume": "2005",
+   "year": "2007",
+   "owned": false
+  },
+  {
+   "order": 30,
+   "series": "Black Panther",
+   "issue": "30",
+   "volume": "2005",
+   "year": "2007",
+   "owned": false
+  },
+  {
+   "order": 31,
+   "series": "Marvel Zombies 2",
+   "issue": "1",
+   "volume": "2007",
+   "year": "2007",
+   "owned": false
+  },
+  {
+   "order": 32,
+   "series": "Marvel Zombies 2",
+   "issue": "2",
+   "volume": "2007",
+   "year": "2008",
+   "owned": false
+  },
+  {
+   "order": 33,
+   "series": "Marvel Zombies 2",
+   "issue": "3",
+   "volume": "2007",
+   "year": "2008",
+   "owned": false
+  },
+  {
+   "order": 34,
+   "series": "Marvel Zombies 2",
+   "issue": "4",
+   "volume": "2007",
+   "year": "2008",
+   "owned": false
+  },
+  {
+   "order": 35,
+   "series": "Marvel Zombies 2",
+   "issue": "5",
+   "volume": "2007",
+   "year": "2008",
+   "owned": false
+  },
+  {
+   "order": 36,
+   "series": "Marvel Apes",
+   "issue": "1",
+   "volume": "2008",
+   "year": "2008",
+   "owned": false
+  },
+  {
+   "order": 37,
+   "series": "Marvel Apes",
+   "issue": "2",
+   "volume": "2008",
+   "year": "2008",
+   "owned": false
+  },
+  {
+   "order": 38,
+   "series": "Marvel Apes",
+   "issue": "3",
+   "volume": "2008",
+   "year": "2008",
+   "owned": false
+  },
+  {
+   "order": 39,
+   "series": "Marvel Apes",
+   "issue": "4",
+   "volume": "2008",
+   "year": "2008",
+   "owned": false
+  },
+  {
+   "order": 40,
+   "series": "Marvel Apes",
+   "issue": "0",
+   "volume": "2008",
+   "year": "2008",
+   "owned": false
+  },
+  {
+   "order": 41,
+   "series": "Marvel Zombies 3",
+   "issue": "1",
+   "volume": "2008",
+   "year": "2008",
+   "owned": false
+  },
+  {
+   "order": 42,
+   "series": "Marvel Zombies 3",
+   "issue": "2",
+   "volume": "2008",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 43,
+   "series": "Marvel Zombies 3",
+   "issue": "3",
+   "volume": "2008",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 44,
+   "series": "Marvel Zombies 3",
+   "issue": "4",
+   "volume": "2008",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 45,
+   "series": "Marvel Zombies 4",
+   "issue": "1",
+   "volume": "2009",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 46,
+   "series": "Marvel Zombies 4",
+   "issue": "2",
+   "volume": "2009",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 47,
+   "series": "Marvel Zombies 4",
+   "issue": "3",
+   "volume": "2009",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 48,
+   "series": "Marvel Zombies 4",
+   "issue": "4",
+   "volume": "2009",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 49,
+   "series": "Deadpool: Merc With a Mouth",
+   "issue": "1",
+   "volume": "2009",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 50,
+   "series": "Deadpool: Merc With a Mouth",
+   "issue": "2",
+   "volume": "2009",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 51,
+   "series": "Deadpool: Merc With a Mouth",
+   "issue": "3",
+   "volume": "2009",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 52,
+   "series": "Deadpool: Merc With a Mouth",
+   "issue": "4",
+   "volume": "2009",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 53,
+   "series": "Deadpool: Merc With a Mouth",
+   "issue": "5",
+   "volume": "2009",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 54,
+   "series": "Deadpool: Merc With a Mouth",
+   "issue": "6",
+   "volume": "2009",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 55,
+   "series": "Deadpool: Merc With a Mouth",
+   "issue": "7",
+   "volume": "2009",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 56,
+   "series": "Deadpool: Merc With a Mouth",
+   "issue": "8",
+   "volume": "2009",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 57,
+   "series": "Deadpool: Merc With a Mouth",
+   "issue": "9",
+   "volume": "2009",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 58,
+   "series": "Deadpool: Merc With a Mouth",
+   "issue": "10",
+   "volume": "2009",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 59,
+   "series": "Deadpool: Merc With a Mouth",
+   "issue": "11",
+   "volume": "2009",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 60,
+   "series": "Deadpool: Merc With a Mouth",
+   "issue": "12",
+   "volume": "2009",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 61,
+   "series": "Deadpool: Merc With a Mouth",
+   "issue": "13",
+   "volume": "2009",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 62,
+   "series": "Marvel Apes: Speedball Special",
+   "issue": "1",
+   "volume": "2009",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 63,
+   "series": "Marvel Apes: Amazing Spider-Monkey Special",
+   "issue": "1",
+   "volume": "2009",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 64,
+   "series": "Marvel Apes: Grunt Line",
+   "issue": "1",
+   "volume": "2009",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 65,
+   "series": "Marvel Apes: Prime Eight",
+   "issue": "1",
+   "volume": "2009",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 66,
+   "series": "Marvel Apes: Prime Eight",
+   "issue": "2",
+   "volume": "2009",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 67,
+   "series": "Marvel Apes: Prime Eight",
+   "issue": "3",
+   "volume": "2009",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 68,
+   "series": "Marvel Zombies: Evil Evolution",
+   "issue": "1",
+   "volume": "2010",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 69,
+   "series": "Marvel Zombies Return",
+   "issue": "1",
+   "volume": "2009",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 70,
+   "series": "Marvel Zombies Return",
+   "issue": "2",
+   "volume": "2009",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 71,
+   "series": "Marvel Zombies Return",
+   "issue": "3",
+   "volume": "2009",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 72,
+   "series": "Marvel Zombies Return",
+   "issue": "4",
+   "volume": "2009",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 73,
+   "series": "Marvel Zombies Return",
+   "issue": "5",
+   "volume": "2009",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 74,
+   "series": "Prelude to Deadpool Corps",
+   "issue": "1",
+   "volume": "2010",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 75,
+   "series": "Prelude to Deadpool Corps",
+   "issue": "2",
+   "volume": "2010",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 76,
+   "series": "Prelude to Deadpool Corps",
+   "issue": "3",
+   "volume": "2010",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 77,
+   "series": "Prelude to Deadpool Corps",
+   "issue": "4",
+   "volume": "2010",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 78,
+   "series": "Prelude to Deadpool Corps",
+   "issue": "5",
+   "volume": "2010",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 79,
+   "series": "Deadpool Corps",
+   "issue": "1",
+   "volume": "2010",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 80,
+   "series": "Deadpool Corps",
+   "issue": "2",
+   "volume": "2010",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 81,
+   "series": "Deadpool Corps",
+   "issue": "3",
+   "volume": "2010",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 82,
+   "series": "Deadpool Corps",
+   "issue": "4",
+   "volume": "2010",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 83,
+   "series": "Deadpool Corps",
+   "issue": "5",
+   "volume": "2010",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 84,
+   "series": "Deadpool Corps",
+   "issue": "6",
+   "volume": "2010",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 85,
+   "series": "Deadpool Corps",
+   "issue": "7",
+   "volume": "2010",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 86,
+   "series": "Deadpool Corps",
+   "issue": "8",
+   "volume": "2010",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 87,
+   "series": "Deadpool Corps",
+   "issue": "9",
+   "volume": "2010",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 88,
+   "series": "Deadpool Corps",
+   "issue": "10",
+   "volume": "2010",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 89,
+   "series": "Deadpool Corps",
+   "issue": "11",
+   "volume": "2010",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 90,
+   "series": "Deadpool Corps",
+   "issue": "12",
+   "volume": "2010",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 91,
+   "series": "The Amazing Spider-Man",
+   "issue": "622",
+   "volume": "1963",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 92,
+   "series": "Marvel Zombies 5",
+   "issue": "1",
+   "volume": "2010",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 93,
+   "series": "Marvel Zombies 5",
+   "issue": "2",
+   "volume": "2010",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 94,
+   "series": "Marvel Zombies 5",
+   "issue": "3",
+   "volume": "2010",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 95,
+   "series": "Marvel Zombies 5",
+   "issue": "4",
+   "volume": "2010",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 96,
+   "series": "Marvel Zombies 5",
+   "issue": "5",
+   "volume": "2010",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 97,
+   "series": "Marvel Zombies Supreme",
+   "issue": "1",
+   "volume": "2011",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 98,
+   "series": "Marvel Zombies Supreme",
+   "issue": "2",
+   "volume": "2011",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 99,
+   "series": "Marvel Zombies Supreme",
+   "issue": "3",
+   "volume": "2011",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 100,
+   "series": "Marvel Zombies Supreme",
+   "issue": "4",
+   "volume": "2011",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 101,
+   "series": "Marvel Zombies Supreme",
+   "issue": "5",
+   "volume": "2011",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 102,
+   "series": "Zombies Christmas Carol",
+   "issue": "1",
+   "volume": "2011",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 103,
+   "series": "Zombies Christmas Carol",
+   "issue": "2",
+   "volume": "2011",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 104,
+   "series": "Zombies Christmas Carol",
+   "issue": "3",
+   "volume": "2011",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 105,
+   "series": "Zombies Christmas Carol",
+   "issue": "4",
+   "volume": "2011",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 106,
+   "series": "Zombies Christmas Carol",
+   "issue": "5",
+   "volume": "2011",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 107,
+   "series": "Marvel Zombies Destroy",
+   "issue": "1",
+   "volume": "2012",
+   "year": "2012",
+   "owned": false
+  },
+  {
+   "order": 108,
+   "series": "Marvel Zombies Destroy",
+   "issue": "2",
+   "volume": "2012",
+   "year": "2012",
+   "owned": false
+  },
+  {
+   "order": 109,
+   "series": "Marvel Zombies Destroy",
+   "issue": "3",
+   "volume": "2012",
+   "year": "2012",
+   "owned": false
+  },
+  {
+   "order": 110,
+   "series": "Marvel Zombies Destroy",
+   "issue": "4",
+   "volume": "2012",
+   "year": "2012",
+   "owned": false
+  },
+  {
+   "order": 111,
+   "series": "Marvel Zombies Destroy",
+   "issue": "5",
+   "volume": "2012",
+   "year": "2012",
+   "owned": false
+  },
+  {
+   "order": 112,
+   "series": "Marvel Zombies Halloween",
+   "issue": "1",
+   "volume": "2012",
+   "year": "2012",
+   "owned": false
+  },
+  {
+   "order": 113,
+   "series": "Age of Ultron vs. Marvel Zombies",
+   "issue": "1",
+   "volume": "2015",
+   "year": "2015",
+   "owned": false
+  },
+  {
+   "order": 114,
+   "series": "Age of Ultron vs. Marvel Zombies",
+   "issue": "2",
+   "volume": "2015",
+   "year": "2015",
+   "owned": false
+  },
+  {
+   "order": 115,
+   "series": "Age of Ultron vs. Marvel Zombies",
+   "issue": "3",
+   "volume": "2015",
+   "year": "2015",
+   "owned": false
+  },
+  {
+   "order": 116,
+   "series": "Age of Ultron vs. Marvel Zombies",
+   "issue": "4",
+   "volume": "2015",
+   "year": "2015",
+   "owned": false
+  }
+ ]
+}

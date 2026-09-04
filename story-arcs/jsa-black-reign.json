@@ -1,0 +1,56 @@
+{
+ "arc": "JSA- Black Reign",
+ "slug": "jsa-black-reign",
+ "issue_count": 6,
+ "owned_count": 3,
+ "entries": [
+  {
+   "order": 1,
+   "series": "JSA",
+   "issue": "56",
+   "volume": "1999",
+   "year": "2004",
+   "owned": false
+  },
+  {
+   "order": 2,
+   "series": "Hawkman",
+   "issue": "23",
+   "volume": "2002",
+   "year": "2004",
+   "owned": true
+  },
+  {
+   "order": 3,
+   "series": "JSA",
+   "issue": "57",
+   "volume": "1999",
+   "year": "2004",
+   "owned": false
+  },
+  {
+   "order": 4,
+   "series": "Hawkman",
+   "issue": "24",
+   "volume": "2002",
+   "year": "2004",
+   "owned": true
+  },
+  {
+   "order": 5,
+   "series": "JSA",
+   "issue": "58",
+   "volume": "1999",
+   "year": "2004",
+   "owned": false
+  },
+  {
+   "order": 6,
+   "series": "Hawkman",
+   "issue": "25",
+   "volume": "2002",
+   "year": "2004",
+   "owned": true
+  }
+ ]
+}

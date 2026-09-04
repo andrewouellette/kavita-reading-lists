@@ -1,0 +1,120 @@
+{
+ "arc": "Necrosha",
+ "slug": "necrosha",
+ "issue_count": 14,
+ "owned_count": 8,
+ "entries": [
+  {
+   "order": 1,
+   "series": "X Necrosha: The Gathering",
+   "issue": "1",
+   "volume": "2009",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 2,
+   "series": "X Necrosha",
+   "issue": "1",
+   "volume": "2009",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 3,
+   "series": "New Mutants",
+   "issue": "6",
+   "volume": "2009",
+   "year": "2009",
+   "owned": true
+  },
+  {
+   "order": 4,
+   "series": "New Mutants",
+   "issue": "7",
+   "volume": "2009",
+   "year": "2010",
+   "owned": true
+  },
+  {
+   "order": 5,
+   "series": "New Mutants",
+   "issue": "8",
+   "volume": "2009",
+   "year": "2010",
+   "owned": true
+  },
+  {
+   "order": 6,
+   "series": "X-Men: Legacy",
+   "issue": "231",
+   "volume": "2008",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 7,
+   "series": "X-Men: Legacy",
+   "issue": "232",
+   "volume": "2008",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 8,
+   "series": "X-Men: Legacy",
+   "issue": "233",
+   "volume": "2008",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 9,
+   "series": "X-Force",
+   "issue": "21",
+   "volume": "2008",
+   "year": "2010",
+   "owned": true
+  },
+  {
+   "order": 10,
+   "series": "X-Force",
+   "issue": "22",
+   "volume": "2008",
+   "year": "2010",
+   "owned": true
+  },
+  {
+   "order": 11,
+   "series": "X-Force",
+   "issue": "23",
+   "volume": "2008",
+   "year": "2010",
+   "owned": true
+  },
+  {
+   "order": 12,
+   "series": "X-Force",
+   "issue": "24",
+   "volume": "2008",
+   "year": "2010",
+   "owned": true
+  },
+  {
+   "order": 13,
+   "series": "X-Force",
+   "issue": "25",
+   "volume": "2008",
+   "year": "2010",
+   "owned": true
+  },
+  {
+   "order": 14,
+   "series": "Dazzler",
+   "issue": "1",
+   "volume": "2010",
+   "year": "2010",
+   "owned": false
+  }
+ ]
+}

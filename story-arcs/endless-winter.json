@@ -1,0 +1,80 @@
+{
+ "arc": "Endless Winter",
+ "slug": "endless-winter",
+ "issue_count": 9,
+ "owned_count": 8,
+ "entries": [
+  {
+   "order": 1,
+   "series": "Justice League: Endless Winter",
+   "issue": "1",
+   "volume": "2020",
+   "year": "2021",
+   "owned": true
+  },
+  {
+   "order": 2,
+   "series": "The Flash",
+   "issue": "767",
+   "volume": "2016",
+   "year": "2021",
+   "owned": true
+  },
+  {
+   "order": 3,
+   "series": "Superman: Endless Winter Special",
+   "issue": "1",
+   "volume": "2020",
+   "year": "2021",
+   "owned": true
+  },
+  {
+   "order": 4,
+   "series": "Aquaman",
+   "issue": "66",
+   "volume": "2016",
+   "year": "2021",
+   "owned": false
+  },
+  {
+   "order": 5,
+   "series": "Justice League",
+   "issue": "58",
+   "volume": "2018",
+   "year": "2021",
+   "owned": true
+  },
+  {
+   "order": 6,
+   "series": "Teen Titans: Endless Winter Special",
+   "issue": "1",
+   "volume": "2020",
+   "year": "2021",
+   "owned": true
+  },
+  {
+   "order": 7,
+   "series": "Justice League Dark",
+   "issue": "29",
+   "volume": "2018",
+   "year": "2021",
+   "owned": true
+  },
+  {
+   "order": 8,
+   "series": "Black Adam: Endless Winter Special",
+   "issue": "1",
+   "volume": "2020",
+   "year": "2021",
+   "owned": true
+  },
+  {
+   "order": 9,
+   "series": "Justice League: Endless Winter",
+   "issue": "2",
+   "volume": "2020",
+   "year": "2021",
+   "owned": true
+  }
+ ]
+}

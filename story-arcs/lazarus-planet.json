@@ -1,0 +1,160 @@
+{
+ "arc": "Lazarus Planet",
+ "slug": "lazarus-planet",
+ "issue_count": 19,
+ "owned_count": 4,
+ "entries": [
+  {
+   "order": 1,
+   "series": "Lazarus Planet: Alpha",
+   "issue": "1",
+   "volume": "2023",
+   "year": "2023",
+   "owned": false
+  },
+  {
+   "order": 2,
+   "series": "Lazarus Planet: Assault on Krypton",
+   "issue": "1",
+   "volume": "2023",
+   "year": "2023",
+   "owned": false
+  },
+  {
+   "order": 3,
+   "series": "Monkey Prince",
+   "issue": "11",
+   "volume": "2021",
+   "year": "2023",
+   "owned": false
+  },
+  {
+   "order": 4,
+   "series": "Lazarus Planet: Dark Fate",
+   "issue": "1",
+   "volume": "2023",
+   "year": "2023",
+   "owned": false
+  },
+  {
+   "order": 5,
+   "series": "Lazarus Planet: Legends Reborn",
+   "issue": "1",
+   "volume": "2023",
+   "year": "2023",
+   "owned": false
+  },
+  {
+   "order": 6,
+   "series": "Lazarus Planet: Next Evolution",
+   "issue": "1",
+   "volume": "2023",
+   "year": "2023",
+   "owned": false
+  },
+  {
+   "order": 7,
+   "series": "Lazarus Planet: We Once Were Gods",
+   "issue": "1",
+   "volume": "2023",
+   "year": "2023",
+   "owned": false
+  },
+  {
+   "order": 8,
+   "series": "Lazarus Planet: Omega",
+   "issue": "1",
+   "volume": "2023",
+   "year": "2023",
+   "owned": false
+  },
+  {
+   "order": 9,
+   "series": "Batman vs. Robin",
+   "issue": "5",
+   "volume": "2022",
+   "year": "2023",
+   "owned": false
+  },
+  {
+   "order": 10,
+   "series": "Monkey Prince",
+   "issue": "12",
+   "volume": "2021",
+   "year": "2023",
+   "owned": false
+  },
+  {
+   "order": 11,
+   "series": "Wonder Woman",
+   "issue": "794",
+   "volume": "2016",
+   "year": "2023",
+   "owned": true
+  },
+  {
+   "order": 12,
+   "series": "Wonder Woman",
+   "issue": "795",
+   "volume": "2016",
+   "year": "2023",
+   "owned": true
+  },
+  {
+   "order": 13,
+   "series": "Wonder Woman",
+   "issue": "796",
+   "volume": "2016",
+   "year": "2023",
+   "owned": true
+  },
+  {
+   "order": 14,
+   "series": "Lazarus Planet: Revenge of the Gods",
+   "issue": "1",
+   "volume": "2023",
+   "year": "2023",
+   "owned": false
+  },
+  {
+   "order": 15,
+   "series": "Wonder Woman",
+   "issue": "797",
+   "volume": "2016",
+   "year": "2023",
+   "owned": false
+  },
+  {
+   "order": 16,
+   "series": "Lazarus Planet: Revenge of the Gods",
+   "issue": "2",
+   "volume": "2023",
+   "year": "2023",
+   "owned": false
+  },
+  {
+   "order": 17,
+   "series": "Lazarus Planet: Revenge of the Gods",
+   "issue": "3",
+   "volume": "2023",
+   "year": "2023",
+   "owned": false
+  },
+  {
+   "order": 18,
+   "series": "Wonder Woman",
+   "issue": "798",
+   "volume": "2016",
+   "year": "2023",
+   "owned": true
+  },
+  {
+   "order": 19,
+   "series": "Lazarus Planet: Revenge of the Gods",
+   "issue": "4",
+   "volume": "2023",
+   "year": "2023",
+   "owned": false
+  }
+ ]
+}

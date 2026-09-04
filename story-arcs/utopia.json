@@ -1,0 +1,112 @@
+{
+ "arc": "Utopia",
+ "slug": "utopia",
+ "issue_count": 13,
+ "owned_count": 0,
+ "entries": [
+  {
+   "order": 1,
+   "series": "Dark X-Men: The Confession",
+   "issue": "1",
+   "volume": "2009",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 2,
+   "series": "Dark Avengers/Uncanny X-Men: Utopia",
+   "issue": "1",
+   "volume": "2009",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 3,
+   "series": "X-Men: Legacy",
+   "issue": "226",
+   "volume": "2008",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 4,
+   "series": "X-Men: Legacy",
+   "issue": "227",
+   "volume": "2008",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 5,
+   "series": "The Uncanny X-Men",
+   "issue": "513",
+   "volume": "1981",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 6,
+   "series": "Dark X-Men: The Beginning",
+   "issue": "1",
+   "volume": "2009",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 7,
+   "series": "Dark Avengers",
+   "issue": "7",
+   "volume": "2009",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 8,
+   "series": "Dark X-Men: The Beginning",
+   "issue": "2",
+   "volume": "2009",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 9,
+   "series": "The Uncanny X-Men",
+   "issue": "514",
+   "volume": "1981",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 10,
+   "series": "Dark Avengers",
+   "issue": "8",
+   "volume": "2009",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 11,
+   "series": "Dark X-Men: The Beginning",
+   "issue": "3",
+   "volume": "2009",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 12,
+   "series": "Dark Avengers/Uncanny X-Men: Exodus",
+   "issue": "1",
+   "volume": "2009",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 13,
+   "series": "Dark Reign: The List - X-Men",
+   "issue": "1",
+   "volume": "2009",
+   "year": "2009",
+   "owned": false
+  }
+ ]
+}

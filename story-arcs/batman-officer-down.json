@@ -1,0 +1,72 @@
+{
+ "arc": "Batman: Officer Down",
+ "slug": "batman-officer-down",
+ "issue_count": 8,
+ "owned_count": 2,
+ "entries": [
+  {
+   "order": 1,
+   "series": "Batman",
+   "issue": "587",
+   "volume": "1940",
+   "year": "2001",
+   "owned": false
+  },
+  {
+   "order": 2,
+   "series": "Robin",
+   "issue": "86",
+   "volume": "1993",
+   "year": "2001",
+   "owned": false
+  },
+  {
+   "order": 3,
+   "series": "Batgirl",
+   "issue": "12",
+   "volume": "2000",
+   "year": "2001",
+   "owned": true
+  },
+  {
+   "order": 4,
+   "series": "Birds of Prey",
+   "issue": "27",
+   "volume": "1999",
+   "year": "2001",
+   "owned": false
+  },
+  {
+   "order": 5,
+   "series": "Catwoman",
+   "issue": "90",
+   "volume": "1993",
+   "year": "2001",
+   "owned": true
+  },
+  {
+   "order": 6,
+   "series": "Nightwing",
+   "issue": "53",
+   "volume": "1996",
+   "year": "2001",
+   "owned": false
+  },
+  {
+   "order": 7,
+   "series": "Detective Comics",
+   "issue": "754",
+   "volume": "1937",
+   "year": "2001",
+   "owned": false
+  },
+  {
+   "order": 8,
+   "series": "Batman: Gotham Knights",
+   "issue": "13",
+   "volume": "2000",
+   "year": "2001",
+   "owned": false
+  }
+ ]
+}

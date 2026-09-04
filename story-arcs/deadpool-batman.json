@@ -1,0 +1,24 @@
+{
+ "arc": "Deadpool/Batman",
+ "slug": "deadpool-batman",
+ "issue_count": 2,
+ "owned_count": 1,
+ "entries": [
+  {
+   "order": 1,
+   "series": "Marvel/DC: Deadpool/Batman",
+   "issue": "1",
+   "volume": "2025",
+   "year": "2025",
+   "owned": true
+  },
+  {
+   "order": 2,
+   "series": "DC/Marvel: Batman/Deadpool",
+   "issue": "1",
+   "volume": "2025",
+   "year": "2025",
+   "owned": false
+  }
+ ]
+}

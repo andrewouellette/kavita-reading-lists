@@ -1,0 +1,264 @@
+{
+ "arc": "Outlawed",
+ "slug": "outlawed",
+ "issue_count": 32,
+ "owned_count": 17,
+ "entries": [
+  {
+   "order": 1,
+   "series": "Miles Morales: Spider-Man",
+   "issue": "16",
+   "volume": "2019",
+   "year": "2020",
+   "owned": true
+  },
+  {
+   "order": 2,
+   "series": "The Magnificent Ms. Marvel",
+   "issue": "13",
+   "volume": "2019",
+   "year": "2020",
+   "owned": false
+  },
+  {
+   "order": 3,
+   "series": "Outlawed",
+   "issue": "1",
+   "volume": "2020",
+   "year": "2020",
+   "owned": false
+  },
+  {
+   "order": 4,
+   "series": "Power Pack",
+   "issue": "1",
+   "volume": "2020",
+   "year": "2021",
+   "owned": false
+  },
+  {
+   "order": 5,
+   "series": "Power Pack",
+   "issue": "2",
+   "volume": "2020",
+   "year": "2021",
+   "owned": false
+  },
+  {
+   "order": 6,
+   "series": "The Magnificent Ms. Marvel",
+   "issue": "14",
+   "volume": "2019",
+   "year": "2020",
+   "owned": false
+  },
+  {
+   "order": 7,
+   "series": "Champions",
+   "issue": "1",
+   "volume": "2020",
+   "year": "2020",
+   "owned": false
+  },
+  {
+   "order": 8,
+   "series": "Miles Morales: Spider-Man",
+   "issue": "17",
+   "volume": "2019",
+   "year": "2020",
+   "owned": true
+  },
+  {
+   "order": 9,
+   "series": "Miles Morales: Spider-Man",
+   "issue": "18",
+   "volume": "2019",
+   "year": "2020",
+   "owned": false
+  },
+  {
+   "order": 10,
+   "series": "Miles Morales: Spider-Man",
+   "issue": "19",
+   "volume": "2019",
+   "year": "2020",
+   "owned": false
+  },
+  {
+   "order": 11,
+   "series": "Miles Morales: Spider-Man",
+   "issue": "20",
+   "volume": "2019",
+   "year": "2021",
+   "owned": false
+  },
+  {
+   "order": 12,
+   "series": "Miles Morales: Spider-Man",
+   "issue": "21",
+   "volume": "2019",
+   "year": "2021",
+   "owned": false
+  },
+  {
+   "order": 13,
+   "series": "The Magnificent Ms. Marvel",
+   "issue": "15",
+   "volume": "2019",
+   "year": "2020",
+   "owned": false
+  },
+  {
+   "order": 14,
+   "series": "The Magnificent Ms. Marvel",
+   "issue": "16",
+   "volume": "2019",
+   "year": "2021",
+   "owned": false
+  },
+  {
+   "order": 15,
+   "series": "The Magnificent Ms. Marvel",
+   "issue": "17",
+   "volume": "2019",
+   "year": "2021",
+   "owned": false
+  },
+  {
+   "order": 16,
+   "series": "Power Pack",
+   "issue": "3",
+   "volume": "2020",
+   "year": "2021",
+   "owned": true
+  },
+  {
+   "order": 17,
+   "series": "Power Pack",
+   "issue": "4",
+   "volume": "2020",
+   "year": "2021",
+   "owned": true
+  },
+  {
+   "order": 18,
+   "series": "Power Pack",
+   "issue": "5",
+   "volume": "2020",
+   "year": "2021",
+   "owned": true
+  },
+  {
+   "order": 19,
+   "series": "Champions",
+   "issue": "2",
+   "volume": "2020",
+   "year": "2021",
+   "owned": false
+  },
+  {
+   "order": 20,
+   "series": "Champions",
+   "issue": "3",
+   "volume": "2020",
+   "year": "2021",
+   "owned": false
+  },
+  {
+   "order": 21,
+   "series": "Champions",
+   "issue": "4",
+   "volume": "2020",
+   "year": "2021",
+   "owned": true
+  },
+  {
+   "order": 22,
+   "series": "Champions",
+   "issue": "5",
+   "volume": "2020",
+   "year": "2021",
+   "owned": true
+  },
+  {
+   "order": 23,
+   "series": "The Magnificent Ms. Marvel",
+   "issue": "18",
+   "volume": "2019",
+   "year": "2021",
+   "owned": true
+  },
+  {
+   "order": 24,
+   "series": "Reptil",
+   "issue": "1",
+   "volume": "2021",
+   "year": "2021",
+   "owned": true
+  },
+  {
+   "order": 25,
+   "series": "Reptil",
+   "issue": "2",
+   "volume": "2021",
+   "year": "2021",
+   "owned": true
+  },
+  {
+   "order": 26,
+   "series": "Reptil",
+   "issue": "3",
+   "volume": "2021",
+   "year": "2021",
+   "owned": true
+  },
+  {
+   "order": 27,
+   "series": "Reptil",
+   "issue": "4",
+   "volume": "2021",
+   "year": "2021",
+   "owned": true
+  },
+  {
+   "order": 28,
+   "series": "Ms. Marvel: Beyond the Limit",
+   "issue": "1",
+   "volume": "2021",
+   "year": "2022",
+   "owned": true
+  },
+  {
+   "order": 29,
+   "series": "Ms. Marvel: Beyond the Limit",
+   "issue": "2",
+   "volume": "2021",
+   "year": "2022",
+   "owned": true
+  },
+  {
+   "order": 30,
+   "series": "Ms. Marvel: Beyond the Limit",
+   "issue": "3",
+   "volume": "2021",
+   "year": "2022",
+   "owned": true
+  },
+  {
+   "order": 31,
+   "series": "Ms. Marvel: Beyond the Limit",
+   "issue": "4",
+   "volume": "2021",
+   "year": "2022",
+   "owned": true
+  },
+  {
+   "order": 32,
+   "series": "Ms. Marvel: Beyond the Limit",
+   "issue": "5",
+   "volume": "2021",
+   "year": "2022",
+   "owned": true
+  }
+ ]
+}

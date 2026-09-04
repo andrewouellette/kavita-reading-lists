@@ -1,0 +1,56 @@
+{
+ "arc": "Giant-Size X-Men",
+ "slug": "giant-size-x-men",
+ "issue_count": 6,
+ "owned_count": 2,
+ "entries": [
+  {
+   "order": 1,
+   "series": "Free Comic Book Day 2025: Fantastic Four/Giant-Size X-Men",
+   "issue": "1",
+   "volume": "2025",
+   "year": "2025",
+   "owned": false
+  },
+  {
+   "order": 2,
+   "series": "Giant-Size X-Men",
+   "issue": "1",
+   "volume": "2025",
+   "year": "2025",
+   "owned": false
+  },
+  {
+   "order": 3,
+   "series": "Giant-Size Dark Phoenix Saga",
+   "issue": "1",
+   "volume": "2025",
+   "year": "2025",
+   "owned": false
+  },
+  {
+   "order": 4,
+   "series": "Giant-Size Age of Apocalypse",
+   "issue": "1",
+   "volume": "2025",
+   "year": "2025",
+   "owned": false
+  },
+  {
+   "order": 5,
+   "series": "Giant-Size House of M",
+   "issue": "1",
+   "volume": "2025",
+   "year": "2025",
+   "owned": true
+  },
+  {
+   "order": 6,
+   "series": "Giant-Size X-Men",
+   "issue": "2",
+   "volume": "2025",
+   "year": "2025",
+   "owned": true
+  }
+ ]
+}

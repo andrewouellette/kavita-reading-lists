@@ -1,0 +1,416 @@
+{
+ "arc": "End of the Spider-Verse",
+ "slug": "end-of-the-spider-verse",
+ "issue_count": 51,
+ "owned_count": 51,
+ "entries": [
+  {
+   "order": 1,
+   "series": "Silk",
+   "issue": "1",
+   "volume": "2022",
+   "year": "2022",
+   "owned": true
+  },
+  {
+   "order": 2,
+   "series": "Silk",
+   "issue": "2",
+   "volume": "2022",
+   "year": "2022",
+   "owned": true
+  },
+  {
+   "order": 3,
+   "series": "Silk",
+   "issue": "3",
+   "volume": "2022",
+   "year": "2022",
+   "owned": true
+  },
+  {
+   "order": 4,
+   "series": "Silk",
+   "issue": "4",
+   "volume": "2022",
+   "year": "2022",
+   "owned": true
+  },
+  {
+   "order": 5,
+   "series": "Silk",
+   "issue": "5",
+   "volume": "2022",
+   "year": "2022",
+   "owned": true
+  },
+  {
+   "order": 6,
+   "series": "Deadly Neighborhood Spider-Man",
+   "issue": "1",
+   "volume": "2022",
+   "year": "2022",
+   "owned": true
+  },
+  {
+   "order": 7,
+   "series": "Deadly Neighborhood Spider-Man",
+   "issue": "2",
+   "volume": "2022",
+   "year": "2023",
+   "owned": true
+  },
+  {
+   "order": 8,
+   "series": "Deadly Neighborhood Spider-Man",
+   "issue": "3",
+   "volume": "2022",
+   "year": "2023",
+   "owned": true
+  },
+  {
+   "order": 9,
+   "series": "Deadly Neighborhood Spider-Man",
+   "issue": "4",
+   "volume": "2022",
+   "year": "2023",
+   "owned": true
+  },
+  {
+   "order": 10,
+   "series": "Deadly Neighborhood Spider-Man",
+   "issue": "5",
+   "volume": "2022",
+   "year": "2023",
+   "owned": true
+  },
+  {
+   "order": 11,
+   "series": "Spider-Gwen: Gwenverse",
+   "issue": "1",
+   "volume": "2022",
+   "year": "2022",
+   "owned": true
+  },
+  {
+   "order": 12,
+   "series": "Spider-Gwen: Gwenverse",
+   "issue": "2",
+   "volume": "2022",
+   "year": "2022",
+   "owned": true
+  },
+  {
+   "order": 13,
+   "series": "Spider-Gwen: Gwenverse",
+   "issue": "3",
+   "volume": "2022",
+   "year": "2022",
+   "owned": true
+  },
+  {
+   "order": 14,
+   "series": "Spider-Gwen: Gwenverse",
+   "issue": "4",
+   "volume": "2022",
+   "year": "2022",
+   "owned": true
+  },
+  {
+   "order": 15,
+   "series": "Spider-Gwen: Gwenverse",
+   "issue": "5",
+   "volume": "2022",
+   "year": "2022",
+   "owned": true
+  },
+  {
+   "order": 16,
+   "series": "Spider-Gwen: Shadow Clones",
+   "issue": "1",
+   "volume": "2023",
+   "year": "2023",
+   "owned": true
+  },
+  {
+   "order": 17,
+   "series": "Spider-Gwen: Shadow Clones",
+   "issue": "2",
+   "volume": "2023",
+   "year": "2023",
+   "owned": true
+  },
+  {
+   "order": 18,
+   "series": "Spider-Gwen: Shadow Clones",
+   "issue": "3",
+   "volume": "2023",
+   "year": "2023",
+   "owned": true
+  },
+  {
+   "order": 19,
+   "series": "Spider-Gwen: Shadow Clones",
+   "issue": "4",
+   "volume": "2023",
+   "year": "2023",
+   "owned": true
+  },
+  {
+   "order": 20,
+   "series": "Spider-Gwen: Shadow Clones",
+   "issue": "5",
+   "volume": "2023",
+   "year": "2023",
+   "owned": true
+  },
+  {
+   "order": 21,
+   "series": "Spider-Punk",
+   "issue": "1",
+   "volume": "2022",
+   "year": "2022",
+   "owned": true
+  },
+  {
+   "order": 22,
+   "series": "Spider-Punk",
+   "issue": "2",
+   "volume": "2022",
+   "year": "2022",
+   "owned": true
+  },
+  {
+   "order": 23,
+   "series": "Spider-Punk",
+   "issue": "3",
+   "volume": "2022",
+   "year": "2022",
+   "owned": true
+  },
+  {
+   "order": 24,
+   "series": "Spider-Punk",
+   "issue": "4",
+   "volume": "2022",
+   "year": "2022",
+   "owned": true
+  },
+  {
+   "order": 25,
+   "series": "Spider-Punk",
+   "issue": "5",
+   "volume": "2022",
+   "year": "2022",
+   "owned": true
+  },
+  {
+   "order": 26,
+   "series": "Spider-Man 2099: Dark Genesis",
+   "issue": "1",
+   "volume": "2023",
+   "year": "2023",
+   "owned": true
+  },
+  {
+   "order": 27,
+   "series": "Spider-Man 2099: Dark Genesis",
+   "issue": "2",
+   "volume": "2023",
+   "year": "2023",
+   "owned": true
+  },
+  {
+   "order": 28,
+   "series": "Spider-Man 2099: Dark Genesis",
+   "issue": "3",
+   "volume": "2023",
+   "year": "2023",
+   "owned": true
+  },
+  {
+   "order": 29,
+   "series": "Spider-Man 2099: Dark Genesis",
+   "issue": "4",
+   "volume": "2023",
+   "year": "2023",
+   "owned": true
+  },
+  {
+   "order": 30,
+   "series": "Spider-Man 2099: Dark Genesis",
+   "issue": "5",
+   "volume": "2023",
+   "year": "2023",
+   "owned": true
+  },
+  {
+   "order": 31,
+   "series": "Edge of Spider-Verse",
+   "issue": "1",
+   "volume": "2022",
+   "year": "2022",
+   "owned": true
+  },
+  {
+   "order": 32,
+   "series": "Edge of Spider-Verse",
+   "issue": "2",
+   "volume": "2022",
+   "year": "2022",
+   "owned": true
+  },
+  {
+   "order": 33,
+   "series": "Edge of Spider-Verse",
+   "issue": "3",
+   "volume": "2022",
+   "year": "2022",
+   "owned": true
+  },
+  {
+   "order": 34,
+   "series": "Edge of Spider-Verse",
+   "issue": "4",
+   "volume": "2022",
+   "year": "2022",
+   "owned": true
+  },
+  {
+   "order": 35,
+   "series": "Edge of Spider-Verse",
+   "issue": "5",
+   "volume": "2022",
+   "year": "2022",
+   "owned": true
+  },
+  {
+   "order": 36,
+   "series": "Spider-Man",
+   "issue": "1",
+   "volume": "2022",
+   "year": "2022",
+   "owned": true
+  },
+  {
+   "order": 37,
+   "series": "Spider-Man",
+   "issue": "2",
+   "volume": "2022",
+   "year": "2023",
+   "owned": true
+  },
+  {
+   "order": 38,
+   "series": "Spider-Man",
+   "issue": "3",
+   "volume": "2022",
+   "year": "2023",
+   "owned": true
+  },
+  {
+   "order": 39,
+   "series": "Spider-Man",
+   "issue": "4",
+   "volume": "2022",
+   "year": "2023",
+   "owned": true
+  },
+  {
+   "order": 40,
+   "series": "Spider-Man",
+   "issue": "5",
+   "volume": "2022",
+   "year": "2023",
+   "owned": true
+  },
+  {
+   "order": 41,
+   "series": "Spider-Man",
+   "issue": "6",
+   "volume": "2022",
+   "year": "2023",
+   "owned": true
+  },
+  {
+   "order": 42,
+   "series": "Spider-Man",
+   "issue": "7",
+   "volume": "2022",
+   "year": "2023",
+   "owned": true
+  },
+  {
+   "order": 43,
+   "series": "Spider-Man: India",
+   "issue": "1",
+   "volume": "2023",
+   "year": "2023",
+   "owned": true
+  },
+  {
+   "order": 44,
+   "series": "Spider-Man: India",
+   "issue": "2",
+   "volume": "2023",
+   "year": "2023",
+   "owned": true
+  },
+  {
+   "order": 45,
+   "series": "Spider-Man: India",
+   "issue": "3",
+   "volume": "2023",
+   "year": "2023",
+   "owned": true
+  },
+  {
+   "order": 46,
+   "series": "Spider-Man: India",
+   "issue": "4",
+   "volume": "2023",
+   "year": "2023",
+   "owned": true
+  },
+  {
+   "order": 47,
+   "series": "Spider-Man: India",
+   "issue": "5",
+   "volume": "2023",
+   "year": "2023",
+   "owned": true
+  },
+  {
+   "order": 48,
+   "series": "Edge of Spider-Verse",
+   "issue": "1",
+   "volume": "2023",
+   "year": "2023",
+   "owned": true
+  },
+  {
+   "order": 49,
+   "series": "Edge of Spider-Verse",
+   "issue": "2",
+   "volume": "2023",
+   "year": "2023",
+   "owned": true
+  },
+  {
+   "order": 50,
+   "series": "Edge of Spider-Verse",
+   "issue": "3",
+   "volume": "2023",
+   "year": "2023",
+   "owned": true
+  },
+  {
+   "order": 51,
+   "series": "Edge of Spider-Verse",
+   "issue": "4",
+   "volume": "2023",
+   "year": "2023",
+   "owned": true
+  }
+ ]
+}

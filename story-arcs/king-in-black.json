@@ -1,0 +1,560 @@
+{
+ "arc": "King in Black",
+ "slug": "king-in-black",
+ "issue_count": 69,
+ "owned_count": 53,
+ "entries": [
+  {
+   "order": 1,
+   "series": "Free Comic Book Day 2020 (Spider-Man/Venom)",
+   "issue": "1",
+   "volume": "2020",
+   "year": "2020",
+   "owned": false
+  },
+  {
+   "order": 2,
+   "series": "Web of Venom: Empyre's End",
+   "issue": "1",
+   "volume": "2020",
+   "year": "2021",
+   "owned": false
+  },
+  {
+   "order": 3,
+   "series": "Symbiote Spider-Man: King In Black",
+   "issue": "1",
+   "volume": "2020",
+   "year": "2021",
+   "owned": true
+  },
+  {
+   "order": 4,
+   "series": "Symbiote Spider-Man: King In Black",
+   "issue": "2",
+   "volume": "2020",
+   "year": "2021",
+   "owned": true
+  },
+  {
+   "order": 5,
+   "series": "Symbiote Spider-Man: King In Black",
+   "issue": "3",
+   "volume": "2020",
+   "year": "2021",
+   "owned": true
+  },
+  {
+   "order": 6,
+   "series": "Symbiote Spider-Man: King In Black",
+   "issue": "4",
+   "volume": "2020",
+   "year": "2021",
+   "owned": true
+  },
+  {
+   "order": 7,
+   "series": "Symbiote Spider-Man: King In Black",
+   "issue": "5",
+   "volume": "2020",
+   "year": "2021",
+   "owned": true
+  },
+  {
+   "order": 8,
+   "series": "King In Black: Namor",
+   "issue": "1",
+   "volume": "2020",
+   "year": "2021",
+   "owned": false
+  },
+  {
+   "order": 9,
+   "series": "King In Black: Namor",
+   "issue": "2",
+   "volume": "2020",
+   "year": "2021",
+   "owned": false
+  },
+  {
+   "order": 10,
+   "series": "King In Black: Namor",
+   "issue": "3",
+   "volume": "2020",
+   "year": "2021",
+   "owned": true
+  },
+  {
+   "order": 11,
+   "series": "King In Black: Namor",
+   "issue": "4",
+   "volume": "2020",
+   "year": "2021",
+   "owned": true
+  },
+  {
+   "order": 12,
+   "series": "Atlantis Attacks",
+   "issue": "5",
+   "volume": "2020",
+   "year": "2021",
+   "owned": false
+  },
+  {
+   "order": 13,
+   "series": "King In Black: Wiccan and Hulking",
+   "issue": "1",
+   "volume": "2021",
+   "year": "2021",
+   "owned": true
+  },
+  {
+   "order": 14,
+   "series": "King In Black",
+   "issue": "1",
+   "volume": "2020",
+   "year": "2021",
+   "owned": false
+  },
+  {
+   "order": 15,
+   "series": "The Union",
+   "issue": "1",
+   "volume": "2020",
+   "year": "2021",
+   "owned": false
+  },
+  {
+   "order": 16,
+   "series": "The Union",
+   "issue": "2",
+   "volume": "2020",
+   "year": "2021",
+   "owned": true
+  },
+  {
+   "order": 17,
+   "series": "Black Cat",
+   "issue": "1",
+   "volume": "2019",
+   "year": "2019",
+   "owned": true
+  },
+  {
+   "order": 18,
+   "series": "Spider-Woman",
+   "issue": "7",
+   "volume": "2020",
+   "year": "2021",
+   "owned": false
+  },
+  {
+   "order": 19,
+   "series": "Spider-Woman",
+   "issue": "8",
+   "volume": "2020",
+   "year": "2021",
+   "owned": true
+  },
+  {
+   "order": 20,
+   "series": "King In Black Handbook",
+   "issue": "1",
+   "volume": "2021",
+   "year": "2021",
+   "owned": true
+  },
+  {
+   "order": 21,
+   "series": "Guardians of the Galaxy",
+   "issue": "10",
+   "volume": "2019",
+   "year": "2019",
+   "owned": true
+  },
+  {
+   "order": 22,
+   "series": "King In Black: Ghost Rider",
+   "issue": "1",
+   "volume": "2021",
+   "year": "2021",
+   "owned": true
+  },
+  {
+   "order": 23,
+   "series": "King In Black: Black Knight",
+   "issue": "1",
+   "volume": "2021",
+   "year": "2021",
+   "owned": true
+  },
+  {
+   "order": 24,
+   "series": "King In Black: Black Panther",
+   "issue": "1",
+   "volume": "2021",
+   "year": "2021",
+   "owned": true
+  },
+  {
+   "order": 25,
+   "series": "Venom",
+   "issue": "31",
+   "volume": "2018",
+   "year": "2021",
+   "owned": true
+  },
+  {
+   "order": 26,
+   "series": "King In Black",
+   "issue": "2",
+   "volume": "2020",
+   "year": "2021",
+   "owned": false
+  },
+  {
+   "order": 27,
+   "series": "Venom",
+   "issue": "32",
+   "volume": "2018",
+   "year": "2021",
+   "owned": true
+  },
+  {
+   "order": 28,
+   "series": "True Believers: King In Black: Iron Man/Doctor Doom",
+   "issue": "1",
+   "volume": "2020",
+   "year": "2021",
+   "owned": false
+  },
+  {
+   "order": 29,
+   "series": "King In Black: Return of the Valkyries",
+   "issue": "1",
+   "volume": "2021",
+   "year": "2021",
+   "owned": true
+  },
+  {
+   "order": 30,
+   "series": "King In Black: Planet of the Symbiotes",
+   "issue": "1",
+   "volume": "2021",
+   "year": "2021",
+   "owned": true
+  },
+  {
+   "order": 31,
+   "series": "King In Black: Planet of the Symbiotes",
+   "issue": "2",
+   "volume": "2021",
+   "year": "2021",
+   "owned": true
+  },
+  {
+   "order": 32,
+   "series": "King In Black: Thunderbolts",
+   "issue": "1",
+   "volume": "2021",
+   "year": "2021",
+   "owned": true
+  },
+  {
+   "order": 33,
+   "series": "King In Black: Thunderbolts",
+   "issue": "2",
+   "volume": "2021",
+   "year": "2021",
+   "owned": true
+  },
+  {
+   "order": 34,
+   "series": "King In Black: Thunderbolts",
+   "issue": "3",
+   "volume": "2021",
+   "year": "2021",
+   "owned": true
+  },
+  {
+   "order": 35,
+   "series": "King in Black: Gwenom vs. Carnage",
+   "issue": "1",
+   "volume": "2021",
+   "year": "2021",
+   "owned": true
+  },
+  {
+   "order": 36,
+   "series": "King in Black: Gwenom vs. Carnage",
+   "issue": "2",
+   "volume": "2021",
+   "year": "2021",
+   "owned": true
+  },
+  {
+   "order": 37,
+   "series": "King in Black: Gwenom vs. Carnage",
+   "issue": "3",
+   "volume": "2021",
+   "year": "2021",
+   "owned": true
+  },
+  {
+   "order": 38,
+   "series": "King In Black: Immortal Hulk",
+   "issue": "1",
+   "volume": "2020",
+   "year": "2021",
+   "owned": false
+  },
+  {
+   "order": 39,
+   "series": "S.W.O.R.D.",
+   "issue": "2",
+   "volume": "2020",
+   "year": "2021",
+   "owned": true
+  },
+  {
+   "order": 40,
+   "series": "S.W.O.R.D.",
+   "issue": "3",
+   "volume": "2020",
+   "year": "2021",
+   "owned": true
+  },
+  {
+   "order": 41,
+   "series": "King In Black",
+   "issue": "3",
+   "volume": "2020",
+   "year": "2021",
+   "owned": false
+  },
+  {
+   "order": 42,
+   "series": "Daredevil",
+   "issue": "26",
+   "volume": "2019",
+   "year": "2021",
+   "owned": false
+  },
+  {
+   "order": 43,
+   "series": "Daredevil",
+   "issue": "27",
+   "volume": "2019",
+   "year": "2021",
+   "owned": false
+  },
+  {
+   "order": 44,
+   "series": "Deadpool",
+   "issue": "10",
+   "volume": "2018",
+   "year": "2019",
+   "owned": true
+  },
+  {
+   "order": 45,
+   "series": "King In Black: Marauders",
+   "issue": "1",
+   "volume": "2021",
+   "year": "2021",
+   "owned": true
+  },
+  {
+   "order": 46,
+   "series": "Savage Avengers",
+   "issue": "17",
+   "volume": "2019",
+   "year": "2021",
+   "owned": true
+  },
+  {
+   "order": 47,
+   "series": "Savage Avengers",
+   "issue": "18",
+   "volume": "2019",
+   "year": "2021",
+   "owned": true
+  },
+  {
+   "order": 48,
+   "series": "Savage Avengers",
+   "issue": "19",
+   "volume": "2019",
+   "year": "2021",
+   "owned": true
+  },
+  {
+   "order": 49,
+   "series": "Miles Morales: Spider-Man",
+   "issue": "23",
+   "volume": "2019",
+   "year": "2021",
+   "owned": true
+  },
+  {
+   "order": 50,
+   "series": "King In Black: Return of the Valkyries",
+   "issue": "2",
+   "volume": "2021",
+   "year": "2021",
+   "owned": true
+  },
+  {
+   "order": 51,
+   "series": "King In Black: Return of the Valkyries",
+   "issue": "3",
+   "volume": "2021",
+   "year": "2021",
+   "owned": true
+  },
+  {
+   "order": 52,
+   "series": "King In Black: Return of the Valkyries",
+   "issue": "4",
+   "volume": "2021",
+   "year": "2021",
+   "owned": true
+  },
+  {
+   "order": 53,
+   "series": "Black Cat",
+   "issue": "2",
+   "volume": "2019",
+   "year": "2019",
+   "owned": true
+  },
+  {
+   "order": 54,
+   "series": "Black Cat",
+   "issue": "3",
+   "volume": "2019",
+   "year": "2019",
+   "owned": true
+  },
+  {
+   "order": 55,
+   "series": "Venom",
+   "issue": "33",
+   "volume": "2018",
+   "year": "2021",
+   "owned": true
+  },
+  {
+   "order": 56,
+   "series": "King In Black",
+   "issue": "4",
+   "volume": "2020",
+   "year": "2021",
+   "owned": false
+  },
+  {
+   "order": 57,
+   "series": "Fantastic Four",
+   "issue": "29",
+   "volume": "2018",
+   "year": "2021",
+   "owned": true
+  },
+  {
+   "order": 58,
+   "series": "King In Black: Captain America",
+   "issue": "1",
+   "volume": "2021",
+   "year": "2021",
+   "owned": true
+  },
+  {
+   "order": 59,
+   "series": "King In Black: Scream",
+   "issue": "1",
+   "volume": "2021",
+   "year": "2021",
+   "owned": true
+  },
+  {
+   "order": 60,
+   "series": "King In Black: Spider-Man",
+   "issue": "1",
+   "volume": "2021",
+   "year": "2021",
+   "owned": true
+  },
+  {
+   "order": 61,
+   "series": "S.W.O.R.D.",
+   "issue": "4",
+   "volume": "2020",
+   "year": "2021",
+   "owned": true
+  },
+  {
+   "order": 62,
+   "series": "Fantastic Four",
+   "issue": "30",
+   "volume": "2018",
+   "year": "2021",
+   "owned": true
+  },
+  {
+   "order": 63,
+   "series": "Venom",
+   "issue": "34",
+   "volume": "2018",
+   "year": "2021",
+   "owned": true
+  },
+  {
+   "order": 64,
+   "series": "Beta Ray Bill",
+   "issue": "1",
+   "volume": "2021",
+   "year": "2021",
+   "owned": true
+  },
+  {
+   "order": 65,
+   "series": "Avengers",
+   "issue": "45",
+   "volume": "2018",
+   "year": "2021",
+   "owned": true
+  },
+  {
+   "order": 66,
+   "series": "King In Black",
+   "issue": "5",
+   "volume": "2020",
+   "year": "2021",
+   "owned": false
+  },
+  {
+   "order": 67,
+   "series": "King In Black: Namor",
+   "issue": "5",
+   "volume": "2020",
+   "year": "2021",
+   "owned": true
+  },
+  {
+   "order": 68,
+   "series": "King In Black: Planet of the Symbiotes",
+   "issue": "3",
+   "volume": "2021",
+   "year": "2021",
+   "owned": true
+  },
+  {
+   "order": 69,
+   "series": "Venom",
+   "issue": "35",
+   "volume": "2018",
+   "year": "2021",
+   "owned": true
+  }
+ ]
+}

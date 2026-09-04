@@ -1,0 +1,112 @@
+{
+ "arc": "X-Men Messiah Complex",
+ "slug": "x-men-messiah-complex",
+ "issue_count": 13,
+ "owned_count": 2,
+ "entries": [
+  {
+   "order": 1,
+   "series": "X-Men: Messiah Complex",
+   "issue": "1",
+   "volume": "2007",
+   "year": "2007",
+   "owned": false
+  },
+  {
+   "order": 2,
+   "series": "The Uncanny X-Men",
+   "issue": "492",
+   "volume": "1981",
+   "year": "2008",
+   "owned": false
+  },
+  {
+   "order": 3,
+   "series": "X-Factor",
+   "issue": "25",
+   "volume": "2006",
+   "year": "2008",
+   "owned": false
+  },
+  {
+   "order": 4,
+   "series": "New X-Men",
+   "issue": "44",
+   "volume": "2004",
+   "year": "2008",
+   "owned": false
+  },
+  {
+   "order": 5,
+   "series": "X-Men",
+   "issue": "205",
+   "volume": "2004",
+   "year": "2008",
+   "owned": true
+  },
+  {
+   "order": 6,
+   "series": "The Uncanny X-Men",
+   "issue": "493",
+   "volume": "1981",
+   "year": "2008",
+   "owned": false
+  },
+  {
+   "order": 7,
+   "series": "X-Factor",
+   "issue": "26",
+   "volume": "2006",
+   "year": "2008",
+   "owned": false
+  },
+  {
+   "order": 8,
+   "series": "New X-Men",
+   "issue": "45",
+   "volume": "2004",
+   "year": "2008",
+   "owned": false
+  },
+  {
+   "order": 9,
+   "series": "X-Men",
+   "issue": "206",
+   "volume": "2004",
+   "year": "2008",
+   "owned": true
+  },
+  {
+   "order": 10,
+   "series": "The Uncanny X-Men",
+   "issue": "494",
+   "volume": "1981",
+   "year": "2008",
+   "owned": false
+  },
+  {
+   "order": 11,
+   "series": "X-Factor",
+   "issue": "27",
+   "volume": "2006",
+   "year": "2008",
+   "owned": false
+  },
+  {
+   "order": 12,
+   "series": "New X-Men",
+   "issue": "46",
+   "volume": "2004",
+   "year": "2008",
+   "owned": false
+  },
+  {
+   "order": 13,
+   "series": "X-Men",
+   "issue": "207",
+   "volume": "2004",
+   "year": "2008",
+   "owned": false
+  }
+ ]
+}

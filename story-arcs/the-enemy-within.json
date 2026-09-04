@@ -1,0 +1,64 @@
+{
+ "arc": "The Enemy Within",
+ "slug": "the-enemy-within",
+ "issue_count": 7,
+ "owned_count": 4,
+ "entries": [
+  {
+   "order": 1,
+   "series": "Captain Marvel",
+   "issue": "12",
+   "volume": "2012",
+   "year": "2013",
+   "owned": true
+  },
+  {
+   "order": 2,
+   "series": "Avengers: The Enemy Within",
+   "issue": "1",
+   "volume": "2013",
+   "year": "2013",
+   "owned": false
+  },
+  {
+   "order": 3,
+   "series": "Avengers Assemble",
+   "issue": "16",
+   "volume": "2012",
+   "year": "2013",
+   "owned": false
+  },
+  {
+   "order": 4,
+   "series": "Captain Marvel",
+   "issue": "13",
+   "volume": "2012",
+   "year": "2013",
+   "owned": true
+  },
+  {
+   "order": 5,
+   "series": "Avengers Assemble",
+   "issue": "17",
+   "volume": "2012",
+   "year": "2013",
+   "owned": false
+  },
+  {
+   "order": 6,
+   "series": "Captain Marvel",
+   "issue": "14",
+   "volume": "2012",
+   "year": "2013",
+   "owned": true
+  },
+  {
+   "order": 7,
+   "series": "Captain Marvel",
+   "issue": "17",
+   "volume": "2012",
+   "year": "2014",
+   "owned": true
+  }
+ ]
+}

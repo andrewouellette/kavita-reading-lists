@@ -1,0 +1,56 @@
+{
+ "arc": "Star Wars Vader Down",
+ "slug": "star-wars-vader-down",
+ "issue_count": 6,
+ "owned_count": 0,
+ "entries": [
+  {
+   "order": 1,
+   "series": "Star Wars: Vader Down",
+   "issue": "1",
+   "volume": "2015",
+   "year": "2016",
+   "owned": false
+  },
+  {
+   "order": 2,
+   "series": "Darth Vader",
+   "issue": "13",
+   "volume": "2015",
+   "year": "2016",
+   "owned": false
+  },
+  {
+   "order": 3,
+   "series": "Star Wars",
+   "issue": "13",
+   "volume": "2015",
+   "year": "2016",
+   "owned": false
+  },
+  {
+   "order": 4,
+   "series": "Darth Vader",
+   "issue": "14",
+   "volume": "2015",
+   "year": "2016",
+   "owned": false
+  },
+  {
+   "order": 5,
+   "series": "Star Wars",
+   "issue": "14",
+   "volume": "2015",
+   "year": "2016",
+   "owned": false
+  },
+  {
+   "order": 6,
+   "series": "Darth Vader",
+   "issue": "15",
+   "volume": "2015",
+   "year": "2016",
+   "owned": false
+  }
+ ]
+}

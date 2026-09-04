@@ -1,0 +1,640 @@
+{
+ "arc": "AXIS",
+ "slug": "axis",
+ "issue_count": 79,
+ "owned_count": 4,
+ "entries": [
+  {
+   "order": 1,
+   "series": "Captain America",
+   "issue": "22",
+   "volume": "2013",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 2,
+   "series": "Captain America",
+   "issue": "23",
+   "volume": "2013",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 3,
+   "series": "Captain America",
+   "issue": "24",
+   "volume": "2013",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 4,
+   "series": "Captain America",
+   "issue": "25",
+   "volume": "2013",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 5,
+   "series": "Loki: Agent of Asgard",
+   "issue": "6",
+   "volume": "2014",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 6,
+   "series": "Magneto",
+   "issue": "9",
+   "volume": "2014",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 7,
+   "series": "Magneto",
+   "issue": "10",
+   "volume": "2014",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 8,
+   "series": "Uncanny Avengers",
+   "issue": "24",
+   "volume": "2012",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 9,
+   "series": "Death of Wolverine",
+   "issue": "1",
+   "volume": "2014",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 10,
+   "series": "Death of Wolverine",
+   "issue": "2",
+   "volume": "2014",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 11,
+   "series": "Death of Wolverine",
+   "issue": "3",
+   "volume": "2014",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 12,
+   "series": "Death of Wolverine",
+   "issue": "4",
+   "volume": "2014",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 13,
+   "series": "Death of Wolverine: The Weapon X Program",
+   "issue": "1",
+   "volume": "2014",
+   "year": "2015",
+   "owned": false
+  },
+  {
+   "order": 14,
+   "series": "Death of Wolverine: The Weapon X Program",
+   "issue": "2",
+   "volume": "2014",
+   "year": "2015",
+   "owned": false
+  },
+  {
+   "order": 15,
+   "series": "Death of Wolverine: The Weapon X Program",
+   "issue": "3",
+   "volume": "2014",
+   "year": "2015",
+   "owned": false
+  },
+  {
+   "order": 16,
+   "series": "Death of Wolverine: The Weapon X Program",
+   "issue": "4",
+   "volume": "2014",
+   "year": "2015",
+   "owned": false
+  },
+  {
+   "order": 17,
+   "series": "Death of Wolverine: The Weapon X Program",
+   "issue": "5",
+   "volume": "2014",
+   "year": "2015",
+   "owned": false
+  },
+  {
+   "order": 18,
+   "series": "Storm",
+   "issue": "4",
+   "volume": "2014",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 19,
+   "series": "Storm",
+   "issue": "5",
+   "volume": "2014",
+   "year": "2015",
+   "owned": true
+  },
+  {
+   "order": 20,
+   "series": "Nightcrawler",
+   "issue": "7",
+   "volume": "2014",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 21,
+   "series": "Wolverine & the X-Men",
+   "issue": "10",
+   "volume": "2014",
+   "year": "2014",
+   "owned": true
+  },
+  {
+   "order": 22,
+   "series": "Wolverine & the X-Men",
+   "issue": "11",
+   "volume": "2014",
+   "year": "2014",
+   "owned": true
+  },
+  {
+   "order": 23,
+   "series": "Death of Wolverine: Life After Logan",
+   "issue": "1",
+   "volume": "2014",
+   "year": "2015",
+   "owned": false
+  },
+  {
+   "order": 24,
+   "series": "Death of Wolverine: Deadpool & Captain America",
+   "issue": "1",
+   "volume": "2014",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 25,
+   "series": "Death of Wolverine: The Logan Legacy",
+   "issue": "1",
+   "volume": "2014",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 26,
+   "series": "Death of Wolverine: The Logan Legacy",
+   "issue": "2",
+   "volume": "2014",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 27,
+   "series": "Death of Wolverine: The Logan Legacy",
+   "issue": "3",
+   "volume": "2014",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 28,
+   "series": "Death of Wolverine: The Logan Legacy",
+   "issue": "4",
+   "volume": "2014",
+   "year": "2015",
+   "owned": false
+  },
+  {
+   "order": 29,
+   "series": "Death of Wolverine: The Logan Legacy",
+   "issue": "5",
+   "volume": "2014",
+   "year": "2015",
+   "owned": false
+  },
+  {
+   "order": 30,
+   "series": "Death of Wolverine: The Logan Legacy",
+   "issue": "6",
+   "volume": "2014",
+   "year": "2015",
+   "owned": false
+  },
+  {
+   "order": 31,
+   "series": "Death of Wolverine: The Logan Legacy",
+   "issue": "7",
+   "volume": "2014",
+   "year": "2015",
+   "owned": false
+  },
+  {
+   "order": 32,
+   "series": "Uncanny Avengers",
+   "issue": "25",
+   "volume": "2012",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 33,
+   "series": "Avengers & X-Men: Axis",
+   "issue": "1",
+   "volume": "2014",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 34,
+   "series": "Avengers & X-Men: Axis",
+   "issue": "2",
+   "volume": "2014",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 35,
+   "series": "Loki: Agent of Asgard",
+   "issue": "7",
+   "volume": "2014",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 36,
+   "series": "Magneto",
+   "issue": "11",
+   "volume": "2014",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 37,
+   "series": "All-New X-Factor",
+   "issue": "15",
+   "volume": "2014",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 38,
+   "series": "Avengers & X-Men: Axis",
+   "issue": "3",
+   "volume": "2014",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 39,
+   "series": "Deadpool",
+   "issue": "36",
+   "volume": "2012",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 40,
+   "series": "Magneto",
+   "issue": "12",
+   "volume": "2014",
+   "year": "2015",
+   "owned": false
+  },
+  {
+   "order": 41,
+   "series": "All-New X-Factor",
+   "issue": "16",
+   "volume": "2014",
+   "year": "2015",
+   "owned": false
+  },
+  {
+   "order": 42,
+   "series": "Axis: Revolutions",
+   "issue": "1",
+   "volume": "2014",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 43,
+   "series": "Axis: Hobgoblin",
+   "issue": "1",
+   "volume": "2014",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 44,
+   "series": "Axis: Carnage",
+   "issue": "1",
+   "volume": "2014",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 45,
+   "series": "Axis: Carnage",
+   "issue": "2",
+   "volume": "2014",
+   "year": "2015",
+   "owned": false
+  },
+  {
+   "order": 46,
+   "series": "Axis: Carnage",
+   "issue": "3",
+   "volume": "2014",
+   "year": "2015",
+   "owned": false
+  },
+  {
+   "order": 47,
+   "series": "Avengers & X-Men: Axis",
+   "issue": "4",
+   "volume": "2014",
+   "year": "2015",
+   "owned": false
+  },
+  {
+   "order": 48,
+   "series": "Amazing X-Men",
+   "issue": "14",
+   "volume": "2014",
+   "year": "2015",
+   "owned": false
+  },
+  {
+   "order": 49,
+   "series": "Wolverine & the X-Men",
+   "issue": "12",
+   "volume": "2014",
+   "year": "2015",
+   "owned": true
+  },
+  {
+   "order": 50,
+   "series": "Axis: Hobgoblin",
+   "issue": "2",
+   "volume": "2014",
+   "year": "2015",
+   "owned": false
+  },
+  {
+   "order": 51,
+   "series": "Superior Iron Man",
+   "issue": "1",
+   "volume": "2014",
+   "year": "2015",
+   "owned": false
+  },
+  {
+   "order": 52,
+   "series": "Captain America & the Mighty Avengers",
+   "issue": "1",
+   "volume": "2014",
+   "year": "2015",
+   "owned": false
+  },
+  {
+   "order": 53,
+   "series": "Captain America & the Mighty Avengers",
+   "issue": "2",
+   "volume": "2014",
+   "year": "2015",
+   "owned": false
+  },
+  {
+   "order": 54,
+   "series": "Captain America & the Mighty Avengers",
+   "issue": "3",
+   "volume": "2014",
+   "year": "2015",
+   "owned": false
+  },
+  {
+   "order": 55,
+   "series": "Avengers & X-Men: Axis",
+   "issue": "5",
+   "volume": "2014",
+   "year": "2015",
+   "owned": false
+  },
+  {
+   "order": 56,
+   "series": "Nova",
+   "issue": "23",
+   "volume": "2013",
+   "year": "2015",
+   "owned": false
+  },
+  {
+   "order": 57,
+   "series": "Nova",
+   "issue": "24",
+   "volume": "2013",
+   "year": "2015",
+   "owned": false
+  },
+  {
+   "order": 58,
+   "series": "Inhuman",
+   "issue": "9",
+   "volume": "2014",
+   "year": "2015",
+   "owned": false
+  },
+  {
+   "order": 59,
+   "series": "Inhuman",
+   "issue": "10",
+   "volume": "2014",
+   "year": "2015",
+   "owned": false
+  },
+  {
+   "order": 60,
+   "series": "Deadpool",
+   "issue": "37",
+   "volume": "2012",
+   "year": "2015",
+   "owned": false
+  },
+  {
+   "order": 61,
+   "series": "Deadpool",
+   "issue": "38",
+   "volume": "2012",
+   "year": "2015",
+   "owned": false
+  },
+  {
+   "order": 62,
+   "series": "Axis: Revolutions",
+   "issue": "2",
+   "volume": "2014",
+   "year": "2015",
+   "owned": false
+  },
+  {
+   "order": 63,
+   "series": "Loki: Agent of Asgard",
+   "issue": "8",
+   "volume": "2014",
+   "year": "2015",
+   "owned": false
+  },
+  {
+   "order": 64,
+   "series": "Axis: Revolutions",
+   "issue": "3",
+   "volume": "2014",
+   "year": "2015",
+   "owned": false
+  },
+  {
+   "order": 65,
+   "series": "Axis: Hobgoblin",
+   "issue": "3",
+   "volume": "2014",
+   "year": "2015",
+   "owned": false
+  },
+  {
+   "order": 66,
+   "series": "All-New X-Factor",
+   "issue": "17",
+   "volume": "2014",
+   "year": "2015",
+   "owned": false
+  },
+  {
+   "order": 67,
+   "series": "Avengers World",
+   "issue": "15",
+   "volume": "2014",
+   "year": "2015",
+   "owned": false
+  },
+  {
+   "order": 68,
+   "series": "Avengers World",
+   "issue": "16",
+   "volume": "2014",
+   "year": "2015",
+   "owned": false
+  },
+  {
+   "order": 69,
+   "series": "Axis: Revolutions",
+   "issue": "4",
+   "volume": "2014",
+   "year": "2015",
+   "owned": false
+  },
+  {
+   "order": 70,
+   "series": "Avengers & X-Men: Axis",
+   "issue": "6",
+   "volume": "2014",
+   "year": "2015",
+   "owned": false
+  },
+  {
+   "order": 71,
+   "series": "Superior Iron Man",
+   "issue": "2",
+   "volume": "2014",
+   "year": "2015",
+   "owned": false
+  },
+  {
+   "order": 72,
+   "series": "Superior Iron Man",
+   "issue": "3",
+   "volume": "2014",
+   "year": "2015",
+   "owned": false
+  },
+  {
+   "order": 73,
+   "series": "Superior Iron Man",
+   "issue": "4",
+   "volume": "2014",
+   "year": "2015",
+   "owned": false
+  },
+  {
+   "order": 74,
+   "series": "Avengers & X-Men: Axis",
+   "issue": "7",
+   "volume": "2014",
+   "year": "2015",
+   "owned": false
+  },
+  {
+   "order": 75,
+   "series": "Avengers & X-Men: Axis",
+   "issue": "8",
+   "volume": "2014",
+   "year": "2015",
+   "owned": false
+  },
+  {
+   "order": 76,
+   "series": "Avengers & X-Men: Axis",
+   "issue": "9",
+   "volume": "2014",
+   "year": "2015",
+   "owned": false
+  },
+  {
+   "order": 77,
+   "series": "Loki: Agent of Asgard",
+   "issue": "9",
+   "volume": "2014",
+   "year": "2015",
+   "owned": false
+  },
+  {
+   "order": 78,
+   "series": "Deadpool",
+   "issue": "39",
+   "volume": "2012",
+   "year": "2015",
+   "owned": false
+  },
+  {
+   "order": 79,
+   "series": "Nova",
+   "issue": "25",
+   "volume": "2013",
+   "year": "2015",
+   "owned": false
+  }
+ ]
+}

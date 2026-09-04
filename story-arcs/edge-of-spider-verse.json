@@ -1,0 +1,88 @@
+{
+ "arc": "Edge of Spider-Verse",
+ "slug": "edge-of-spider-verse",
+ "issue_count": 10,
+ "owned_count": 7,
+ "entries": [
+  {
+   "order": 1,
+   "series": "Superior Spider-Man",
+   "issue": "32",
+   "volume": "2013",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 2,
+   "series": "Edge of Spider-Verse",
+   "issue": "1",
+   "volume": "2014",
+   "year": "2014",
+   "owned": true
+  },
+  {
+   "order": 3,
+   "series": "Edge of Spider-Verse",
+   "issue": "2",
+   "volume": "2014",
+   "year": "2014",
+   "owned": true
+  },
+  {
+   "order": 4,
+   "series": "Superior Spider-Man",
+   "issue": "33",
+   "volume": "2013",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 5,
+   "series": "Edge of Spider-Verse",
+   "issue": "3",
+   "volume": "2014",
+   "year": "2014",
+   "owned": true
+  },
+  {
+   "order": 6,
+   "series": "Edge of Spider-Verse",
+   "issue": "4",
+   "volume": "2014",
+   "year": "2014",
+   "owned": true
+  },
+  {
+   "order": 7,
+   "series": "The Amazing Spider-Man",
+   "issue": "7",
+   "volume": "2014",
+   "year": "2014",
+   "owned": true
+  },
+  {
+   "order": 8,
+   "series": "Edge of Spider-Verse",
+   "issue": "5",
+   "volume": "2014",
+   "year": "2014",
+   "owned": true
+  },
+  {
+   "order": 9,
+   "series": "Spider-Man 2099",
+   "issue": "5",
+   "volume": "2014",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 10,
+   "series": "The Amazing Spider-Man",
+   "issue": "8",
+   "volume": "2014",
+   "year": "2014",
+   "owned": true
+  }
+ ]
+}

@@ -1,0 +1,96 @@
+{
+ "arc": "The Resurrection of Ra's al Ghul",
+ "slug": "the-resurrection-of-ra-s-al-ghul",
+ "issue_count": 11,
+ "owned_count": 2,
+ "entries": [
+  {
+   "order": 1,
+   "series": "Batman Annual",
+   "issue": "26",
+   "volume": "1961",
+   "year": "2007",
+   "owned": false
+  },
+  {
+   "order": 2,
+   "series": "Robin Annual",
+   "issue": "7",
+   "volume": "1992",
+   "year": "2007",
+   "owned": false
+  },
+  {
+   "order": 3,
+   "series": "Batman",
+   "issue": "670",
+   "volume": "1940",
+   "year": "2007",
+   "owned": false
+  },
+  {
+   "order": 4,
+   "series": "Robin",
+   "issue": "168",
+   "volume": "1993",
+   "year": "2008",
+   "owned": false
+  },
+  {
+   "order": 5,
+   "series": "Nightwing",
+   "issue": "138",
+   "volume": "1996",
+   "year": "2008",
+   "owned": true
+  },
+  {
+   "order": 6,
+   "series": "Detective Comics",
+   "issue": "838",
+   "volume": "1937",
+   "year": "2008",
+   "owned": false
+  },
+  {
+   "order": 7,
+   "series": "Batman",
+   "issue": "671",
+   "volume": "1940",
+   "year": "2008",
+   "owned": false
+  },
+  {
+   "order": 8,
+   "series": "Robin",
+   "issue": "169",
+   "volume": "1993",
+   "year": "2008",
+   "owned": false
+  },
+  {
+   "order": 9,
+   "series": "Nightwing",
+   "issue": "139",
+   "volume": "1996",
+   "year": "2008",
+   "owned": true
+  },
+  {
+   "order": 10,
+   "series": "Detective Comics",
+   "issue": "839",
+   "volume": "1937",
+   "year": "2008",
+   "owned": false
+  },
+  {
+   "order": 11,
+   "series": "Detective Comics",
+   "issue": "840",
+   "volume": "1937",
+   "year": "2008",
+   "owned": false
+  }
+ ]
+}

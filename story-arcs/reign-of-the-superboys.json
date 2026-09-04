@@ -1,0 +1,176 @@
+{
+ "arc": "Reign of the Superboys",
+ "slug": "reign-of-the-superboys",
+ "issue_count": 21,
+ "owned_count": 14,
+ "entries": [
+  {
+   "order": 1,
+   "series": "Action Comics",
+   "issue": "1096",
+   "volume": "1938",
+   "year": "2026",
+   "owned": true
+  },
+  {
+   "order": 2,
+   "series": "Supergirl",
+   "issue": "11",
+   "volume": "2025",
+   "year": "2026",
+   "owned": true
+  },
+  {
+   "order": 3,
+   "series": "Superman Unlimited",
+   "issue": "11",
+   "volume": "2025",
+   "year": "2026",
+   "owned": false
+  },
+  {
+   "order": 4,
+   "series": "Superman",
+   "issue": "36",
+   "volume": "2023",
+   "year": "2026",
+   "owned": true
+  },
+  {
+   "order": 5,
+   "series": "Action Comics",
+   "issue": "1097",
+   "volume": "1938",
+   "year": "2026",
+   "owned": true
+  },
+  {
+   "order": 6,
+   "series": "Supergirl",
+   "issue": "12",
+   "volume": "2025",
+   "year": "2026",
+   "owned": true
+  },
+  {
+   "order": 7,
+   "series": "Superman Unlimited",
+   "issue": "12",
+   "volume": "2025",
+   "year": "2026",
+   "owned": false
+  },
+  {
+   "order": 8,
+   "series": "Superman",
+   "issue": "37",
+   "volume": "2023",
+   "year": "2026",
+   "owned": true
+  },
+  {
+   "order": 9,
+   "series": "Action Comics",
+   "issue": "1098",
+   "volume": "1938",
+   "year": "2026",
+   "owned": true
+  },
+  {
+   "order": 10,
+   "series": "Supergirl",
+   "issue": "13",
+   "volume": "2025",
+   "year": "2026",
+   "owned": true
+  },
+  {
+   "order": 11,
+   "series": "Superman Unlimited",
+   "issue": "13",
+   "volume": "2025",
+   "year": "2026",
+   "owned": false
+  },
+  {
+   "order": 12,
+   "series": "Superman",
+   "issue": "38",
+   "volume": "2023",
+   "year": "2026",
+   "owned": true
+  },
+  {
+   "order": 13,
+   "series": "Action Comics",
+   "issue": "1099",
+   "volume": "1938",
+   "year": "2026",
+   "owned": true
+  },
+  {
+   "order": 14,
+   "series": "Supergirl",
+   "issue": "14",
+   "volume": "2025",
+   "year": "2026",
+   "owned": true
+  },
+  {
+   "order": 15,
+   "series": "Superman Unlimited",
+   "issue": "14",
+   "volume": "2025",
+   "year": "2026",
+   "owned": false
+  },
+  {
+   "order": 16,
+   "series": "Superman",
+   "issue": "39",
+   "volume": "2023",
+   "year": "2026",
+   "owned": true
+  },
+  {
+   "order": 17,
+   "series": "Supergirl",
+   "issue": "15",
+   "volume": "2025",
+   "year": "2026",
+   "owned": true
+  },
+  {
+   "order": 18,
+   "series": "Superman Unlimited",
+   "issue": "15",
+   "volume": "2025",
+   "year": "2026",
+   "owned": false
+  },
+  {
+   "order": 19,
+   "series": "Superman",
+   "issue": "40",
+   "volume": "2023",
+   "year": "2026",
+   "owned": false
+  },
+  {
+   "order": 20,
+   "series": "Action Comics",
+   "issue": "1100",
+   "volume": "1938",
+   "year": "2026",
+   "owned": true
+  },
+  {
+   "order": 21,
+   "series": "Superman 2026 Annual: Year One Thousand",
+   "issue": "1",
+   "volume": "2026",
+   "year": "2026",
+   "owned": false
+  }
+ ]
+}

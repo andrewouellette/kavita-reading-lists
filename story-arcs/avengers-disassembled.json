@@ -1,0 +1,280 @@
+{
+ "arc": "Avengers Disassembled",
+ "slug": "avengers-disassembled",
+ "issue_count": 34,
+ "owned_count": 1,
+ "entries": [
+  {
+   "order": 1,
+   "series": "Spectacular Spider-Man",
+   "issue": "15",
+   "volume": "2003",
+   "year": "2004",
+   "owned": false
+  },
+  {
+   "order": 2,
+   "series": "Spectacular Spider-Man",
+   "issue": "16",
+   "volume": "2003",
+   "year": "2004",
+   "owned": false
+  },
+  {
+   "order": 3,
+   "series": "Spectacular Spider-Man",
+   "issue": "17",
+   "volume": "2003",
+   "year": "2004",
+   "owned": false
+  },
+  {
+   "order": 4,
+   "series": "Spectacular Spider-Man",
+   "issue": "18",
+   "volume": "2003",
+   "year": "2004",
+   "owned": false
+  },
+  {
+   "order": 5,
+   "series": "Spectacular Spider-Man",
+   "issue": "19",
+   "volume": "2003",
+   "year": "2004",
+   "owned": false
+  },
+  {
+   "order": 6,
+   "series": "Spectacular Spider-Man",
+   "issue": "20",
+   "volume": "2003",
+   "year": "2004",
+   "owned": false
+  },
+  {
+   "order": 7,
+   "series": "Iron Man",
+   "issue": "84",
+   "volume": "1998",
+   "year": "2004",
+   "owned": false
+  },
+  {
+   "order": 8,
+   "series": "Iron Man",
+   "issue": "85",
+   "volume": "1998",
+   "year": "2004",
+   "owned": false
+  },
+  {
+   "order": 9,
+   "series": "Thor",
+   "issue": "80",
+   "volume": "1998",
+   "year": "2004",
+   "owned": false
+  },
+  {
+   "order": 10,
+   "series": "Thor",
+   "issue": "81",
+   "volume": "1998",
+   "year": "2004",
+   "owned": false
+  },
+  {
+   "order": 11,
+   "series": "Captain America & the Falcon",
+   "issue": "5",
+   "volume": "2004",
+   "year": "2004",
+   "owned": false
+  },
+  {
+   "order": 12,
+   "series": "Captain America & the Falcon",
+   "issue": "6",
+   "volume": "2004",
+   "year": "2004",
+   "owned": false
+  },
+  {
+   "order": 13,
+   "series": "Captain America & the Falcon",
+   "issue": "7",
+   "volume": "2004",
+   "year": "2004",
+   "owned": false
+  },
+  {
+   "order": 14,
+   "series": "Captain America",
+   "issue": "29",
+   "volume": "2002",
+   "year": "2004",
+   "owned": false
+  },
+  {
+   "order": 15,
+   "series": "Avengers",
+   "issue": "500",
+   "volume": "1998",
+   "year": "2004",
+   "owned": false
+  },
+  {
+   "order": 16,
+   "series": "Avengers",
+   "issue": "501",
+   "volume": "1998",
+   "year": "2004",
+   "owned": false
+  },
+  {
+   "order": 17,
+   "series": "Avengers",
+   "issue": "502",
+   "volume": "1998",
+   "year": "2004",
+   "owned": false
+  },
+  {
+   "order": 18,
+   "series": "Avengers",
+   "issue": "503",
+   "volume": "1998",
+   "year": "2004",
+   "owned": false
+  },
+  {
+   "order": 19,
+   "series": "Excalibur",
+   "issue": "8",
+   "volume": "2004",
+   "year": "2005",
+   "owned": true
+  },
+  {
+   "order": 20,
+   "series": "Iron Man",
+   "issue": "86",
+   "volume": "1998",
+   "year": "2004",
+   "owned": false
+  },
+  {
+   "order": 21,
+   "series": "Iron Man",
+   "issue": "87",
+   "volume": "1998",
+   "year": "2004",
+   "owned": false
+  },
+  {
+   "order": 22,
+   "series": "Iron Man",
+   "issue": "88",
+   "volume": "1998",
+   "year": "2004",
+   "owned": false
+  },
+  {
+   "order": 23,
+   "series": "Iron Man",
+   "issue": "89",
+   "volume": "1998",
+   "year": "2004",
+   "owned": false
+  },
+  {
+   "order": 24,
+   "series": "Captain America",
+   "issue": "30",
+   "volume": "2002",
+   "year": "2004",
+   "owned": false
+  },
+  {
+   "order": 25,
+   "series": "Captain America",
+   "issue": "31",
+   "volume": "2002",
+   "year": "2004",
+   "owned": false
+  },
+  {
+   "order": 26,
+   "series": "Captain America",
+   "issue": "32",
+   "volume": "2002",
+   "year": "2004",
+   "owned": false
+  },
+  {
+   "order": 27,
+   "series": "Fantastic Four",
+   "issue": "517",
+   "volume": "1998",
+   "year": "2004",
+   "owned": false
+  },
+  {
+   "order": 28,
+   "series": "Fantastic Four",
+   "issue": "518",
+   "volume": "1998",
+   "year": "2004",
+   "owned": false
+  },
+  {
+   "order": 29,
+   "series": "Fantastic Four",
+   "issue": "519",
+   "volume": "1998",
+   "year": "2004",
+   "owned": false
+  },
+  {
+   "order": 30,
+   "series": "Thor",
+   "issue": "82",
+   "volume": "1998",
+   "year": "2004",
+   "owned": false
+  },
+  {
+   "order": 31,
+   "series": "Thor",
+   "issue": "83",
+   "volume": "1998",
+   "year": "2004",
+   "owned": false
+  },
+  {
+   "order": 32,
+   "series": "Thor",
+   "issue": "84",
+   "volume": "1998",
+   "year": "2004",
+   "owned": false
+  },
+  {
+   "order": 33,
+   "series": "Thor",
+   "issue": "85",
+   "volume": "1998",
+   "year": "2004",
+   "owned": false
+  },
+  {
+   "order": 34,
+   "series": "Avengers Finale",
+   "issue": "1",
+   "volume": "2005",
+   "year": "2005",
+   "owned": false
+  }
+ ]
+}

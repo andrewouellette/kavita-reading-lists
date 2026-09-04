@@ -1,0 +1,336 @@
+{
+ "arc": "DC K.O.",
+ "slug": "dc-k-o",
+ "issue_count": 41,
+ "owned_count": 26,
+ "entries": [
+  {
+   "order": 1,
+   "series": "Justice League: The Omega Act Special",
+   "issue": "1",
+   "volume": "2025",
+   "year": "2025",
+   "owned": false
+  },
+  {
+   "order": 2,
+   "series": "DC K.O.",
+   "issue": "1",
+   "volume": "2025",
+   "year": "2025",
+   "owned": true
+  },
+  {
+   "order": 3,
+   "series": "Titans",
+   "issue": "28",
+   "volume": "2023",
+   "year": "2025",
+   "owned": true
+  },
+  {
+   "order": 4,
+   "series": "Superman",
+   "issue": "31",
+   "volume": "2023",
+   "year": "2025",
+   "owned": true
+  },
+  {
+   "order": 5,
+   "series": "The Flash",
+   "issue": "26",
+   "volume": "2023",
+   "year": "2025",
+   "owned": true
+  },
+  {
+   "order": 6,
+   "series": "Justice League Unlimited",
+   "issue": "12",
+   "volume": "2024",
+   "year": "2025",
+   "owned": true
+  },
+  {
+   "order": 7,
+   "series": "DC K.O.: Knightfight",
+   "issue": "1",
+   "volume": "2025",
+   "year": "2025",
+   "owned": true
+  },
+  {
+   "order": 8,
+   "series": "Aquaman",
+   "issue": "11",
+   "volume": "2025",
+   "year": "2025",
+   "owned": true
+  },
+  {
+   "order": 9,
+   "series": "Titans",
+   "issue": "29",
+   "volume": "2023",
+   "year": "2025",
+   "owned": true
+  },
+  {
+   "order": 10,
+   "series": "Justice League Red",
+   "issue": "4",
+   "volume": "2025",
+   "year": "2025",
+   "owned": true
+  },
+  {
+   "order": 11,
+   "series": "DC K.O.",
+   "issue": "2",
+   "volume": "2025",
+   "year": "2025",
+   "owned": true
+  },
+  {
+   "order": 12,
+   "series": "Justice League Unlimited",
+   "issue": "13",
+   "volume": "2024",
+   "year": "2025",
+   "owned": true
+  },
+  {
+   "order": 13,
+   "series": "Superman",
+   "issue": "32",
+   "volume": "2023",
+   "year": "2025",
+   "owned": true
+  },
+  {
+   "order": 14,
+   "series": "The Flash",
+   "issue": "27",
+   "volume": "2023",
+   "year": "2025",
+   "owned": true
+  },
+  {
+   "order": 15,
+   "series": "DC K.O.: Knightfight",
+   "issue": "2",
+   "volume": "2025",
+   "year": "2025",
+   "owned": true
+  },
+  {
+   "order": 16,
+   "series": "DC K.O.: Superman vs. Captain Atom",
+   "issue": "1",
+   "volume": "2025",
+   "year": "2025",
+   "owned": true
+  },
+  {
+   "order": 17,
+   "series": "Aquaman",
+   "issue": "12",
+   "volume": "2025",
+   "year": "2025",
+   "owned": true
+  },
+  {
+   "order": 18,
+   "series": "DC K.O.: Wonder Woman vs. Lobo",
+   "issue": "1",
+   "volume": "2025",
+   "year": "2025",
+   "owned": true
+  },
+  {
+   "order": 19,
+   "series": "Titans",
+   "issue": "30",
+   "volume": "2023",
+   "year": "2025",
+   "owned": true
+  },
+  {
+   "order": 20,
+   "series": "DC K.O.: Harley Quinn vs. Zatanna",
+   "issue": "1",
+   "volume": "2025",
+   "year": "2025",
+   "owned": false
+  },
+  {
+   "order": 21,
+   "series": "The Flash",
+   "issue": "28",
+   "volume": "2023",
+   "year": "2025",
+   "owned": true
+  },
+  {
+   "order": 22,
+   "series": "Justice League Unlimited",
+   "issue": "14",
+   "volume": "2024",
+   "year": "2025",
+   "owned": true
+  },
+  {
+   "order": 23,
+   "series": "Superman",
+   "issue": "33",
+   "volume": "2023",
+   "year": "2025",
+   "owned": true
+  },
+  {
+   "order": 24,
+   "series": "DC K.O.: Red Hood vs. The Joker",
+   "issue": "1",
+   "volume": "2025",
+   "year": "2025",
+   "owned": false
+  },
+  {
+   "order": 25,
+   "series": "DC K.O.: Knightfight",
+   "issue": "3",
+   "volume": "2025",
+   "year": "2026",
+   "owned": false
+  },
+  {
+   "order": 26,
+   "series": "DC K.O.",
+   "issue": "3",
+   "volume": "2025",
+   "year": "2026",
+   "owned": false
+  },
+  {
+   "order": 27,
+   "series": "Aquaman",
+   "issue": "13",
+   "volume": "2025",
+   "year": "2026",
+   "owned": true
+  },
+  {
+   "order": 28,
+   "series": "Titans",
+   "issue": "31",
+   "volume": "2023",
+   "year": "2026",
+   "owned": true
+  },
+  {
+   "order": 29,
+   "series": "DC K.O.: Green Lantern Galactic Slam",
+   "issue": "1",
+   "volume": "2026",
+   "year": "2026",
+   "owned": false
+  },
+  {
+   "order": 30,
+   "series": "Justice League Unlimited",
+   "issue": "15",
+   "volume": "2024",
+   "year": "2026",
+   "owned": false
+  },
+  {
+   "order": 31,
+   "series": "The Flash",
+   "issue": "29",
+   "volume": "2023",
+   "year": "2026",
+   "owned": false
+  },
+  {
+   "order": 32,
+   "series": "DC K.O.: The Kids Are All Fight Special",
+   "issue": "1",
+   "volume": "2026",
+   "year": "2026",
+   "owned": false
+  },
+  {
+   "order": 33,
+   "series": "Superman",
+   "issue": "34",
+   "volume": "2023",
+   "year": "2026",
+   "owned": true
+  },
+  {
+   "order": 34,
+   "series": "DC K.O.: Boss Battle",
+   "issue": "1",
+   "volume": "2026",
+   "year": "2026",
+   "owned": false
+  },
+  {
+   "order": 35,
+   "series": "DC K.O.: Knightfight",
+   "issue": "4",
+   "volume": "2025",
+   "year": "2026",
+   "owned": false
+  },
+  {
+   "order": 36,
+   "series": "DC K.O.",
+   "issue": "4",
+   "volume": "2025",
+   "year": "2026",
+   "owned": false
+  },
+  {
+   "order": 37,
+   "series": "Titans",
+   "issue": "32",
+   "volume": "2023",
+   "year": "2026",
+   "owned": true
+  },
+  {
+   "order": 38,
+   "series": "Justice League Unlimited",
+   "issue": "16",
+   "volume": "2024",
+   "year": "2026",
+   "owned": false
+  },
+  {
+   "order": 39,
+   "series": "The Flash",
+   "issue": "30",
+   "volume": "2023",
+   "year": "2026",
+   "owned": false
+  },
+  {
+   "order": 40,
+   "series": "Superman",
+   "issue": "35",
+   "volume": "2023",
+   "year": "2026",
+   "owned": true
+  },
+  {
+   "order": 41,
+   "series": "DC K.O.",
+   "issue": "5",
+   "volume": "2025",
+   "year": "2026",
+   "owned": false
+  }
+ ]
+}

@@ -1,0 +1,80 @@
+{
+ "arc": "Imperial",
+ "slug": "imperial",
+ "issue_count": 9,
+ "owned_count": 8,
+ "entries": [
+  {
+   "order": 1,
+   "series": "Imperial",
+   "issue": "1",
+   "volume": "2025",
+   "year": "2025",
+   "owned": false
+  },
+  {
+   "order": 2,
+   "series": "Imperial",
+   "issue": "2",
+   "volume": "2025",
+   "year": "2025",
+   "owned": true
+  },
+  {
+   "order": 3,
+   "series": "Imperial",
+   "issue": "3",
+   "volume": "2025",
+   "year": "2025",
+   "owned": true
+  },
+  {
+   "order": 4,
+   "series": "Imperial War: Black Panther",
+   "issue": "1",
+   "volume": "2025",
+   "year": "2025",
+   "owned": true
+  },
+  {
+   "order": 5,
+   "series": "Imperial War: Planet She-Hulk",
+   "issue": "1",
+   "volume": "2025",
+   "year": "2025",
+   "owned": true
+  },
+  {
+   "order": 6,
+   "series": "Imperial War: Exiles",
+   "issue": "1",
+   "volume": "2025",
+   "year": "2025",
+   "owned": true
+  },
+  {
+   "order": 7,
+   "series": "Imperial War: Nova Centurion",
+   "issue": "1",
+   "volume": "2025",
+   "year": "2025",
+   "owned": true
+  },
+  {
+   "order": 8,
+   "series": "Imperial War: Imperial Guardians",
+   "issue": "1",
+   "volume": "2025",
+   "year": "2025",
+   "owned": true
+  },
+  {
+   "order": 9,
+   "series": "Imperial",
+   "issue": "4",
+   "volume": "2025",
+   "year": "2025",
+   "owned": true
+  }
+ ]
+}

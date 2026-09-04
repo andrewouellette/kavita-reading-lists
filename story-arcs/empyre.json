@@ -1,0 +1,312 @@
+{
+ "arc": "Empyre",
+ "slug": "empyre",
+ "issue_count": 38,
+ "owned_count": 9,
+ "entries": [
+  {
+   "order": 1,
+   "series": "Empyre: Avengers",
+   "issue": "0",
+   "volume": "2020",
+   "year": "2020",
+   "owned": false
+  },
+  {
+   "order": 2,
+   "series": "Empyre: Fantastic Four",
+   "issue": "0",
+   "volume": "2020",
+   "year": "2020",
+   "owned": false
+  },
+  {
+   "order": 3,
+   "series": "Lords of Empyre: Emperor Hulkling",
+   "issue": "1",
+   "volume": "2020",
+   "year": "2020",
+   "owned": false
+  },
+  {
+   "order": 4,
+   "series": "Empyre",
+   "issue": "1",
+   "volume": "2020",
+   "year": "2020",
+   "owned": false
+  },
+  {
+   "order": 5,
+   "series": "Empyre",
+   "issue": "2",
+   "volume": "2020",
+   "year": "2020",
+   "owned": false
+  },
+  {
+   "order": 6,
+   "series": "Fantastic Four",
+   "issue": "21",
+   "volume": "2018",
+   "year": "2020",
+   "owned": true
+  },
+  {
+   "order": 7,
+   "series": "Fantastic Four",
+   "issue": "22",
+   "volume": "2018",
+   "year": "2020",
+   "owned": true
+  },
+  {
+   "order": 8,
+   "series": "Lords of Empyre: Swordsman",
+   "issue": "1",
+   "volume": "2020",
+   "year": "2020",
+   "owned": false
+  },
+  {
+   "order": 9,
+   "series": "Lords of Empyre: Celestial Messiah",
+   "issue": "1",
+   "volume": "2020",
+   "year": "2020",
+   "owned": false
+  },
+  {
+   "order": 10,
+   "series": "Captain Marvel",
+   "issue": "18",
+   "volume": "2019",
+   "year": "2020",
+   "owned": true
+  },
+  {
+   "order": 11,
+   "series": "Captain Marvel",
+   "issue": "19",
+   "volume": "2019",
+   "year": "2020",
+   "owned": true
+  },
+  {
+   "order": 12,
+   "series": "Captain Marvel",
+   "issue": "20",
+   "volume": "2019",
+   "year": "2020",
+   "owned": false
+  },
+  {
+   "order": 13,
+   "series": "Empyre",
+   "issue": "3",
+   "volume": "2020",
+   "year": "2020",
+   "owned": false
+  },
+  {
+   "order": 14,
+   "series": "X-Men",
+   "issue": "10",
+   "volume": "2019",
+   "year": "2020",
+   "owned": true
+  },
+  {
+   "order": 15,
+   "series": "Empyre: Savage Avengers",
+   "issue": "1",
+   "volume": "2020",
+   "year": "2020",
+   "owned": false
+  },
+  {
+   "order": 16,
+   "series": "Empyre: Avengers",
+   "issue": "1",
+   "volume": "2020",
+   "year": "2020",
+   "owned": false
+  },
+  {
+   "order": 17,
+   "series": "Empyre: Captain America",
+   "issue": "1",
+   "volume": "2020",
+   "year": "2020",
+   "owned": false
+  },
+  {
+   "order": 18,
+   "series": "Empyre: X-Men",
+   "issue": "1",
+   "volume": "2020",
+   "year": "2020",
+   "owned": false
+  },
+  {
+   "order": 19,
+   "series": "Empyre: X-Men",
+   "issue": "2",
+   "volume": "2020",
+   "year": "2020",
+   "owned": false
+  },
+  {
+   "order": 20,
+   "series": "Empyre: X-Men",
+   "issue": "3",
+   "volume": "2020",
+   "year": "2020",
+   "owned": false
+  },
+  {
+   "order": 21,
+   "series": "Empyre: X-Men",
+   "issue": "4",
+   "volume": "2020",
+   "year": "2020",
+   "owned": false
+  },
+  {
+   "order": 22,
+   "series": "Empyre: Captain America",
+   "issue": "2",
+   "volume": "2020",
+   "year": "2020",
+   "owned": false
+  },
+  {
+   "order": 23,
+   "series": "Empyre",
+   "issue": "4",
+   "volume": "2020",
+   "year": "2020",
+   "owned": false
+  },
+  {
+   "order": 24,
+   "series": "Empyre",
+   "issue": "5",
+   "volume": "2020",
+   "year": "2020",
+   "owned": false
+  },
+  {
+   "order": 25,
+   "series": "Empyre: Captain America",
+   "issue": "3",
+   "volume": "2020",
+   "year": "2020",
+   "owned": false
+  },
+  {
+   "order": 26,
+   "series": "Empyre: Avengers",
+   "issue": "2",
+   "volume": "2020",
+   "year": "2020",
+   "owned": false
+  },
+  {
+   "order": 27,
+   "series": "Empyre: Avengers",
+   "issue": "3",
+   "volume": "2020",
+   "year": "2020",
+   "owned": false
+  },
+  {
+   "order": 28,
+   "series": "Empyre",
+   "issue": "6",
+   "volume": "2020",
+   "year": "2020",
+   "owned": false
+  },
+  {
+   "order": 29,
+   "series": "Fantastic Four",
+   "issue": "23",
+   "volume": "2018",
+   "year": "2020",
+   "owned": false
+  },
+  {
+   "order": 30,
+   "series": "X-Men",
+   "issue": "11",
+   "volume": "2019",
+   "year": "2020",
+   "owned": true
+  },
+  {
+   "order": 31,
+   "series": "Captain Marvel",
+   "issue": "21",
+   "volume": "2019",
+   "year": "2020",
+   "owned": false
+  },
+  {
+   "order": 32,
+   "series": "Guardians of the Galaxy",
+   "issue": "6",
+   "volume": "2020",
+   "year": "2020",
+   "owned": true
+  },
+  {
+   "order": 33,
+   "series": "Guardians of the Galaxy",
+   "issue": "7",
+   "volume": "2020",
+   "year": "2020",
+   "owned": true
+  },
+  {
+   "order": 34,
+   "series": "Guardians of the Galaxy",
+   "issue": "8",
+   "volume": "2020",
+   "year": "2021",
+   "owned": true
+  },
+  {
+   "order": 35,
+   "series": "Empyre: Aftermath Avengers",
+   "issue": "1",
+   "volume": "2020",
+   "year": "2020",
+   "owned": false
+  },
+  {
+   "order": 36,
+   "series": "Empyre: Fallout Fantastic Four",
+   "issue": "1",
+   "volume": "2020",
+   "year": "2020",
+   "owned": false
+  },
+  {
+   "order": 37,
+   "series": "Immortal She-Hulk",
+   "issue": "1",
+   "volume": "2020",
+   "year": "2020",
+   "owned": false
+  },
+  {
+   "order": 38,
+   "series": "Web of Venom: Empyre's End",
+   "issue": "1",
+   "volume": "2020",
+   "year": "2021",
+   "owned": false
+  }
+ ]
+}

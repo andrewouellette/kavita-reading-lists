@@ -1,0 +1,40 @@
+{
+ "arc": "Symbiosis Necrosis",
+ "slug": "symbiosis-necrosis",
+ "issue_count": 4,
+ "owned_count": 4,
+ "entries": [
+  {
+   "order": 1,
+   "series": "Venom",
+   "issue": "31",
+   "volume": "2021",
+   "year": "2024",
+   "owned": true
+  },
+  {
+   "order": 2,
+   "series": "Carnage",
+   "issue": "5",
+   "volume": "2023",
+   "year": "2024",
+   "owned": true
+  },
+  {
+   "order": 3,
+   "series": "Venom",
+   "issue": "32",
+   "volume": "2021",
+   "year": "2024",
+   "owned": true
+  },
+  {
+   "order": 4,
+   "series": "Carnage",
+   "issue": "6",
+   "volume": "2023",
+   "year": "2024",
+   "owned": true
+  }
+ ]
+}

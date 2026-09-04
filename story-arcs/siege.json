@@ -1,0 +1,360 @@
+{
+ "arc": "Siege",
+ "slug": "siege",
+ "issue_count": 44,
+ "owned_count": 4,
+ "entries": [
+  {
+   "order": 1,
+   "series": "Siege: The Cabal",
+   "issue": "1",
+   "volume": "2010",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 2,
+   "series": "Avengers: The Initiative",
+   "issue": "31",
+   "volume": "2007",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 3,
+   "series": "New Avengers",
+   "issue": "61",
+   "volume": "2004",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 4,
+   "series": "New Avengers",
+   "issue": "62",
+   "volume": "2004",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 5,
+   "series": "Dark Avengers",
+   "issue": "13",
+   "volume": "2009",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 6,
+   "series": "Dark Avengers",
+   "issue": "14",
+   "volume": "2009",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 7,
+   "series": "Dark Avengers",
+   "issue": "15",
+   "volume": "2009",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 8,
+   "series": "Origins of Siege",
+   "issue": "1",
+   "volume": "2009",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 9,
+   "series": "Siege: Storming Asgard \u2013\u2013 Heroes & Villains",
+   "issue": "1",
+   "volume": "2010",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 10,
+   "series": "Siege",
+   "issue": "1",
+   "volume": "2010",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 11,
+   "series": "Avengers: The Initiative",
+   "issue": "32",
+   "volume": "2007",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 12,
+   "series": "Dark Wolverine",
+   "issue": "82",
+   "volume": "2009",
+   "year": "2010",
+   "owned": true
+  },
+  {
+   "order": 13,
+   "series": "Dark Wolverine",
+   "issue": "83",
+   "volume": "2009",
+   "year": "2010",
+   "owned": true
+  },
+  {
+   "order": 14,
+   "series": "Dark Wolverine",
+   "issue": "84",
+   "volume": "2009",
+   "year": "2010",
+   "owned": true
+  },
+  {
+   "order": 15,
+   "series": "Siege: Embedded",
+   "issue": "1",
+   "volume": "2010",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 16,
+   "series": "Siege: Embedded",
+   "issue": "2",
+   "volume": "2010",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 17,
+   "series": "Siege",
+   "issue": "2",
+   "volume": "2010",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 18,
+   "series": "Avengers: The Initiative",
+   "issue": "33",
+   "volume": "2007",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 19,
+   "series": "Thor",
+   "issue": "607",
+   "volume": "2007",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 20,
+   "series": "The Mighty Avengers",
+   "issue": "35",
+   "volume": "2007",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 21,
+   "series": "The Mighty Avengers",
+   "issue": "36",
+   "volume": "2007",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 22,
+   "series": "Thunderbolts",
+   "issue": "141",
+   "volume": "2006",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 23,
+   "series": "Siege",
+   "issue": "3",
+   "volume": "2010",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 24,
+   "series": "Siege: Embedded",
+   "issue": "3",
+   "volume": "2010",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 25,
+   "series": "Thor",
+   "issue": "608",
+   "volume": "2007",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 26,
+   "series": "Thunderbolts",
+   "issue": "142",
+   "volume": "2006",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 27,
+   "series": "Avengers: The Initiative",
+   "issue": "34",
+   "volume": "2007",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 28,
+   "series": "New Avengers",
+   "issue": "63",
+   "volume": "2004",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 29,
+   "series": "Siege: Captain America",
+   "issue": "1",
+   "volume": "2010",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 30,
+   "series": "Siege: Spider-Man",
+   "issue": "1",
+   "volume": "2010",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 31,
+   "series": "Siege: Loki",
+   "issue": "1",
+   "volume": "2010",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 32,
+   "series": "Siege: Young Avengers",
+   "issue": "1",
+   "volume": "2010",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 33,
+   "series": "Siege: Secret Warriors",
+   "issue": "1",
+   "volume": "2010",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 34,
+   "series": "New Mutants",
+   "issue": "11",
+   "volume": "2009",
+   "year": "2010",
+   "owned": true
+  },
+  {
+   "order": 35,
+   "series": "Siege",
+   "issue": "4",
+   "volume": "2010",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 36,
+   "series": "Thor",
+   "issue": "609",
+   "volume": "2007",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 37,
+   "series": "Siege: Embedded",
+   "issue": "4",
+   "volume": "2010",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 38,
+   "series": "New Avengers",
+   "issue": "64",
+   "volume": "2004",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 39,
+   "series": "New Avengers Finale",
+   "issue": "1",
+   "volume": "2010",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 40,
+   "series": "Avengers: The Initiative",
+   "issue": "35",
+   "volume": "2007",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 41,
+   "series": "Dark Avengers",
+   "issue": "16",
+   "volume": "2009",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 42,
+   "series": "Thunderbolts",
+   "issue": "143",
+   "volume": "2006",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 43,
+   "series": "Thor",
+   "issue": "610",
+   "volume": "2007",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 44,
+   "series": "Sentry: Fallen Sun",
+   "issue": "1",
+   "volume": "2010",
+   "year": "2010",
+   "owned": false
+  }
+ ]
+}

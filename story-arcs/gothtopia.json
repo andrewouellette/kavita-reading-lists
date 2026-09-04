@@ -1,0 +1,88 @@
+{
+ "arc": "Gothtopia",
+ "slug": "gothtopia",
+ "issue_count": 10,
+ "owned_count": 3,
+ "entries": [
+  {
+   "order": 1,
+   "series": "Detective Comics",
+   "issue": "27",
+   "volume": "2011",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 2,
+   "series": "Batwing",
+   "issue": "27",
+   "volume": "2011",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 3,
+   "series": "Batgirl",
+   "issue": "27",
+   "volume": "2011",
+   "year": "2014",
+   "owned": true
+  },
+  {
+   "order": 4,
+   "series": "Birds of Prey",
+   "issue": "27",
+   "volume": "2011",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 5,
+   "series": "Catwoman",
+   "issue": "27",
+   "volume": "2011",
+   "year": "2014",
+   "owned": true
+  },
+  {
+   "order": 6,
+   "series": "Detective Comics",
+   "issue": "28",
+   "volume": "2011",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 7,
+   "series": "Batwing",
+   "issue": "28",
+   "volume": "2011",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 8,
+   "series": "Birds of Prey",
+   "issue": "28",
+   "volume": "2011",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 9,
+   "series": "Catwoman",
+   "issue": "28",
+   "volume": "2011",
+   "year": "2014",
+   "owned": true
+  },
+  {
+   "order": 10,
+   "series": "Detective Comics",
+   "issue": "29",
+   "volume": "2011",
+   "year": "2014",
+   "owned": false
+  }
+ ]
+}

@@ -1,0 +1,120 @@
+{
+ "arc": "Hellfire Gala",
+ "slug": "hellfire-gala",
+ "issue_count": 14,
+ "owned_count": 14,
+ "entries": [
+  {
+   "order": 1,
+   "series": "Marauders",
+   "issue": "21",
+   "volume": "2019",
+   "year": "2021",
+   "owned": true
+  },
+  {
+   "order": 2,
+   "series": "X-Force",
+   "issue": "20",
+   "volume": "2020",
+   "year": "2021",
+   "owned": true
+  },
+  {
+   "order": 3,
+   "series": "Hellions",
+   "issue": "12",
+   "volume": "2020",
+   "year": "2021",
+   "owned": true
+  },
+  {
+   "order": 4,
+   "series": "Excalibur",
+   "issue": "21",
+   "volume": "2019",
+   "year": "2021",
+   "owned": true
+  },
+  {
+   "order": 5,
+   "series": "X-Men",
+   "issue": "21",
+   "volume": "2019",
+   "year": "2021",
+   "owned": true
+  },
+  {
+   "order": 6,
+   "series": "Children of the Atom",
+   "issue": "4",
+   "volume": "2021",
+   "year": "2021",
+   "owned": true
+  },
+  {
+   "order": 7,
+   "series": "Planet-Size X-Men",
+   "issue": "1",
+   "volume": "2021",
+   "year": "2021",
+   "owned": true
+  },
+  {
+   "order": 8,
+   "series": "New Mutants",
+   "issue": "19",
+   "volume": "2020",
+   "year": "2021",
+   "owned": true
+  },
+  {
+   "order": 9,
+   "series": "X-Corp",
+   "issue": "2",
+   "volume": "2021",
+   "year": "2021",
+   "owned": true
+  },
+  {
+   "order": 10,
+   "series": "Wolverine",
+   "issue": "13",
+   "volume": "2020",
+   "year": "2021",
+   "owned": true
+  },
+  {
+   "order": 11,
+   "series": "S.W.O.R.D.",
+   "issue": "6",
+   "volume": "2020",
+   "year": "2021",
+   "owned": true
+  },
+  {
+   "order": 12,
+   "series": "Way of X",
+   "issue": "3",
+   "volume": "2021",
+   "year": "2021",
+   "owned": true
+  },
+  {
+   "order": 13,
+   "series": "X-Factor",
+   "issue": "10",
+   "volume": "2020",
+   "year": "2021",
+   "owned": true
+  },
+  {
+   "order": 14,
+   "series": "Cable",
+   "issue": "11",
+   "volume": "2020",
+   "year": "2021",
+   "owned": true
+  }
+ ]
+}

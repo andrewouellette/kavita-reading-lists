@@ -1,0 +1,72 @@
+{
+ "arc": "Revolutionary War",
+ "slug": "revolutionary-war",
+ "issue_count": 8,
+ "owned_count": 0,
+ "entries": [
+  {
+   "order": 1,
+   "series": "Revolutionary War: Alpha",
+   "issue": "1",
+   "volume": "2014",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 2,
+   "series": "Revolutionary War: Dark Angel",
+   "issue": "1",
+   "volume": "2014",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 3,
+   "series": "Revolutionary War: Knights of Pendragon",
+   "issue": "1",
+   "volume": "2014",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 4,
+   "series": "Revolutionary War: Death's Head II",
+   "issue": "1",
+   "volume": "2014",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 5,
+   "series": "Revolutionary War: SuperSoldiers",
+   "issue": "1",
+   "volume": "2014",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 6,
+   "series": "Revolutionary War: Motormouth",
+   "issue": "1",
+   "volume": "2014",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 7,
+   "series": "Revolutionary War: Warheads",
+   "issue": "1",
+   "volume": "2014",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 8,
+   "series": "Revolutionary War: Omega",
+   "issue": "1",
+   "volume": "2014",
+   "year": "2014",
+   "owned": false
+  }
+ ]
+}

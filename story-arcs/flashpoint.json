@@ -1,0 +1,536 @@
+{
+ "arc": "Flashpoint",
+ "slug": "flashpoint",
+ "issue_count": 66,
+ "owned_count": 5,
+ "entries": [
+  {
+   "order": 1,
+   "series": "The Flash",
+   "issue": "8",
+   "volume": "2010",
+   "year": "2011",
+   "owned": true
+  },
+  {
+   "order": 2,
+   "series": "The Flash",
+   "issue": "9",
+   "volume": "2010",
+   "year": "2011",
+   "owned": true
+  },
+  {
+   "order": 3,
+   "series": "The Flash",
+   "issue": "10",
+   "volume": "2010",
+   "year": "2011",
+   "owned": true
+  },
+  {
+   "order": 4,
+   "series": "The Flash",
+   "issue": "11",
+   "volume": "2010",
+   "year": "2011",
+   "owned": true
+  },
+  {
+   "order": 5,
+   "series": "The Flash",
+   "issue": "12",
+   "volume": "2010",
+   "year": "2011",
+   "owned": true
+  },
+  {
+   "order": 6,
+   "series": "Flashpoint: Reverse Flash",
+   "issue": "1",
+   "volume": "2011",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 7,
+   "series": "Flashpoint: Project Superman",
+   "issue": "1",
+   "volume": "2011",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 8,
+   "series": "Flashpoint: Project Superman",
+   "issue": "2",
+   "volume": "2011",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 9,
+   "series": "Flashpoint: Wonder Woman and the Furies",
+   "issue": "1",
+   "volume": "2011",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 10,
+   "series": "Flashpoint: Green Arrow Industries",
+   "issue": "1",
+   "volume": "2011",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 11,
+   "series": "Flashpoint: Wonder Woman and the Furies",
+   "issue": "2",
+   "volume": "2011",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 12,
+   "series": "Flashpoint: Lois Lane and the Resistance",
+   "issue": "1",
+   "volume": "2011",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 13,
+   "series": "Flashpoint: The Canterbury Cricket",
+   "issue": "1",
+   "volume": "2011",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 14,
+   "series": "Flashpoint: Deadman and the Flying Graysons",
+   "issue": "1",
+   "volume": "2011",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 15,
+   "series": "Flashpoint: Deadman and the Flying Graysons",
+   "issue": "2",
+   "volume": "2011",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 16,
+   "series": "Flashpoint: Deadman and the Flying Graysons",
+   "issue": "3",
+   "volume": "2011",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 17,
+   "series": "Flashpoint: Grodd of War",
+   "issue": "1",
+   "volume": "2011",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 18,
+   "series": "Flashpoint: The Legion of Doom",
+   "issue": "1",
+   "volume": "2011",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 19,
+   "series": "Flashpoint: The Legion of Doom",
+   "issue": "2",
+   "volume": "2011",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 20,
+   "series": "Flashpoint: The Legion of Doom",
+   "issue": "3",
+   "volume": "2011",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 21,
+   "series": "Flashpoint: Abin Sur - The Green Lantern",
+   "issue": "1",
+   "volume": "2011",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 22,
+   "series": "Flashpoint: Hal Jordan",
+   "issue": "1",
+   "volume": "2011",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 23,
+   "series": "Flashpoint: Abin Sur - The Green Lantern",
+   "issue": "2",
+   "volume": "2011",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 24,
+   "series": "Flashpoint: Hal Jordan",
+   "issue": "2",
+   "volume": "2011",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 25,
+   "series": "Flashpoint",
+   "issue": "1",
+   "volume": "2011",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 26,
+   "series": "Flashpoint: The Outsider",
+   "issue": "1",
+   "volume": "2011",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 27,
+   "series": "Flashpoint: Secret Seven",
+   "issue": "1",
+   "volume": "2011",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 28,
+   "series": "Flashpoint: Citizen Cold",
+   "issue": "1",
+   "volume": "2011",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 29,
+   "series": "Flashpoint: Secret Seven",
+   "issue": "2",
+   "volume": "2011",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 30,
+   "series": "Flashpoint: Secret Seven",
+   "issue": "3",
+   "volume": "2011",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 31,
+   "series": "Flashpoint: Citizen Cold",
+   "issue": "2",
+   "volume": "2011",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 32,
+   "series": "Flashpoint: Citizen Cold",
+   "issue": "3",
+   "volume": "2011",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 33,
+   "series": "Flashpoint: Deathstroke and the Curse of the Ravager",
+   "issue": "1",
+   "volume": "2011",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 34,
+   "series": "Flashpoint",
+   "issue": "2",
+   "volume": "2011",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 35,
+   "series": "Flashpoint: Deathstroke and the Curse of the Ravager",
+   "issue": "2",
+   "volume": "2011",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 36,
+   "series": "Flashpoint: The Outsider",
+   "issue": "2",
+   "volume": "2011",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 37,
+   "series": "Flashpoint: Batman Knight of Vengeance",
+   "issue": "1",
+   "volume": "2011",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 38,
+   "series": "Flashpoint: Batman Knight of Vengeance",
+   "issue": "2",
+   "volume": "2011",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 39,
+   "series": "Flashpoint: Batman Knight of Vengeance",
+   "issue": "3",
+   "volume": "2011",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 40,
+   "series": "Flashpoint: Deathstroke and the Curse of the Ravager",
+   "issue": "3",
+   "volume": "2011",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 41,
+   "series": "Flashpoint",
+   "issue": "3",
+   "volume": "2011",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 42,
+   "series": "Flashpoint: Lois Lane and the Resistance",
+   "issue": "2",
+   "volume": "2011",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 43,
+   "series": "Booster Gold",
+   "issue": "44",
+   "volume": "2007",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 44,
+   "series": "Booster Gold",
+   "issue": "45",
+   "volume": "2007",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 45,
+   "series": "Booster Gold",
+   "issue": "46",
+   "volume": "2007",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 46,
+   "series": "Flashpoint: Frankenstein and the Creatures of the Unknown",
+   "issue": "1",
+   "volume": "2011",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 47,
+   "series": "Flashpoint: Frankenstein and the Creatures of the Unknown",
+   "issue": "2",
+   "volume": "2011",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 48,
+   "series": "Flashpoint: Frankenstein and the Creatures of the Unknown",
+   "issue": "3",
+   "volume": "2011",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 49,
+   "series": "Flashpoint: The Outsider",
+   "issue": "3",
+   "volume": "2011",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 50,
+   "series": "Flashpoint: The World of Flashpoint",
+   "issue": "1",
+   "volume": "2011",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 51,
+   "series": "Flashpoint: The World of Flashpoint",
+   "issue": "2",
+   "volume": "2011",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 52,
+   "series": "Flashpoint: Hal Jordan",
+   "issue": "3",
+   "volume": "2011",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 53,
+   "series": "Flashpoint: Emperor Aquaman",
+   "issue": "1",
+   "volume": "2011",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 54,
+   "series": "Flashpoint: Emperor Aquaman",
+   "issue": "2",
+   "volume": "2011",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 55,
+   "series": "Flashpoint: Wonder Woman and the Furies",
+   "issue": "3",
+   "volume": "2011",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 56,
+   "series": "Flashpoint: Emperor Aquaman",
+   "issue": "3",
+   "volume": "2011",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 57,
+   "series": "Flashpoint: Abin Sur - The Green Lantern",
+   "issue": "3",
+   "volume": "2011",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 58,
+   "series": "Flashpoint",
+   "issue": "4",
+   "volume": "2011",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 59,
+   "series": "Booster Gold",
+   "issue": "47",
+   "volume": "2007",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 60,
+   "series": "Flashpoint: The World of Flashpoint",
+   "issue": "3",
+   "volume": "2011",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 61,
+   "series": "Flashpoint: Lois Lane and the Resistance",
+   "issue": "3",
+   "volume": "2011",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 62,
+   "series": "Flashpoint: Project Superman",
+   "issue": "3",
+   "volume": "2011",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 63,
+   "series": "Flashpoint: Kid Flash Lost",
+   "issue": "1",
+   "volume": "2011",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 64,
+   "series": "Flashpoint: Kid Flash Lost",
+   "issue": "2",
+   "volume": "2011",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 65,
+   "series": "Flashpoint: Kid Flash Lost",
+   "issue": "3",
+   "volume": "2011",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 66,
+   "series": "Flashpoint",
+   "issue": "5",
+   "volume": "2011",
+   "year": "2011",
+   "owned": false
+  }
+ ]
+}

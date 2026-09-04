@@ -1,0 +1,176 @@
+{
+ "arc": "Inhumanity",
+ "slug": "inhumanity",
+ "issue_count": 21,
+ "owned_count": 2,
+ "entries": [
+  {
+   "order": 1,
+   "series": "Inhumanity",
+   "issue": "1",
+   "volume": "2013",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 2,
+   "series": "Inhumanity: The Awakening",
+   "issue": "1",
+   "volume": "2013",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 3,
+   "series": "Inhumanity: The Awakening",
+   "issue": "2",
+   "volume": "2013",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 4,
+   "series": "Uncanny X-Men",
+   "issue": "15",
+   "volume": "2013",
+   "year": "2014",
+   "owned": true
+  },
+  {
+   "order": 5,
+   "series": "Inhumanity",
+   "issue": "2",
+   "volume": "2013",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 6,
+   "series": "Avengers Assemble",
+   "issue": "21",
+   "volume": "2012",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 7,
+   "series": "Avengers Assemble",
+   "issue": "22",
+   "volume": "2012",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 8,
+   "series": "Avengers A.I.",
+   "issue": "7",
+   "volume": "2013",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 9,
+   "series": "Inhumanity: Superior Spider-Man",
+   "issue": "1",
+   "volume": "2014",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 10,
+   "series": "Avengers Assemble",
+   "issue": "23",
+   "volume": "2012",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 11,
+   "series": "Mighty Avengers",
+   "issue": "4",
+   "volume": "2013",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 12,
+   "series": "Mighty Avengers",
+   "issue": "5",
+   "volume": "2013",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 13,
+   "series": "Avengers Assemble",
+   "issue": "24",
+   "volume": "2012",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 14,
+   "series": "Avengers Assemble",
+   "issue": "25",
+   "volume": "2012",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 15,
+   "series": "Iron Man",
+   "issue": "20",
+   "volume": "2013",
+   "year": "2014",
+   "owned": true
+  },
+  {
+   "order": 16,
+   "series": "Indestructible Hulk",
+   "issue": "16",
+   "volume": "2012",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 17,
+   "series": "Indestructible Hulk",
+   "issue": "17",
+   "volume": "2012",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 18,
+   "series": "Indestructible Hulk",
+   "issue": "18",
+   "volume": "2012",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 19,
+   "series": "Indestructible Hulk",
+   "issue": "19",
+   "volume": "2012",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 20,
+   "series": "Indestructible Hulk",
+   "issue": "20",
+   "volume": "2012",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 21,
+   "series": "New Avengers",
+   "issue": "13",
+   "volume": "2013",
+   "year": "2014",
+   "owned": false
+  }
+ ]
+}

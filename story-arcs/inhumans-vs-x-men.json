@@ -1,0 +1,200 @@
+{
+ "arc": "Inhumans vs. X-Men",
+ "slug": "inhumans-vs-x-men",
+ "issue_count": 24,
+ "owned_count": 5,
+ "entries": [
+  {
+   "order": 1,
+   "series": "Death of X",
+   "issue": "1",
+   "volume": "2016",
+   "year": "2016",
+   "owned": false
+  },
+  {
+   "order": 2,
+   "series": "Death of X",
+   "issue": "2",
+   "volume": "2016",
+   "year": "2016",
+   "owned": false
+  },
+  {
+   "order": 3,
+   "series": "Death of X",
+   "issue": "3",
+   "volume": "2016",
+   "year": "2017",
+   "owned": false
+  },
+  {
+   "order": 4,
+   "series": "Death of X",
+   "issue": "4",
+   "volume": "2016",
+   "year": "2017",
+   "owned": false
+  },
+  {
+   "order": 5,
+   "series": "IvX",
+   "issue": "0",
+   "volume": "2016",
+   "year": "2017",
+   "owned": false
+  },
+  {
+   "order": 6,
+   "series": "IvX",
+   "issue": "1",
+   "volume": "2016",
+   "year": "2017",
+   "owned": false
+  },
+  {
+   "order": 7,
+   "series": "Uncanny X-Men",
+   "issue": "16",
+   "volume": "2016",
+   "year": "2017",
+   "owned": true
+  },
+  {
+   "order": 8,
+   "series": "Extraordinary X-Men",
+   "issue": "17",
+   "volume": "2015",
+   "year": "2017",
+   "owned": false
+  },
+  {
+   "order": 9,
+   "series": "IvX",
+   "issue": "2",
+   "volume": "2016",
+   "year": "2017",
+   "owned": false
+  },
+  {
+   "order": 10,
+   "series": "Uncanny X-Men",
+   "issue": "17",
+   "volume": "2016",
+   "year": "2017",
+   "owned": true
+  },
+  {
+   "order": 11,
+   "series": "Uncanny Inhumans",
+   "issue": "18",
+   "volume": "2015",
+   "year": "2017",
+   "owned": false
+  },
+  {
+   "order": 12,
+   "series": "Deadpool & The Mercs For Money",
+   "issue": "7",
+   "volume": "2016",
+   "year": "2017",
+   "owned": false
+  },
+  {
+   "order": 13,
+   "series": "All-New X-Men",
+   "issue": "17",
+   "volume": "2015",
+   "year": "2017",
+   "owned": true
+  },
+  {
+   "order": 14,
+   "series": "Extraordinary X-Men",
+   "issue": "18",
+   "volume": "2015",
+   "year": "2017",
+   "owned": false
+  },
+  {
+   "order": 15,
+   "series": "IvX",
+   "issue": "3",
+   "volume": "2016",
+   "year": "2017",
+   "owned": false
+  },
+  {
+   "order": 16,
+   "series": "Deadpool & The Mercs For Money",
+   "issue": "8",
+   "volume": "2016",
+   "year": "2017",
+   "owned": false
+  },
+  {
+   "order": 17,
+   "series": "All-New X-Men",
+   "issue": "18",
+   "volume": "2015",
+   "year": "2017",
+   "owned": true
+  },
+  {
+   "order": 18,
+   "series": "IvX",
+   "issue": "4",
+   "volume": "2016",
+   "year": "2017",
+   "owned": false
+  },
+  {
+   "order": 19,
+   "series": "Uncanny Inhumans",
+   "issue": "19",
+   "volume": "2015",
+   "year": "2017",
+   "owned": false
+  },
+  {
+   "order": 20,
+   "series": "Uncanny X-Men",
+   "issue": "18",
+   "volume": "2016",
+   "year": "2017",
+   "owned": true
+  },
+  {
+   "order": 21,
+   "series": "IvX",
+   "issue": "5",
+   "volume": "2016",
+   "year": "2017",
+   "owned": false
+  },
+  {
+   "order": 22,
+   "series": "Extraordinary X-Men",
+   "issue": "19",
+   "volume": "2015",
+   "year": "2017",
+   "owned": false
+  },
+  {
+   "order": 23,
+   "series": "IvX",
+   "issue": "6",
+   "volume": "2016",
+   "year": "2017",
+   "owned": false
+  },
+  {
+   "order": 24,
+   "series": "Uncanny Inhumans",
+   "issue": "20",
+   "volume": "2015",
+   "year": "2017",
+   "owned": false
+  }
+ ]
+}

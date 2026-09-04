@@ -1,0 +1,96 @@
+{
+ "arc": "Event Leviathan",
+ "slug": "event-leviathan",
+ "issue_count": 11,
+ "owned_count": 11,
+ "entries": [
+  {
+   "order": 1,
+   "series": "Event Leviathan",
+   "issue": "1",
+   "volume": "2019",
+   "year": "2019",
+   "owned": true
+  },
+  {
+   "order": 2,
+   "series": "Event Leviathan",
+   "issue": "2",
+   "volume": "2019",
+   "year": "2019",
+   "owned": true
+  },
+  {
+   "order": 3,
+   "series": "Action Comics",
+   "issue": "1013",
+   "volume": "2016",
+   "year": "2019",
+   "owned": true
+  },
+  {
+   "order": 4,
+   "series": "Event Leviathan",
+   "issue": "3",
+   "volume": "2019",
+   "year": "2019",
+   "owned": true
+  },
+  {
+   "order": 5,
+   "series": "Action Comics",
+   "issue": "1014",
+   "volume": "2016",
+   "year": "2019",
+   "owned": true
+  },
+  {
+   "order": 6,
+   "series": "Event Leviathan",
+   "issue": "4",
+   "volume": "2019",
+   "year": "2019",
+   "owned": true
+  },
+  {
+   "order": 7,
+   "series": "Supergirl",
+   "issue": "34",
+   "volume": "2016",
+   "year": "2019",
+   "owned": true
+  },
+  {
+   "order": 8,
+   "series": "Supergirl",
+   "issue": "35",
+   "volume": "2016",
+   "year": "2019",
+   "owned": true
+  },
+  {
+   "order": 9,
+   "series": "Event Leviathan",
+   "issue": "5",
+   "volume": "2019",
+   "year": "2019",
+   "owned": true
+  },
+  {
+   "order": 10,
+   "series": "Wonder Woman Annual",
+   "issue": "3",
+   "volume": "2016",
+   "year": "2019",
+   "owned": true
+  },
+  {
+   "order": 11,
+   "series": "Event Leviathan",
+   "issue": "6",
+   "volume": "2019",
+   "year": "2020",
+   "owned": true
+  }
+ ]
+}

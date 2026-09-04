@@ -1,0 +1,136 @@
+{
+ "arc": "Spider-Man Beyond",
+ "slug": "spider-man-beyond",
+ "issue_count": 16,
+ "owned_count": 12,
+ "entries": [
+  {
+   "order": 1,
+   "series": "The Amazing Spider-Man",
+   "issue": "80.BEY",
+   "volume": "2018",
+   "year": "2022",
+   "owned": true
+  },
+  {
+   "order": 2,
+   "series": "The Amazing Spider-Man",
+   "issue": "82",
+   "volume": "2018",
+   "year": "2022",
+   "owned": true
+  },
+  {
+   "order": 3,
+   "series": "The Amazing Spider-Man",
+   "issue": "83",
+   "volume": "2018",
+   "year": "2022",
+   "owned": true
+  },
+  {
+   "order": 4,
+   "series": "The Amazing Spider-Man",
+   "issue": "84",
+   "volume": "2018",
+   "year": "2022",
+   "owned": true
+  },
+  {
+   "order": 5,
+   "series": "The Amazing Spider-Man",
+   "issue": "85",
+   "volume": "2018",
+   "year": "2022",
+   "owned": true
+  },
+  {
+   "order": 6,
+   "series": "The Amazing Spider-Man",
+   "issue": "86",
+   "volume": "2018",
+   "year": "2022",
+   "owned": false
+  },
+  {
+   "order": 7,
+   "series": "The Amazing Spider-Man",
+   "issue": "88.BEY",
+   "volume": "2018",
+   "year": "2022",
+   "owned": true
+  },
+  {
+   "order": 8,
+   "series": "Mary Jane & Black Cat: Beyond",
+   "issue": "1",
+   "volume": "2022",
+   "year": "2022",
+   "owned": true
+  },
+  {
+   "order": 9,
+   "series": "The Amazing Spider-Man",
+   "issue": "87",
+   "volume": "2018",
+   "year": "2022",
+   "owned": false
+  },
+  {
+   "order": 10,
+   "series": "The Amazing Spider-Man",
+   "issue": "88",
+   "volume": "2018",
+   "year": "2022",
+   "owned": false
+  },
+  {
+   "order": 11,
+   "series": "The Amazing Spider-Man",
+   "issue": "89",
+   "volume": "2018",
+   "year": "2022",
+   "owned": false
+  },
+  {
+   "order": 12,
+   "series": "The Amazing Spider-Man",
+   "issue": "90",
+   "volume": "2018",
+   "year": "2022",
+   "owned": true
+  },
+  {
+   "order": 13,
+   "series": "The Amazing Spider-Man",
+   "issue": "91",
+   "volume": "2018",
+   "year": "2022",
+   "owned": true
+  },
+  {
+   "order": 14,
+   "series": "The Amazing Spider-Man",
+   "issue": "92",
+   "volume": "2018",
+   "year": "2022",
+   "owned": true
+  },
+  {
+   "order": 15,
+   "series": "The Amazing Spider-Man",
+   "issue": "92.BEY",
+   "volume": "2018",
+   "year": "2022",
+   "owned": true
+  },
+  {
+   "order": 16,
+   "series": "The Amazing Spider-Man",
+   "issue": "93",
+   "volume": "2018",
+   "year": "2022",
+   "owned": true
+  }
+ ]
+}

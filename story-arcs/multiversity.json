@@ -1,0 +1,80 @@
+{
+ "arc": "Multiversity",
+ "slug": "multiversity",
+ "issue_count": 9,
+ "owned_count": 0,
+ "entries": [
+  {
+   "order": 1,
+   "series": "The Multiversity",
+   "issue": "1",
+   "volume": "2014",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 2,
+   "series": "The Multiversity: The Society of Super-Heroes: The Conquerors of the Counter-World",
+   "issue": "1",
+   "volume": "2014",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 3,
+   "series": "The Multiversity: The Just",
+   "issue": "1",
+   "volume": "2014",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 4,
+   "series": "The Multiversity: Pax Americana",
+   "issue": "1",
+   "volume": "2014",
+   "year": "2015",
+   "owned": false
+  },
+  {
+   "order": 5,
+   "series": "The Multiversity: Thunderworld Adventures",
+   "issue": "1",
+   "volume": "2014",
+   "year": "2015",
+   "owned": false
+  },
+  {
+   "order": 6,
+   "series": "The Multiversity: Guidebook",
+   "issue": "1",
+   "volume": "2015",
+   "year": "2015",
+   "owned": false
+  },
+  {
+   "order": 7,
+   "series": "The Multiversity: Mastermen",
+   "issue": "1",
+   "volume": "2015",
+   "year": "2015",
+   "owned": false
+  },
+  {
+   "order": 8,
+   "series": "The Multiversity: Ultra Comics",
+   "issue": "1",
+   "volume": "2015",
+   "year": "2015",
+   "owned": false
+  },
+  {
+   "order": 9,
+   "series": "The Multiversity",
+   "issue": "2",
+   "volume": "2014",
+   "year": "2015",
+   "owned": false
+  }
+ ]
+}

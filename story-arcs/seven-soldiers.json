@@ -1,0 +1,248 @@
+{
+ "arc": "Seven Soldiers",
+ "slug": "seven-soldiers",
+ "issue_count": 30,
+ "owned_count": 0,
+ "entries": [
+  {
+   "order": 1,
+   "series": "Seven Soldiers",
+   "issue": "0",
+   "volume": "2005",
+   "year": "2005",
+   "owned": false
+  },
+  {
+   "order": 2,
+   "series": "Seven Soldiers: Bulleteer",
+   "issue": "1",
+   "volume": "2005",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 3,
+   "series": "Seven Soldiers: Bulleteer",
+   "issue": "2",
+   "volume": "2005",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 4,
+   "series": "Seven Soldiers: Bulleteer",
+   "issue": "3",
+   "volume": "2005",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 5,
+   "series": "Seven Soldiers: Bulleteer",
+   "issue": "4",
+   "volume": "2005",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 6,
+   "series": "Seven Soldiers: Frankenstein",
+   "issue": "1",
+   "volume": "2005",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 7,
+   "series": "Seven Soldiers: Frankenstein",
+   "issue": "2",
+   "volume": "2005",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 8,
+   "series": "Seven Soldiers: Frankenstein",
+   "issue": "3",
+   "volume": "2005",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 9,
+   "series": "Seven Soldiers: Frankenstein",
+   "issue": "4",
+   "volume": "2005",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 10,
+   "series": "Seven Soldiers: Guardian",
+   "issue": "1",
+   "volume": "2005",
+   "year": "2005",
+   "owned": false
+  },
+  {
+   "order": 11,
+   "series": "Seven Soldiers: Guardian",
+   "issue": "2",
+   "volume": "2005",
+   "year": "2005",
+   "owned": false
+  },
+  {
+   "order": 12,
+   "series": "Seven Soldiers: Guardian",
+   "issue": "3",
+   "volume": "2005",
+   "year": "2005",
+   "owned": false
+  },
+  {
+   "order": 13,
+   "series": "Seven Soldiers: Guardian",
+   "issue": "4",
+   "volume": "2005",
+   "year": "2005",
+   "owned": false
+  },
+  {
+   "order": 14,
+   "series": "Seven Soldiers: Klarion the Witch Boy",
+   "issue": "1",
+   "volume": "2005",
+   "year": "2005",
+   "owned": false
+  },
+  {
+   "order": 15,
+   "series": "Seven Soldiers: Klarion the Witch Boy",
+   "issue": "2",
+   "volume": "2005",
+   "year": "2005",
+   "owned": false
+  },
+  {
+   "order": 16,
+   "series": "Seven Soldiers: Klarion the Witch Boy",
+   "issue": "3",
+   "volume": "2005",
+   "year": "2005",
+   "owned": false
+  },
+  {
+   "order": 17,
+   "series": "Seven Soldiers: Klarion the Witch Boy",
+   "issue": "4",
+   "volume": "2005",
+   "year": "2005",
+   "owned": false
+  },
+  {
+   "order": 18,
+   "series": "Seven Soldiers: Mister Miracle",
+   "issue": "1",
+   "volume": "2005",
+   "year": "2005",
+   "owned": false
+  },
+  {
+   "order": 19,
+   "series": "Seven Soldiers: Mister Miracle",
+   "issue": "2",
+   "volume": "2005",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 20,
+   "series": "Seven Soldiers: Mister Miracle",
+   "issue": "3",
+   "volume": "2005",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 21,
+   "series": "Seven Soldiers: Mister Miracle",
+   "issue": "4",
+   "volume": "2005",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 22,
+   "series": "Seven Soldiers: Shining Knight",
+   "issue": "1",
+   "volume": "2005",
+   "year": "2005",
+   "owned": false
+  },
+  {
+   "order": 23,
+   "series": "Seven Soldiers: Shining Knight",
+   "issue": "2",
+   "volume": "2005",
+   "year": "2005",
+   "owned": false
+  },
+  {
+   "order": 24,
+   "series": "Seven Soldiers: Shining Knight",
+   "issue": "3",
+   "volume": "2005",
+   "year": "2005",
+   "owned": false
+  },
+  {
+   "order": 25,
+   "series": "Seven Soldiers: Shining Knight",
+   "issue": "4",
+   "volume": "2005",
+   "year": "2005",
+   "owned": false
+  },
+  {
+   "order": 26,
+   "series": "Seven Soldiers: Zatanna",
+   "issue": "1",
+   "volume": "2005",
+   "year": "2005",
+   "owned": false
+  },
+  {
+   "order": 27,
+   "series": "Seven Soldiers: Zatanna",
+   "issue": "2",
+   "volume": "2005",
+   "year": "2005",
+   "owned": false
+  },
+  {
+   "order": 28,
+   "series": "Seven Soldiers: Zatanna",
+   "issue": "3",
+   "volume": "2005",
+   "year": "2005",
+   "owned": false
+  },
+  {
+   "order": 29,
+   "series": "Seven Soldiers: Zatanna",
+   "issue": "4",
+   "volume": "2005",
+   "year": "2005",
+   "owned": false
+  },
+  {
+   "order": 30,
+   "series": "Seven Soldiers",
+   "issue": "1",
+   "volume": "2005",
+   "year": "2006",
+   "owned": false
+  }
+ ]
+}

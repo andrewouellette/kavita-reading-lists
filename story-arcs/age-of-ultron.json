@@ -1,0 +1,160 @@
+{
+ "arc": "Age of Ultron",
+ "slug": "age-of-ultron",
+ "issue_count": 19,
+ "owned_count": 0,
+ "entries": [
+  {
+   "order": 1,
+   "series": "Avengers Assemble",
+   "issue": "14AU",
+   "volume": "2012",
+   "year": "2013",
+   "owned": false
+  },
+  {
+   "order": 2,
+   "series": "Avengers Assemble",
+   "issue": "15AU",
+   "volume": "2012",
+   "year": "2013",
+   "owned": false
+  },
+  {
+   "order": 3,
+   "series": "Fantastic Four",
+   "issue": "5AU",
+   "volume": "2013",
+   "year": "2013",
+   "owned": false
+  },
+  {
+   "order": 4,
+   "series": "Age of Ultron",
+   "issue": "1",
+   "volume": "2013",
+   "year": "2013",
+   "owned": false
+  },
+  {
+   "order": 5,
+   "series": "Age of Ultron",
+   "issue": "2",
+   "volume": "2013",
+   "year": "2013",
+   "owned": false
+  },
+  {
+   "order": 6,
+   "series": "Superior Spider-Man",
+   "issue": "6AU",
+   "volume": "2013",
+   "year": "2013",
+   "owned": false
+  },
+  {
+   "order": 7,
+   "series": "Age of Ultron",
+   "issue": "3",
+   "volume": "2013",
+   "year": "2013",
+   "owned": false
+  },
+  {
+   "order": 8,
+   "series": "Age of Ultron",
+   "issue": "4",
+   "volume": "2013",
+   "year": "2013",
+   "owned": false
+  },
+  {
+   "order": 9,
+   "series": "Ultron",
+   "issue": "1AU",
+   "volume": "2013",
+   "year": "2013",
+   "owned": false
+  },
+  {
+   "order": 10,
+   "series": "Age of Ultron",
+   "issue": "5",
+   "volume": "2013",
+   "year": "2013",
+   "owned": false
+  },
+  {
+   "order": 11,
+   "series": "Wolverine & the X-Men",
+   "issue": "27AU",
+   "volume": "2011",
+   "year": "2013",
+   "owned": false
+  },
+  {
+   "order": 12,
+   "series": "Age of Ultron",
+   "issue": "6",
+   "volume": "2013",
+   "year": "2013",
+   "owned": false
+  },
+  {
+   "order": 13,
+   "series": "Fearless Defenders",
+   "issue": "4AU",
+   "volume": "2013",
+   "year": "2013",
+   "owned": false
+  },
+  {
+   "order": 14,
+   "series": "Uncanny Avengers",
+   "issue": "8AU",
+   "volume": "2012",
+   "year": "2013",
+   "owned": false
+  },
+  {
+   "order": 15,
+   "series": "Age of Ultron",
+   "issue": "7",
+   "volume": "2013",
+   "year": "2013",
+   "owned": false
+  },
+  {
+   "order": 16,
+   "series": "Age of Ultron",
+   "issue": "8",
+   "volume": "2013",
+   "year": "2013",
+   "owned": false
+  },
+  {
+   "order": 17,
+   "series": "Age of Ultron",
+   "issue": "9",
+   "volume": "2013",
+   "year": "2013",
+   "owned": false
+  },
+  {
+   "order": 18,
+   "series": "Age of Ultron",
+   "issue": "10",
+   "volume": "2013",
+   "year": "2013",
+   "owned": false
+  },
+  {
+   "order": 19,
+   "series": "Age of Ultron",
+   "issue": "10AI",
+   "volume": "2013",
+   "year": "2013",
+   "owned": false
+  }
+ ]
+}

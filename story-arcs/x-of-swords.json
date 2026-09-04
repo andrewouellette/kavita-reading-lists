@@ -1,0 +1,288 @@
+{
+ "arc": "X of Swords",
+ "slug": "x-of-swords",
+ "issue_count": 35,
+ "owned_count": 9,
+ "entries": [
+  {
+   "order": 1,
+   "series": "X-Force",
+   "issue": "11",
+   "volume": "2020",
+   "year": "2020",
+   "owned": true
+  },
+  {
+   "order": 2,
+   "series": "Cable",
+   "issue": "4",
+   "volume": "2020",
+   "year": "2020",
+   "owned": false
+  },
+  {
+   "order": 3,
+   "series": "X-Force",
+   "issue": "12",
+   "volume": "2020",
+   "year": "2020",
+   "owned": false
+  },
+  {
+   "order": 4,
+   "series": "Excalibur",
+   "issue": "12",
+   "volume": "2019",
+   "year": "2020",
+   "owned": false
+  },
+  {
+   "order": 5,
+   "series": "X-Men",
+   "issue": "12",
+   "volume": "2019",
+   "year": "2020",
+   "owned": true
+  },
+  {
+   "order": 6,
+   "series": "X of Swords: Creation",
+   "issue": "1",
+   "volume": "2020",
+   "year": "2020",
+   "owned": false
+  },
+  {
+   "order": 7,
+   "series": "X-Factor",
+   "issue": "4",
+   "volume": "2020",
+   "year": "2020",
+   "owned": false
+  },
+  {
+   "order": 8,
+   "series": "Wolverine",
+   "issue": "6",
+   "volume": "2020",
+   "year": "2020",
+   "owned": true
+  },
+  {
+   "order": 9,
+   "series": "X-Force",
+   "issue": "13",
+   "volume": "2020",
+   "year": "2020",
+   "owned": false
+  },
+  {
+   "order": 10,
+   "series": "Marauders",
+   "issue": "13",
+   "volume": "2019",
+   "year": "2020",
+   "owned": false
+  },
+  {
+   "order": 11,
+   "series": "Hellions",
+   "issue": "5",
+   "volume": "2020",
+   "year": "2020",
+   "owned": false
+  },
+  {
+   "order": 12,
+   "series": "New Mutants",
+   "issue": "13",
+   "volume": "2020",
+   "year": "2020",
+   "owned": false
+  },
+  {
+   "order": 13,
+   "series": "Cable",
+   "issue": "5",
+   "volume": "2020",
+   "year": "2020",
+   "owned": false
+  },
+  {
+   "order": 14,
+   "series": "Excalibur",
+   "issue": "13",
+   "volume": "2019",
+   "year": "2020",
+   "owned": false
+  },
+  {
+   "order": 15,
+   "series": "X-Men",
+   "issue": "13",
+   "volume": "2019",
+   "year": "2020",
+   "owned": true
+  },
+  {
+   "order": 16,
+   "series": "X of Swords: Stasis",
+   "issue": "1",
+   "volume": "2020",
+   "year": "2020",
+   "owned": false
+  },
+  {
+   "order": 17,
+   "series": "X-Men",
+   "issue": "14",
+   "volume": "2019",
+   "year": "2021",
+   "owned": true
+  },
+  {
+   "order": 18,
+   "series": "Marauders",
+   "issue": "14",
+   "volume": "2019",
+   "year": "2021",
+   "owned": false
+  },
+  {
+   "order": 19,
+   "series": "Marauders",
+   "issue": "15",
+   "volume": "2019",
+   "year": "2021",
+   "owned": false
+  },
+  {
+   "order": 20,
+   "series": "Excalibur",
+   "issue": "14",
+   "volume": "2019",
+   "year": "2021",
+   "owned": false
+  },
+  {
+   "order": 21,
+   "series": "Wolverine",
+   "issue": "7",
+   "volume": "2020",
+   "year": "2021",
+   "owned": true
+  },
+  {
+   "order": 22,
+   "series": "X-Force",
+   "issue": "14",
+   "volume": "2020",
+   "year": "2021",
+   "owned": false
+  },
+  {
+   "order": 23,
+   "series": "Hellions",
+   "issue": "6",
+   "volume": "2020",
+   "year": "2021",
+   "owned": false
+  },
+  {
+   "order": 24,
+   "series": "Cable",
+   "issue": "6",
+   "volume": "2020",
+   "year": "2021",
+   "owned": false
+  },
+  {
+   "order": 25,
+   "series": "X-Men",
+   "issue": "15",
+   "volume": "2019",
+   "year": "2021",
+   "owned": true
+  },
+  {
+   "order": 26,
+   "series": "Excalibur",
+   "issue": "15",
+   "volume": "2019",
+   "year": "2021",
+   "owned": false
+  },
+  {
+   "order": 27,
+   "series": "X of Swords: Destruction",
+   "issue": "1",
+   "volume": "2020",
+   "year": "2021",
+   "owned": false
+  },
+  {
+   "order": 28,
+   "series": "X-Factor",
+   "issue": "5",
+   "volume": "2020",
+   "year": "2021",
+   "owned": false
+  },
+  {
+   "order": 29,
+   "series": "Hellions",
+   "issue": "7",
+   "volume": "2020",
+   "year": "2021",
+   "owned": false
+  },
+  {
+   "order": 30,
+   "series": "Cable",
+   "issue": "7",
+   "volume": "2020",
+   "year": "2021",
+   "owned": true
+  },
+  {
+   "order": 31,
+   "series": "Marauders",
+   "issue": "16",
+   "volume": "2019",
+   "year": "2021",
+   "owned": false
+  },
+  {
+   "order": 32,
+   "series": "New Mutants",
+   "issue": "14",
+   "volume": "2020",
+   "year": "2021",
+   "owned": false
+  },
+  {
+   "order": 33,
+   "series": "X-Force",
+   "issue": "15",
+   "volume": "2020",
+   "year": "2021",
+   "owned": false
+  },
+  {
+   "order": 34,
+   "series": "Excalibur",
+   "issue": "16",
+   "volume": "2019",
+   "year": "2021",
+   "owned": false
+  },
+  {
+   "order": 35,
+   "series": "X-Men",
+   "issue": "16",
+   "volume": "2019",
+   "year": "2021",
+   "owned": true
+  }
+ ]
+}

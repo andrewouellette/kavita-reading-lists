@@ -1,0 +1,608 @@
+{
+ "arc": "Fall of X",
+ "slug": "fall-of-x",
+ "issue_count": 75,
+ "owned_count": 67,
+ "entries": [
+  {
+   "order": 1,
+   "series": "X-Men",
+   "issue": "25",
+   "volume": "2021",
+   "year": "2023",
+   "owned": true
+  },
+  {
+   "order": 2,
+   "series": "Astonishing Iceman",
+   "issue": "1",
+   "volume": "2023",
+   "year": "2023",
+   "owned": true
+  },
+  {
+   "order": 3,
+   "series": "Children of the Vault",
+   "issue": "1",
+   "volume": "2023",
+   "year": "2023",
+   "owned": true
+  },
+  {
+   "order": 4,
+   "series": "Immortal X-Men",
+   "issue": "14",
+   "volume": "2022",
+   "year": "2023",
+   "owned": true
+  },
+  {
+   "order": 5,
+   "series": "Alpha Flight",
+   "issue": "1",
+   "volume": "2023",
+   "year": "2023",
+   "owned": true
+  },
+  {
+   "order": 6,
+   "series": "Dark X-Men",
+   "issue": "1",
+   "volume": "2023",
+   "year": "2023",
+   "owned": true
+  },
+  {
+   "order": 7,
+   "series": "Ghost Rider / Wolverine: Weapons of Vengeance \u2013 Alpha",
+   "issue": "1",
+   "volume": "2023",
+   "year": "2023",
+   "owned": true
+  },
+  {
+   "order": 8,
+   "series": "Ghost Rider",
+   "issue": "17",
+   "volume": "2022",
+   "year": "2023",
+   "owned": true
+  },
+  {
+   "order": 9,
+   "series": "Wolverine",
+   "issue": "36",
+   "volume": "2020",
+   "year": "2023",
+   "owned": true
+  },
+  {
+   "order": 10,
+   "series": "Ghost Rider/Wolverine: Weapons of Vengeance Omega",
+   "issue": "1",
+   "volume": "2023",
+   "year": "2023",
+   "owned": true
+  },
+  {
+   "order": 11,
+   "series": "Uncanny Avengers",
+   "issue": "1",
+   "volume": "2023",
+   "year": "2023",
+   "owned": true
+  },
+  {
+   "order": 12,
+   "series": "X-Men: Red",
+   "issue": "14",
+   "volume": "2022",
+   "year": "2023",
+   "owned": true
+  },
+  {
+   "order": 13,
+   "series": "Jean Grey",
+   "issue": "1",
+   "volume": "2023",
+   "year": "2023",
+   "owned": true
+  },
+  {
+   "order": 14,
+   "series": "Realm of X",
+   "issue": "1",
+   "volume": "2023",
+   "year": "2023",
+   "owned": true
+  },
+  {
+   "order": 15,
+   "series": "The Invincible Iron Man",
+   "issue": "9",
+   "volume": "2022",
+   "year": "2023",
+   "owned": false
+  },
+  {
+   "order": 16,
+   "series": "Ms. Marvel: The New Mutant",
+   "issue": "1",
+   "volume": "2023",
+   "year": "2023",
+   "owned": true
+  },
+  {
+   "order": 17,
+   "series": "Ms. Marvel: The New Mutant",
+   "issue": "2",
+   "volume": "2023",
+   "year": "2023",
+   "owned": false
+  },
+  {
+   "order": 18,
+   "series": "Ms. Marvel: The New Mutant",
+   "issue": "3",
+   "volume": "2023",
+   "year": "2023",
+   "owned": true
+  },
+  {
+   "order": 19,
+   "series": "Ms. Marvel: The New Mutant",
+   "issue": "4",
+   "volume": "2023",
+   "year": "2024",
+   "owned": true
+  },
+  {
+   "order": 20,
+   "series": "X-Force",
+   "issue": "43",
+   "volume": "2020",
+   "year": "2023",
+   "owned": true
+  },
+  {
+   "order": 21,
+   "series": "Immortal X-Men",
+   "issue": "15",
+   "volume": "2022",
+   "year": "2023",
+   "owned": true
+  },
+  {
+   "order": 22,
+   "series": "Uncanny Spider-Man",
+   "issue": "1",
+   "volume": "2023",
+   "year": "2023",
+   "owned": true
+  },
+  {
+   "order": 23,
+   "series": "Astonishing Iceman",
+   "issue": "2",
+   "volume": "2023",
+   "year": "2023",
+   "owned": true
+  },
+  {
+   "order": 24,
+   "series": "Children of the Vault",
+   "issue": "2",
+   "volume": "2023",
+   "year": "2023",
+   "owned": true
+  },
+  {
+   "order": 25,
+   "series": "X-Force",
+   "issue": "44",
+   "volume": "2020",
+   "year": "2023",
+   "owned": true
+  },
+  {
+   "order": 26,
+   "series": "X-Men: Red",
+   "issue": "15",
+   "volume": "2022",
+   "year": "2023",
+   "owned": true
+  },
+  {
+   "order": 27,
+   "series": "Alpha Flight",
+   "issue": "2",
+   "volume": "2023",
+   "year": "2023",
+   "owned": true
+  },
+  {
+   "order": 28,
+   "series": "Dark X-Men",
+   "issue": "2",
+   "volume": "2023",
+   "year": "2023",
+   "owned": true
+  },
+  {
+   "order": 29,
+   "series": "Uncanny Avengers",
+   "issue": "2",
+   "volume": "2023",
+   "year": "2023",
+   "owned": true
+  },
+  {
+   "order": 30,
+   "series": "Wolverine",
+   "issue": "37",
+   "volume": "2020",
+   "year": "2023",
+   "owned": true
+  },
+  {
+   "order": 31,
+   "series": "Realm of X",
+   "issue": "2",
+   "volume": "2023",
+   "year": "2023",
+   "owned": false
+  },
+  {
+   "order": 32,
+   "series": "Jean Grey",
+   "issue": "2",
+   "volume": "2023",
+   "year": "2023",
+   "owned": false
+  },
+  {
+   "order": 33,
+   "series": "X-Men",
+   "issue": "26",
+   "volume": "2021",
+   "year": "2023",
+   "owned": true
+  },
+  {
+   "order": 34,
+   "series": "The Invincible Iron Man",
+   "issue": "10",
+   "volume": "2022",
+   "year": "2023",
+   "owned": false
+  },
+  {
+   "order": 35,
+   "series": "X-Men",
+   "issue": "27",
+   "volume": "2021",
+   "year": "2023",
+   "owned": true
+  },
+  {
+   "order": 36,
+   "series": "Uncanny Spider-Man",
+   "issue": "2",
+   "volume": "2023",
+   "year": "2023",
+   "owned": true
+  },
+  {
+   "order": 37,
+   "series": "Children of the Vault",
+   "issue": "3",
+   "volume": "2023",
+   "year": "2023",
+   "owned": true
+  },
+  {
+   "order": 38,
+   "series": "Astonishing Iceman",
+   "issue": "3",
+   "volume": "2023",
+   "year": "2023",
+   "owned": true
+  },
+  {
+   "order": 39,
+   "series": "Alpha Flight",
+   "issue": "3",
+   "volume": "2023",
+   "year": "2023",
+   "owned": true
+  },
+  {
+   "order": 40,
+   "series": "X-Men: Red",
+   "issue": "16",
+   "volume": "2022",
+   "year": "2023",
+   "owned": true
+  },
+  {
+   "order": 41,
+   "series": "Immortal X-Men",
+   "issue": "16",
+   "volume": "2022",
+   "year": "2023",
+   "owned": true
+  },
+  {
+   "order": 42,
+   "series": "X-Force",
+   "issue": "45",
+   "volume": "2020",
+   "year": "2023",
+   "owned": true
+  },
+  {
+   "order": 43,
+   "series": "The Invincible Iron Man",
+   "issue": "11",
+   "volume": "2022",
+   "year": "2023",
+   "owned": false
+  },
+  {
+   "order": 44,
+   "series": "Dark X-Men",
+   "issue": "3",
+   "volume": "2023",
+   "year": "2023",
+   "owned": true
+  },
+  {
+   "order": 45,
+   "series": "Wolverine",
+   "issue": "38",
+   "volume": "2020",
+   "year": "2023",
+   "owned": true
+  },
+  {
+   "order": 46,
+   "series": "Uncanny Avengers",
+   "issue": "3",
+   "volume": "2023",
+   "year": "2023",
+   "owned": true
+  },
+  {
+   "order": 47,
+   "series": "Jean Grey",
+   "issue": "3",
+   "volume": "2023",
+   "year": "2023",
+   "owned": true
+  },
+  {
+   "order": 48,
+   "series": "Realm of X",
+   "issue": "3",
+   "volume": "2023",
+   "year": "2023",
+   "owned": true
+  },
+  {
+   "order": 49,
+   "series": "X-Men",
+   "issue": "28",
+   "volume": "2021",
+   "year": "2024",
+   "owned": true
+  },
+  {
+   "order": 50,
+   "series": "Uncanny Spider-Man",
+   "issue": "3",
+   "volume": "2023",
+   "year": "2024",
+   "owned": true
+  },
+  {
+   "order": 51,
+   "series": "Uncanny Avengers",
+   "issue": "4",
+   "volume": "2023",
+   "year": "2024",
+   "owned": true
+  },
+  {
+   "order": 52,
+   "series": "X-Men: Red",
+   "issue": "17",
+   "volume": "2022",
+   "year": "2024",
+   "owned": true
+  },
+  {
+   "order": 53,
+   "series": "Jean Grey",
+   "issue": "4",
+   "volume": "2023",
+   "year": "2024",
+   "owned": true
+  },
+  {
+   "order": 54,
+   "series": "Astonishing Iceman",
+   "issue": "4",
+   "volume": "2023",
+   "year": "2024",
+   "owned": true
+  },
+  {
+   "order": 55,
+   "series": "Uncanny Spider-Man",
+   "issue": "4",
+   "volume": "2023",
+   "year": "2024",
+   "owned": true
+  },
+  {
+   "order": 56,
+   "series": "The Invincible Iron Man",
+   "issue": "12",
+   "volume": "2022",
+   "year": "2024",
+   "owned": false
+  },
+  {
+   "order": 57,
+   "series": "X-Force",
+   "issue": "46",
+   "volume": "2020",
+   "year": "2024",
+   "owned": true
+  },
+  {
+   "order": 58,
+   "series": "Children of the Vault",
+   "issue": "4",
+   "volume": "2023",
+   "year": "2024",
+   "owned": true
+  },
+  {
+   "order": 59,
+   "series": "Alpha Flight",
+   "issue": "4",
+   "volume": "2023",
+   "year": "2024",
+   "owned": true
+  },
+  {
+   "order": 60,
+   "series": "Dark X-Men",
+   "issue": "4",
+   "volume": "2023",
+   "year": "2024",
+   "owned": true
+  },
+  {
+   "order": 61,
+   "series": "Immortal X-Men",
+   "issue": "17",
+   "volume": "2022",
+   "year": "2024",
+   "owned": true
+  },
+  {
+   "order": 62,
+   "series": "Wolverine",
+   "issue": "39",
+   "volume": "2020",
+   "year": "2024",
+   "owned": true
+  },
+  {
+   "order": 63,
+   "series": "X-Men Blue: Origins",
+   "issue": "1",
+   "volume": "2024",
+   "year": "2024",
+   "owned": true
+  },
+  {
+   "order": 64,
+   "series": "Realm of X",
+   "issue": "4",
+   "volume": "2023",
+   "year": "2024",
+   "owned": true
+  },
+  {
+   "order": 65,
+   "series": "X-Men",
+   "issue": "29",
+   "volume": "2021",
+   "year": "2024",
+   "owned": true
+  },
+  {
+   "order": 66,
+   "series": "Alpha Flight",
+   "issue": "5",
+   "volume": "2023",
+   "year": "2024",
+   "owned": true
+  },
+  {
+   "order": 67,
+   "series": "The Invincible Iron Man",
+   "issue": "13",
+   "volume": "2022",
+   "year": "2024",
+   "owned": false
+  },
+  {
+   "order": 68,
+   "series": "Dark X-Men",
+   "issue": "5",
+   "volume": "2023",
+   "year": "2024",
+   "owned": true
+  },
+  {
+   "order": 69,
+   "series": "X-Men: Red",
+   "issue": "18",
+   "volume": "2022",
+   "year": "2024",
+   "owned": true
+  },
+  {
+   "order": 70,
+   "series": "Wolverine",
+   "issue": "40",
+   "volume": "2020",
+   "year": "2024",
+   "owned": true
+  },
+  {
+   "order": 71,
+   "series": "Astonishing Iceman",
+   "issue": "5",
+   "volume": "2023",
+   "year": "2024",
+   "owned": true
+  },
+  {
+   "order": 72,
+   "series": "Uncanny Avengers",
+   "issue": "5",
+   "volume": "2023",
+   "year": "2024",
+   "owned": true
+  },
+  {
+   "order": 73,
+   "series": "Uncanny Spider-Man",
+   "issue": "5",
+   "volume": "2023",
+   "year": "2024",
+   "owned": true
+  },
+  {
+   "order": 74,
+   "series": "X-Force",
+   "issue": "47",
+   "volume": "2020",
+   "year": "2024",
+   "owned": true
+  },
+  {
+   "order": 75,
+   "series": "Immortal X-Men",
+   "issue": "18",
+   "volume": "2022",
+   "year": "2024",
+   "owned": true
+  }
+ ]
+}

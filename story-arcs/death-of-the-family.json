@@ -1,0 +1,248 @@
+{
+ "arc": "Death of the Family",
+ "slug": "death-of-the-family",
+ "issue_count": 30,
+ "owned_count": 21,
+ "entries": [
+  {
+   "order": 1,
+   "series": "Batgirl",
+   "issue": "13",
+   "volume": "2011",
+   "year": "2012",
+   "owned": true
+  },
+  {
+   "order": 2,
+   "series": "Catwoman",
+   "issue": "13",
+   "volume": "2011",
+   "year": "2012",
+   "owned": true
+  },
+  {
+   "order": 3,
+   "series": "Catwoman",
+   "issue": "14",
+   "volume": "2011",
+   "year": "2013",
+   "owned": true
+  },
+  {
+   "order": 4,
+   "series": "Batman",
+   "issue": "13",
+   "volume": "2011",
+   "year": "2012",
+   "owned": true
+  },
+  {
+   "order": 5,
+   "series": "Batman and Robin",
+   "issue": "13",
+   "volume": "2011",
+   "year": "2012",
+   "owned": true
+  },
+  {
+   "order": 6,
+   "series": "Batman and Robin",
+   "issue": "14",
+   "volume": "2011",
+   "year": "2013",
+   "owned": true
+  },
+  {
+   "order": 7,
+   "series": "Suicide Squad",
+   "issue": "14",
+   "volume": "2011",
+   "year": "2013",
+   "owned": true
+  },
+  {
+   "order": 8,
+   "series": "Suicide Squad",
+   "issue": "15",
+   "volume": "2011",
+   "year": "2013",
+   "owned": false
+  },
+  {
+   "order": 9,
+   "series": "Batman",
+   "issue": "14",
+   "volume": "2011",
+   "year": "2013",
+   "owned": true
+  },
+  {
+   "order": 10,
+   "series": "Detective Comics",
+   "issue": "15",
+   "volume": "2011",
+   "year": "2013",
+   "owned": false
+  },
+  {
+   "order": 11,
+   "series": "Batgirl",
+   "issue": "14",
+   "volume": "2011",
+   "year": "2013",
+   "owned": true
+  },
+  {
+   "order": 12,
+   "series": "Nightwing",
+   "issue": "13",
+   "volume": "2011",
+   "year": "2012",
+   "owned": true
+  },
+  {
+   "order": 13,
+   "series": "Nightwing",
+   "issue": "14",
+   "volume": "2011",
+   "year": "2013",
+   "owned": true
+  },
+  {
+   "order": 14,
+   "series": "Batgirl",
+   "issue": "15",
+   "volume": "2011",
+   "year": "2013",
+   "owned": true
+  },
+  {
+   "order": 15,
+   "series": "Batgirl",
+   "issue": "16",
+   "volume": "2011",
+   "year": "2013",
+   "owned": true
+  },
+  {
+   "order": 16,
+   "series": "Batman",
+   "issue": "15",
+   "volume": "2011",
+   "year": "2013",
+   "owned": true
+  },
+  {
+   "order": 17,
+   "series": "Batman and Robin",
+   "issue": "15",
+   "volume": "2011",
+   "year": "2013",
+   "owned": true
+  },
+  {
+   "order": 18,
+   "series": "Batman and Robin",
+   "issue": "16",
+   "volume": "2011",
+   "year": "2013",
+   "owned": false
+  },
+  {
+   "order": 19,
+   "series": "Detective Comics",
+   "issue": "16",
+   "volume": "2011",
+   "year": "2013",
+   "owned": false
+  },
+  {
+   "order": 20,
+   "series": "Detective Comics",
+   "issue": "17",
+   "volume": "2011",
+   "year": "2013",
+   "owned": false
+  },
+  {
+   "order": 21,
+   "series": "Nightwing",
+   "issue": "15",
+   "volume": "2011",
+   "year": "2013",
+   "owned": true
+  },
+  {
+   "order": 22,
+   "series": "Nightwing",
+   "issue": "16",
+   "volume": "2011",
+   "year": "2013",
+   "owned": true
+  },
+  {
+   "order": 23,
+   "series": "Red Hood and the Outlaws",
+   "issue": "15",
+   "volume": "2011",
+   "year": "2013",
+   "owned": true
+  },
+  {
+   "order": 24,
+   "series": "Teen Titans",
+   "issue": "15",
+   "volume": "2011",
+   "year": "2013",
+   "owned": true
+  },
+  {
+   "order": 25,
+   "series": "Red Hood and the Outlaws",
+   "issue": "16",
+   "volume": "2011",
+   "year": "2013",
+   "owned": false
+  },
+  {
+   "order": 26,
+   "series": "Teen Titans",
+   "issue": "16",
+   "volume": "2011",
+   "year": "2013",
+   "owned": false
+  },
+  {
+   "order": 27,
+   "series": "Batman",
+   "issue": "16",
+   "volume": "2011",
+   "year": "2013",
+   "owned": true
+  },
+  {
+   "order": 28,
+   "series": "Batman",
+   "issue": "17",
+   "volume": "2011",
+   "year": "2013",
+   "owned": true
+  },
+  {
+   "order": 29,
+   "series": "Batman and Robin",
+   "issue": "17",
+   "volume": "2011",
+   "year": "2013",
+   "owned": false
+  },
+  {
+   "order": 30,
+   "series": "Red Hood and the Outlaws",
+   "issue": "17",
+   "volume": "2011",
+   "year": "2013",
+   "owned": false
+  }
+ ]
+}

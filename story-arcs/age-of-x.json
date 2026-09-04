@@ -1,0 +1,96 @@
+{
+ "arc": "Age of X",
+ "slug": "age-of-x",
+ "issue_count": 11,
+ "owned_count": 6,
+ "entries": [
+  {
+   "order": 1,
+   "series": "Age of X: Alpha",
+   "issue": "1",
+   "volume": "2011",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 2,
+   "series": "X-Men: Legacy",
+   "issue": "245",
+   "volume": "2008",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 3,
+   "series": "New Mutants",
+   "issue": "22",
+   "volume": "2009",
+   "year": "2011",
+   "owned": true
+  },
+  {
+   "order": 4,
+   "series": "X-Men: Legacy",
+   "issue": "246",
+   "volume": "2008",
+   "year": "2011",
+   "owned": true
+  },
+  {
+   "order": 5,
+   "series": "New Mutants",
+   "issue": "23",
+   "volume": "2009",
+   "year": "2011",
+   "owned": true
+  },
+  {
+   "order": 6,
+   "series": "X-Men: Legacy",
+   "issue": "247",
+   "volume": "2008",
+   "year": "2011",
+   "owned": true
+  },
+  {
+   "order": 7,
+   "series": "New Mutants",
+   "issue": "24",
+   "volume": "2009",
+   "year": "2011",
+   "owned": true
+  },
+  {
+   "order": 8,
+   "series": "Age of X: Universe",
+   "issue": "1",
+   "volume": "2011",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 9,
+   "series": "Age of X: Universe",
+   "issue": "2",
+   "volume": "2011",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 10,
+   "series": "X-Men: Legacy",
+   "issue": "248",
+   "volume": "2008",
+   "year": "2011",
+   "owned": false
+  },
+  {
+   "order": 11,
+   "series": "X-Men: Legacy",
+   "issue": "249",
+   "volume": "2008",
+   "year": "2011",
+   "owned": true
+  }
+ ]
+}

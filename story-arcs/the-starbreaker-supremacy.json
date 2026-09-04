@@ -1,0 +1,56 @@
+{
+ "arc": "The Starbreaker Supremacy",
+ "slug": "the-starbreaker-supremacy",
+ "issue_count": 6,
+ "owned_count": 6,
+ "entries": [
+  {
+   "order": 1,
+   "series": "Green Lantern",
+   "issue": "25",
+   "volume": "2023",
+   "year": "2025",
+   "owned": true
+  },
+  {
+   "order": 2,
+   "series": "Green Lantern Corps",
+   "issue": "7",
+   "volume": "2025",
+   "year": "2025",
+   "owned": true
+  },
+  {
+   "order": 3,
+   "series": "Green Lantern",
+   "issue": "26",
+   "volume": "2023",
+   "year": "2025",
+   "owned": true
+  },
+  {
+   "order": 4,
+   "series": "Green Lantern Corps",
+   "issue": "8",
+   "volume": "2025",
+   "year": "2025",
+   "owned": true
+  },
+  {
+   "order": 5,
+   "series": "Green Lantern",
+   "issue": "27",
+   "volume": "2023",
+   "year": "2025",
+   "owned": true
+  },
+  {
+   "order": 6,
+   "series": "Green Lantern Corps",
+   "issue": "9",
+   "volume": "2025",
+   "year": "2025",
+   "owned": true
+  }
+ ]
+}

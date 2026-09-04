@@ -1,0 +1,232 @@
+{
+ "arc": "Fear State",
+ "slug": "fear-state",
+ "issue_count": 28,
+ "owned_count": 18,
+ "entries": [
+  {
+   "order": 1,
+   "series": "Detective Comics",
+   "issue": "1043",
+   "volume": "2016",
+   "year": "2021",
+   "owned": true
+  },
+  {
+   "order": 2,
+   "series": "Detective Comics",
+   "issue": "1044",
+   "volume": "2016",
+   "year": "2021",
+   "owned": true
+  },
+  {
+   "order": 3,
+   "series": "Detective Comics",
+   "issue": "1045",
+   "volume": "2016",
+   "year": "2022",
+   "owned": false
+  },
+  {
+   "order": 4,
+   "series": "Harley Quinn",
+   "issue": "7",
+   "volume": "2021",
+   "year": "2021",
+   "owned": true
+  },
+  {
+   "order": 5,
+   "series": "Batman Secret Files: The Gardener",
+   "issue": "1",
+   "volume": "2021",
+   "year": "2022",
+   "owned": false
+  },
+  {
+   "order": 6,
+   "series": "Batman Secret Files: Miracle Molly",
+   "issue": "1",
+   "volume": "2021",
+   "year": "2021",
+   "owned": false
+  },
+  {
+   "order": 7,
+   "series": "Batman: Fear State: Alpha",
+   "issue": "1",
+   "volume": "2021",
+   "year": "2021",
+   "owned": false
+  },
+  {
+   "order": 8,
+   "series": "Batman",
+   "issue": "112",
+   "volume": "2016",
+   "year": "2021",
+   "owned": false
+  },
+  {
+   "order": 9,
+   "series": "Batman: Urban Legends",
+   "issue": "8",
+   "volume": "2021",
+   "year": "2021",
+   "owned": true
+  },
+  {
+   "order": 10,
+   "series": "Batman Secret Files: Peacekeeper-01",
+   "issue": "1",
+   "volume": "2021",
+   "year": "2021",
+   "owned": false
+  },
+  {
+   "order": 11,
+   "series": "Batman",
+   "issue": "113",
+   "volume": "2016",
+   "year": "2021",
+   "owned": true
+  },
+  {
+   "order": 12,
+   "series": "Catwoman",
+   "issue": "35",
+   "volume": "2018",
+   "year": "2021",
+   "owned": true
+  },
+  {
+   "order": 13,
+   "series": "I Am Batman",
+   "issue": "2",
+   "volume": "2021",
+   "year": "2021",
+   "owned": false
+  },
+  {
+   "order": 14,
+   "series": "Nightwing",
+   "issue": "84",
+   "volume": "2016",
+   "year": "2021",
+   "owned": true
+  },
+  {
+   "order": 15,
+   "series": "Batman",
+   "issue": "114",
+   "volume": "2016",
+   "year": "2021",
+   "owned": true
+  },
+  {
+   "order": 16,
+   "series": "Batman",
+   "issue": "115",
+   "volume": "2016",
+   "year": "2021",
+   "owned": true
+  },
+  {
+   "order": 17,
+   "series": "Catwoman",
+   "issue": "36",
+   "volume": "2018",
+   "year": "2021",
+   "owned": true
+  },
+  {
+   "order": 18,
+   "series": "Nightwing",
+   "issue": "85",
+   "volume": "2016",
+   "year": "2021",
+   "owned": true
+  },
+  {
+   "order": 19,
+   "series": "Harley Quinn",
+   "issue": "8",
+   "volume": "2021",
+   "year": "2021",
+   "owned": true
+  },
+  {
+   "order": 20,
+   "series": "Batman",
+   "issue": "116",
+   "volume": "2016",
+   "year": "2022",
+   "owned": true
+  },
+  {
+   "order": 21,
+   "series": "Batman: Urban Legends",
+   "issue": "9",
+   "volume": "2021",
+   "year": "2022",
+   "owned": false
+  },
+  {
+   "order": 22,
+   "series": "Nightwing",
+   "issue": "86",
+   "volume": "2016",
+   "year": "2022",
+   "owned": true
+  },
+  {
+   "order": 23,
+   "series": "I Am Batman",
+   "issue": "3",
+   "volume": "2021",
+   "year": "2022",
+   "owned": false
+  },
+  {
+   "order": 24,
+   "series": "Catwoman",
+   "issue": "37",
+   "volume": "2018",
+   "year": "2022",
+   "owned": true
+  },
+  {
+   "order": 25,
+   "series": "Harley Quinn",
+   "issue": "9",
+   "volume": "2021",
+   "year": "2022",
+   "owned": true
+  },
+  {
+   "order": 26,
+   "series": "Batman",
+   "issue": "117",
+   "volume": "2016",
+   "year": "2022",
+   "owned": true
+  },
+  {
+   "order": 27,
+   "series": "Batman: Fear State: Omega",
+   "issue": "1",
+   "volume": "2021",
+   "year": "2022",
+   "owned": false
+  },
+  {
+   "order": 28,
+   "series": "Detective Comics",
+   "issue": "1046",
+   "volume": "2016",
+   "year": "2022",
+   "owned": true
+  }
+ ]
+}

@@ -1,0 +1,72 @@
+{
+ "arc": "Superman: Up, Up, and Away!",
+ "slug": "superman-up-up-and-away",
+ "issue_count": 8,
+ "owned_count": 0,
+ "entries": [
+  {
+   "order": 1,
+   "series": "Superman",
+   "issue": "650",
+   "volume": "1939",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 2,
+   "series": "Action Comics",
+   "issue": "837",
+   "volume": "1938",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 3,
+   "series": "Superman",
+   "issue": "651",
+   "volume": "1939",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 4,
+   "series": "Action Comics",
+   "issue": "838",
+   "volume": "1938",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 5,
+   "series": "Superman",
+   "issue": "652",
+   "volume": "1939",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 6,
+   "series": "Action Comics",
+   "issue": "839",
+   "volume": "1938",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 7,
+   "series": "Superman",
+   "issue": "653",
+   "volume": "1939",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 8,
+   "series": "Action Comics",
+   "issue": "840",
+   "volume": "1938",
+   "year": "2006",
+   "owned": false
+  }
+ ]
+}

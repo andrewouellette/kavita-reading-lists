@@ -1,0 +1,56 @@
+{
+ "arc": "Raid on Graymalkin",
+ "slug": "raid-on-graymalkin",
+ "issue_count": 6,
+ "owned_count": 6,
+ "entries": [
+  {
+   "order": 1,
+   "series": "X-Men",
+   "issue": "8",
+   "volume": "2024",
+   "year": "2024",
+   "owned": true
+  },
+  {
+   "order": 2,
+   "series": "Uncanny X-Men",
+   "issue": "7",
+   "volume": "2024",
+   "year": "2024",
+   "owned": true
+  },
+  {
+   "order": 3,
+   "series": "X-Men",
+   "issue": "9",
+   "volume": "2024",
+   "year": "2024",
+   "owned": true
+  },
+  {
+   "order": 4,
+   "series": "Uncanny X-Men",
+   "issue": "8",
+   "volume": "2024",
+   "year": "2024",
+   "owned": true
+  },
+  {
+   "order": 5,
+   "series": "X-Men",
+   "issue": "10",
+   "volume": "2024",
+   "year": "2025",
+   "owned": true
+  },
+  {
+   "order": 6,
+   "series": "Uncanny X-Men",
+   "issue": "9",
+   "volume": "2024",
+   "year": "2025",
+   "owned": true
+  }
+ ]
+}

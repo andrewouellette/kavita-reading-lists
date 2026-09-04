@@ -1,0 +1,344 @@
+{
+ "arc": "Absolute Carnage",
+ "slug": "absolute-carnage",
+ "issue_count": 42,
+ "owned_count": 14,
+ "entries": [
+  {
+   "order": 1,
+   "series": "Free Comic Book Day 2019 (Spider-Man/Venom)",
+   "issue": "1",
+   "volume": "2019",
+   "year": "2019",
+   "owned": false
+  },
+  {
+   "order": 2,
+   "series": "Absolute Carnage: Symbiote of Vengeance",
+   "issue": "1",
+   "volume": "2019",
+   "year": "2019",
+   "owned": false
+  },
+  {
+   "order": 3,
+   "series": "Venom",
+   "issue": "15",
+   "volume": "2018",
+   "year": "2019",
+   "owned": true
+  },
+  {
+   "order": 4,
+   "series": "Symbiote Spider-Man",
+   "issue": "3",
+   "volume": "2019",
+   "year": "2019",
+   "owned": false
+  },
+  {
+   "order": 5,
+   "series": "Deadpool",
+   "issue": "14",
+   "volume": "2018",
+   "year": "2019",
+   "owned": true
+  },
+  {
+   "order": 6,
+   "series": "The Amazing Spider-Man",
+   "issue": "24",
+   "volume": "2018",
+   "year": "2019",
+   "owned": true
+  },
+  {
+   "order": 7,
+   "series": "Fantastic Four",
+   "issue": "11",
+   "volume": "2018",
+   "year": "2019",
+   "owned": true
+  },
+  {
+   "order": 8,
+   "series": "The Immortal Hulk",
+   "issue": "20",
+   "volume": "2018",
+   "year": "2019",
+   "owned": false
+  },
+  {
+   "order": 9,
+   "series": "Black Cat",
+   "issue": "2",
+   "volume": "2019",
+   "year": "2019",
+   "owned": true
+  },
+  {
+   "order": 10,
+   "series": "Venom",
+   "issue": "16",
+   "volume": "2018",
+   "year": "2019",
+   "owned": true
+  },
+  {
+   "order": 11,
+   "series": "Captain Marvel",
+   "issue": "8",
+   "volume": "2019",
+   "year": "2019",
+   "owned": true
+  },
+  {
+   "order": 12,
+   "series": "Invaders",
+   "issue": "7",
+   "volume": "2019",
+   "year": "2019",
+   "owned": false
+  },
+  {
+   "order": 13,
+   "series": "Avengers",
+   "issue": "22",
+   "volume": "2018",
+   "year": "2019",
+   "owned": true
+  },
+  {
+   "order": 14,
+   "series": "Absolute Carnage: Symbiote Spider-Man",
+   "issue": "1",
+   "volume": "2019",
+   "year": "2019",
+   "owned": false
+  },
+  {
+   "order": 15,
+   "series": "Absolute Carnage: Separation Anxiety",
+   "issue": "1",
+   "volume": "2019",
+   "year": "2019",
+   "owned": false
+  },
+  {
+   "order": 16,
+   "series": "Absolute Carnage: Weapon Plus",
+   "issue": "1",
+   "volume": "2019",
+   "year": "2020",
+   "owned": false
+  },
+  {
+   "order": 17,
+   "series": "Absolute Carnage",
+   "issue": "1",
+   "volume": "2019",
+   "year": "2019",
+   "owned": false
+  },
+  {
+   "order": 18,
+   "series": "Absolute Carnage",
+   "issue": "2",
+   "volume": "2019",
+   "year": "2019",
+   "owned": false
+  },
+  {
+   "order": 19,
+   "series": "Venom",
+   "issue": "17",
+   "volume": "2018",
+   "year": "2019",
+   "owned": true
+  },
+  {
+   "order": 20,
+   "series": "Absolute Carnage: Miles Morales",
+   "issue": "1",
+   "volume": "2019",
+   "year": "2019",
+   "owned": false
+  },
+  {
+   "order": 21,
+   "series": "Absolute Carnage: Miles Morales",
+   "issue": "2",
+   "volume": "2019",
+   "year": "2019",
+   "owned": false
+  },
+  {
+   "order": 22,
+   "series": "Absolute Carnage: Miles Morales",
+   "issue": "3",
+   "volume": "2019",
+   "year": "2019",
+   "owned": false
+  },
+  {
+   "order": 23,
+   "series": "Absolute Carnage: Lethal Protectors",
+   "issue": "1",
+   "volume": "2019",
+   "year": "2019",
+   "owned": false
+  },
+  {
+   "order": 24,
+   "series": "Absolute Carnage: Lethal Protectors",
+   "issue": "2",
+   "volume": "2019",
+   "year": "2019",
+   "owned": false
+  },
+  {
+   "order": 25,
+   "series": "Absolute Carnage: Lethal Protectors",
+   "issue": "3",
+   "volume": "2019",
+   "year": "2019",
+   "owned": false
+  },
+  {
+   "order": 26,
+   "series": "Absolute Carnage vs. Deadpool",
+   "issue": "1",
+   "volume": "2019",
+   "year": "2019",
+   "owned": false
+  },
+  {
+   "order": 27,
+   "series": "Absolute Carnage vs. Deadpool",
+   "issue": "2",
+   "volume": "2019",
+   "year": "2019",
+   "owned": false
+  },
+  {
+   "order": 28,
+   "series": "Absolute Carnage vs. Deadpool",
+   "issue": "3",
+   "volume": "2019",
+   "year": "2019",
+   "owned": false
+  },
+  {
+   "order": 29,
+   "series": "Absolute Carnage: Scream",
+   "issue": "1",
+   "volume": "2019",
+   "year": "2019",
+   "owned": false
+  },
+  {
+   "order": 30,
+   "series": "Absolute Carnage: Scream",
+   "issue": "2",
+   "volume": "2019",
+   "year": "2019",
+   "owned": false
+  },
+  {
+   "order": 31,
+   "series": "Absolute Carnage: Scream",
+   "issue": "3",
+   "volume": "2019",
+   "year": "2019",
+   "owned": false
+  },
+  {
+   "order": 32,
+   "series": "Absolute Carnage: Avengers",
+   "issue": "1",
+   "volume": "2019",
+   "year": "2019",
+   "owned": false
+  },
+  {
+   "order": 33,
+   "series": "Venom",
+   "issue": "18",
+   "volume": "2018",
+   "year": "2019",
+   "owned": true
+  },
+  {
+   "order": 34,
+   "series": "Venom",
+   "issue": "19",
+   "volume": "2018",
+   "year": "2019",
+   "owned": true
+  },
+  {
+   "order": 35,
+   "series": "Absolute Carnage",
+   "issue": "3",
+   "volume": "2019",
+   "year": "2019",
+   "owned": false
+  },
+  {
+   "order": 36,
+   "series": "Absolute Carnage: Immortal Hulk",
+   "issue": "1",
+   "volume": "2019",
+   "year": "2019",
+   "owned": false
+  },
+  {
+   "order": 37,
+   "series": "Absolute Carnage",
+   "issue": "4",
+   "volume": "2019",
+   "year": "2019",
+   "owned": false
+  },
+  {
+   "order": 38,
+   "series": "The Amazing Spider-Man",
+   "issue": "30",
+   "volume": "2018",
+   "year": "2019",
+   "owned": true
+  },
+  {
+   "order": 39,
+   "series": "The Amazing Spider-Man",
+   "issue": "31",
+   "volume": "2018",
+   "year": "2019",
+   "owned": true
+  },
+  {
+   "order": 40,
+   "series": "Absolute Carnage: Captain Marvel",
+   "issue": "1",
+   "volume": "2019",
+   "year": "2020",
+   "owned": false
+  },
+  {
+   "order": 41,
+   "series": "Absolute Carnage",
+   "issue": "5",
+   "volume": "2019",
+   "year": "2020",
+   "owned": false
+  },
+  {
+   "order": 42,
+   "series": "Venom",
+   "issue": "20",
+   "volume": "2018",
+   "year": "2020",
+   "owned": true
+  }
+ ]
+}

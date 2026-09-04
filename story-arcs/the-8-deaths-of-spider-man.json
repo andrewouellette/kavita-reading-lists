@@ -1,0 +1,88 @@
+{
+ "arc": "The 8 Deaths of Spider-Man",
+ "slug": "the-8-deaths-of-spider-man",
+ "issue_count": 10,
+ "owned_count": 10,
+ "entries": [
+  {
+   "order": 1,
+   "series": "The Amazing Spider-Man",
+   "issue": "61",
+   "volume": "2022",
+   "year": "2024",
+   "owned": true
+  },
+  {
+   "order": 2,
+   "series": "The Amazing Spider-Man",
+   "issue": "62",
+   "volume": "2022",
+   "year": "2024",
+   "owned": true
+  },
+  {
+   "order": 3,
+   "series": "The Amazing Spider-Man",
+   "issue": "63",
+   "volume": "2022",
+   "year": "2024",
+   "owned": true
+  },
+  {
+   "order": 4,
+   "series": "The Amazing Spider-Man",
+   "issue": "64",
+   "volume": "2022",
+   "year": "2024",
+   "owned": true
+  },
+  {
+   "order": 5,
+   "series": "The Amazing Spider-Man",
+   "issue": "65",
+   "volume": "2022",
+   "year": "2025",
+   "owned": true
+  },
+  {
+   "order": 6,
+   "series": "The Amazing Spider-Man",
+   "issue": "66",
+   "volume": "2022",
+   "year": "2025",
+   "owned": true
+  },
+  {
+   "order": 7,
+   "series": "The Amazing Spider-Man",
+   "issue": "67",
+   "volume": "2022",
+   "year": "2025",
+   "owned": true
+  },
+  {
+   "order": 8,
+   "series": "The Amazing Spider-Man",
+   "issue": "68",
+   "volume": "2022",
+   "year": "2025",
+   "owned": true
+  },
+  {
+   "order": 9,
+   "series": "The Amazing Spider-Man",
+   "issue": "69",
+   "volume": "2022",
+   "year": "2025",
+   "owned": true
+  },
+  {
+   "order": 10,
+   "series": "The Amazing Spider-Man",
+   "issue": "70",
+   "volume": "2022",
+   "year": "2025",
+   "owned": true
+  }
+ ]
+}

@@ -1,0 +1,40 @@
+{
+ "arc": "Death of X",
+ "slug": "death-of-x",
+ "issue_count": 4,
+ "owned_count": 0,
+ "entries": [
+  {
+   "order": 1,
+   "series": "Death of X",
+   "issue": "1",
+   "volume": "2016",
+   "year": "2016",
+   "owned": false
+  },
+  {
+   "order": 2,
+   "series": "Death of X",
+   "issue": "2",
+   "volume": "2016",
+   "year": "2016",
+   "owned": false
+  },
+  {
+   "order": 3,
+   "series": "Death of X",
+   "issue": "3",
+   "volume": "2016",
+   "year": "2017",
+   "owned": false
+  },
+  {
+   "order": 4,
+   "series": "Death of X",
+   "issue": "4",
+   "volume": "2016",
+   "year": "2017",
+   "owned": false
+  }
+ ]
+}

@@ -1,0 +1,200 @@
+{
+ "arc": "Bruce Wayne- Fugitive",
+ "slug": "bruce-wayne-fugitive",
+ "issue_count": 24,
+ "owned_count": 5,
+ "entries": [
+  {
+   "order": 1,
+   "series": "Batman",
+   "issue": "600",
+   "volume": "1940",
+   "year": "2002",
+   "owned": false
+  },
+  {
+   "order": 2,
+   "series": "Birds of Prey",
+   "issue": "41",
+   "volume": "1999",
+   "year": "2002",
+   "owned": false
+  },
+  {
+   "order": 3,
+   "series": "Batman",
+   "issue": "601",
+   "volume": "1940",
+   "year": "2002",
+   "owned": false
+  },
+  {
+   "order": 4,
+   "series": "Detective Comics",
+   "issue": "769",
+   "volume": "1937",
+   "year": "2002",
+   "owned": false
+  },
+  {
+   "order": 5,
+   "series": "Batgirl",
+   "issue": "27",
+   "volume": "2000",
+   "year": "2002",
+   "owned": true
+  },
+  {
+   "order": 6,
+   "series": "Nightwing",
+   "issue": "68",
+   "volume": "1996",
+   "year": "2002",
+   "owned": true
+  },
+  {
+   "order": 7,
+   "series": "Batman: Gotham Knights",
+   "issue": "28",
+   "volume": "2000",
+   "year": "2002",
+   "owned": false
+  },
+  {
+   "order": 8,
+   "series": "Detective Comics",
+   "issue": "770",
+   "volume": "1937",
+   "year": "2002",
+   "owned": false
+  },
+  {
+   "order": 9,
+   "series": "Nightwing",
+   "issue": "69",
+   "volume": "1996",
+   "year": "2002",
+   "owned": true
+  },
+  {
+   "order": 10,
+   "series": "Birds of Prey",
+   "issue": "43",
+   "volume": "1999",
+   "year": "2002",
+   "owned": false
+  },
+  {
+   "order": 11,
+   "series": "Batman",
+   "issue": "603",
+   "volume": "1940",
+   "year": "2002",
+   "owned": false
+  },
+  {
+   "order": 12,
+   "series": "Detective Comics",
+   "issue": "771",
+   "volume": "1937",
+   "year": "2002",
+   "owned": false
+  },
+  {
+   "order": 13,
+   "series": "Batgirl",
+   "issue": "29",
+   "volume": "2000",
+   "year": "2002",
+   "owned": true
+  },
+  {
+   "order": 14,
+   "series": "Batman: Gotham Knights",
+   "issue": "30",
+   "volume": "2000",
+   "year": "2002",
+   "owned": false
+  },
+  {
+   "order": 15,
+   "series": "Azrael: Agent of the Bat",
+   "issue": "91",
+   "volume": "1998",
+   "year": "2002",
+   "owned": false
+  },
+  {
+   "order": 16,
+   "series": "Detective Comics",
+   "issue": "772",
+   "volume": "1937",
+   "year": "2002",
+   "owned": false
+  },
+  {
+   "order": 17,
+   "series": "Batman: Gotham Knights",
+   "issue": "31",
+   "volume": "2000",
+   "year": "2002",
+   "owned": false
+  },
+  {
+   "order": 18,
+   "series": "Batman",
+   "issue": "605",
+   "volume": "1940",
+   "year": "2002",
+   "owned": false
+  },
+  {
+   "order": 19,
+   "series": "Batman",
+   "issue": "606",
+   "volume": "1940",
+   "year": "2002",
+   "owned": false
+  },
+  {
+   "order": 20,
+   "series": "Batman",
+   "issue": "607",
+   "volume": "1940",
+   "year": "2002",
+   "owned": false
+  },
+  {
+   "order": 21,
+   "series": "Detective Comics",
+   "issue": "773",
+   "volume": "1937",
+   "year": "2002",
+   "owned": false
+  },
+  {
+   "order": 22,
+   "series": "Detective Comics",
+   "issue": "774",
+   "volume": "1937",
+   "year": "2002",
+   "owned": false
+  },
+  {
+   "order": 23,
+   "series": "Detective Comics",
+   "issue": "775",
+   "volume": "1937",
+   "year": "2002",
+   "owned": false
+  },
+  {
+   "order": 24,
+   "series": "Batgirl",
+   "issue": "33",
+   "volume": "2000",
+   "year": "2002",
+   "owned": true
+  }
+ ]
+}

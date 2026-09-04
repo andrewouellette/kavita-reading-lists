@@ -1,0 +1,80 @@
+{
+ "arc": "Kingdom of Zod",
+ "slug": "kingdom-of-zod",
+ "issue_count": 9,
+ "owned_count": 2,
+ "entries": [
+  {
+   "order": 1,
+   "series": "Supergirl",
+   "issue": "16",
+   "volume": "2025",
+   "year": "2026",
+   "owned": false
+  },
+  {
+   "order": 2,
+   "series": "Action Comics",
+   "issue": "1101",
+   "volume": "1938",
+   "year": "2026",
+   "owned": true
+  },
+  {
+   "order": 3,
+   "series": "Superman Unlimited",
+   "issue": "16",
+   "volume": "2025",
+   "year": "2026",
+   "owned": false
+  },
+  {
+   "order": 4,
+   "series": "Superman",
+   "issue": "41",
+   "volume": "2023",
+   "year": "2026",
+   "owned": false
+  },
+  {
+   "order": 5,
+   "series": "Supergirl",
+   "issue": "17",
+   "volume": "2025",
+   "year": "2026",
+   "owned": false
+  },
+  {
+   "order": 6,
+   "series": "Action Comics",
+   "issue": "1102",
+   "volume": "1938",
+   "year": "2026",
+   "owned": false
+  },
+  {
+   "order": 7,
+   "series": "Superman Unlimited",
+   "issue": "17",
+   "volume": "2025",
+   "year": "2026",
+   "owned": false
+  },
+  {
+   "order": 8,
+   "series": "Superman",
+   "issue": "42",
+   "volume": "2023",
+   "year": "2026",
+   "owned": true
+  },
+  {
+   "order": 9,
+   "series": "Superman: Kingdom of Zod Special",
+   "issue": "1",
+   "volume": "2026",
+   "year": "2026",
+   "owned": false
+  }
+ ]
+}

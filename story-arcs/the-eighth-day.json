@@ -1,0 +1,48 @@
+{
+ "arc": "The Eighth Day",
+ "slug": "the-eighth-day",
+ "issue_count": 5,
+ "owned_count": 3,
+ "entries": [
+  {
+   "order": 1,
+   "series": "Iron Man",
+   "issue": "21",
+   "volume": "1998",
+   "year": "1999",
+   "owned": true
+  },
+  {
+   "order": 2,
+   "series": "Thor",
+   "issue": "17",
+   "volume": "1998",
+   "year": "1999",
+   "owned": true
+  },
+  {
+   "order": 3,
+   "series": "Iron Man",
+   "issue": "22",
+   "volume": "1998",
+   "year": "1999",
+   "owned": true
+  },
+  {
+   "order": 4,
+   "series": "Peter Parker: Spider-Man",
+   "issue": "11",
+   "volume": "1999",
+   "year": "1999",
+   "owned": false
+  },
+  {
+   "order": 5,
+   "series": "Juggernaut: The Eighth Day",
+   "issue": "1",
+   "volume": "1999",
+   "year": "1999",
+   "owned": false
+  }
+ ]
+}

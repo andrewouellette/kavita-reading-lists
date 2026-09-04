@@ -1,0 +1,112 @@
+{
+ "arc": "Monsters Unleashed",
+ "slug": "monsters-unleashed",
+ "issue_count": 13,
+ "owned_count": 4,
+ "entries": [
+  {
+   "order": 1,
+   "series": "Monsters Unleashed!",
+   "issue": "1",
+   "volume": "2017",
+   "year": "2017",
+   "owned": false
+  },
+  {
+   "order": 2,
+   "series": "Avengers",
+   "issue": "1",
+   "volume": "2016",
+   "year": "2017",
+   "owned": true
+  },
+  {
+   "order": 3,
+   "series": "Spider-Man/Deadpool",
+   "issue": "1",
+   "volume": "2016",
+   "year": "2016",
+   "owned": false
+  },
+  {
+   "order": 4,
+   "series": "Monsters Unleashed!",
+   "issue": "2",
+   "volume": "2017",
+   "year": "2017",
+   "owned": false
+  },
+  {
+   "order": 5,
+   "series": "All-New X-Men",
+   "issue": "1",
+   "volume": "2015",
+   "year": "2016",
+   "owned": true
+  },
+  {
+   "order": 6,
+   "series": "Monsters Unleashed!",
+   "issue": "3",
+   "volume": "2017",
+   "year": "2017",
+   "owned": false
+  },
+  {
+   "order": 7,
+   "series": "Doctor Strange",
+   "issue": "1",
+   "volume": "2017",
+   "year": "2017",
+   "owned": true
+  },
+  {
+   "order": 8,
+   "series": "Uncanny Inhumans",
+   "issue": "1",
+   "volume": "2017",
+   "year": "2017",
+   "owned": false
+  },
+  {
+   "order": 9,
+   "series": "Champions",
+   "issue": "1",
+   "volume": "2016",
+   "year": "2016",
+   "owned": false
+  },
+  {
+   "order": 10,
+   "series": "Monsters Unleashed!",
+   "issue": "4",
+   "volume": "2017",
+   "year": "2017",
+   "owned": false
+  },
+  {
+   "order": 11,
+   "series": "The Totally Awesome Hulk",
+   "issue": "1",
+   "volume": "2015",
+   "year": "2016",
+   "owned": false
+  },
+  {
+   "order": 12,
+   "series": "Guardians of the Galaxy",
+   "issue": "1",
+   "volume": "2023",
+   "year": "2023",
+   "owned": true
+  },
+  {
+   "order": 13,
+   "series": "Monsters Unleashed!",
+   "issue": "5",
+   "volume": "2017",
+   "year": "2017",
+   "owned": false
+  }
+ ]
+}

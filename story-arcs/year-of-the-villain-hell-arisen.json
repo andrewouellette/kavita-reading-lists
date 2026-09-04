@@ -1,0 +1,40 @@
+{
+ "arc": "Year of the Villain: Hell Arisen",
+ "slug": "year-of-the-villain-hell-arisen",
+ "issue_count": 4,
+ "owned_count": 4,
+ "entries": [
+  {
+   "order": 1,
+   "series": "Year of the Villain: Hell Arisen",
+   "issue": "1",
+   "volume": "2019",
+   "year": "2020",
+   "owned": true
+  },
+  {
+   "order": 2,
+   "series": "Year of the Villain: Hell Arisen",
+   "issue": "2",
+   "volume": "2019",
+   "year": "2020",
+   "owned": true
+  },
+  {
+   "order": 3,
+   "series": "Year of the Villain: Hell Arisen",
+   "issue": "3",
+   "volume": "2019",
+   "year": "2020",
+   "owned": true
+  },
+  {
+   "order": 4,
+   "series": "Year of the Villain: Hell Arisen",
+   "issue": "4",
+   "volume": "2019",
+   "year": "2020",
+   "owned": true
+  }
+ ]
+}

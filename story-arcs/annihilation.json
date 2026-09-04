@@ -1,0 +1,272 @@
+{
+ "arc": "Annihilation",
+ "slug": "annihilation",
+ "issue_count": 33,
+ "owned_count": 3,
+ "entries": [
+  {
+   "order": 1,
+   "series": "Drax the Destroyer",
+   "issue": "1",
+   "volume": "2005",
+   "year": "2005",
+   "owned": false
+  },
+  {
+   "order": 2,
+   "series": "Drax the Destroyer",
+   "issue": "2",
+   "volume": "2005",
+   "year": "2005",
+   "owned": false
+  },
+  {
+   "order": 3,
+   "series": "Drax the Destroyer",
+   "issue": "3",
+   "volume": "2005",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 4,
+   "series": "Drax the Destroyer",
+   "issue": "4",
+   "volume": "2005",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 5,
+   "series": "Annihilation: Prologue",
+   "issue": "1",
+   "volume": "2006",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 6,
+   "series": "Annihilation: Nova",
+   "issue": "1",
+   "volume": "2006",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 7,
+   "series": "Annihilation: Nova",
+   "issue": "2",
+   "volume": "2006",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 8,
+   "series": "Annihilation: Nova",
+   "issue": "3",
+   "volume": "2006",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 9,
+   "series": "Annihilation: Nova",
+   "issue": "4",
+   "volume": "2006",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 10,
+   "series": "Annihilation: Silver Surfer",
+   "issue": "1",
+   "volume": "2006",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 11,
+   "series": "Annihilation: Silver Surfer",
+   "issue": "2",
+   "volume": "2006",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 12,
+   "series": "Annihilation: Silver Surfer",
+   "issue": "3",
+   "volume": "2006",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 13,
+   "series": "Annihilation: Silver Surfer",
+   "issue": "4",
+   "volume": "2006",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 14,
+   "series": "Annihilation: Super-Skrull",
+   "issue": "1",
+   "volume": "2006",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 15,
+   "series": "Annihilation: Super-Skrull",
+   "issue": "2",
+   "volume": "2006",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 16,
+   "series": "Annihilation: Super-Skrull",
+   "issue": "3",
+   "volume": "2006",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 17,
+   "series": "Annihilation: Super-Skrull",
+   "issue": "4",
+   "volume": "2006",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 18,
+   "series": "Annihilation: Ronan",
+   "issue": "1",
+   "volume": "2006",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 19,
+   "series": "Annihilation: Ronan",
+   "issue": "2",
+   "volume": "2006",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 20,
+   "series": "Annihilation: Ronan",
+   "issue": "3",
+   "volume": "2006",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 21,
+   "series": "Annihilation: Ronan",
+   "issue": "4",
+   "volume": "2006",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 22,
+   "series": "Annihilation",
+   "issue": "1",
+   "volume": "2006",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 23,
+   "series": "Annihilation",
+   "issue": "2",
+   "volume": "2006",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 24,
+   "series": "Annihilation",
+   "issue": "3",
+   "volume": "2006",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 25,
+   "series": "Annihilation",
+   "issue": "4",
+   "volume": "2006",
+   "year": "2007",
+   "owned": false
+  },
+  {
+   "order": 26,
+   "series": "Annihilation",
+   "issue": "5",
+   "volume": "2006",
+   "year": "2007",
+   "owned": false
+  },
+  {
+   "order": 27,
+   "series": "Annihilation",
+   "issue": "6",
+   "volume": "2006",
+   "year": "2007",
+   "owned": false
+  },
+  {
+   "order": 28,
+   "series": "Annihilation: Heralds of Galactus",
+   "issue": "1",
+   "volume": "2007",
+   "year": "2007",
+   "owned": false
+  },
+  {
+   "order": 29,
+   "series": "Annihilation: Heralds of Galactus",
+   "issue": "2",
+   "volume": "2007",
+   "year": "2007",
+   "owned": false
+  },
+  {
+   "order": 30,
+   "series": "What If? Annihilation",
+   "issue": "1",
+   "volume": "2008",
+   "year": "2008",
+   "owned": false
+  },
+  {
+   "order": 31,
+   "series": "Nova",
+   "issue": "1",
+   "volume": "2007",
+   "year": "2007",
+   "owned": true
+  },
+  {
+   "order": 32,
+   "series": "Nova",
+   "issue": "2",
+   "volume": "2007",
+   "year": "2007",
+   "owned": true
+  },
+  {
+   "order": 33,
+   "series": "Nova",
+   "issue": "3",
+   "volume": "2007",
+   "year": "2007",
+   "owned": true
+  }
+ ]
+}

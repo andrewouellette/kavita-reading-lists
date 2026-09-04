@@ -1,0 +1,80 @@
+{
+ "arc": "Batman: Requiem",
+ "slug": "batman-requiem",
+ "issue_count": 9,
+ "owned_count": 4,
+ "entries": [
+  {
+   "order": 1,
+   "series": "Detective Comics",
+   "issue": "18",
+   "volume": "2011",
+   "year": "2013",
+   "owned": false
+  },
+  {
+   "order": 2,
+   "series": "Batman and Robin",
+   "issue": "18",
+   "volume": "2011",
+   "year": "2013",
+   "owned": false
+  },
+  {
+   "order": 3,
+   "series": "Batman",
+   "issue": "18",
+   "volume": "2011",
+   "year": "2013",
+   "owned": true
+  },
+  {
+   "order": 4,
+   "series": "Batgirl",
+   "issue": "18",
+   "volume": "2011",
+   "year": "2013",
+   "owned": true
+  },
+  {
+   "order": 5,
+   "series": "Catwoman",
+   "issue": "18",
+   "volume": "2011",
+   "year": "2013",
+   "owned": true
+  },
+  {
+   "order": 6,
+   "series": "Nightwing",
+   "issue": "18",
+   "volume": "2011",
+   "year": "2013",
+   "owned": true
+  },
+  {
+   "order": 7,
+   "series": "Red Hood and the Outlaws",
+   "issue": "18",
+   "volume": "2011",
+   "year": "2013",
+   "owned": false
+  },
+  {
+   "order": 8,
+   "series": "Batman, Incorporated",
+   "issue": "9",
+   "volume": "2012",
+   "year": "2013",
+   "owned": false
+  },
+  {
+   "order": 9,
+   "series": "Teen Titans",
+   "issue": "18",
+   "volume": "2011",
+   "year": "2013",
+   "owned": false
+  }
+ ]
+}

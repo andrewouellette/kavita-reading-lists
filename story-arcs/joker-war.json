@@ -1,0 +1,216 @@
+{
+ "arc": "Joker War",
+ "slug": "joker-war",
+ "issue_count": 26,
+ "owned_count": 26,
+ "entries": [
+  {
+   "order": 1,
+   "series": "Detective Comics",
+   "issue": "1022",
+   "volume": "2016",
+   "year": "2020",
+   "owned": true
+  },
+  {
+   "order": 2,
+   "series": "Detective Comics",
+   "issue": "1023",
+   "volume": "2016",
+   "year": "2020",
+   "owned": true
+  },
+  {
+   "order": 3,
+   "series": "Detective Comics",
+   "issue": "1024",
+   "volume": "2016",
+   "year": "2020",
+   "owned": true
+  },
+  {
+   "order": 4,
+   "series": "Batgirl",
+   "issue": "47",
+   "volume": "2016",
+   "year": "2020",
+   "owned": true
+  },
+  {
+   "order": 5,
+   "series": "Batgirl",
+   "issue": "48",
+   "volume": "2016",
+   "year": "2020",
+   "owned": true
+  },
+  {
+   "order": 6,
+   "series": "Batgirl",
+   "issue": "49",
+   "volume": "2016",
+   "year": "2020",
+   "owned": true
+  },
+  {
+   "order": 7,
+   "series": "Nightwing",
+   "issue": "70",
+   "volume": "2016",
+   "year": "2020",
+   "owned": true
+  },
+  {
+   "order": 8,
+   "series": "Nightwing",
+   "issue": "71",
+   "volume": "2016",
+   "year": "2020",
+   "owned": true
+  },
+  {
+   "order": 9,
+   "series": "Nightwing",
+   "issue": "72",
+   "volume": "2016",
+   "year": "2020",
+   "owned": true
+  },
+  {
+   "order": 10,
+   "series": "Batman",
+   "issue": "95",
+   "volume": "2016",
+   "year": "2020",
+   "owned": true
+  },
+  {
+   "order": 11,
+   "series": "Harley Quinn",
+   "issue": "75",
+   "volume": "2016",
+   "year": "2020",
+   "owned": true
+  },
+  {
+   "order": 12,
+   "series": "Red Hood: Outlaw",
+   "issue": "48",
+   "volume": "2018",
+   "year": "2020",
+   "owned": true
+  },
+  {
+   "order": 13,
+   "series": "Nightwing",
+   "issue": "73",
+   "volume": "2016",
+   "year": "2020",
+   "owned": true
+  },
+  {
+   "order": 14,
+   "series": "Batman",
+   "issue": "96",
+   "volume": "2016",
+   "year": "2020",
+   "owned": true
+  },
+  {
+   "order": 15,
+   "series": "Batman",
+   "issue": "97",
+   "volume": "2016",
+   "year": "2020",
+   "owned": true
+  },
+  {
+   "order": 16,
+   "series": "Batman",
+   "issue": "98",
+   "volume": "2016",
+   "year": "2020",
+   "owned": true
+  },
+  {
+   "order": 17,
+   "series": "Detective Comics",
+   "issue": "1025",
+   "volume": "2016",
+   "year": "2020",
+   "owned": true
+  },
+  {
+   "order": 18,
+   "series": "Detective Comics",
+   "issue": "1026",
+   "volume": "2016",
+   "year": "2020",
+   "owned": true
+  },
+  {
+   "order": 19,
+   "series": "Nightwing",
+   "issue": "74",
+   "volume": "2016",
+   "year": "2020",
+   "owned": true
+  },
+  {
+   "order": 20,
+   "series": "Batman: The Joker War Zone",
+   "issue": "1",
+   "volume": "2020",
+   "year": "2020",
+   "owned": true
+  },
+  {
+   "order": 21,
+   "series": "Batman",
+   "issue": "99",
+   "volume": "2016",
+   "year": "2020",
+   "owned": true
+  },
+  {
+   "order": 22,
+   "series": "Catwoman",
+   "issue": "25",
+   "volume": "2018",
+   "year": "2020",
+   "owned": true
+  },
+  {
+   "order": 23,
+   "series": "Batman",
+   "issue": "100",
+   "volume": "2016",
+   "year": "2020",
+   "owned": true
+  },
+  {
+   "order": 24,
+   "series": "Catwoman",
+   "issue": "26",
+   "volume": "2018",
+   "year": "2020",
+   "owned": true
+  },
+  {
+   "order": 25,
+   "series": "Batgirl",
+   "issue": "50",
+   "volume": "2016",
+   "year": "2020",
+   "owned": true
+  },
+  {
+   "order": 26,
+   "series": "Nightwing",
+   "issue": "75",
+   "volume": "2016",
+   "year": "2020",
+   "owned": true
+  }
+ ]
+}

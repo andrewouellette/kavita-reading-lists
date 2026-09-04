@@ -1,0 +1,88 @@
+{
+ "arc": "Spider-Man/Venom: Death Spiral",
+ "slug": "spider-man-venom-death-spiral",
+ "issue_count": 10,
+ "owned_count": 8,
+ "entries": [
+  {
+   "order": 1,
+   "series": "Amazing Spider-Man/Venom: Death Spiral",
+   "issue": "1",
+   "volume": "2026",
+   "year": "2026",
+   "owned": false
+  },
+  {
+   "order": 2,
+   "series": "The Amazing Spider-Man",
+   "issue": "23",
+   "volume": "2025",
+   "year": "2026",
+   "owned": true
+  },
+  {
+   "order": 3,
+   "series": "Venom",
+   "issue": "255",
+   "volume": "2024",
+   "year": "2026",
+   "owned": true
+  },
+  {
+   "order": 4,
+   "series": "The Amazing Spider-Man",
+   "issue": "24",
+   "volume": "2025",
+   "year": "2026",
+   "owned": true
+  },
+  {
+   "order": 5,
+   "series": "The Amazing Spider-Man",
+   "issue": "25",
+   "volume": "2025",
+   "year": "2026",
+   "owned": true
+  },
+  {
+   "order": 6,
+   "series": "Venom",
+   "issue": "256",
+   "volume": "2024",
+   "year": "2026",
+   "owned": false
+  },
+  {
+   "order": 7,
+   "series": "The Amazing Spider-Man",
+   "issue": "26",
+   "volume": "2025",
+   "year": "2026",
+   "owned": true
+  },
+  {
+   "order": 8,
+   "series": "Venom",
+   "issue": "257",
+   "volume": "2024",
+   "year": "2026",
+   "owned": true
+  },
+  {
+   "order": 9,
+   "series": "The Amazing Spider-Man",
+   "issue": "27",
+   "volume": "2025",
+   "year": "2026",
+   "owned": true
+  },
+  {
+   "order": 10,
+   "series": "Amazing Spider-Man/Venom: Death Spiral - Body Count",
+   "issue": "1",
+   "volume": "2026",
+   "year": "2026",
+   "owned": true
+  }
+ ]
+}

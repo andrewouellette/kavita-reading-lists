@@ -1,0 +1,112 @@
+{
+ "arc": "House of Brainiac",
+ "slug": "house-of-brainiac",
+ "issue_count": 13,
+ "owned_count": 6,
+ "entries": [
+  {
+   "order": 1,
+   "series": "Green Lantern",
+   "issue": "10",
+   "volume": "2023",
+   "year": "2024",
+   "owned": false
+  },
+  {
+   "order": 2,
+   "series": "Green Lantern",
+   "issue": "11",
+   "volume": "2023",
+   "year": "2024",
+   "owned": true
+  },
+  {
+   "order": 3,
+   "series": "Green Lantern",
+   "issue": "12",
+   "volume": "2023",
+   "year": "2024",
+   "owned": false
+  },
+  {
+   "order": 4,
+   "series": "Action Comics",
+   "issue": "1064",
+   "volume": "1938",
+   "year": "2024",
+   "owned": true
+  },
+  {
+   "order": 5,
+   "series": "Power Girl",
+   "issue": "8",
+   "volume": "2023",
+   "year": "2024",
+   "owned": false
+  },
+  {
+   "order": 6,
+   "series": "Superman",
+   "issue": "13",
+   "volume": "2023",
+   "year": "2024",
+   "owned": true
+  },
+  {
+   "order": 7,
+   "series": "Superman: House of Brainiac Special",
+   "issue": "1",
+   "volume": "2024",
+   "year": "2024",
+   "owned": false
+  },
+  {
+   "order": 8,
+   "series": "Action Comics",
+   "issue": "1065",
+   "volume": "1938",
+   "year": "2024",
+   "owned": false
+  },
+  {
+   "order": 9,
+   "series": "Superman",
+   "issue": "14",
+   "volume": "2023",
+   "year": "2024",
+   "owned": true
+  },
+  {
+   "order": 10,
+   "series": "Action Comics",
+   "issue": "1066",
+   "volume": "1938",
+   "year": "2024",
+   "owned": true
+  },
+  {
+   "order": 11,
+   "series": "Superman",
+   "issue": "15",
+   "volume": "2023",
+   "year": "2024",
+   "owned": true
+  },
+  {
+   "order": 12,
+   "series": "Power Girl",
+   "issue": "9",
+   "volume": "2023",
+   "year": "2024",
+   "owned": false
+  },
+  {
+   "order": 13,
+   "series": "Power Girl",
+   "issue": "10",
+   "volume": "2023",
+   "year": "2024",
+   "owned": false
+  }
+ ]
+}

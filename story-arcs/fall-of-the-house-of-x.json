@@ -1,0 +1,376 @@
+{
+ "arc": "Fall of the House of X",
+ "slug": "fall-of-the-house-of-x",
+ "issue_count": 46,
+ "owned_count": 14,
+ "entries": [
+  {
+   "order": 1,
+   "series": "The Invincible Iron Man",
+   "issue": "13",
+   "volume": "2022",
+   "year": "2023",
+   "owned": false
+  },
+  {
+   "order": 2,
+   "series": "Fall of the House of X",
+   "issue": "1",
+   "volume": "2024",
+   "year": "2024",
+   "owned": false
+  },
+  {
+   "order": 3,
+   "series": "Rise of the Powers of X",
+   "issue": "1",
+   "volume": "2024",
+   "year": "2024",
+   "owned": false
+  },
+  {
+   "order": 4,
+   "series": "Cable",
+   "issue": "1",
+   "volume": "2024",
+   "year": "2024",
+   "owned": true
+  },
+  {
+   "order": 5,
+   "series": "X-Men",
+   "issue": "30",
+   "volume": "2021",
+   "year": "2024",
+   "owned": true
+  },
+  {
+   "order": 6,
+   "series": "The Invincible Iron Man",
+   "issue": "14",
+   "volume": "2022",
+   "year": "2024",
+   "owned": false
+  },
+  {
+   "order": 7,
+   "series": "Resurrection of Magneto",
+   "issue": "1",
+   "volume": "2024",
+   "year": "2024",
+   "owned": false
+  },
+  {
+   "order": 8,
+   "series": "Dead X-Men",
+   "issue": "1",
+   "volume": "2024",
+   "year": "2024",
+   "owned": false
+  },
+  {
+   "order": 9,
+   "series": "X-Men",
+   "issue": "31",
+   "volume": "2021",
+   "year": "2024",
+   "owned": true
+  },
+  {
+   "order": 10,
+   "series": "Fall of the House of X",
+   "issue": "2",
+   "volume": "2024",
+   "year": "2024",
+   "owned": false
+  },
+  {
+   "order": 11,
+   "series": "Ms. Marvel: Mutant Menace",
+   "issue": "2",
+   "volume": "2024",
+   "year": "2024",
+   "owned": false
+  },
+  {
+   "order": 12,
+   "series": "Rise of the Powers of X",
+   "issue": "2",
+   "volume": "2024",
+   "year": "2024",
+   "owned": false
+  },
+  {
+   "order": 13,
+   "series": "Cable",
+   "issue": "2",
+   "volume": "2024",
+   "year": "2024",
+   "owned": true
+  },
+  {
+   "order": 14,
+   "series": "Dead X-Men",
+   "issue": "2",
+   "volume": "2024",
+   "year": "2024",
+   "owned": false
+  },
+  {
+   "order": 15,
+   "series": "Resurrection of Magneto",
+   "issue": "2",
+   "volume": "2024",
+   "year": "2024",
+   "owned": false
+  },
+  {
+   "order": 16,
+   "series": "The Invincible Iron Man",
+   "issue": "15",
+   "volume": "2022",
+   "year": "2024",
+   "owned": false
+  },
+  {
+   "order": 17,
+   "series": "X-Men",
+   "issue": "32",
+   "volume": "2021",
+   "year": "2024",
+   "owned": true
+  },
+  {
+   "order": 18,
+   "series": "Ms. Marvel: Mutant Menace",
+   "issue": "1",
+   "volume": "2024",
+   "year": "2024",
+   "owned": false
+  },
+  {
+   "order": 19,
+   "series": "Fall of the House of X",
+   "issue": "3",
+   "volume": "2024",
+   "year": "2024",
+   "owned": false
+  },
+  {
+   "order": 20,
+   "series": "Dead X-Men",
+   "issue": "3",
+   "volume": "2024",
+   "year": "2024",
+   "owned": false
+  },
+  {
+   "order": 21,
+   "series": "X-Men Forever",
+   "issue": "1",
+   "volume": "2024",
+   "year": "2024",
+   "owned": true
+  },
+  {
+   "order": 22,
+   "series": "Resurrection of Magneto",
+   "issue": "3",
+   "volume": "2024",
+   "year": "2024",
+   "owned": false
+  },
+  {
+   "order": 23,
+   "series": "The Invincible Iron Man",
+   "issue": "16",
+   "volume": "2022",
+   "year": "2024",
+   "owned": false
+  },
+  {
+   "order": 24,
+   "series": "Rise of the Powers of X",
+   "issue": "3",
+   "volume": "2024",
+   "year": "2024",
+   "owned": false
+  },
+  {
+   "order": 25,
+   "series": "X-Men",
+   "issue": "33",
+   "volume": "2021",
+   "year": "2024",
+   "owned": true
+  },
+  {
+   "order": 26,
+   "series": "Avengers",
+   "issue": "12",
+   "volume": "2023",
+   "year": "2024",
+   "owned": true
+  },
+  {
+   "order": 27,
+   "series": "Fall of the House of X",
+   "issue": "4",
+   "volume": "2024",
+   "year": "2024",
+   "owned": false
+  },
+  {
+   "order": 28,
+   "series": "X-Men",
+   "issue": "34",
+   "volume": "2021",
+   "year": "2024",
+   "owned": true
+  },
+  {
+   "order": 29,
+   "series": "Rise of the Powers of X",
+   "issue": "4",
+   "volume": "2024",
+   "year": "2024",
+   "owned": false
+  },
+  {
+   "order": 30,
+   "series": "Avengers",
+   "issue": "13",
+   "volume": "2023",
+   "year": "2024",
+   "owned": true
+  },
+  {
+   "order": 31,
+   "series": "Resurrection of Magneto",
+   "issue": "4",
+   "volume": "2024",
+   "year": "2024",
+   "owned": false
+  },
+  {
+   "order": 32,
+   "series": "The Invincible Iron Man",
+   "issue": "17",
+   "volume": "2022",
+   "year": "2024",
+   "owned": false
+  },
+  {
+   "order": 33,
+   "series": "Ms. Marvel: Mutant Menace",
+   "issue": "3",
+   "volume": "2024",
+   "year": "2024",
+   "owned": false
+  },
+  {
+   "order": 34,
+   "series": "Dead X-Men",
+   "issue": "4",
+   "volume": "2024",
+   "year": "2024",
+   "owned": false
+  },
+  {
+   "order": 35,
+   "series": "X-Men Forever",
+   "issue": "2",
+   "volume": "2024",
+   "year": "2024",
+   "owned": true
+  },
+  {
+   "order": 36,
+   "series": "Cable",
+   "issue": "3",
+   "volume": "2024",
+   "year": "2024",
+   "owned": false
+  },
+  {
+   "order": 37,
+   "series": "Cable",
+   "issue": "4",
+   "volume": "2024",
+   "year": "2024",
+   "owned": false
+  },
+  {
+   "order": 38,
+   "series": "X-Men Forever",
+   "issue": "3",
+   "volume": "2024",
+   "year": "2024",
+   "owned": true
+  },
+  {
+   "order": 39,
+   "series": "The Invincible Iron Man",
+   "issue": "18",
+   "volume": "2022",
+   "year": "2024",
+   "owned": false
+  },
+  {
+   "order": 40,
+   "series": "The Invincible Iron Man",
+   "issue": "19",
+   "volume": "2022",
+   "year": "2024",
+   "owned": false
+  },
+  {
+   "order": 41,
+   "series": "The Invincible Iron Man",
+   "issue": "20",
+   "volume": "2022",
+   "year": "2024",
+   "owned": false
+  },
+  {
+   "order": 42,
+   "series": "Ms. Marvel: Mutant Menace",
+   "issue": "4",
+   "volume": "2024",
+   "year": "2024",
+   "owned": false
+  },
+  {
+   "order": 43,
+   "series": "X-Men Forever",
+   "issue": "4",
+   "volume": "2024",
+   "year": "2024",
+   "owned": true
+  },
+  {
+   "order": 44,
+   "series": "Fall of the House of X",
+   "issue": "5",
+   "volume": "2024",
+   "year": "2024",
+   "owned": false
+  },
+  {
+   "order": 45,
+   "series": "Rise of the Powers of X",
+   "issue": "5",
+   "volume": "2024",
+   "year": "2024",
+   "owned": false
+  },
+  {
+   "order": 46,
+   "series": "X-Men",
+   "issue": "35",
+   "volume": "2021",
+   "year": "2024",
+   "owned": true
+  }
+ ]
+}

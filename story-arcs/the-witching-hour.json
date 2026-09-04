@@ -1,0 +1,48 @@
+{
+ "arc": "The Witching Hour",
+ "slug": "the-witching-hour",
+ "issue_count": 5,
+ "owned_count": 2,
+ "entries": [
+  {
+   "order": 1,
+   "series": "Wonder Woman and Justice League Dark: The Witching Hour",
+   "issue": "1",
+   "volume": "2019",
+   "year": "2019",
+   "owned": false
+  },
+  {
+   "order": 2,
+   "series": "Wonder Woman",
+   "issue": "56",
+   "volume": "2016",
+   "year": "2018",
+   "owned": true
+  },
+  {
+   "order": 3,
+   "series": "Justice League Dark",
+   "issue": "4",
+   "volume": "2018",
+   "year": "2018",
+   "owned": false
+  },
+  {
+   "order": 4,
+   "series": "Wonder Woman",
+   "issue": "57",
+   "volume": "2016",
+   "year": "2018",
+   "owned": true
+  },
+  {
+   "order": 5,
+   "series": "Justice League Dark and Wonder Woman: The Witching Hour",
+   "issue": "1",
+   "volume": "2018",
+   "year": "2018",
+   "owned": false
+  }
+ ]
+}

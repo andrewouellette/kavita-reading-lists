@@ -1,0 +1,1000 @@
+{
+ "arc": "Infinite Crisis",
+ "slug": "infinite-crisis",
+ "issue_count": 124,
+ "owned_count": 6,
+ "entries": [
+  {
+   "order": 1,
+   "series": "Countdown to Infinite Crisis",
+   "issue": "1",
+   "volume": "2005",
+   "year": "2005",
+   "owned": false
+  },
+  {
+   "order": 2,
+   "series": "The OMAC Project",
+   "issue": "1",
+   "volume": "2005",
+   "year": "2005",
+   "owned": false
+  },
+  {
+   "order": 3,
+   "series": "Day of Vengeance",
+   "issue": "1",
+   "volume": "2005",
+   "year": "2005",
+   "owned": false
+  },
+  {
+   "order": 4,
+   "series": "Superman",
+   "issue": "216",
+   "volume": "1987",
+   "year": "2005",
+   "owned": false
+  },
+  {
+   "order": 5,
+   "series": "Villains United",
+   "issue": "1",
+   "volume": "2005",
+   "year": "2005",
+   "owned": false
+  },
+  {
+   "order": 6,
+   "series": "Rann/Thanagar War",
+   "issue": "1",
+   "volume": "2005",
+   "year": "2005",
+   "owned": false
+  },
+  {
+   "order": 7,
+   "series": "Day of Vengeance",
+   "issue": "2",
+   "volume": "2005",
+   "year": "2005",
+   "owned": false
+  },
+  {
+   "order": 8,
+   "series": "The OMAC Project",
+   "issue": "2",
+   "volume": "2005",
+   "year": "2005",
+   "owned": false
+  },
+  {
+   "order": 9,
+   "series": "Action Comics",
+   "issue": "826",
+   "volume": "1938",
+   "year": "2005",
+   "owned": false
+  },
+  {
+   "order": 10,
+   "series": "Adventures of Superman",
+   "issue": "639",
+   "volume": "1987",
+   "year": "2005",
+   "owned": false
+  },
+  {
+   "order": 11,
+   "series": "Villains United",
+   "issue": "2",
+   "volume": "2005",
+   "year": "2005",
+   "owned": false
+  },
+  {
+   "order": 12,
+   "series": "JLA",
+   "issue": "115",
+   "volume": "1997",
+   "year": "2005",
+   "owned": false
+  },
+  {
+   "order": 13,
+   "series": "Rann/Thanagar War",
+   "issue": "2",
+   "volume": "2005",
+   "year": "2005",
+   "owned": false
+  },
+  {
+   "order": 14,
+   "series": "Day of Vengeance",
+   "issue": "3",
+   "volume": "2005",
+   "year": "2005",
+   "owned": false
+  },
+  {
+   "order": 15,
+   "series": "The OMAC Project",
+   "issue": "3",
+   "volume": "2005",
+   "year": "2005",
+   "owned": false
+  },
+  {
+   "order": 16,
+   "series": "Superman",
+   "issue": "219",
+   "volume": "1987",
+   "year": "2005",
+   "owned": false
+  },
+  {
+   "order": 17,
+   "series": "Villains United",
+   "issue": "3",
+   "volume": "2005",
+   "year": "2005",
+   "owned": false
+  },
+  {
+   "order": 18,
+   "series": "Action Comics",
+   "issue": "829",
+   "volume": "1938",
+   "year": "2005",
+   "owned": false
+  },
+  {
+   "order": 19,
+   "series": "JLA",
+   "issue": "116",
+   "volume": "1997",
+   "year": "2005",
+   "owned": false
+  },
+  {
+   "order": 20,
+   "series": "Rann/Thanagar War",
+   "issue": "3",
+   "volume": "2005",
+   "year": "2005",
+   "owned": false
+  },
+  {
+   "order": 21,
+   "series": "Day of Vengeance",
+   "issue": "4",
+   "volume": "2005",
+   "year": "2005",
+   "owned": false
+  },
+  {
+   "order": 22,
+   "series": "The OMAC Project",
+   "issue": "4",
+   "volume": "2005",
+   "year": "2005",
+   "owned": false
+  },
+  {
+   "order": 23,
+   "series": "Wonder Woman",
+   "issue": "219",
+   "volume": "1987",
+   "year": "2005",
+   "owned": false
+  },
+  {
+   "order": 24,
+   "series": "JLA",
+   "issue": "117",
+   "volume": "1997",
+   "year": "2005",
+   "owned": false
+  },
+  {
+   "order": 25,
+   "series": "Rann/Thanagar War",
+   "issue": "4",
+   "volume": "2005",
+   "year": "2005",
+   "owned": false
+  },
+  {
+   "order": 26,
+   "series": "Villains United",
+   "issue": "4",
+   "volume": "2005",
+   "year": "2005",
+   "owned": false
+  },
+  {
+   "order": 27,
+   "series": "Day of Vengeance",
+   "issue": "5",
+   "volume": "2005",
+   "year": "2005",
+   "owned": false
+  },
+  {
+   "order": 28,
+   "series": "The OMAC Project",
+   "issue": "5",
+   "volume": "2005",
+   "year": "2005",
+   "owned": false
+  },
+  {
+   "order": 29,
+   "series": "Adventures of Superman",
+   "issue": "642",
+   "volume": "1987",
+   "year": "2005",
+   "owned": false
+  },
+  {
+   "order": 30,
+   "series": "Villains United",
+   "issue": "5",
+   "volume": "2005",
+   "year": "2005",
+   "owned": false
+  },
+  {
+   "order": 31,
+   "series": "JLA",
+   "issue": "118",
+   "volume": "1997",
+   "year": "2005",
+   "owned": false
+  },
+  {
+   "order": 32,
+   "series": "Rann/Thanagar War",
+   "issue": "5",
+   "volume": "2005",
+   "year": "2005",
+   "owned": false
+  },
+  {
+   "order": 33,
+   "series": "Day of Vengeance",
+   "issue": "6",
+   "volume": "2005",
+   "year": "2005",
+   "owned": false
+  },
+  {
+   "order": 34,
+   "series": "JLA",
+   "issue": "119",
+   "volume": "1997",
+   "year": "2005",
+   "owned": false
+  },
+  {
+   "order": 35,
+   "series": "The OMAC Project",
+   "issue": "6",
+   "volume": "2005",
+   "year": "2005",
+   "owned": false
+  },
+  {
+   "order": 36,
+   "series": "Rann/Thanagar War",
+   "issue": "6",
+   "volume": "2005",
+   "year": "2005",
+   "owned": false
+  },
+  {
+   "order": 37,
+   "series": "Villains United",
+   "issue": "6",
+   "volume": "2005",
+   "year": "2005",
+   "owned": false
+  },
+  {
+   "order": 38,
+   "series": "Infinite Crisis",
+   "issue": "1",
+   "volume": "2005",
+   "year": "2005",
+   "owned": false
+  },
+  {
+   "order": 39,
+   "series": "Gotham Central",
+   "issue": "37",
+   "volume": "2003",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 40,
+   "series": "JLA",
+   "issue": "124",
+   "volume": "1997",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 41,
+   "series": "JLA",
+   "issue": "125",
+   "volume": "1997",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 42,
+   "series": "Outsiders",
+   "issue": "29",
+   "volume": "2003",
+   "year": "2005",
+   "owned": false
+  },
+  {
+   "order": 43,
+   "series": "Outsiders",
+   "issue": "30",
+   "volume": "2003",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 44,
+   "series": "Teen Titans",
+   "issue": "29",
+   "volume": "2003",
+   "year": "2005",
+   "owned": true
+  },
+  {
+   "order": 45,
+   "series": "Wonder Woman",
+   "issue": "222",
+   "volume": "1987",
+   "year": "2005",
+   "owned": false
+  },
+  {
+   "order": 46,
+   "series": "Superman",
+   "issue": "223",
+   "volume": "1987",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 47,
+   "series": "Firestorm",
+   "issue": "19",
+   "volume": "2004",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 48,
+   "series": "Teen Titans",
+   "issue": "30",
+   "volume": "2003",
+   "year": "2006",
+   "owned": true
+  },
+  {
+   "order": 49,
+   "series": "Teen Titans",
+   "issue": "31",
+   "volume": "2003",
+   "year": "2006",
+   "owned": true
+  },
+  {
+   "order": 50,
+   "series": "Green Lantern",
+   "issue": "7",
+   "volume": "2005",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 51,
+   "series": "Green Lantern",
+   "issue": "8",
+   "volume": "2005",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 52,
+   "series": "Birds of Prey",
+   "issue": "86",
+   "volume": "1999",
+   "year": "2005",
+   "owned": false
+  },
+  {
+   "order": 53,
+   "series": "Birds of Prey",
+   "issue": "87",
+   "volume": "1999",
+   "year": "2005",
+   "owned": false
+  },
+  {
+   "order": 54,
+   "series": "Birds of Prey",
+   "issue": "88",
+   "volume": "1999",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 55,
+   "series": "Birds of Prey",
+   "issue": "89",
+   "volume": "1999",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 56,
+   "series": "Birds of Prey",
+   "issue": "90",
+   "volume": "1999",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 57,
+   "series": "Aquaman",
+   "issue": "32",
+   "volume": "2003",
+   "year": "2005",
+   "owned": false
+  },
+  {
+   "order": 58,
+   "series": "Aquaman",
+   "issue": "33",
+   "volume": "2003",
+   "year": "2005",
+   "owned": false
+  },
+  {
+   "order": 59,
+   "series": "Aquaman",
+   "issue": "34",
+   "volume": "2003",
+   "year": "2005",
+   "owned": false
+  },
+  {
+   "order": 60,
+   "series": "Aquaman",
+   "issue": "35",
+   "volume": "2003",
+   "year": "2005",
+   "owned": false
+  },
+  {
+   "order": 61,
+   "series": "Aquaman",
+   "issue": "36",
+   "volume": "2003",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 62,
+   "series": "Gotham Central",
+   "issue": "38",
+   "volume": "2003",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 63,
+   "series": "Gotham Central",
+   "issue": "39",
+   "volume": "2003",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 64,
+   "series": "Gotham Central",
+   "issue": "40",
+   "volume": "2003",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 65,
+   "series": "Superman",
+   "issue": "224",
+   "volume": "1987",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 66,
+   "series": "Wonder Woman",
+   "issue": "223",
+   "volume": "1987",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 67,
+   "series": "JSA: Classified",
+   "issue": "4",
+   "volume": "2005",
+   "year": "2005",
+   "owned": false
+  },
+  {
+   "order": 68,
+   "series": "Infinite Crisis",
+   "issue": "2",
+   "volume": "2005",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 69,
+   "series": "Firestorm",
+   "issue": "20",
+   "volume": "2004",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 70,
+   "series": "Outsiders",
+   "issue": "31",
+   "volume": "2003",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 71,
+   "series": "Outsiders",
+   "issue": "32",
+   "volume": "2003",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 72,
+   "series": "Outsiders",
+   "issue": "33",
+   "volume": "2003",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 73,
+   "series": "Hawkman",
+   "issue": "47",
+   "volume": "2002",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 74,
+   "series": "Hawkman",
+   "issue": "48",
+   "volume": "2002",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 75,
+   "series": "Hawkman",
+   "issue": "49",
+   "volume": "2002",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 76,
+   "series": "Superman",
+   "issue": "225",
+   "volume": "1987",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 77,
+   "series": "JSA",
+   "issue": "81",
+   "volume": "1999",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 78,
+   "series": "Aquaman",
+   "issue": "37",
+   "volume": "2003",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 79,
+   "series": "Wonder Woman",
+   "issue": "224",
+   "volume": "1987",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 80,
+   "series": "Infinite Crisis",
+   "issue": "3",
+   "volume": "2005",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 81,
+   "series": "JSA",
+   "issue": "82",
+   "volume": "1999",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 82,
+   "series": "Aquaman",
+   "issue": "38",
+   "volume": "2003",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 83,
+   "series": "Aquaman",
+   "issue": "39",
+   "volume": "2003",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 84,
+   "series": "Robin",
+   "issue": "143",
+   "volume": "1993",
+   "year": "2005",
+   "owned": false
+  },
+  {
+   "order": 85,
+   "series": "Robin",
+   "issue": "144",
+   "volume": "1993",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 86,
+   "series": "Robin",
+   "issue": "145",
+   "volume": "1993",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 87,
+   "series": "Day of Vengeance: Infinite Crisis Special",
+   "issue": "1",
+   "volume": "2006",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 88,
+   "series": "JSA: Classified",
+   "issue": "8",
+   "volume": "2005",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 89,
+   "series": "JSA: Classified",
+   "issue": "9",
+   "volume": "2005",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 90,
+   "series": "Batman",
+   "issue": "648",
+   "volume": "1940",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 91,
+   "series": "Batman",
+   "issue": "649",
+   "volume": "1940",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 92,
+   "series": "Batman",
+   "issue": "650",
+   "volume": "1940",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 93,
+   "series": "Infinite Crisis",
+   "issue": "4",
+   "volume": "2005",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 94,
+   "series": "Nightwing",
+   "issue": "116",
+   "volume": "1996",
+   "year": "2006",
+   "owned": true
+  },
+  {
+   "order": 95,
+   "series": "Teen Titans",
+   "issue": "32",
+   "volume": "2003",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 96,
+   "series": "Wonder Woman",
+   "issue": "225",
+   "volume": "1987",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 97,
+   "series": "Robin",
+   "issue": "146",
+   "volume": "1993",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 98,
+   "series": "Robin",
+   "issue": "147",
+   "volume": "1993",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 99,
+   "series": "Firestorm",
+   "issue": "21",
+   "volume": "2004",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 100,
+   "series": "Firestorm",
+   "issue": "22",
+   "volume": "2004",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 101,
+   "series": "Rann/Thanagar War: Infinite Crisis Special",
+   "issue": "1",
+   "volume": "2006",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 102,
+   "series": "Manhunter",
+   "issue": "16",
+   "volume": "2004",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 103,
+   "series": "Manhunter",
+   "issue": "17",
+   "volume": "2004",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 104,
+   "series": "Manhunter",
+   "issue": "18",
+   "volume": "2004",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 105,
+   "series": "Manhunter",
+   "issue": "19",
+   "volume": "2004",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 106,
+   "series": "Catwoman",
+   "issue": "52",
+   "volume": "2002",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 107,
+   "series": "Birds of Prey",
+   "issue": "91",
+   "volume": "1999",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 108,
+   "series": "Wonder Woman",
+   "issue": "226",
+   "volume": "1987",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 109,
+   "series": "Nightwing",
+   "issue": "117",
+   "volume": "1996",
+   "year": "2006",
+   "owned": true
+  },
+  {
+   "order": 110,
+   "series": "Infinite Crisis",
+   "issue": "5",
+   "volume": "2005",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 111,
+   "series": "Superman",
+   "issue": "226",
+   "volume": "1987",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 112,
+   "series": "Action Comics",
+   "issue": "836",
+   "volume": "1938",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 113,
+   "series": "Teen Titans",
+   "issue": "33",
+   "volume": "2003",
+   "year": "2006",
+   "owned": true
+  },
+  {
+   "order": 114,
+   "series": "Infinite Crisis Secret Files 2006",
+   "issue": "1",
+   "volume": "2006",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 115,
+   "series": "Infinite Crisis",
+   "issue": "6",
+   "volume": "2005",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 116,
+   "series": "The OMAC Project: Infinite Crisis Special",
+   "issue": "1",
+   "volume": "2006",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 117,
+   "series": "Villains United: Infinite Crisis Special",
+   "issue": "1",
+   "volume": "2006",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 118,
+   "series": "Infinite Crisis",
+   "issue": "7",
+   "volume": "2005",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 119,
+   "series": "Green Arrow",
+   "issue": "54",
+   "volume": "2001",
+   "year": "2005",
+   "owned": false
+  },
+  {
+   "order": 120,
+   "series": "Green Arrow",
+   "issue": "55",
+   "volume": "2001",
+   "year": "2005",
+   "owned": false
+  },
+  {
+   "order": 121,
+   "series": "Green Arrow",
+   "issue": "56",
+   "volume": "2001",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 122,
+   "series": "Green Arrow",
+   "issue": "57",
+   "volume": "2001",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 123,
+   "series": "Green Arrow",
+   "issue": "58",
+   "volume": "2001",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 124,
+   "series": "Green Arrow",
+   "issue": "59",
+   "volume": "2001",
+   "year": "2006",
+   "owned": false
+  }
+ ]
+}

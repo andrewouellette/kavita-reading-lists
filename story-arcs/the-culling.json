@@ -1,0 +1,72 @@
+{
+ "arc": "The Culling",
+ "slug": "the-culling",
+ "issue_count": 8,
+ "owned_count": 8,
+ "entries": [
+  {
+   "order": 1,
+   "series": "Superboy",
+   "issue": "8",
+   "volume": "2011",
+   "year": "2012",
+   "owned": true
+  },
+  {
+   "order": 2,
+   "series": "Legion Lost",
+   "issue": "8",
+   "volume": "2011",
+   "year": "2012",
+   "owned": true
+  },
+  {
+   "order": 3,
+   "series": "Teen Titans",
+   "issue": "8",
+   "volume": "2011",
+   "year": "2012",
+   "owned": true
+  },
+  {
+   "order": 4,
+   "series": "Teen Titans Annual",
+   "issue": "1",
+   "volume": "2012",
+   "year": "2012",
+   "owned": true
+  },
+  {
+   "order": 5,
+   "series": "Superboy",
+   "issue": "9",
+   "volume": "2011",
+   "year": "2012",
+   "owned": true
+  },
+  {
+   "order": 6,
+   "series": "Legion Lost",
+   "issue": "9",
+   "volume": "2011",
+   "year": "2012",
+   "owned": true
+  },
+  {
+   "order": 7,
+   "series": "Teen Titans",
+   "issue": "9",
+   "volume": "2011",
+   "year": "2012",
+   "owned": true
+  },
+  {
+   "order": 8,
+   "series": "The Ravagers",
+   "issue": "1",
+   "volume": "2012",
+   "year": "2012",
+   "owned": true
+  }
+ ]
+}

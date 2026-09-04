@@ -1,0 +1,3712 @@
+{
+ "arc": "Dawn of X / Reign of X / Destiny of X",
+ "slug": "dawn-of-x-reign-of-x-destiny-of-x",
+ "issue_count": 463,
+ "owned_count": 404,
+ "entries": [
+  {
+   "order": 1,
+   "series": "X-Men",
+   "issue": "1",
+   "volume": "2019",
+   "year": "2019",
+   "owned": true
+  },
+  {
+   "order": 2,
+   "series": "Marauders",
+   "issue": "1",
+   "volume": "2019",
+   "year": "2019",
+   "owned": true
+  },
+  {
+   "order": 3,
+   "series": "Excalibur",
+   "issue": "1",
+   "volume": "2019",
+   "year": "2019",
+   "owned": true
+  },
+  {
+   "order": 4,
+   "series": "New Mutants",
+   "issue": "1",
+   "volume": "2020",
+   "year": "2020",
+   "owned": true
+  },
+  {
+   "order": 5,
+   "series": "X-Force",
+   "issue": "1",
+   "volume": "2020",
+   "year": "2020",
+   "owned": true
+  },
+  {
+   "order": 6,
+   "series": "Fallen Angels",
+   "issue": "1",
+   "volume": "2019",
+   "year": "2020",
+   "owned": false
+  },
+  {
+   "order": 7,
+   "series": "X-Men",
+   "issue": "2",
+   "volume": "2019",
+   "year": "2020",
+   "owned": true
+  },
+  {
+   "order": 8,
+   "series": "Excalibur",
+   "issue": "2",
+   "volume": "2019",
+   "year": "2020",
+   "owned": true
+  },
+  {
+   "order": 9,
+   "series": "Marauders",
+   "issue": "2",
+   "volume": "2019",
+   "year": "2020",
+   "owned": true
+  },
+  {
+   "order": 10,
+   "series": "New Mutants",
+   "issue": "2",
+   "volume": "2020",
+   "year": "2020",
+   "owned": true
+  },
+  {
+   "order": 11,
+   "series": "X-Force",
+   "issue": "2",
+   "volume": "2020",
+   "year": "2020",
+   "owned": true
+  },
+  {
+   "order": 12,
+   "series": "Fallen Angels",
+   "issue": "2",
+   "volume": "2019",
+   "year": "2020",
+   "owned": false
+  },
+  {
+   "order": 13,
+   "series": "X-Men",
+   "issue": "3",
+   "volume": "2019",
+   "year": "2020",
+   "owned": true
+  },
+  {
+   "order": 14,
+   "series": "Marauders",
+   "issue": "3",
+   "volume": "2019",
+   "year": "2020",
+   "owned": true
+  },
+  {
+   "order": 15,
+   "series": "Excalibur",
+   "issue": "3",
+   "volume": "2019",
+   "year": "2020",
+   "owned": true
+  },
+  {
+   "order": 16,
+   "series": "New Mutants",
+   "issue": "3",
+   "volume": "2020",
+   "year": "2020",
+   "owned": true
+  },
+  {
+   "order": 17,
+   "series": "X-Force",
+   "issue": "3",
+   "volume": "2020",
+   "year": "2020",
+   "owned": true
+  },
+  {
+   "order": 18,
+   "series": "Fallen Angels",
+   "issue": "3",
+   "volume": "2019",
+   "year": "2020",
+   "owned": false
+  },
+  {
+   "order": 19,
+   "series": "Marauders",
+   "issue": "4",
+   "volume": "2019",
+   "year": "2020",
+   "owned": true
+  },
+  {
+   "order": 20,
+   "series": "Excalibur",
+   "issue": "4",
+   "volume": "2019",
+   "year": "2020",
+   "owned": true
+  },
+  {
+   "order": 21,
+   "series": "New Mutants",
+   "issue": "4",
+   "volume": "2020",
+   "year": "2020",
+   "owned": true
+  },
+  {
+   "order": 22,
+   "series": "X-Force",
+   "issue": "4",
+   "volume": "2020",
+   "year": "2020",
+   "owned": true
+  },
+  {
+   "order": 23,
+   "series": "Fallen Angels",
+   "issue": "4",
+   "volume": "2019",
+   "year": "2020",
+   "owned": false
+  },
+  {
+   "order": 24,
+   "series": "Incoming!",
+   "issue": "1",
+   "volume": "2019",
+   "year": "2020",
+   "owned": false
+  },
+  {
+   "order": 25,
+   "series": "X-Men",
+   "issue": "4",
+   "volume": "2019",
+   "year": "2020",
+   "owned": true
+  },
+  {
+   "order": 26,
+   "series": "Marauders",
+   "issue": "5",
+   "volume": "2019",
+   "year": "2020",
+   "owned": true
+  },
+  {
+   "order": 27,
+   "series": "Excalibur",
+   "issue": "5",
+   "volume": "2019",
+   "year": "2020",
+   "owned": true
+  },
+  {
+   "order": 28,
+   "series": "New Mutants",
+   "issue": "5",
+   "volume": "2020",
+   "year": "2020",
+   "owned": true
+  },
+  {
+   "order": 29,
+   "series": "X-Force",
+   "issue": "5",
+   "volume": "2020",
+   "year": "2020",
+   "owned": true
+  },
+  {
+   "order": 30,
+   "series": "Fallen Angels",
+   "issue": "5",
+   "volume": "2019",
+   "year": "2020",
+   "owned": false
+  },
+  {
+   "order": 31,
+   "series": "Marauders",
+   "issue": "6",
+   "volume": "2019",
+   "year": "2020",
+   "owned": true
+  },
+  {
+   "order": 32,
+   "series": "Excalibur",
+   "issue": "6",
+   "volume": "2019",
+   "year": "2020",
+   "owned": true
+  },
+  {
+   "order": 33,
+   "series": "X-Men",
+   "issue": "5",
+   "volume": "2019",
+   "year": "2020",
+   "owned": true
+  },
+  {
+   "order": 34,
+   "series": "Fallen Angels",
+   "issue": "6",
+   "volume": "2019",
+   "year": "2020",
+   "owned": false
+  },
+  {
+   "order": 35,
+   "series": "New Mutants",
+   "issue": "6",
+   "volume": "2020",
+   "year": "2020",
+   "owned": true
+  },
+  {
+   "order": 36,
+   "series": "X-Force",
+   "issue": "6",
+   "volume": "2020",
+   "year": "2020",
+   "owned": true
+  },
+  {
+   "order": 37,
+   "series": "X-Men",
+   "issue": "6",
+   "volume": "2019",
+   "year": "2020",
+   "owned": true
+  },
+  {
+   "order": 38,
+   "series": "X-Men/Fantastic Four",
+   "issue": "1",
+   "volume": "2020",
+   "year": "2020",
+   "owned": false
+  },
+  {
+   "order": 39,
+   "series": "X-Men/Fantastic Four",
+   "issue": "2",
+   "volume": "2020",
+   "year": "2020",
+   "owned": false
+  },
+  {
+   "order": 40,
+   "series": "X-Men/Fantastic Four",
+   "issue": "3",
+   "volume": "2020",
+   "year": "2020",
+   "owned": false
+  },
+  {
+   "order": 41,
+   "series": "X-Men/Fantastic Four",
+   "issue": "4",
+   "volume": "2020",
+   "year": "2020",
+   "owned": false
+  },
+  {
+   "order": 42,
+   "series": "Marauders",
+   "issue": "7",
+   "volume": "2019",
+   "year": "2020",
+   "owned": true
+  },
+  {
+   "order": 43,
+   "series": "Excalibur",
+   "issue": "7",
+   "volume": "2019",
+   "year": "2020",
+   "owned": true
+  },
+  {
+   "order": 44,
+   "series": "X-Force",
+   "issue": "7",
+   "volume": "2020",
+   "year": "2020",
+   "owned": true
+  },
+  {
+   "order": 45,
+   "series": "New Mutants",
+   "issue": "7",
+   "volume": "2020",
+   "year": "2020",
+   "owned": true
+  },
+  {
+   "order": 46,
+   "series": "Wolverine",
+   "issue": "1",
+   "volume": "2020",
+   "year": "2020",
+   "owned": true
+  },
+  {
+   "order": 47,
+   "series": "Marauders",
+   "issue": "8",
+   "volume": "2019",
+   "year": "2020",
+   "owned": true
+  },
+  {
+   "order": 48,
+   "series": "X-Men",
+   "issue": "7",
+   "volume": "2019",
+   "year": "2020",
+   "owned": true
+  },
+  {
+   "order": 49,
+   "series": "X-Force",
+   "issue": "8",
+   "volume": "2020",
+   "year": "2020",
+   "owned": true
+  },
+  {
+   "order": 50,
+   "series": "Giant-Size X-Men: Jean Grey and Emma Frost",
+   "issue": "1",
+   "volume": "2020",
+   "year": "2020",
+   "owned": false
+  },
+  {
+   "order": 51,
+   "series": "New Mutants",
+   "issue": "8",
+   "volume": "2020",
+   "year": "2020",
+   "owned": true
+  },
+  {
+   "order": 52,
+   "series": "Excalibur",
+   "issue": "8",
+   "volume": "2019",
+   "year": "2020",
+   "owned": true
+  },
+  {
+   "order": 53,
+   "series": "Marauders",
+   "issue": "9",
+   "volume": "2019",
+   "year": "2020",
+   "owned": true
+  },
+  {
+   "order": 54,
+   "series": "Cable",
+   "issue": "1",
+   "volume": "2020",
+   "year": "2020",
+   "owned": true
+  },
+  {
+   "order": 55,
+   "series": "X-Men",
+   "issue": "8",
+   "volume": "2019",
+   "year": "2020",
+   "owned": true
+  },
+  {
+   "order": 56,
+   "series": "New Mutants",
+   "issue": "9",
+   "volume": "2020",
+   "year": "2020",
+   "owned": true
+  },
+  {
+   "order": 57,
+   "series": "Excalibur",
+   "issue": "9",
+   "volume": "2019",
+   "year": "2020",
+   "owned": true
+  },
+  {
+   "order": 58,
+   "series": "X-Force",
+   "issue": "9",
+   "volume": "2020",
+   "year": "2020",
+   "owned": true
+  },
+  {
+   "order": 59,
+   "series": "Giant-Size X-Men: Nightcrawler",
+   "issue": "1",
+   "volume": "2020",
+   "year": "2020",
+   "owned": false
+  },
+  {
+   "order": 60,
+   "series": "Hellions",
+   "issue": "1",
+   "volume": "2020",
+   "year": "2020",
+   "owned": true
+  },
+  {
+   "order": 61,
+   "series": "Wolverine",
+   "issue": "2",
+   "volume": "2020",
+   "year": "2020",
+   "owned": true
+  },
+  {
+   "order": 62,
+   "series": "X-Men",
+   "issue": "9",
+   "volume": "2019",
+   "year": "2020",
+   "owned": true
+  },
+  {
+   "order": 63,
+   "series": "Marauders",
+   "issue": "10",
+   "volume": "2019",
+   "year": "2020",
+   "owned": true
+  },
+  {
+   "order": 64,
+   "series": "Excalibur",
+   "issue": "10",
+   "volume": "2019",
+   "year": "2020",
+   "owned": true
+  },
+  {
+   "order": 65,
+   "series": "New Mutants",
+   "issue": "10",
+   "volume": "2020",
+   "year": "2020",
+   "owned": true
+  },
+  {
+   "order": 66,
+   "series": "X-Force",
+   "issue": "10",
+   "volume": "2020",
+   "year": "2020",
+   "owned": true
+  },
+  {
+   "order": 67,
+   "series": "Giant-Size X-Men: Magneto",
+   "issue": "1",
+   "volume": "2020",
+   "year": "2020",
+   "owned": false
+  },
+  {
+   "order": 68,
+   "series": "New Mutants",
+   "issue": "11",
+   "volume": "2020",
+   "year": "2020",
+   "owned": true
+  },
+  {
+   "order": 69,
+   "series": "Wolverine",
+   "issue": "3",
+   "volume": "2020",
+   "year": "2020",
+   "owned": true
+  },
+  {
+   "order": 70,
+   "series": "Hellions",
+   "issue": "2",
+   "volume": "2020",
+   "year": "2020",
+   "owned": true
+  },
+  {
+   "order": 71,
+   "series": "X-Factor",
+   "issue": "1",
+   "volume": "2020",
+   "year": "2020",
+   "owned": true
+  },
+  {
+   "order": 72,
+   "series": "Cable",
+   "issue": "2",
+   "volume": "2020",
+   "year": "2020",
+   "owned": true
+  },
+  {
+   "order": 73,
+   "series": "X-Men",
+   "issue": "10",
+   "volume": "2019",
+   "year": "2020",
+   "owned": true
+  },
+  {
+   "order": 74,
+   "series": "Empyre: X-Men",
+   "issue": "1",
+   "volume": "2020",
+   "year": "2020",
+   "owned": false
+  },
+  {
+   "order": 75,
+   "series": "Empyre: X-Men",
+   "issue": "2",
+   "volume": "2020",
+   "year": "2020",
+   "owned": false
+  },
+  {
+   "order": 76,
+   "series": "Empyre: X-Men",
+   "issue": "3",
+   "volume": "2020",
+   "year": "2020",
+   "owned": false
+  },
+  {
+   "order": 77,
+   "series": "Empyre: X-Men",
+   "issue": "4",
+   "volume": "2020",
+   "year": "2020",
+   "owned": false
+  },
+  {
+   "order": 78,
+   "series": "X-Men",
+   "issue": "11",
+   "volume": "2019",
+   "year": "2020",
+   "owned": true
+  },
+  {
+   "order": 79,
+   "series": "Giant-Size X-Men: Fantomex",
+   "issue": "1",
+   "volume": "2020",
+   "year": "2020",
+   "owned": false
+  },
+  {
+   "order": 80,
+   "series": "Marauders",
+   "issue": "11",
+   "volume": "2019",
+   "year": "2020",
+   "owned": true
+  },
+  {
+   "order": 81,
+   "series": "X-Force",
+   "issue": "11",
+   "volume": "2020",
+   "year": "2020",
+   "owned": true
+  },
+  {
+   "order": 82,
+   "series": "Cable",
+   "issue": "3",
+   "volume": "2020",
+   "year": "2020",
+   "owned": false
+  },
+  {
+   "order": 83,
+   "series": "Cable",
+   "issue": "4",
+   "volume": "2020",
+   "year": "2020",
+   "owned": false
+  },
+  {
+   "order": 84,
+   "series": "Wolverine",
+   "issue": "4",
+   "volume": "2020",
+   "year": "2020",
+   "owned": true
+  },
+  {
+   "order": 85,
+   "series": "Wolverine",
+   "issue": "5",
+   "volume": "2020",
+   "year": "2020",
+   "owned": true
+  },
+  {
+   "order": 86,
+   "series": "Hellions",
+   "issue": "3",
+   "volume": "2020",
+   "year": "2020",
+   "owned": false
+  },
+  {
+   "order": 87,
+   "series": "X-Factor",
+   "issue": "2",
+   "volume": "2020",
+   "year": "2020",
+   "owned": false
+  },
+  {
+   "order": 88,
+   "series": "X-Factor",
+   "issue": "3",
+   "volume": "2020",
+   "year": "2020",
+   "owned": false
+  },
+  {
+   "order": 89,
+   "series": "New Mutants",
+   "issue": "12",
+   "volume": "2020",
+   "year": "2020",
+   "owned": false
+  },
+  {
+   "order": 90,
+   "series": "X-Force",
+   "issue": "12",
+   "volume": "2020",
+   "year": "2020",
+   "owned": false
+  },
+  {
+   "order": 91,
+   "series": "Marauders",
+   "issue": "12",
+   "volume": "2019",
+   "year": "2020",
+   "owned": true
+  },
+  {
+   "order": 92,
+   "series": "Hellions",
+   "issue": "4",
+   "volume": "2020",
+   "year": "2020",
+   "owned": false
+  },
+  {
+   "order": 93,
+   "series": "Juggernaut",
+   "issue": "1",
+   "volume": "2020",
+   "year": "2020",
+   "owned": false
+  },
+  {
+   "order": 94,
+   "series": "Juggernaut",
+   "issue": "2",
+   "volume": "2020",
+   "year": "2020",
+   "owned": false
+  },
+  {
+   "order": 95,
+   "series": "Juggernaut",
+   "issue": "3",
+   "volume": "2020",
+   "year": "2021",
+   "owned": false
+  },
+  {
+   "order": 96,
+   "series": "Juggernaut",
+   "issue": "4",
+   "volume": "2020",
+   "year": "2021",
+   "owned": false
+  },
+  {
+   "order": 97,
+   "series": "Juggernaut",
+   "issue": "5",
+   "volume": "2020",
+   "year": "2021",
+   "owned": true
+  },
+  {
+   "order": 98,
+   "series": "Giant-Size X-Men: Storm",
+   "issue": "1",
+   "volume": "2020",
+   "year": "2020",
+   "owned": false
+  },
+  {
+   "order": 99,
+   "series": "Excalibur",
+   "issue": "11",
+   "volume": "2019",
+   "year": "2020",
+   "owned": true
+  },
+  {
+   "order": 100,
+   "series": "Excalibur",
+   "issue": "12",
+   "volume": "2019",
+   "year": "2020",
+   "owned": false
+  },
+  {
+   "order": 101,
+   "series": "X-Men",
+   "issue": "12",
+   "volume": "2019",
+   "year": "2020",
+   "owned": true
+  },
+  {
+   "order": 102,
+   "series": "S.W.O.R.D.",
+   "issue": "1",
+   "volume": "2020",
+   "year": "2021",
+   "owned": false
+  },
+  {
+   "order": 103,
+   "series": "X-Factor",
+   "issue": "5",
+   "volume": "2020",
+   "year": "2021",
+   "owned": false
+  },
+  {
+   "order": 104,
+   "series": "Hellions",
+   "issue": "7",
+   "volume": "2020",
+   "year": "2021",
+   "owned": false
+  },
+  {
+   "order": 105,
+   "series": "Hellions",
+   "issue": "8",
+   "volume": "2020",
+   "year": "2021",
+   "owned": true
+  },
+  {
+   "order": 106,
+   "series": "Cable",
+   "issue": "7",
+   "volume": "2020",
+   "year": "2021",
+   "owned": true
+  },
+  {
+   "order": 107,
+   "series": "Cable",
+   "issue": "8",
+   "volume": "2020",
+   "year": "2021",
+   "owned": true
+  },
+  {
+   "order": 108,
+   "series": "X-Men",
+   "issue": "16",
+   "volume": "2019",
+   "year": "2021",
+   "owned": true
+  },
+  {
+   "order": 109,
+   "series": "Marauders",
+   "issue": "16",
+   "volume": "2019",
+   "year": "2021",
+   "owned": false
+  },
+  {
+   "order": 110,
+   "series": "New Mutants",
+   "issue": "14",
+   "volume": "2020",
+   "year": "2021",
+   "owned": false
+  },
+  {
+   "order": 111,
+   "series": "New Mutants",
+   "issue": "15",
+   "volume": "2020",
+   "year": "2021",
+   "owned": true
+  },
+  {
+   "order": 112,
+   "series": "New Mutants",
+   "issue": "16",
+   "volume": "2020",
+   "year": "2021",
+   "owned": true
+  },
+  {
+   "order": 113,
+   "series": "X-Force",
+   "issue": "15",
+   "volume": "2020",
+   "year": "2021",
+   "owned": false
+  },
+  {
+   "order": 114,
+   "series": "X-Force",
+   "issue": "16",
+   "volume": "2020",
+   "year": "2021",
+   "owned": true
+  },
+  {
+   "order": 115,
+   "series": "Excalibur",
+   "issue": "16",
+   "volume": "2019",
+   "year": "2021",
+   "owned": false
+  },
+  {
+   "order": 116,
+   "series": "Excalibur",
+   "issue": "17",
+   "volume": "2019",
+   "year": "2021",
+   "owned": true
+  },
+  {
+   "order": 117,
+   "series": "Excalibur",
+   "issue": "18",
+   "volume": "2019",
+   "year": "2021",
+   "owned": true
+  },
+  {
+   "order": 118,
+   "series": "Wolverine",
+   "issue": "8",
+   "volume": "2020",
+   "year": "2021",
+   "owned": true
+  },
+  {
+   "order": 119,
+   "series": "Wolverine",
+   "issue": "9",
+   "volume": "2020",
+   "year": "2021",
+   "owned": true
+  },
+  {
+   "order": 120,
+   "series": "Wolverine",
+   "issue": "10",
+   "volume": "2020",
+   "year": "2021",
+   "owned": true
+  },
+  {
+   "order": 121,
+   "series": "X-Factor",
+   "issue": "6",
+   "volume": "2020",
+   "year": "2021",
+   "owned": true
+  },
+  {
+   "order": 122,
+   "series": "Marauders",
+   "issue": "17",
+   "volume": "2019",
+   "year": "2021",
+   "owned": true
+  },
+  {
+   "order": 123,
+   "series": "Marauders",
+   "issue": "18",
+   "volume": "2019",
+   "year": "2021",
+   "owned": true
+  },
+  {
+   "order": 124,
+   "series": "S.W.O.R.D.",
+   "issue": "2",
+   "volume": "2020",
+   "year": "2021",
+   "owned": true
+  },
+  {
+   "order": 125,
+   "series": "S.W.O.R.D.",
+   "issue": "3",
+   "volume": "2020",
+   "year": "2021",
+   "owned": true
+  },
+  {
+   "order": 126,
+   "series": "S.W.O.R.D.",
+   "issue": "4",
+   "volume": "2020",
+   "year": "2021",
+   "owned": true
+  },
+  {
+   "order": 127,
+   "series": "King In Black: Marauders",
+   "issue": "1",
+   "volume": "2021",
+   "year": "2021",
+   "owned": true
+  },
+  {
+   "order": 128,
+   "series": "X-Men",
+   "issue": "17",
+   "volume": "2019",
+   "year": "2021",
+   "owned": true
+  },
+  {
+   "order": 129,
+   "series": "Children of the Atom",
+   "issue": "1",
+   "volume": "2021",
+   "year": "2021",
+   "owned": true
+  },
+  {
+   "order": 130,
+   "series": "Children of the Atom",
+   "issue": "2",
+   "volume": "2021",
+   "year": "2021",
+   "owned": true
+  },
+  {
+   "order": 131,
+   "series": "X-Factor",
+   "issue": "7",
+   "volume": "2020",
+   "year": "2021",
+   "owned": true
+  },
+  {
+   "order": 132,
+   "series": "X-Factor",
+   "issue": "8",
+   "volume": "2020",
+   "year": "2021",
+   "owned": true
+  },
+  {
+   "order": 133,
+   "series": "X-Force",
+   "issue": "17",
+   "volume": "2020",
+   "year": "2021",
+   "owned": true
+  },
+  {
+   "order": 134,
+   "series": "Excalibur",
+   "issue": "19",
+   "volume": "2019",
+   "year": "2021",
+   "owned": true
+  },
+  {
+   "order": 135,
+   "series": "Excalibur",
+   "issue": "20",
+   "volume": "2019",
+   "year": "2021",
+   "owned": true
+  },
+  {
+   "order": 136,
+   "series": "X-Force",
+   "issue": "18",
+   "volume": "2020",
+   "year": "2021",
+   "owned": true
+  },
+  {
+   "order": 137,
+   "series": "Wolverine",
+   "issue": "11",
+   "volume": "2020",
+   "year": "2021",
+   "owned": true
+  },
+  {
+   "order": 138,
+   "series": "X-Force",
+   "issue": "19",
+   "volume": "2020",
+   "year": "2021",
+   "owned": true
+  },
+  {
+   "order": 139,
+   "series": "Wolverine",
+   "issue": "12",
+   "volume": "2020",
+   "year": "2021",
+   "owned": true
+  },
+  {
+   "order": 140,
+   "series": "Hellions",
+   "issue": "9",
+   "volume": "2020",
+   "year": "2021",
+   "owned": true
+  },
+  {
+   "order": 141,
+   "series": "Hellions",
+   "issue": "10",
+   "volume": "2020",
+   "year": "2021",
+   "owned": true
+  },
+  {
+   "order": 142,
+   "series": "Hellions",
+   "issue": "11",
+   "volume": "2020",
+   "year": "2021",
+   "owned": true
+  },
+  {
+   "order": 143,
+   "series": "Cable",
+   "issue": "9",
+   "volume": "2020",
+   "year": "2021",
+   "owned": true
+  },
+  {
+   "order": 144,
+   "series": "Cable",
+   "issue": "10",
+   "volume": "2020",
+   "year": "2021",
+   "owned": true
+  },
+  {
+   "order": 145,
+   "series": "Marauders",
+   "issue": "19",
+   "volume": "2019",
+   "year": "2021",
+   "owned": true
+  },
+  {
+   "order": 146,
+   "series": "X-Men",
+   "issue": "18",
+   "volume": "2019",
+   "year": "2021",
+   "owned": true
+  },
+  {
+   "order": 147,
+   "series": "X-Men",
+   "issue": "19",
+   "volume": "2019",
+   "year": "2021",
+   "owned": true
+  },
+  {
+   "order": 148,
+   "series": "Way of X",
+   "issue": "1",
+   "volume": "2021",
+   "year": "2021",
+   "owned": true
+  },
+  {
+   "order": 149,
+   "series": "S.W.O.R.D.",
+   "issue": "5",
+   "volume": "2020",
+   "year": "2021",
+   "owned": true
+  },
+  {
+   "order": 150,
+   "series": "New Mutants",
+   "issue": "17",
+   "volume": "2020",
+   "year": "2021",
+   "owned": true
+  },
+  {
+   "order": 151,
+   "series": "New Mutants",
+   "issue": "18",
+   "volume": "2020",
+   "year": "2021",
+   "owned": true
+  },
+  {
+   "order": 152,
+   "series": "Children of the Atom",
+   "issue": "3",
+   "volume": "2021",
+   "year": "2021",
+   "owned": true
+  },
+  {
+   "order": 153,
+   "series": "X-Factor",
+   "issue": "9",
+   "volume": "2020",
+   "year": "2021",
+   "owned": true
+  },
+  {
+   "order": 154,
+   "series": "X-Corp",
+   "issue": "1",
+   "volume": "2021",
+   "year": "2021",
+   "owned": true
+  },
+  {
+   "order": 155,
+   "series": "Way of X",
+   "issue": "2",
+   "volume": "2021",
+   "year": "2021",
+   "owned": true
+  },
+  {
+   "order": 156,
+   "series": "Cable",
+   "issue": "11",
+   "volume": "2020",
+   "year": "2021",
+   "owned": true
+  },
+  {
+   "order": 157,
+   "series": "Cable",
+   "issue": "12",
+   "volume": "2020",
+   "year": "2021",
+   "owned": true
+  },
+  {
+   "order": 158,
+   "series": "Marauders",
+   "issue": "20",
+   "volume": "2019",
+   "year": "2021",
+   "owned": true
+  },
+  {
+   "order": 159,
+   "series": "Children of the Atom",
+   "issue": "4",
+   "volume": "2021",
+   "year": "2021",
+   "owned": true
+  },
+  {
+   "order": 160,
+   "series": "Children of the Atom",
+   "issue": "5",
+   "volume": "2021",
+   "year": "2021",
+   "owned": true
+  },
+  {
+   "order": 161,
+   "series": "X-Men",
+   "issue": "20",
+   "volume": "2019",
+   "year": "2021",
+   "owned": true
+  },
+  {
+   "order": 162,
+   "series": "Marauders",
+   "issue": "22",
+   "volume": "2019",
+   "year": "2021",
+   "owned": true
+  },
+  {
+   "order": 163,
+   "series": "X-Men",
+   "issue": "1",
+   "volume": "2021",
+   "year": "2021",
+   "owned": true
+  },
+  {
+   "order": 164,
+   "series": "Children of the Atom",
+   "issue": "6",
+   "volume": "2021",
+   "year": "2021",
+   "owned": true
+  },
+  {
+   "order": 165,
+   "series": "X-Men: The Trial of Magneto",
+   "issue": "1",
+   "volume": "2021",
+   "year": "2021",
+   "owned": true
+  },
+  {
+   "order": 166,
+   "series": "X-Corp",
+   "issue": "3",
+   "volume": "2021",
+   "year": "2021",
+   "owned": true
+  },
+  {
+   "order": 167,
+   "series": "Hellions",
+   "issue": "13",
+   "volume": "2020",
+   "year": "2021",
+   "owned": true
+  },
+  {
+   "order": 168,
+   "series": "Hellions",
+   "issue": "14",
+   "volume": "2020",
+   "year": "2021",
+   "owned": true
+  },
+  {
+   "order": 169,
+   "series": "Hellions",
+   "issue": "15",
+   "volume": "2020",
+   "year": "2021",
+   "owned": true
+  },
+  {
+   "order": 170,
+   "series": "Excalibur",
+   "issue": "22",
+   "volume": "2019",
+   "year": "2021",
+   "owned": true
+  },
+  {
+   "order": 171,
+   "series": "X-Force",
+   "issue": "21",
+   "volume": "2020",
+   "year": "2021",
+   "owned": true
+  },
+  {
+   "order": 172,
+   "series": "X-Force",
+   "issue": "22",
+   "volume": "2020",
+   "year": "2021",
+   "owned": true
+  },
+  {
+   "order": 173,
+   "series": "S.W.O.R.D.",
+   "issue": "7",
+   "volume": "2020",
+   "year": "2021",
+   "owned": true
+  },
+  {
+   "order": 174,
+   "series": "New Mutants",
+   "issue": "20",
+   "volume": "2020",
+   "year": "2021",
+   "owned": true
+  },
+  {
+   "order": 175,
+   "series": "Way of X",
+   "issue": "4",
+   "volume": "2021",
+   "year": "2021",
+   "owned": true
+  },
+  {
+   "order": 176,
+   "series": "X-Men",
+   "issue": "2",
+   "volume": "2021",
+   "year": "2021",
+   "owned": true
+  },
+  {
+   "order": 177,
+   "series": "Wolverine",
+   "issue": "14",
+   "volume": "2020",
+   "year": "2021",
+   "owned": true
+  },
+  {
+   "order": 178,
+   "series": "Wolverine",
+   "issue": "15",
+   "volume": "2020",
+   "year": "2021",
+   "owned": true
+  },
+  {
+   "order": 179,
+   "series": "Wolverine",
+   "issue": "16",
+   "volume": "2020",
+   "year": "2021",
+   "owned": true
+  },
+  {
+   "order": 180,
+   "series": "Marauders",
+   "issue": "23",
+   "volume": "2019",
+   "year": "2021",
+   "owned": true
+  },
+  {
+   "order": 181,
+   "series": "X-Corp",
+   "issue": "4",
+   "volume": "2021",
+   "year": "2021",
+   "owned": true
+  },
+  {
+   "order": 182,
+   "series": "X-Corp",
+   "issue": "5",
+   "volume": "2021",
+   "year": "2021",
+   "owned": true
+  },
+  {
+   "order": 183,
+   "series": "Way of X",
+   "issue": "5",
+   "volume": "2021",
+   "year": "2021",
+   "owned": true
+  },
+  {
+   "order": 184,
+   "series": "X-Men: The Onslaught Revelation",
+   "issue": "1",
+   "volume": "2021",
+   "year": "2021",
+   "owned": true
+  },
+  {
+   "order": 185,
+   "series": "Cable: Reloaded",
+   "issue": "1",
+   "volume": "2021",
+   "year": "2021",
+   "owned": true
+  },
+  {
+   "order": 186,
+   "series": "New Mutants",
+   "issue": "21",
+   "volume": "2020",
+   "year": "2021",
+   "owned": true
+  },
+  {
+   "order": 187,
+   "series": "Excalibur",
+   "issue": "23",
+   "volume": "2019",
+   "year": "2021",
+   "owned": true
+  },
+  {
+   "order": 188,
+   "series": "X-Force",
+   "issue": "23",
+   "volume": "2020",
+   "year": "2021",
+   "owned": true
+  },
+  {
+   "order": 189,
+   "series": "X-Men: The Trial of Magneto",
+   "issue": "2",
+   "volume": "2021",
+   "year": "2021",
+   "owned": true
+  },
+  {
+   "order": 190,
+   "series": "Marauders",
+   "issue": "24",
+   "volume": "2019",
+   "year": "2021",
+   "owned": true
+  },
+  {
+   "order": 191,
+   "series": "X-Men",
+   "issue": "3",
+   "volume": "2021",
+   "year": "2021",
+   "owned": true
+  },
+  {
+   "order": 192,
+   "series": "S.W.O.R.D.",
+   "issue": "8",
+   "volume": "2020",
+   "year": "2021",
+   "owned": true
+  },
+  {
+   "order": 193,
+   "series": "Inferno",
+   "issue": "1",
+   "volume": "2021",
+   "year": "2021",
+   "owned": true
+  },
+  {
+   "order": 194,
+   "series": "Hellions",
+   "issue": "16",
+   "volume": "2020",
+   "year": "2021",
+   "owned": true
+  },
+  {
+   "order": 195,
+   "series": "Excalibur",
+   "issue": "24",
+   "volume": "2019",
+   "year": "2021",
+   "owned": true
+  },
+  {
+   "order": 196,
+   "series": "New Mutants",
+   "issue": "22",
+   "volume": "2020",
+   "year": "2021",
+   "owned": true
+  },
+  {
+   "order": 197,
+   "series": "X-Men",
+   "issue": "4",
+   "volume": "2021",
+   "year": "2021",
+   "owned": true
+  },
+  {
+   "order": 198,
+   "series": "X-Force",
+   "issue": "24",
+   "volume": "2020",
+   "year": "2021",
+   "owned": true
+  },
+  {
+   "order": 199,
+   "series": "S.W.O.R.D.",
+   "issue": "9",
+   "volume": "2020",
+   "year": "2021",
+   "owned": true
+  },
+  {
+   "order": 200,
+   "series": "Wolverine",
+   "issue": "17",
+   "volume": "2020",
+   "year": "2021",
+   "owned": true
+  },
+  {
+   "order": 201,
+   "series": "X-Men: The Trial of Magneto",
+   "issue": "3",
+   "volume": "2021",
+   "year": "2021",
+   "owned": true
+  },
+  {
+   "order": 202,
+   "series": "Marauders",
+   "issue": "25",
+   "volume": "2019",
+   "year": "2021",
+   "owned": true
+  },
+  {
+   "order": 203,
+   "series": "Inferno",
+   "issue": "2",
+   "volume": "2021",
+   "year": "2021",
+   "owned": true
+  },
+  {
+   "order": 204,
+   "series": "Excalibur",
+   "issue": "25",
+   "volume": "2019",
+   "year": "2022",
+   "owned": true
+  },
+  {
+   "order": 205,
+   "series": "Hellions",
+   "issue": "17",
+   "volume": "2020",
+   "year": "2022",
+   "owned": true
+  },
+  {
+   "order": 206,
+   "series": "S.W.O.R.D.",
+   "issue": "10",
+   "volume": "2020",
+   "year": "2022",
+   "owned": true
+  },
+  {
+   "order": 207,
+   "series": "New Mutants",
+   "issue": "23",
+   "volume": "2020",
+   "year": "2022",
+   "owned": true
+  },
+  {
+   "order": 208,
+   "series": "X-Force",
+   "issue": "25",
+   "volume": "2020",
+   "year": "2022",
+   "owned": true
+  },
+  {
+   "order": 209,
+   "series": "Wolverine",
+   "issue": "18",
+   "volume": "2020",
+   "year": "2022",
+   "owned": true
+  },
+  {
+   "order": 210,
+   "series": "X-Men",
+   "issue": "5",
+   "volume": "2021",
+   "year": "2022",
+   "owned": true
+  },
+  {
+   "order": 211,
+   "series": "X-Men: The Trial of Magneto",
+   "issue": "4",
+   "volume": "2021",
+   "year": "2022",
+   "owned": true
+  },
+  {
+   "order": 212,
+   "series": "Marauders",
+   "issue": "26",
+   "volume": "2019",
+   "year": "2022",
+   "owned": true
+  },
+  {
+   "order": 213,
+   "series": "Hellions",
+   "issue": "18",
+   "volume": "2020",
+   "year": "2022",
+   "owned": true
+  },
+  {
+   "order": 214,
+   "series": "Inferno",
+   "issue": "3",
+   "volume": "2021",
+   "year": "2022",
+   "owned": true
+  },
+  {
+   "order": 215,
+   "series": "Excalibur",
+   "issue": "26",
+   "volume": "2019",
+   "year": "2022",
+   "owned": true
+  },
+  {
+   "order": 216,
+   "series": "New Mutants",
+   "issue": "24",
+   "volume": "2020",
+   "year": "2022",
+   "owned": true
+  },
+  {
+   "order": 217,
+   "series": "X-Force",
+   "issue": "26",
+   "volume": "2020",
+   "year": "2022",
+   "owned": true
+  },
+  {
+   "order": 218,
+   "series": "Wolverine",
+   "issue": "19",
+   "volume": "2020",
+   "year": "2022",
+   "owned": true
+  },
+  {
+   "order": 219,
+   "series": "S.W.O.R.D.",
+   "issue": "11",
+   "volume": "2020",
+   "year": "2022",
+   "owned": true
+  },
+  {
+   "order": 220,
+   "series": "X-Men",
+   "issue": "6",
+   "volume": "2021",
+   "year": "2022",
+   "owned": true
+  },
+  {
+   "order": 221,
+   "series": "X-Men: The Trial of Magneto",
+   "issue": "5",
+   "volume": "2021",
+   "year": "2022",
+   "owned": true
+  },
+  {
+   "order": 222,
+   "series": "Marauders",
+   "issue": "27",
+   "volume": "2019",
+   "year": "2022",
+   "owned": true
+  },
+  {
+   "order": 223,
+   "series": "Inferno",
+   "issue": "4",
+   "volume": "2021",
+   "year": "2022",
+   "owned": true
+  },
+  {
+   "order": 224,
+   "series": "X Lives of Wolverine",
+   "issue": "1",
+   "volume": "2022",
+   "year": "2022",
+   "owned": true
+  },
+  {
+   "order": 225,
+   "series": "X Deaths of Wolverine",
+   "issue": "1",
+   "volume": "2022",
+   "year": "2022",
+   "owned": true
+  },
+  {
+   "order": 226,
+   "series": "X Lives of Wolverine",
+   "issue": "2",
+   "volume": "2022",
+   "year": "2022",
+   "owned": true
+  },
+  {
+   "order": 227,
+   "series": "X Deaths of Wolverine",
+   "issue": "2",
+   "volume": "2022",
+   "year": "2022",
+   "owned": true
+  },
+  {
+   "order": 228,
+   "series": "X Lives of Wolverine",
+   "issue": "3",
+   "volume": "2022",
+   "year": "2022",
+   "owned": true
+  },
+  {
+   "order": 229,
+   "series": "X Deaths of Wolverine",
+   "issue": "3",
+   "volume": "2022",
+   "year": "2022",
+   "owned": true
+  },
+  {
+   "order": 230,
+   "series": "X Lives of Wolverine",
+   "issue": "4",
+   "volume": "2022",
+   "year": "2022",
+   "owned": true
+  },
+  {
+   "order": 231,
+   "series": "X Deaths of Wolverine",
+   "issue": "4",
+   "volume": "2022",
+   "year": "2022",
+   "owned": true
+  },
+  {
+   "order": 232,
+   "series": "X Lives of Wolverine",
+   "issue": "5",
+   "volume": "2022",
+   "year": "2022",
+   "owned": true
+  },
+  {
+   "order": 233,
+   "series": "X Deaths of Wolverine",
+   "issue": "5",
+   "volume": "2022",
+   "year": "2022",
+   "owned": true
+  },
+  {
+   "order": 234,
+   "series": "Marauders Annual",
+   "issue": "1",
+   "volume": "2022",
+   "year": "2022",
+   "owned": true
+  },
+  {
+   "order": 235,
+   "series": "X-Men",
+   "issue": "10",
+   "volume": "2021",
+   "year": "2022",
+   "owned": true
+  },
+  {
+   "order": 236,
+   "series": "The Secret X-Men",
+   "issue": "1",
+   "volume": "2022",
+   "year": "2022",
+   "owned": true
+  },
+  {
+   "order": 237,
+   "series": "Immortal X-Men",
+   "issue": "1",
+   "volume": "2022",
+   "year": "2022",
+   "owned": true
+  },
+  {
+   "order": 238,
+   "series": "Immortal X-Men",
+   "issue": "2",
+   "volume": "2022",
+   "year": "2022",
+   "owned": true
+  },
+  {
+   "order": 239,
+   "series": "X-Men: Red",
+   "issue": "1",
+   "volume": "2022",
+   "year": "2022",
+   "owned": true
+  },
+  {
+   "order": 240,
+   "series": "Marauders",
+   "issue": "1",
+   "volume": "2022",
+   "year": "2022",
+   "owned": true
+  },
+  {
+   "order": 241,
+   "series": "X-Force Annual",
+   "issue": "1",
+   "volume": "2022",
+   "year": "2022",
+   "owned": true
+  },
+  {
+   "order": 242,
+   "series": "X-Force",
+   "issue": "27",
+   "volume": "2020",
+   "year": "2022",
+   "owned": true
+  },
+  {
+   "order": 243,
+   "series": "X-Force",
+   "issue": "28",
+   "volume": "2020",
+   "year": "2022",
+   "owned": true
+  },
+  {
+   "order": 244,
+   "series": "X-Force",
+   "issue": "29",
+   "volume": "2020",
+   "year": "2022",
+   "owned": true
+  },
+  {
+   "order": 245,
+   "series": "Knights of X",
+   "issue": "1",
+   "volume": "2022",
+   "year": "2022",
+   "owned": true
+  },
+  {
+   "order": 246,
+   "series": "Marauders",
+   "issue": "2",
+   "volume": "2022",
+   "year": "2022",
+   "owned": true
+  },
+  {
+   "order": 247,
+   "series": "Marauders",
+   "issue": "3",
+   "volume": "2022",
+   "year": "2022",
+   "owned": true
+  },
+  {
+   "order": 248,
+   "series": "Marauders",
+   "issue": "4",
+   "volume": "2022",
+   "year": "2022",
+   "owned": true
+  },
+  {
+   "order": 249,
+   "series": "Marauders",
+   "issue": "5",
+   "volume": "2022",
+   "year": "2022",
+   "owned": true
+  },
+  {
+   "order": 250,
+   "series": "Giant-Size X-Men: Thunderbird",
+   "issue": "1",
+   "volume": "2022",
+   "year": "2022",
+   "owned": true
+  },
+  {
+   "order": 251,
+   "series": "X-Men",
+   "issue": "11",
+   "volume": "2021",
+   "year": "2022",
+   "owned": true
+  },
+  {
+   "order": 252,
+   "series": "Free Comic Book Day 2022: Avengers/X-Men",
+   "issue": "1",
+   "volume": "2022",
+   "year": "2022",
+   "owned": false
+  },
+  {
+   "order": 253,
+   "series": "Free Comic Book Day 2022: Spider-Man/Venom",
+   "issue": "1",
+   "volume": "2022",
+   "year": "2022",
+   "owned": false
+  },
+  {
+   "order": 254,
+   "series": "X-Men: Red",
+   "issue": "2",
+   "volume": "2022",
+   "year": "2022",
+   "owned": true
+  },
+  {
+   "order": 255,
+   "series": "Knights of X",
+   "issue": "2",
+   "volume": "2022",
+   "year": "2022",
+   "owned": true
+  },
+  {
+   "order": 256,
+   "series": "Marvel's Voices Infinity Comic",
+   "issue": "1",
+   "volume": "2022",
+   "year": "2022",
+   "owned": false
+  },
+  {
+   "order": 257,
+   "series": "Marvel's Voices Infinity Comic",
+   "issue": "2",
+   "volume": "2022",
+   "year": "2022",
+   "owned": false
+  },
+  {
+   "order": 258,
+   "series": "Marvel's Voices Infinity Comic",
+   "issue": "3",
+   "volume": "2022",
+   "year": "2022",
+   "owned": false
+  },
+  {
+   "order": 259,
+   "series": "Marvel's Voices Infinity Comic",
+   "issue": "4",
+   "volume": "2022",
+   "year": "2022",
+   "owned": false
+  },
+  {
+   "order": 260,
+   "series": "New Mutants",
+   "issue": "25",
+   "volume": "2020",
+   "year": "2022",
+   "owned": true
+  },
+  {
+   "order": 261,
+   "series": "Legion of X",
+   "issue": "1",
+   "volume": "2022",
+   "year": "2022",
+   "owned": true
+  },
+  {
+   "order": 262,
+   "series": "Legion of X",
+   "issue": "2",
+   "volume": "2022",
+   "year": "2022",
+   "owned": true
+  },
+  {
+   "order": 263,
+   "series": "Wolverine",
+   "issue": "20",
+   "volume": "2020",
+   "year": "2022",
+   "owned": true
+  },
+  {
+   "order": 264,
+   "series": "Wolverine",
+   "issue": "21",
+   "volume": "2020",
+   "year": "2022",
+   "owned": true
+  },
+  {
+   "order": 265,
+   "series": "Wolverine",
+   "issue": "22",
+   "volume": "2020",
+   "year": "2022",
+   "owned": true
+  },
+  {
+   "order": 266,
+   "series": "Wolverine",
+   "issue": "23",
+   "volume": "2020",
+   "year": "2022",
+   "owned": true
+  },
+  {
+   "order": 267,
+   "series": "X-Men: Red",
+   "issue": "3",
+   "volume": "2022",
+   "year": "2022",
+   "owned": true
+  },
+  {
+   "order": 268,
+   "series": "Immortal X-Men",
+   "issue": "3",
+   "volume": "2022",
+   "year": "2022",
+   "owned": true
+  },
+  {
+   "order": 269,
+   "series": "New Mutants",
+   "issue": "26",
+   "volume": "2020",
+   "year": "2022",
+   "owned": true
+  },
+  {
+   "order": 270,
+   "series": "New Mutants",
+   "issue": "27",
+   "volume": "2020",
+   "year": "2022",
+   "owned": true
+  },
+  {
+   "order": 271,
+   "series": "New Mutants",
+   "issue": "28",
+   "volume": "2020",
+   "year": "2022",
+   "owned": true
+  },
+  {
+   "order": 272,
+   "series": "New Mutants",
+   "issue": "29",
+   "volume": "2020",
+   "year": "2022",
+   "owned": true
+  },
+  {
+   "order": 273,
+   "series": "Knights of X",
+   "issue": "3",
+   "volume": "2022",
+   "year": "2022",
+   "owned": true
+  },
+  {
+   "order": 274,
+   "series": "Knights of X",
+   "issue": "4",
+   "volume": "2022",
+   "year": "2022",
+   "owned": true
+  },
+  {
+   "order": 275,
+   "series": "Knights of X",
+   "issue": "5",
+   "volume": "2022",
+   "year": "2022",
+   "owned": true
+  },
+  {
+   "order": 276,
+   "series": "Sabretooth",
+   "issue": "1",
+   "volume": "2022",
+   "year": "2022",
+   "owned": true
+  },
+  {
+   "order": 277,
+   "series": "Sabretooth",
+   "issue": "2",
+   "volume": "2022",
+   "year": "2022",
+   "owned": true
+  },
+  {
+   "order": 278,
+   "series": "Sabretooth",
+   "issue": "3",
+   "volume": "2022",
+   "year": "2022",
+   "owned": true
+  },
+  {
+   "order": 279,
+   "series": "Sabretooth",
+   "issue": "4",
+   "volume": "2022",
+   "year": "2022",
+   "owned": true
+  },
+  {
+   "order": 280,
+   "series": "Sabretooth",
+   "issue": "5",
+   "volume": "2022",
+   "year": "2022",
+   "owned": true
+  },
+  {
+   "order": 281,
+   "series": "X-Men",
+   "issue": "12",
+   "volume": "2021",
+   "year": "2022",
+   "owned": true
+  },
+  {
+   "order": 282,
+   "series": "X-Men: Red",
+   "issue": "4",
+   "volume": "2022",
+   "year": "2022",
+   "owned": true
+  },
+  {
+   "order": 283,
+   "series": "Legion of X",
+   "issue": "3",
+   "volume": "2022",
+   "year": "2022",
+   "owned": true
+  },
+  {
+   "order": 284,
+   "series": "Legion of X",
+   "issue": "4",
+   "volume": "2022",
+   "year": "2022",
+   "owned": true
+  },
+  {
+   "order": 285,
+   "series": "Ms. Marvel & Wolverine",
+   "issue": "1",
+   "volume": "2022",
+   "year": "2022",
+   "owned": true
+  },
+  {
+   "order": 286,
+   "series": "New Mutants",
+   "issue": "30",
+   "volume": "2020",
+   "year": "2022",
+   "owned": true
+  },
+  {
+   "order": 287,
+   "series": "X-Men: Hellfire Gala",
+   "issue": "1",
+   "volume": "2023",
+   "year": "2023",
+   "owned": false
+  },
+  {
+   "order": 288,
+   "series": "The Amazing Spider-Man",
+   "issue": "9",
+   "volume": "2022",
+   "year": "2022",
+   "owned": true
+  },
+  {
+   "order": 289,
+   "series": "Immortal X-Men",
+   "issue": "4",
+   "volume": "2022",
+   "year": "2022",
+   "owned": true
+  },
+  {
+   "order": 290,
+   "series": "A.X.E.: Eve of Judgment",
+   "issue": "1",
+   "volume": "2022",
+   "year": "2022",
+   "owned": true
+  },
+  {
+   "order": 291,
+   "series": "A.X.E.: Judgment Day",
+   "issue": "1",
+   "volume": "2022",
+   "year": "2022",
+   "owned": true
+  },
+  {
+   "order": 292,
+   "series": "Immortal X-Men",
+   "issue": "5",
+   "volume": "2022",
+   "year": "2022",
+   "owned": true
+  },
+  {
+   "order": 293,
+   "series": "X-Men: Red",
+   "issue": "5",
+   "volume": "2022",
+   "year": "2022",
+   "owned": true
+  },
+  {
+   "order": 294,
+   "series": "Legion of X",
+   "issue": "5",
+   "volume": "2022",
+   "year": "2022",
+   "owned": true
+  },
+  {
+   "order": 295,
+   "series": "A.X.E.: Judgment Day",
+   "issue": "2",
+   "volume": "2022",
+   "year": "2022",
+   "owned": true
+  },
+  {
+   "order": 296,
+   "series": "A.X.E.: Death to the Mutants",
+   "issue": "1",
+   "volume": "2022",
+   "year": "2022",
+   "owned": true
+  },
+  {
+   "order": 297,
+   "series": "X-Men",
+   "issue": "13",
+   "volume": "2021",
+   "year": "2022",
+   "owned": true
+  },
+  {
+   "order": 298,
+   "series": "X-Force",
+   "issue": "30",
+   "volume": "2020",
+   "year": "2022",
+   "owned": true
+  },
+  {
+   "order": 299,
+   "series": "A.X.E.: Judgment Day",
+   "issue": "3",
+   "volume": "2022",
+   "year": "2022",
+   "owned": true
+  },
+  {
+   "order": 300,
+   "series": "A.X.E.: Death to the Mutants",
+   "issue": "2",
+   "volume": "2022",
+   "year": "2022",
+   "owned": true
+  },
+  {
+   "order": 301,
+   "series": "Immortal X-Men",
+   "issue": "6",
+   "volume": "2022",
+   "year": "2022",
+   "owned": true
+  },
+  {
+   "order": 302,
+   "series": "X-Men",
+   "issue": "14",
+   "volume": "2021",
+   "year": "2022",
+   "owned": true
+  },
+  {
+   "order": 303,
+   "series": "Marauders",
+   "issue": "6",
+   "volume": "2022",
+   "year": "2022",
+   "owned": true
+  },
+  {
+   "order": 304,
+   "series": "Wolverine",
+   "issue": "24",
+   "volume": "2020",
+   "year": "2022",
+   "owned": true
+  },
+  {
+   "order": 305,
+   "series": "Wolverine",
+   "issue": "25",
+   "volume": "2020",
+   "year": "2022",
+   "owned": true
+  },
+  {
+   "order": 306,
+   "series": "Avengers",
+   "issue": "60",
+   "volume": "2018",
+   "year": "2022",
+   "owned": true
+  },
+  {
+   "order": 307,
+   "series": "Fantastic Four",
+   "issue": "47",
+   "volume": "2018",
+   "year": "2022",
+   "owned": true
+  },
+  {
+   "order": 308,
+   "series": "Fantastic Four",
+   "issue": "48",
+   "volume": "2018",
+   "year": "2022",
+   "owned": true
+  },
+  {
+   "order": 309,
+   "series": "The Amazing Spider-Man",
+   "issue": "10",
+   "volume": "2022",
+   "year": "2022",
+   "owned": true
+  },
+  {
+   "order": 310,
+   "series": "X-Force",
+   "issue": "31",
+   "volume": "2020",
+   "year": "2022",
+   "owned": true
+  },
+  {
+   "order": 311,
+   "series": "X-Force",
+   "issue": "32",
+   "volume": "2020",
+   "year": "2022",
+   "owned": true
+  },
+  {
+   "order": 312,
+   "series": "X-Force",
+   "issue": "33",
+   "volume": "2020",
+   "year": "2022",
+   "owned": true
+  },
+  {
+   "order": 313,
+   "series": "A.X.E.: Iron Fist",
+   "issue": "1",
+   "volume": "2022",
+   "year": "2022",
+   "owned": true
+  },
+  {
+   "order": 314,
+   "series": "Captain Marvel",
+   "issue": "42",
+   "volume": "2019",
+   "year": "2022",
+   "owned": true
+  },
+  {
+   "order": 315,
+   "series": "X-Men: Red",
+   "issue": "6",
+   "volume": "2022",
+   "year": "2022",
+   "owned": true
+  },
+  {
+   "order": 316,
+   "series": "A.X.E.: Judgment Day",
+   "issue": "4",
+   "volume": "2022",
+   "year": "2022",
+   "owned": true
+  },
+  {
+   "order": 317,
+   "series": "A.X.E.: Judgment Day",
+   "issue": "5",
+   "volume": "2022",
+   "year": "2022",
+   "owned": true
+  },
+  {
+   "order": 318,
+   "series": "X-Men: Red",
+   "issue": "7",
+   "volume": "2022",
+   "year": "2022",
+   "owned": true
+  },
+  {
+   "order": 319,
+   "series": "Legion of X",
+   "issue": "6",
+   "volume": "2022",
+   "year": "2022",
+   "owned": true
+  },
+  {
+   "order": 320,
+   "series": "Immortal X-Men",
+   "issue": "7",
+   "volume": "2022",
+   "year": "2022",
+   "owned": true
+  },
+  {
+   "order": 321,
+   "series": "A.X.E.: Death to the Mutants",
+   "issue": "3",
+   "volume": "2022",
+   "year": "2022",
+   "owned": true
+  },
+  {
+   "order": 322,
+   "series": "A.X.E.: Starfox",
+   "issue": "1",
+   "volume": "2022",
+   "year": "2022",
+   "owned": true
+  },
+  {
+   "order": 323,
+   "series": "A.X.E.: Avengers",
+   "issue": "1",
+   "volume": "2022",
+   "year": "2022",
+   "owned": true
+  },
+  {
+   "order": 324,
+   "series": "A.X.E.: X-Men",
+   "issue": "1",
+   "volume": "2022",
+   "year": "2022",
+   "owned": true
+  },
+  {
+   "order": 325,
+   "series": "A.X.E.: Eternals",
+   "issue": "1",
+   "volume": "2022",
+   "year": "2022",
+   "owned": true
+  },
+  {
+   "order": 326,
+   "series": "A.X.E.: Judgment Day",
+   "issue": "6",
+   "volume": "2022",
+   "year": "2022",
+   "owned": true
+  },
+  {
+   "order": 327,
+   "series": "A.X.E.: Judgment Day Omega",
+   "issue": "1",
+   "volume": "2023",
+   "year": "2023",
+   "owned": false
+  },
+  {
+   "order": 328,
+   "series": "X-Men",
+   "issue": "15",
+   "volume": "2021",
+   "year": "2022",
+   "owned": true
+  },
+  {
+   "order": 329,
+   "series": "X-Men",
+   "issue": "16",
+   "volume": "2021",
+   "year": "2022",
+   "owned": true
+  },
+  {
+   "order": 330,
+   "series": "X-Men",
+   "issue": "17",
+   "volume": "2021",
+   "year": "2023",
+   "owned": true
+  },
+  {
+   "order": 331,
+   "series": "Marauders",
+   "issue": "7",
+   "volume": "2022",
+   "year": "2022",
+   "owned": true
+  },
+  {
+   "order": 332,
+   "series": "Marauders",
+   "issue": "8",
+   "volume": "2022",
+   "year": "2023",
+   "owned": true
+  },
+  {
+   "order": 333,
+   "series": "Marauders",
+   "issue": "9",
+   "volume": "2022",
+   "year": "2023",
+   "owned": true
+  },
+  {
+   "order": 334,
+   "series": "Marauders",
+   "issue": "10",
+   "volume": "2022",
+   "year": "2023",
+   "owned": true
+  },
+  {
+   "order": 335,
+   "series": "New Mutants",
+   "issue": "31",
+   "volume": "2020",
+   "year": "2022",
+   "owned": true
+  },
+  {
+   "order": 336,
+   "series": "New Mutants",
+   "issue": "32",
+   "volume": "2020",
+   "year": "2023",
+   "owned": true
+  },
+  {
+   "order": 337,
+   "series": "New Mutants",
+   "issue": "33",
+   "volume": "2020",
+   "year": "2023",
+   "owned": true
+  },
+  {
+   "order": 338,
+   "series": "X-Men Annual",
+   "issue": "1",
+   "volume": "2023",
+   "year": "2023",
+   "owned": true
+  },
+  {
+   "order": 339,
+   "series": "X-Terminators",
+   "issue": "1",
+   "volume": "2023",
+   "year": "2023",
+   "owned": true
+  },
+  {
+   "order": 340,
+   "series": "X-Terminators",
+   "issue": "2",
+   "volume": "2022",
+   "year": "2022",
+   "owned": true
+  },
+  {
+   "order": 341,
+   "series": "X-Terminators",
+   "issue": "3",
+   "volume": "2022",
+   "year": "2023",
+   "owned": true
+  },
+  {
+   "order": 342,
+   "series": "X-Men",
+   "issue": "18",
+   "volume": "2021",
+   "year": "2023",
+   "owned": true
+  },
+  {
+   "order": 343,
+   "series": "Wolverine",
+   "issue": "26",
+   "volume": "2020",
+   "year": "2022",
+   "owned": true
+  },
+  {
+   "order": 344,
+   "series": "Wolverine",
+   "issue": "27",
+   "volume": "2020",
+   "year": "2023",
+   "owned": true
+  },
+  {
+   "order": 345,
+   "series": "Wolverine",
+   "issue": "28",
+   "volume": "2020",
+   "year": "2023",
+   "owned": true
+  },
+  {
+   "order": 346,
+   "series": "X-Men: Red",
+   "issue": "8",
+   "volume": "2022",
+   "year": "2023",
+   "owned": true
+  },
+  {
+   "order": 347,
+   "series": "X-Force",
+   "issue": "34",
+   "volume": "2020",
+   "year": "2023",
+   "owned": true
+  },
+  {
+   "order": 348,
+   "series": "X-Force",
+   "issue": "35",
+   "volume": "2020",
+   "year": "2023",
+   "owned": true
+  },
+  {
+   "order": 349,
+   "series": "X-Force",
+   "issue": "36",
+   "volume": "2020",
+   "year": "2023",
+   "owned": true
+  },
+  {
+   "order": 350,
+   "series": "X-Force",
+   "issue": "37",
+   "volume": "2020",
+   "year": "2023",
+   "owned": true
+  },
+  {
+   "order": 351,
+   "series": "X-Force",
+   "issue": "38",
+   "volume": "2020",
+   "year": "2023",
+   "owned": true
+  },
+  {
+   "order": 352,
+   "series": "Rogue & Gambit",
+   "issue": "1",
+   "volume": "2023",
+   "year": "2023",
+   "owned": true
+  },
+  {
+   "order": 353,
+   "series": "Rogue & Gambit",
+   "issue": "2",
+   "volume": "2023",
+   "year": "2023",
+   "owned": true
+  },
+  {
+   "order": 354,
+   "series": "Rogue & Gambit",
+   "issue": "3",
+   "volume": "2023",
+   "year": "2023",
+   "owned": true
+  },
+  {
+   "order": 355,
+   "series": "Rogue & Gambit",
+   "issue": "4",
+   "volume": "2023",
+   "year": "2023",
+   "owned": true
+  },
+  {
+   "order": 356,
+   "series": "Rogue & Gambit",
+   "issue": "5",
+   "volume": "2023",
+   "year": "2023",
+   "owned": true
+  },
+  {
+   "order": 357,
+   "series": "Deadpool",
+   "issue": "1",
+   "volume": "2023",
+   "year": "2023",
+   "owned": true
+  },
+  {
+   "order": 358,
+   "series": "Deadpool",
+   "issue": "2",
+   "volume": "2023",
+   "year": "2023",
+   "owned": true
+  },
+  {
+   "order": 359,
+   "series": "Deadpool",
+   "issue": "3",
+   "volume": "2023",
+   "year": "2023",
+   "owned": true
+  },
+  {
+   "order": 360,
+   "series": "Deadpool",
+   "issue": "4",
+   "volume": "2023",
+   "year": "2023",
+   "owned": true
+  },
+  {
+   "order": 361,
+   "series": "Deadpool",
+   "issue": "5",
+   "volume": "2023",
+   "year": "2023",
+   "owned": true
+  },
+  {
+   "order": 362,
+   "series": "Deadpool",
+   "issue": "6",
+   "volume": "2023",
+   "year": "2023",
+   "owned": true
+  },
+  {
+   "order": 363,
+   "series": "Deadpool",
+   "issue": "7",
+   "volume": "2023",
+   "year": "2023",
+   "owned": true
+  },
+  {
+   "order": 364,
+   "series": "Deadpool",
+   "issue": "8",
+   "volume": "2023",
+   "year": "2023",
+   "owned": true
+  },
+  {
+   "order": 365,
+   "series": "Deadpool",
+   "issue": "9",
+   "volume": "2023",
+   "year": "2023",
+   "owned": true
+  },
+  {
+   "order": 366,
+   "series": "Captain Marvel",
+   "issue": "43",
+   "volume": "2019",
+   "year": "2023",
+   "owned": true
+  },
+  {
+   "order": 367,
+   "series": "Captain Marvel",
+   "issue": "44",
+   "volume": "2019",
+   "year": "2023",
+   "owned": true
+  },
+  {
+   "order": 368,
+   "series": "Captain Marvel",
+   "issue": "45",
+   "volume": "2019",
+   "year": "2023",
+   "owned": true
+  },
+  {
+   "order": 369,
+   "series": "Captain Marvel",
+   "issue": "46",
+   "volume": "2019",
+   "year": "2023",
+   "owned": true
+  },
+  {
+   "order": 370,
+   "series": "X-Men",
+   "issue": "19",
+   "volume": "2021",
+   "year": "2023",
+   "owned": true
+  },
+  {
+   "order": 371,
+   "series": "X-Men",
+   "issue": "20",
+   "volume": "2021",
+   "year": "2023",
+   "owned": true
+  },
+  {
+   "order": 372,
+   "series": "X-Men",
+   "issue": "21",
+   "volume": "2021",
+   "year": "2023",
+   "owned": true
+  },
+  {
+   "order": 373,
+   "series": "Captain Marvel",
+   "issue": "47",
+   "volume": "2019",
+   "year": "2023",
+   "owned": true
+  },
+  {
+   "order": 374,
+   "series": "Captain Marvel",
+   "issue": "48",
+   "volume": "2019",
+   "year": "2023",
+   "owned": true
+  },
+  {
+   "order": 375,
+   "series": "Captain Marvel",
+   "issue": "49",
+   "volume": "2019",
+   "year": "2023",
+   "owned": true
+  },
+  {
+   "order": 376,
+   "series": "Sabretooth and the Exiles",
+   "issue": "1",
+   "volume": "2022",
+   "year": "2023",
+   "owned": false
+  },
+  {
+   "order": 377,
+   "series": "Sabretooth and the Exiles",
+   "issue": "2",
+   "volume": "2022",
+   "year": "2023",
+   "owned": false
+  },
+  {
+   "order": 378,
+   "series": "Sabretooth and the Exiles",
+   "issue": "3",
+   "volume": "2022",
+   "year": "2023",
+   "owned": false
+  },
+  {
+   "order": 379,
+   "series": "Sabretooth and the Exiles",
+   "issue": "4",
+   "volume": "2022",
+   "year": "2023",
+   "owned": false
+  },
+  {
+   "order": 380,
+   "series": "Sabretooth and the Exiles",
+   "issue": "5",
+   "volume": "2022",
+   "year": "2023",
+   "owned": false
+  },
+  {
+   "order": 381,
+   "series": "Wolverine",
+   "issue": "29",
+   "volume": "2020",
+   "year": "2023",
+   "owned": true
+  },
+  {
+   "order": 382,
+   "series": "Legion of X",
+   "issue": "7",
+   "volume": "2022",
+   "year": "2023",
+   "owned": true
+  },
+  {
+   "order": 383,
+   "series": "Legion of X",
+   "issue": "8",
+   "volume": "2022",
+   "year": "2023",
+   "owned": true
+  },
+  {
+   "order": 384,
+   "series": "Immortal X-Men",
+   "issue": "8",
+   "volume": "2022",
+   "year": "2023",
+   "owned": true
+  },
+  {
+   "order": 385,
+   "series": "X-Men: Red",
+   "issue": "9",
+   "volume": "2022",
+   "year": "2023",
+   "owned": true
+  },
+  {
+   "order": 386,
+   "series": "Dark Web",
+   "issue": "1",
+   "volume": "2022",
+   "year": "2022",
+   "owned": true
+  },
+  {
+   "order": 387,
+   "series": "Venom",
+   "issue": "14",
+   "volume": "2021",
+   "year": "2023",
+   "owned": true
+  },
+  {
+   "order": 388,
+   "series": "Venom",
+   "issue": "15",
+   "volume": "2021",
+   "year": "2023",
+   "owned": true
+  },
+  {
+   "order": 389,
+   "series": "The Amazing Spider-Man",
+   "issue": "14",
+   "volume": "2022",
+   "year": "2023",
+   "owned": true
+  },
+  {
+   "order": 390,
+   "series": "The Amazing Spider-Man",
+   "issue": "15",
+   "volume": "2022",
+   "year": "2023",
+   "owned": true
+  },
+  {
+   "order": 391,
+   "series": "The Amazing Spider-Man",
+   "issue": "16",
+   "volume": "2022",
+   "year": "2023",
+   "owned": true
+  },
+  {
+   "order": 392,
+   "series": "The Amazing Spider-Man",
+   "issue": "17",
+   "volume": "2022",
+   "year": "2023",
+   "owned": true
+  },
+  {
+   "order": 393,
+   "series": "The Amazing Spider-Man",
+   "issue": "18",
+   "volume": "2022",
+   "year": "2023",
+   "owned": true
+  },
+  {
+   "order": 394,
+   "series": "Dark Web: X-Men",
+   "issue": "1",
+   "volume": "2022",
+   "year": "2023",
+   "owned": true
+  },
+  {
+   "order": 395,
+   "series": "Dark Web: X-Men",
+   "issue": "2",
+   "volume": "2022",
+   "year": "2023",
+   "owned": true
+  },
+  {
+   "order": 396,
+   "series": "Dark Web: X-Men",
+   "issue": "3",
+   "volume": "2022",
+   "year": "2023",
+   "owned": true
+  },
+  {
+   "order": 397,
+   "series": "Dark Web: Ms. Marvel",
+   "issue": "1",
+   "volume": "2022",
+   "year": "2023",
+   "owned": true
+  },
+  {
+   "order": 398,
+   "series": "Dark Web: Ms. Marvel",
+   "issue": "2",
+   "volume": "2022",
+   "year": "2023",
+   "owned": true
+  },
+  {
+   "order": 399,
+   "series": "Dark Web: Finale",
+   "issue": "1",
+   "volume": "2023",
+   "year": "2023",
+   "owned": true
+  },
+  {
+   "order": 400,
+   "series": "X-Terminators",
+   "issue": "4",
+   "volume": "2022",
+   "year": "2023",
+   "owned": true
+  },
+  {
+   "order": 401,
+   "series": "X-Terminators",
+   "issue": "5",
+   "volume": "2022",
+   "year": "2023",
+   "owned": true
+  },
+  {
+   "order": 402,
+   "series": "Marauders",
+   "issue": "11",
+   "volume": "2022",
+   "year": "2023",
+   "owned": true
+  },
+  {
+   "order": 403,
+   "series": "Marauders",
+   "issue": "12",
+   "volume": "2022",
+   "year": "2023",
+   "owned": true
+  },
+  {
+   "order": 404,
+   "series": "New Mutants: Lethal Legion",
+   "issue": "1",
+   "volume": "2023",
+   "year": "2023",
+   "owned": true
+  },
+  {
+   "order": 405,
+   "series": "New Mutants: Lethal Legion",
+   "issue": "2",
+   "volume": "2023",
+   "year": "2023",
+   "owned": true
+  },
+  {
+   "order": 406,
+   "series": "New Mutants: Lethal Legion",
+   "issue": "3",
+   "volume": "2023",
+   "year": "2023",
+   "owned": true
+  },
+  {
+   "order": 407,
+   "series": "New Mutants: Lethal Legion",
+   "issue": "4",
+   "volume": "2023",
+   "year": "2023",
+   "owned": true
+  },
+  {
+   "order": 408,
+   "series": "New Mutants: Lethal Legion",
+   "issue": "5",
+   "volume": "2023",
+   "year": "2023",
+   "owned": true
+  },
+  {
+   "order": 409,
+   "series": "Bishop: War College",
+   "issue": "1",
+   "volume": "2023",
+   "year": "2023",
+   "owned": true
+  },
+  {
+   "order": 410,
+   "series": "Bishop: War College",
+   "issue": "2",
+   "volume": "2023",
+   "year": "2023",
+   "owned": true
+  },
+  {
+   "order": 411,
+   "series": "Bishop: War College",
+   "issue": "3",
+   "volume": "2023",
+   "year": "2023",
+   "owned": true
+  },
+  {
+   "order": 412,
+   "series": "Bishop: War College",
+   "issue": "4",
+   "volume": "2023",
+   "year": "2023",
+   "owned": true
+  },
+  {
+   "order": 413,
+   "series": "Bishop: War College",
+   "issue": "5",
+   "volume": "2023",
+   "year": "2023",
+   "owned": true
+  },
+  {
+   "order": 414,
+   "series": "Betsy Braddock: Captain Britain",
+   "issue": "1",
+   "volume": "2023",
+   "year": "2023",
+   "owned": true
+  },
+  {
+   "order": 415,
+   "series": "Betsy Braddock: Captain Britain",
+   "issue": "2",
+   "volume": "2023",
+   "year": "2023",
+   "owned": true
+  },
+  {
+   "order": 416,
+   "series": "Betsy Braddock: Captain Britain",
+   "issue": "3",
+   "volume": "2023",
+   "year": "2023",
+   "owned": true
+  },
+  {
+   "order": 417,
+   "series": "Betsy Braddock: Captain Britain",
+   "issue": "4",
+   "volume": "2023",
+   "year": "2023",
+   "owned": true
+  },
+  {
+   "order": 418,
+   "series": "Betsy Braddock: Captain Britain",
+   "issue": "5",
+   "volume": "2023",
+   "year": "2023",
+   "owned": true
+  },
+  {
+   "order": 419,
+   "series": "Wolverine",
+   "issue": "30",
+   "volume": "2020",
+   "year": "2023",
+   "owned": true
+  },
+  {
+   "order": 420,
+   "series": "Wolverine",
+   "issue": "31",
+   "volume": "2020",
+   "year": "2023",
+   "owned": true
+  },
+  {
+   "order": 421,
+   "series": "Wolverine",
+   "issue": "32",
+   "volume": "2020",
+   "year": "2023",
+   "owned": true
+  },
+  {
+   "order": 422,
+   "series": "X-Force",
+   "issue": "39",
+   "volume": "2020",
+   "year": "2023",
+   "owned": true
+  },
+  {
+   "order": 423,
+   "series": "The Invincible Iron Man",
+   "issue": "1",
+   "volume": "2022",
+   "year": "2023",
+   "owned": false
+  },
+  {
+   "order": 424,
+   "series": "The Invincible Iron Man",
+   "issue": "2",
+   "volume": "2022",
+   "year": "2023",
+   "owned": false
+  },
+  {
+   "order": 425,
+   "series": "The Invincible Iron Man",
+   "issue": "3",
+   "volume": "2022",
+   "year": "2023",
+   "owned": false
+  },
+  {
+   "order": 426,
+   "series": "The Invincible Iron Man",
+   "issue": "4",
+   "volume": "2022",
+   "year": "2023",
+   "owned": false
+  },
+  {
+   "order": 427,
+   "series": "The Invincible Iron Man",
+   "issue": "5",
+   "volume": "2022",
+   "year": "2023",
+   "owned": false
+  },
+  {
+   "order": 428,
+   "series": "Immortal X-Men",
+   "issue": "9",
+   "volume": "2022",
+   "year": "2023",
+   "owned": true
+  },
+  {
+   "order": 429,
+   "series": "X-Men: Red",
+   "issue": "10",
+   "volume": "2022",
+   "year": "2023",
+   "owned": true
+  },
+  {
+   "order": 430,
+   "series": "Legion of X",
+   "issue": "9",
+   "volume": "2022",
+   "year": "2023",
+   "owned": true
+  },
+  {
+   "order": 431,
+   "series": "Legion of X",
+   "issue": "10",
+   "volume": "2022",
+   "year": "2023",
+   "owned": true
+  },
+  {
+   "order": 432,
+   "series": "Immortal X-Men",
+   "issue": "10",
+   "volume": "2022",
+   "year": "2023",
+   "owned": true
+  },
+  {
+   "order": 433,
+   "series": "Sins of Sinister",
+   "issue": "1",
+   "volume": "2023",
+   "year": "2023",
+   "owned": true
+  },
+  {
+   "order": 434,
+   "series": "Storm & The Brotherhood of Mutants",
+   "issue": "1",
+   "volume": "2023",
+   "year": "2023",
+   "owned": true
+  },
+  {
+   "order": 435,
+   "series": "Nightcrawlers",
+   "issue": "1",
+   "volume": "2023",
+   "year": "2023",
+   "owned": true
+  },
+  {
+   "order": 436,
+   "series": "Immoral X-Men",
+   "issue": "1",
+   "volume": "2023",
+   "year": "2023",
+   "owned": true
+  },
+  {
+   "order": 437,
+   "series": "Nightcrawlers",
+   "issue": "2",
+   "volume": "2023",
+   "year": "2023",
+   "owned": true
+  },
+  {
+   "order": 438,
+   "series": "Immoral X-Men",
+   "issue": "2",
+   "volume": "2023",
+   "year": "2023",
+   "owned": true
+  },
+  {
+   "order": 439,
+   "series": "Storm & The Brotherhood of Mutants",
+   "issue": "2",
+   "volume": "2023",
+   "year": "2023",
+   "owned": true
+  },
+  {
+   "order": 440,
+   "series": "Immoral X-Men",
+   "issue": "3",
+   "volume": "2023",
+   "year": "2023",
+   "owned": true
+  },
+  {
+   "order": 441,
+   "series": "Storm & The Brotherhood of Mutants",
+   "issue": "3",
+   "volume": "2023",
+   "year": "2023",
+   "owned": true
+  },
+  {
+   "order": 442,
+   "series": "Nightcrawlers",
+   "issue": "3",
+   "volume": "2023",
+   "year": "2023",
+   "owned": true
+  },
+  {
+   "order": 443,
+   "series": "Sins of Sinister: Dominion",
+   "issue": "1",
+   "volume": "2023",
+   "year": "2023",
+   "owned": true
+  },
+  {
+   "order": 444,
+   "series": "Immortal X-Men",
+   "issue": "11",
+   "volume": "2022",
+   "year": "2023",
+   "owned": true
+  },
+  {
+   "order": 445,
+   "series": "X-Men: Before the Fall - Sons of X",
+   "issue": "1",
+   "volume": "2023",
+   "year": "2023",
+   "owned": true
+  },
+  {
+   "order": 446,
+   "series": "X-Men: Red",
+   "issue": "11",
+   "volume": "2022",
+   "year": "2023",
+   "owned": true
+  },
+  {
+   "order": 447,
+   "series": "X-Men: Red",
+   "issue": "12",
+   "volume": "2022",
+   "year": "2023",
+   "owned": true
+  },
+  {
+   "order": 448,
+   "series": "X-Men: Before The Fall - Heralds of Apocalypse",
+   "issue": "1",
+   "volume": "2023",
+   "year": "2023",
+   "owned": true
+  },
+  {
+   "order": 449,
+   "series": "X-Men: Red",
+   "issue": "13",
+   "volume": "2022",
+   "year": "2023",
+   "owned": true
+  },
+  {
+   "order": 450,
+   "series": "Wolverine",
+   "issue": "33",
+   "volume": "2020",
+   "year": "2023",
+   "owned": true
+  },
+  {
+   "order": 451,
+   "series": "Wolverine",
+   "issue": "34",
+   "volume": "2020",
+   "year": "2023",
+   "owned": true
+  },
+  {
+   "order": 452,
+   "series": "Wolverine",
+   "issue": "35",
+   "volume": "2020",
+   "year": "2023",
+   "owned": true
+  },
+  {
+   "order": 453,
+   "series": "X-Force",
+   "issue": "40",
+   "volume": "2020",
+   "year": "2023",
+   "owned": true
+  },
+  {
+   "order": 454,
+   "series": "X-Force",
+   "issue": "41",
+   "volume": "2020",
+   "year": "2023",
+   "owned": true
+  },
+  {
+   "order": 455,
+   "series": "X-Force",
+   "issue": "42",
+   "volume": "2020",
+   "year": "2023",
+   "owned": true
+  },
+  {
+   "order": 456,
+   "series": "X-Men",
+   "issue": "22",
+   "volume": "2021",
+   "year": "2023",
+   "owned": true
+  },
+  {
+   "order": 457,
+   "series": "X-Men",
+   "issue": "23",
+   "volume": "2021",
+   "year": "2023",
+   "owned": true
+  },
+  {
+   "order": 458,
+   "series": "X-Men",
+   "issue": "24",
+   "volume": "2021",
+   "year": "2023",
+   "owned": true
+  },
+  {
+   "order": 459,
+   "series": "The Invincible Iron Man",
+   "issue": "7",
+   "volume": "2022",
+   "year": "2023",
+   "owned": false
+  },
+  {
+   "order": 460,
+   "series": "X-Men: Before the Fall \u2013 Mutant First Strike",
+   "issue": "1",
+   "volume": "2023",
+   "year": "2023",
+   "owned": true
+  },
+  {
+   "order": 461,
+   "series": "X-Men: Before the Fall - Sinister Four",
+   "issue": "1",
+   "volume": "2023",
+   "year": "2023",
+   "owned": true
+  },
+  {
+   "order": 462,
+   "series": "Immortal X-Men",
+   "issue": "12",
+   "volume": "2022",
+   "year": "2023",
+   "owned": true
+  },
+  {
+   "order": 463,
+   "series": "Immortal X-Men",
+   "issue": "13",
+   "volume": "2022",
+   "year": "2023",
+   "owned": true
+  }
+ ]
+}

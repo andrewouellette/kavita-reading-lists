@@ -1,0 +1,200 @@
+{
+ "arc": "Avengers: Armageddon",
+ "slug": "avengers-armageddon",
+ "issue_count": 24,
+ "owned_count": 19,
+ "entries": [
+  {
+   "order": 1,
+   "series": "The Will of Doom",
+   "issue": "1",
+   "volume": "2025",
+   "year": "2025",
+   "owned": true
+  },
+  {
+   "order": 2,
+   "series": "Captain America",
+   "issue": "1",
+   "volume": "2025",
+   "year": "2025",
+   "owned": true
+  },
+  {
+   "order": 3,
+   "series": "Captain America",
+   "issue": "2",
+   "volume": "2025",
+   "year": "2025",
+   "owned": true
+  },
+  {
+   "order": 4,
+   "series": "Captain America",
+   "issue": "3",
+   "volume": "2025",
+   "year": "2025",
+   "owned": true
+  },
+  {
+   "order": 5,
+   "series": "Captain America",
+   "issue": "4",
+   "volume": "2025",
+   "year": "2025",
+   "owned": true
+  },
+  {
+   "order": 6,
+   "series": "Captain America",
+   "issue": "5",
+   "volume": "2025",
+   "year": "2025",
+   "owned": true
+  },
+  {
+   "order": 7,
+   "series": "Captain America",
+   "issue": "6",
+   "volume": "2025",
+   "year": "2025",
+   "owned": true
+  },
+  {
+   "order": 8,
+   "series": "Captain America",
+   "issue": "7",
+   "volume": "2025",
+   "year": "2026",
+   "owned": true
+  },
+  {
+   "order": 9,
+   "series": "Captain America",
+   "issue": "8",
+   "volume": "2025",
+   "year": "2026",
+   "owned": true
+  },
+  {
+   "order": 10,
+   "series": "Wolverine: Weapons of Armageddon",
+   "issue": "1",
+   "volume": "2026",
+   "year": "2026",
+   "owned": true
+  },
+  {
+   "order": 11,
+   "series": "Captain America",
+   "issue": "9",
+   "volume": "2025",
+   "year": "2026",
+   "owned": true
+  },
+  {
+   "order": 12,
+   "series": "Wolverine: Weapons of Armageddon",
+   "issue": "2",
+   "volume": "2026",
+   "year": "2026",
+   "owned": false
+  },
+  {
+   "order": 13,
+   "series": "Captain America",
+   "issue": "10",
+   "volume": "2025",
+   "year": "2026",
+   "owned": true
+  },
+  {
+   "order": 14,
+   "series": "Wolverine: Weapons of Armageddon",
+   "issue": "3",
+   "volume": "2026",
+   "year": "2026",
+   "owned": true
+  },
+  {
+   "order": 15,
+   "series": "Captain America",
+   "issue": "11",
+   "volume": "2025",
+   "year": "2026",
+   "owned": true
+  },
+  {
+   "order": 16,
+   "series": "Wolverine: Weapons of Armageddon",
+   "issue": "4",
+   "volume": "2026",
+   "year": "2026",
+   "owned": true
+  },
+  {
+   "order": 17,
+   "series": "Comics Giveaway Day 2026: Armageddon/X-Men",
+   "issue": "1",
+   "volume": "2026",
+   "year": "2026",
+   "owned": false
+  },
+  {
+   "order": 18,
+   "series": "Avengers: Armageddon",
+   "issue": "1",
+   "volume": "2026",
+   "year": "2026",
+   "owned": true
+  },
+  {
+   "order": 19,
+   "series": "Captain America",
+   "issue": "12",
+   "volume": "2025",
+   "year": "2026",
+   "owned": true
+  },
+  {
+   "order": 20,
+   "series": "Avengers: Armageddon",
+   "issue": "2",
+   "volume": "2026",
+   "year": "2026",
+   "owned": true
+  },
+  {
+   "order": 21,
+   "series": "Captain America",
+   "issue": "13",
+   "volume": "2025",
+   "year": "2026",
+   "owned": true
+  },
+  {
+   "order": 22,
+   "series": "Avengers: Armageddon",
+   "issue": "3",
+   "volume": "2026",
+   "year": "2026",
+   "owned": false
+  },
+  {
+   "order": 23,
+   "series": "Avengers: Armageddon",
+   "issue": "4",
+   "volume": "2026",
+   "year": "2026",
+   "owned": false
+  },
+  {
+   "order": 24,
+   "series": "Avengers: Armageddon",
+   "issue": "5",
+   "volume": "2026",
+   "year": "2026",
+   "owned": false
+  }
+ ]
+}

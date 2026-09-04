@@ -1,0 +1,48 @@
+{
+ "arc": "Krypton Returns",
+ "slug": "krypton-returns",
+ "issue_count": 5,
+ "owned_count": 1,
+ "entries": [
+  {
+   "order": 1,
+   "series": "Superman",
+   "issue": "23.3",
+   "volume": "2011",
+   "year": "2013",
+   "owned": false
+  },
+  {
+   "order": 2,
+   "series": "Action Comics Annual",
+   "issue": "2",
+   "volume": "2012",
+   "year": "2013",
+   "owned": false
+  },
+  {
+   "order": 3,
+   "series": "Superboy",
+   "issue": "25",
+   "volume": "2011",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 4,
+   "series": "Supergirl",
+   "issue": "25",
+   "volume": "2011",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 5,
+   "series": "Superman",
+   "issue": "25",
+   "volume": "2011",
+   "year": "2014",
+   "owned": true
+  }
+ ]
+}

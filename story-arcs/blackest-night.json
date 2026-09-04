@@ -1,0 +1,784 @@
+{
+ "arc": "Blackest Night",
+ "slug": "blackest-night",
+ "issue_count": 97,
+ "owned_count": 1,
+ "entries": [
+  {
+   "order": 1,
+   "series": "Blackest Night: Tales of the Corps",
+   "issue": "1",
+   "volume": "2009",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 2,
+   "series": "Blackest Night: Tales of the Corps",
+   "issue": "2",
+   "volume": "2009",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 3,
+   "series": "Blackest Night: Tales of the Corps",
+   "issue": "3",
+   "volume": "2009",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 4,
+   "series": "Final Crisis: Rage of the Red Lanterns",
+   "issue": "1",
+   "volume": "2008",
+   "year": "2008",
+   "owned": false
+  },
+  {
+   "order": 5,
+   "series": "Green Lantern",
+   "issue": "36",
+   "volume": "2005",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 6,
+   "series": "Green Lantern",
+   "issue": "37",
+   "volume": "2005",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 7,
+   "series": "Green Lantern",
+   "issue": "38",
+   "volume": "2005",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 8,
+   "series": "Green Lantern Corps",
+   "issue": "29",
+   "volume": "2006",
+   "year": "2008",
+   "owned": false
+  },
+  {
+   "order": 9,
+   "series": "Green Lantern Corps",
+   "issue": "30",
+   "volume": "2006",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 10,
+   "series": "Green Lantern Corps",
+   "issue": "31",
+   "volume": "2006",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 11,
+   "series": "Green Lantern Corps",
+   "issue": "32",
+   "volume": "2006",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 12,
+   "series": "Green Lantern",
+   "issue": "39",
+   "volume": "2005",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 13,
+   "series": "Green Lantern",
+   "issue": "40",
+   "volume": "2005",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 14,
+   "series": "Green Lantern",
+   "issue": "41",
+   "volume": "2005",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 15,
+   "series": "Green Lantern",
+   "issue": "42",
+   "volume": "2005",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 16,
+   "series": "Green Lantern Corps",
+   "issue": "33",
+   "volume": "2006",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 17,
+   "series": "Green Lantern Corps",
+   "issue": "34",
+   "volume": "2006",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 18,
+   "series": "Green Lantern Corps",
+   "issue": "35",
+   "volume": "2006",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 19,
+   "series": "Green Lantern Corps",
+   "issue": "36",
+   "volume": "2006",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 20,
+   "series": "Green Lantern Corps",
+   "issue": "37",
+   "volume": "2006",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 21,
+   "series": "Green Lantern Corps",
+   "issue": "38",
+   "volume": "2006",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 22,
+   "series": "Green Lantern",
+   "issue": "43",
+   "volume": "2005",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 23,
+   "series": "DC Universe",
+   "issue": "0",
+   "volume": "2008",
+   "year": "2008",
+   "owned": false
+  },
+  {
+   "order": 24,
+   "series": "Blackest Night",
+   "issue": "0",
+   "volume": "2009",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 25,
+   "series": "Blackest Night",
+   "issue": "1",
+   "volume": "2009",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 26,
+   "series": "Solomon Grundy",
+   "issue": "7",
+   "volume": "2009",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 27,
+   "series": "Superman/Batman",
+   "issue": "66",
+   "volume": "2003",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 28,
+   "series": "Superman/Batman",
+   "issue": "67",
+   "volume": "2003",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 29,
+   "series": "Green Lantern Corps",
+   "issue": "39",
+   "volume": "2006",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 30,
+   "series": "Green Lantern",
+   "issue": "44",
+   "volume": "2005",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 31,
+   "series": "Blackest Night",
+   "issue": "2",
+   "volume": "2009",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 32,
+   "series": "The Phantom Stranger",
+   "issue": "42",
+   "volume": "1969",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 33,
+   "series": "Blackest Night: Batman",
+   "issue": "1",
+   "volume": "2009",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 34,
+   "series": "Blackest Night: Superman",
+   "issue": "1",
+   "volume": "2009",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 35,
+   "series": "Blackest Night: Titans",
+   "issue": "1",
+   "volume": "2009",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 36,
+   "series": "Green Lantern",
+   "issue": "45",
+   "volume": "2005",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 37,
+   "series": "Green Lantern Corps",
+   "issue": "40",
+   "volume": "2006",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 38,
+   "series": "Blackest Night: Batman",
+   "issue": "2",
+   "volume": "2009",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 39,
+   "series": "Blackest Night: Batman",
+   "issue": "3",
+   "volume": "2009",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 40,
+   "series": "Blackest Night",
+   "issue": "3",
+   "volume": "2009",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 41,
+   "series": "Blackest Night: Titans",
+   "issue": "2",
+   "volume": "2009",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 42,
+   "series": "Blackest Night: Titans",
+   "issue": "3",
+   "volume": "2009",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 43,
+   "series": "Adventure Comics",
+   "issue": "4",
+   "volume": "2009",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 44,
+   "series": "Adventure Comics",
+   "issue": "5",
+   "volume": "2009",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 45,
+   "series": "Justice League of America",
+   "issue": "39",
+   "volume": "2006",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 46,
+   "series": "Justice League of America",
+   "issue": "40",
+   "volume": "2006",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 47,
+   "series": "Blackest Night: Superman",
+   "issue": "2",
+   "volume": "2009",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 48,
+   "series": "Blackest Night: Superman",
+   "issue": "3",
+   "volume": "2009",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 49,
+   "series": "Suicide Squad",
+   "issue": "67",
+   "volume": "1987",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 50,
+   "series": "Secret Six",
+   "issue": "17",
+   "volume": "2008",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 51,
+   "series": "Secret Six",
+   "issue": "18",
+   "volume": "2008",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 52,
+   "series": "Green Lantern",
+   "issue": "46",
+   "volume": "2005",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 53,
+   "series": "Catwoman",
+   "issue": "83",
+   "volume": "2002",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 54,
+   "series": "Green Lantern Corps",
+   "issue": "41",
+   "volume": "2006",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 55,
+   "series": "The Outsiders",
+   "issue": "24",
+   "volume": "2009",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 56,
+   "series": "The Outsiders",
+   "issue": "25",
+   "volume": "2009",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 57,
+   "series": "Green Lantern",
+   "issue": "47",
+   "volume": "2005",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 58,
+   "series": "Blackest Night",
+   "issue": "4",
+   "volume": "2009",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 59,
+   "series": "Green Lantern",
+   "issue": "48",
+   "volume": "2005",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 60,
+   "series": "Green Lantern Corps",
+   "issue": "42",
+   "volume": "2006",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 61,
+   "series": "Blackest Night: The Flash",
+   "issue": "1",
+   "volume": "2010",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 62,
+   "series": "R.E.B.E.L.S.",
+   "issue": "10",
+   "volume": "2009",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 63,
+   "series": "R.E.B.E.L.S.",
+   "issue": "11",
+   "volume": "2009",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 64,
+   "series": "Doom Patrol",
+   "issue": "4",
+   "volume": "2009",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 65,
+   "series": "Doom Patrol",
+   "issue": "5",
+   "volume": "2009",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 66,
+   "series": "Booster Gold",
+   "issue": "26",
+   "volume": "2007",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 67,
+   "series": "Booster Gold",
+   "issue": "27",
+   "volume": "2007",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 68,
+   "series": "Teen Titans",
+   "issue": "77",
+   "volume": "2003",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 69,
+   "series": "Teen Titans",
+   "issue": "78",
+   "volume": "2003",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 70,
+   "series": "Weird Western Tales",
+   "issue": "71",
+   "volume": "1972",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 71,
+   "series": "Starman",
+   "issue": "81",
+   "volume": "1994",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 72,
+   "series": "The Power of SHAZAM!",
+   "issue": "48",
+   "volume": "1995",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 73,
+   "series": "The Question",
+   "issue": "37",
+   "volume": "1986",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 74,
+   "series": "Blackest Night: JSA",
+   "issue": "1",
+   "volume": "2009",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 75,
+   "series": "Blackest Night: JSA",
+   "issue": "2",
+   "volume": "2009",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 76,
+   "series": "Blackest Night: JSA",
+   "issue": "3",
+   "volume": "2009",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 77,
+   "series": "Blackest Night: Wonder Woman",
+   "issue": "1",
+   "volume": "2010",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 78,
+   "series": "Blackest Night",
+   "issue": "5",
+   "volume": "2009",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 79,
+   "series": "Green Lantern Corps",
+   "issue": "43",
+   "volume": "2006",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 80,
+   "series": "Green Lantern Corps",
+   "issue": "44",
+   "volume": "2006",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 81,
+   "series": "Green Lantern",
+   "issue": "49",
+   "volume": "2005",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 82,
+   "series": "Blackest Night",
+   "issue": "6",
+   "volume": "2009",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 83,
+   "series": "Adventure Comics",
+   "issue": "7",
+   "volume": "2009",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 84,
+   "series": "Green Arrow",
+   "issue": "30",
+   "volume": "2010",
+   "year": "2010",
+   "owned": true
+  },
+  {
+   "order": 85,
+   "series": "Blackest Night: Wonder Woman",
+   "issue": "2",
+   "volume": "2010",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 86,
+   "series": "Blackest Night: Wonder Woman",
+   "issue": "3",
+   "volume": "2010",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 87,
+   "series": "Blackest Night: The Flash",
+   "issue": "2",
+   "volume": "2010",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 88,
+   "series": "Blackest Night: The Flash",
+   "issue": "3",
+   "volume": "2010",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 89,
+   "series": "The Atom & Hawkman",
+   "issue": "46",
+   "volume": "1968",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 90,
+   "series": "Green Lantern Corps",
+   "issue": "45",
+   "volume": "2006",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 91,
+   "series": "Green Lantern",
+   "issue": "50",
+   "volume": "2005",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 92,
+   "series": "Green Lantern",
+   "issue": "51",
+   "volume": "2005",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 93,
+   "series": "Blackest Night",
+   "issue": "7",
+   "volume": "2009",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 94,
+   "series": "Green Lantern Corps",
+   "issue": "46",
+   "volume": "2006",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 95,
+   "series": "Green Lantern",
+   "issue": "52",
+   "volume": "2005",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 96,
+   "series": "Blackest Night",
+   "issue": "8",
+   "volume": "2009",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 97,
+   "series": "Untold Tales of Blackest Night",
+   "issue": "1",
+   "volume": "2010",
+   "year": "2010",
+   "owned": false
+  }
+ ]
+}

@@ -1,0 +1,56 @@
+{
+ "arc": "Night of the Monster Men",
+ "slug": "night-of-the-monster-men",
+ "issue_count": 6,
+ "owned_count": 6,
+ "entries": [
+  {
+   "order": 1,
+   "series": "Batman",
+   "issue": "7",
+   "volume": "2016",
+   "year": "2016",
+   "owned": true
+  },
+  {
+   "order": 2,
+   "series": "Nightwing",
+   "issue": "5",
+   "volume": "2016",
+   "year": "2016",
+   "owned": true
+  },
+  {
+   "order": 3,
+   "series": "Detective Comics",
+   "issue": "941",
+   "volume": "2016",
+   "year": "2016",
+   "owned": true
+  },
+  {
+   "order": 4,
+   "series": "Batman",
+   "issue": "8",
+   "volume": "2016",
+   "year": "2016",
+   "owned": true
+  },
+  {
+   "order": 5,
+   "series": "Nightwing",
+   "issue": "6",
+   "volume": "2016",
+   "year": "2016",
+   "owned": true
+  },
+  {
+   "order": 6,
+   "series": "Detective Comics",
+   "issue": "942",
+   "volume": "2016",
+   "year": "2016",
+   "owned": true
+  }
+ ]
+}

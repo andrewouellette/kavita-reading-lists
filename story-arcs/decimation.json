@@ -1,0 +1,432 @@
+{
+ "arc": "Decimation",
+ "slug": "decimation",
+ "issue_count": 53,
+ "owned_count": 6,
+ "entries": [
+  {
+   "order": 1,
+   "series": "Decimation: House of M - The Day After",
+   "issue": "1",
+   "volume": "2006",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 2,
+   "series": "Mutopia X",
+   "issue": "5",
+   "volume": "2005",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 3,
+   "series": "X-Men: The 198 Files",
+   "issue": "1",
+   "volume": "2006",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 4,
+   "series": "Sentinel Squad O*N*E",
+   "issue": "1",
+   "volume": "2006",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 5,
+   "series": "Sentinel Squad O*N*E",
+   "issue": "2",
+   "volume": "2006",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 6,
+   "series": "Sentinel Squad O*N*E",
+   "issue": "3",
+   "volume": "2006",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 7,
+   "series": "Sentinel Squad O*N*E",
+   "issue": "4",
+   "volume": "2006",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 8,
+   "series": "Sentinel Squad O*N*E",
+   "issue": "5",
+   "volume": "2006",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 9,
+   "series": "New Excalibur",
+   "issue": "1",
+   "volume": "2006",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 10,
+   "series": "New Excalibur",
+   "issue": "2",
+   "volume": "2006",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 11,
+   "series": "New Excalibur",
+   "issue": "3",
+   "volume": "2006",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 12,
+   "series": "X-Men",
+   "issue": "177",
+   "volume": "2004",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 13,
+   "series": "X-Men",
+   "issue": "178",
+   "volume": "2004",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 14,
+   "series": "X-Men",
+   "issue": "179",
+   "volume": "2004",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 15,
+   "series": "New X-Men",
+   "issue": "20",
+   "volume": "2004",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 16,
+   "series": "New X-Men",
+   "issue": "21",
+   "volume": "2004",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 17,
+   "series": "New X-Men",
+   "issue": "22",
+   "volume": "2004",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 18,
+   "series": "New X-Men",
+   "issue": "23",
+   "volume": "2004",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 19,
+   "series": "Generation M",
+   "issue": "1",
+   "volume": "2006",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 20,
+   "series": "Generation M",
+   "issue": "2",
+   "volume": "2006",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 21,
+   "series": "Generation M",
+   "issue": "3",
+   "volume": "2006",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 22,
+   "series": "Generation M",
+   "issue": "4",
+   "volume": "2006",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 23,
+   "series": "Generation M",
+   "issue": "5",
+   "volume": "2006",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 24,
+   "series": "Son of M",
+   "issue": "1",
+   "volume": "2006",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 25,
+   "series": "Son of M",
+   "issue": "2",
+   "volume": "2006",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 26,
+   "series": "Son of M",
+   "issue": "3",
+   "volume": "2006",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 27,
+   "series": "Son of M",
+   "issue": "4",
+   "volume": "2006",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 28,
+   "series": "Son of M",
+   "issue": "5",
+   "volume": "2006",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 29,
+   "series": "Son of M",
+   "issue": "6",
+   "volume": "2006",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 30,
+   "series": "X-Men: The 198",
+   "issue": "1",
+   "volume": "2006",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 31,
+   "series": "X-Men: The 198",
+   "issue": "2",
+   "volume": "2006",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 32,
+   "series": "X-Men: The 198",
+   "issue": "3",
+   "volume": "2006",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 33,
+   "series": "X-Men: The 198",
+   "issue": "4",
+   "volume": "2006",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 34,
+   "series": "X-Men: The 198",
+   "issue": "5",
+   "volume": "2006",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 35,
+   "series": "X-Men: Deadly Genesis",
+   "issue": "1",
+   "volume": "2006",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 36,
+   "series": "X-Men: Deadly Genesis",
+   "issue": "2",
+   "volume": "2006",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 37,
+   "series": "X-Men: Deadly Genesis",
+   "issue": "3",
+   "volume": "2006",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 38,
+   "series": "X-Men: Deadly Genesis",
+   "issue": "4",
+   "volume": "2006",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 39,
+   "series": "X-Men: Deadly Genesis",
+   "issue": "5",
+   "volume": "2006",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 40,
+   "series": "X-Men: Deadly Genesis",
+   "issue": "6",
+   "volume": "2006",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 41,
+   "series": "Wolverine",
+   "issue": "36",
+   "volume": "2003",
+   "year": "2006",
+   "owned": true
+  },
+  {
+   "order": 42,
+   "series": "Wolverine",
+   "issue": "37",
+   "volume": "2003",
+   "year": "2006",
+   "owned": true
+  },
+  {
+   "order": 43,
+   "series": "Wolverine",
+   "issue": "38",
+   "volume": "2003",
+   "year": "2006",
+   "owned": true
+  },
+  {
+   "order": 44,
+   "series": "Wolverine",
+   "issue": "39",
+   "volume": "2003",
+   "year": "2006",
+   "owned": true
+  },
+  {
+   "order": 45,
+   "series": "Wolverine",
+   "issue": "40",
+   "volume": "2003",
+   "year": "2006",
+   "owned": true
+  },
+  {
+   "order": 46,
+   "series": "The Uncanny X-Men",
+   "issue": "466",
+   "volume": "1981",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 47,
+   "series": "The Uncanny X-Men",
+   "issue": "467",
+   "volume": "1981",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 48,
+   "series": "The Uncanny X-Men",
+   "issue": "468",
+   "volume": "1981",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 49,
+   "series": "X-Factor",
+   "issue": "1",
+   "volume": "2006",
+   "year": "2006",
+   "owned": true
+  },
+  {
+   "order": 50,
+   "series": "X-Factor",
+   "issue": "2",
+   "volume": "2006",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 51,
+   "series": "X-Factor",
+   "issue": "3",
+   "volume": "2006",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 52,
+   "series": "X-Factor",
+   "issue": "4",
+   "volume": "2006",
+   "year": "2006",
+   "owned": false
+  },
+  {
+   "order": 53,
+   "series": "X-Men Unlimited",
+   "issue": "13",
+   "volume": "2004",
+   "year": "2006",
+   "owned": false
+  }
+ ]
+}

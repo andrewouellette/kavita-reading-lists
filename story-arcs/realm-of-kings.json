@@ -1,0 +1,200 @@
+{
+ "arc": "Realm of Kings",
+ "slug": "realm-of-kings",
+ "issue_count": 24,
+ "owned_count": 2,
+ "entries": [
+  {
+   "order": 1,
+   "series": "Realm of Kings",
+   "issue": "1",
+   "volume": "2010",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 2,
+   "series": "Guardians of the Galaxy",
+   "issue": "20",
+   "volume": "2008",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 3,
+   "series": "Guardians of the Galaxy",
+   "issue": "21",
+   "volume": "2008",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 4,
+   "series": "Guardians of the Galaxy",
+   "issue": "22",
+   "volume": "2008",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 5,
+   "series": "Guardians of the Galaxy",
+   "issue": "23",
+   "volume": "2008",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 6,
+   "series": "Guardians of the Galaxy",
+   "issue": "24",
+   "volume": "2008",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 7,
+   "series": "Nova",
+   "issue": "32",
+   "volume": "2007",
+   "year": "2010",
+   "owned": true
+  },
+  {
+   "order": 8,
+   "series": "Nova",
+   "issue": "33",
+   "volume": "2007",
+   "year": "2010",
+   "owned": true
+  },
+  {
+   "order": 9,
+   "series": "Nova",
+   "issue": "34",
+   "volume": "2007",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 10,
+   "series": "Nova",
+   "issue": "35",
+   "volume": "2007",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 11,
+   "series": "Realm of Kings: Imperial Guard",
+   "issue": "1",
+   "volume": "2010",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 12,
+   "series": "Realm of Kings: Imperial Guard",
+   "issue": "2",
+   "volume": "2010",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 13,
+   "series": "Realm of Kings: Imperial Guard",
+   "issue": "3",
+   "volume": "2010",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 14,
+   "series": "Realm of Kings: Imperial Guard",
+   "issue": "4",
+   "volume": "2010",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 15,
+   "series": "Realm of Kings: Imperial Guard",
+   "issue": "5",
+   "volume": "2010",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 16,
+   "series": "Realm of Kings Inhumans",
+   "issue": "1",
+   "volume": "2010",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 17,
+   "series": "Realm of Kings Inhumans",
+   "issue": "2",
+   "volume": "2010",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 18,
+   "series": "Realm of Kings Inhumans",
+   "issue": "3",
+   "volume": "2010",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 19,
+   "series": "Realm of Kings Inhumans",
+   "issue": "4",
+   "volume": "2010",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 20,
+   "series": "Realm of Kings Inhumans",
+   "issue": "5",
+   "volume": "2010",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 21,
+   "series": "Realm of Kings Son of Hulk",
+   "issue": "1",
+   "volume": "2010",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 22,
+   "series": "Realm of Kings Son of Hulk",
+   "issue": "2",
+   "volume": "2010",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 23,
+   "series": "Realm of Kings Son of Hulk",
+   "issue": "3",
+   "volume": "2010",
+   "year": "2010",
+   "owned": false
+  },
+  {
+   "order": 24,
+   "series": "Realm of Kings Son of Hulk",
+   "issue": "4",
+   "volume": "2010",
+   "year": "2010",
+   "owned": false
+  }
+ ]
+}

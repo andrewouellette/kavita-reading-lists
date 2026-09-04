@@ -1,0 +1,72 @@
+{
+ "arc": "X-Manhunt",
+ "slug": "x-manhunt",
+ "issue_count": 8,
+ "owned_count": 4,
+ "entries": [
+  {
+   "order": 1,
+   "series": "Uncanny X-Men",
+   "issue": "11",
+   "volume": "2024",
+   "year": "2025",
+   "owned": true
+  },
+  {
+   "order": 2,
+   "series": "NYX",
+   "issue": "9",
+   "volume": "2024",
+   "year": "2025",
+   "owned": false
+  },
+  {
+   "order": 3,
+   "series": "Storm",
+   "issue": "6",
+   "volume": "2024",
+   "year": "2025",
+   "owned": false
+  },
+  {
+   "order": 4,
+   "series": "X-Men",
+   "issue": "13",
+   "volume": "2024",
+   "year": "2025",
+   "owned": true
+  },
+  {
+   "order": 5,
+   "series": "X-Factor",
+   "issue": "8",
+   "volume": "2024",
+   "year": "2025",
+   "owned": true
+  },
+  {
+   "order": 6,
+   "series": "X-Force",
+   "issue": "9",
+   "volume": "2024",
+   "year": "2025",
+   "owned": true
+  },
+  {
+   "order": 7,
+   "series": "Exceptional X-Men",
+   "issue": "7",
+   "volume": "2024",
+   "year": "2025",
+   "owned": false
+  },
+  {
+   "order": 8,
+   "series": "X-Manhunt Omega",
+   "issue": "1",
+   "volume": "2025",
+   "year": "2025",
+   "owned": false
+  }
+ ]
+}

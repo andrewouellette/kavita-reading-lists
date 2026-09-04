@@ -1,0 +1,64 @@
+{
+ "arc": "Throne of Atlantis",
+ "slug": "throne-of-atlantis",
+ "issue_count": 7,
+ "owned_count": 7,
+ "entries": [
+  {
+   "order": 1,
+   "series": "Aquaman",
+   "issue": "14",
+   "volume": "2011",
+   "year": "2013",
+   "owned": true
+  },
+  {
+   "order": 2,
+   "series": "Justice League",
+   "issue": "15",
+   "volume": "2011",
+   "year": "2013",
+   "owned": true
+  },
+  {
+   "order": 3,
+   "series": "Aquaman",
+   "issue": "15",
+   "volume": "2011",
+   "year": "2013",
+   "owned": true
+  },
+  {
+   "order": 4,
+   "series": "Justice League",
+   "issue": "16",
+   "volume": "2011",
+   "year": "2013",
+   "owned": true
+  },
+  {
+   "order": 5,
+   "series": "Aquaman",
+   "issue": "16",
+   "volume": "2011",
+   "year": "2013",
+   "owned": true
+  },
+  {
+   "order": 6,
+   "series": "Justice League",
+   "issue": "17",
+   "volume": "2011",
+   "year": "2013",
+   "owned": true
+  },
+  {
+   "order": 7,
+   "series": "Aquaman",
+   "issue": "17",
+   "volume": "2011",
+   "year": "2013",
+   "owned": true
+  }
+ ]
+}

@@ -1,0 +1,64 @@
+{
+ "arc": "Messiah War",
+ "slug": "messiah-war",
+ "issue_count": 7,
+ "owned_count": 1,
+ "entries": [
+  {
+   "order": 1,
+   "series": "X-Force/Cable: Messiah War",
+   "issue": "1",
+   "volume": "2009",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 2,
+   "series": "Cable",
+   "issue": "13",
+   "volume": "2008",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 3,
+   "series": "X-Force",
+   "issue": "14",
+   "volume": "2008",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 4,
+   "series": "Cable",
+   "issue": "14",
+   "volume": "2008",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 5,
+   "series": "X-Force",
+   "issue": "15",
+   "volume": "2008",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 6,
+   "series": "Cable",
+   "issue": "15",
+   "volume": "2008",
+   "year": "2009",
+   "owned": false
+  },
+  {
+   "order": 7,
+   "series": "X-Force",
+   "issue": "16",
+   "volume": "2008",
+   "year": "2009",
+   "owned": true
+  }
+ ]
+}

@@ -1,0 +1,96 @@
+{
+ "arc": "Justice League vs. Suicide Squad",
+ "slug": "justice-league-vs-suicide-squad",
+ "issue_count": 11,
+ "owned_count": 10,
+ "entries": [
+  {
+   "order": 1,
+   "series": "Suicide Squad",
+   "issue": "8",
+   "volume": "2016",
+   "year": "2017",
+   "owned": false
+  },
+  {
+   "order": 2,
+   "series": "Justice League",
+   "issue": "12",
+   "volume": "2016",
+   "year": "2017",
+   "owned": true
+  },
+  {
+   "order": 3,
+   "series": "Justice League vs. Suicide Squad",
+   "issue": "1",
+   "volume": "2016",
+   "year": "2017",
+   "owned": true
+  },
+  {
+   "order": 4,
+   "series": "Justice League vs. Suicide Squad",
+   "issue": "2",
+   "volume": "2016",
+   "year": "2017",
+   "owned": true
+  },
+  {
+   "order": 5,
+   "series": "Justice League vs. Suicide Squad",
+   "issue": "3",
+   "volume": "2016",
+   "year": "2017",
+   "owned": true
+  },
+  {
+   "order": 6,
+   "series": "Justice League vs. Suicide Squad",
+   "issue": "4",
+   "volume": "2016",
+   "year": "2017",
+   "owned": true
+  },
+  {
+   "order": 7,
+   "series": "Suicide Squad",
+   "issue": "9",
+   "volume": "2016",
+   "year": "2017",
+   "owned": true
+  },
+  {
+   "order": 8,
+   "series": "Justice League vs. Suicide Squad",
+   "issue": "5",
+   "volume": "2016",
+   "year": "2017",
+   "owned": true
+  },
+  {
+   "order": 9,
+   "series": "Justice League",
+   "issue": "13",
+   "volume": "2016",
+   "year": "2017",
+   "owned": true
+  },
+  {
+   "order": 10,
+   "series": "Justice League vs. Suicide Squad",
+   "issue": "6",
+   "volume": "2016",
+   "year": "2017",
+   "owned": true
+  },
+  {
+   "order": 11,
+   "series": "Suicide Squad",
+   "issue": "10",
+   "volume": "2016",
+   "year": "2017",
+   "owned": true
+  }
+ ]
+}

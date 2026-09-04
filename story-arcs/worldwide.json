@@ -1,0 +1,760 @@
+{
+ "arc": "Worldwide",
+ "slug": "worldwide",
+ "issue_count": 94,
+ "owned_count": 50,
+ "entries": [
+  {
+   "order": 1,
+   "series": "The Amazing Spider-Man",
+   "issue": "1",
+   "volume": "2015",
+   "year": "2015",
+   "owned": true
+  },
+  {
+   "order": 2,
+   "series": "Uncanny Avengers",
+   "issue": "1",
+   "volume": "2015",
+   "year": "2015",
+   "owned": true
+  },
+  {
+   "order": 3,
+   "series": "The Amazing Spider-Man",
+   "issue": "2",
+   "volume": "2015",
+   "year": "2015",
+   "owned": true
+  },
+  {
+   "order": 4,
+   "series": "The Amazing Spider-Man",
+   "issue": "3",
+   "volume": "2015",
+   "year": "2016",
+   "owned": true
+  },
+  {
+   "order": 5,
+   "series": "Spider-Woman",
+   "issue": "1",
+   "volume": "2015",
+   "year": "2016",
+   "owned": true
+  },
+  {
+   "order": 6,
+   "series": "Spider-Man",
+   "issue": "1",
+   "volume": "2016",
+   "year": "2016",
+   "owned": true
+  },
+  {
+   "order": 7,
+   "series": "Spider-Man",
+   "issue": "2",
+   "volume": "2016",
+   "year": "2016",
+   "owned": true
+  },
+  {
+   "order": 8,
+   "series": "The Amazing Spider-Man",
+   "issue": "1.1",
+   "volume": "2015",
+   "year": "2016",
+   "owned": false
+  },
+  {
+   "order": 9,
+   "series": "The Amazing Spider-Man",
+   "issue": "1.2",
+   "volume": "2015",
+   "year": "2016",
+   "owned": false
+  },
+  {
+   "order": 10,
+   "series": "The Amazing Spider-Man",
+   "issue": "1.3",
+   "volume": "2015",
+   "year": "2016",
+   "owned": false
+  },
+  {
+   "order": 11,
+   "series": "The Amazing Spider-Man",
+   "issue": "1.4",
+   "volume": "2015",
+   "year": "2016",
+   "owned": false
+  },
+  {
+   "order": 12,
+   "series": "The Amazing Spider-Man",
+   "issue": "1.5",
+   "volume": "2015",
+   "year": "2016",
+   "owned": false
+  },
+  {
+   "order": 13,
+   "series": "The Amazing Spider-Man",
+   "issue": "1.6",
+   "volume": "2015",
+   "year": "2016",
+   "owned": false
+  },
+  {
+   "order": 14,
+   "series": "Spider-Man 2099",
+   "issue": "1",
+   "volume": "2015",
+   "year": "2015",
+   "owned": false
+  },
+  {
+   "order": 15,
+   "series": "Spider-Man 2099",
+   "issue": "2",
+   "volume": "2015",
+   "year": "2015",
+   "owned": false
+  },
+  {
+   "order": 16,
+   "series": "Spider-Man 2099",
+   "issue": "3",
+   "volume": "2015",
+   "year": "2016",
+   "owned": false
+  },
+  {
+   "order": 17,
+   "series": "Silk",
+   "issue": "1",
+   "volume": "2015",
+   "year": "2016",
+   "owned": true
+  },
+  {
+   "order": 18,
+   "series": "Silk",
+   "issue": "2",
+   "volume": "2015",
+   "year": "2016",
+   "owned": true
+  },
+  {
+   "order": 19,
+   "series": "Amazing Spider-Man & Silk: Spider(Fly) Effect Infinite Comic",
+   "issue": "1",
+   "volume": "2016",
+   "year": "2016",
+   "owned": false
+  },
+  {
+   "order": 20,
+   "series": "Amazing Spider-Man & Silk: Spider(Fly) Effect Infinite Comic",
+   "issue": "2",
+   "volume": "2016",
+   "year": "2016",
+   "owned": false
+  },
+  {
+   "order": 21,
+   "series": "Amazing Spider-Man & Silk: Spider(Fly) Effect Infinite Comic",
+   "issue": "3",
+   "volume": "2016",
+   "year": "2016",
+   "owned": false
+  },
+  {
+   "order": 22,
+   "series": "Amazing Spider-Man & Silk: Spider(Fly) Effect Infinite Comic",
+   "issue": "4",
+   "volume": "2016",
+   "year": "2016",
+   "owned": false
+  },
+  {
+   "order": 23,
+   "series": "Amazing Spider-Man & Silk: Spider(Fly) Effect Infinite Comic",
+   "issue": "5",
+   "volume": "2016",
+   "year": "2016",
+   "owned": false
+  },
+  {
+   "order": 24,
+   "series": "Amazing Spider-Man & Silk: Spider(Fly) Effect Infinite Comic",
+   "issue": "6",
+   "volume": "2016",
+   "year": "2016",
+   "owned": false
+  },
+  {
+   "order": 25,
+   "series": "Amazing Spider-Man & Silk: Spider(Fly) Effect Infinite Comic",
+   "issue": "7",
+   "volume": "2016",
+   "year": "2016",
+   "owned": false
+  },
+  {
+   "order": 26,
+   "series": "Amazing Spider-Man & Silk: Spider(Fly) Effect Infinite Comic",
+   "issue": "8",
+   "volume": "2016",
+   "year": "2016",
+   "owned": false
+  },
+  {
+   "order": 27,
+   "series": "Silk",
+   "issue": "3",
+   "volume": "2015",
+   "year": "2016",
+   "owned": true
+  },
+  {
+   "order": 28,
+   "series": "Silk",
+   "issue": "4",
+   "volume": "2015",
+   "year": "2016",
+   "owned": true
+  },
+  {
+   "order": 29,
+   "series": "Silk",
+   "issue": "5",
+   "volume": "2015",
+   "year": "2016",
+   "owned": true
+  },
+  {
+   "order": 30,
+   "series": "Silk",
+   "issue": "6",
+   "volume": "2015",
+   "year": "2016",
+   "owned": false
+  },
+  {
+   "order": 31,
+   "series": "The Amazing Spider-Man",
+   "issue": "4",
+   "volume": "2015",
+   "year": "2016",
+   "owned": true
+  },
+  {
+   "order": 32,
+   "series": "The Amazing Spider-Man",
+   "issue": "5",
+   "volume": "2015",
+   "year": "2016",
+   "owned": true
+  },
+  {
+   "order": 33,
+   "series": "Spider-Man/Deadpool",
+   "issue": "1",
+   "volume": "2016",
+   "year": "2016",
+   "owned": false
+  },
+  {
+   "order": 34,
+   "series": "Spider-Man/Deadpool",
+   "issue": "2",
+   "volume": "2016",
+   "year": "2016",
+   "owned": false
+  },
+  {
+   "order": 35,
+   "series": "Spider-Man/Deadpool",
+   "issue": "3",
+   "volume": "2016",
+   "year": "2016",
+   "owned": false
+  },
+  {
+   "order": 36,
+   "series": "Spider-Man/Deadpool",
+   "issue": "4",
+   "volume": "2016",
+   "year": "2016",
+   "owned": false
+  },
+  {
+   "order": 37,
+   "series": "Spider-Man/Deadpool",
+   "issue": "5",
+   "volume": "2016",
+   "year": "2016",
+   "owned": false
+  },
+  {
+   "order": 38,
+   "series": "Spider-Man 2099",
+   "issue": "6",
+   "volume": "2015",
+   "year": "2016",
+   "owned": false
+  },
+  {
+   "order": 39,
+   "series": "Spider-Man 2099",
+   "issue": "7",
+   "volume": "2015",
+   "year": "2016",
+   "owned": false
+  },
+  {
+   "order": 40,
+   "series": "Spider-Man 2099",
+   "issue": "8",
+   "volume": "2015",
+   "year": "2016",
+   "owned": false
+  },
+  {
+   "order": 41,
+   "series": "The Amazing Spider-Man",
+   "issue": "6",
+   "volume": "2015",
+   "year": "2016",
+   "owned": true
+  },
+  {
+   "order": 42,
+   "series": "The Amazing Spider-Man",
+   "issue": "7",
+   "volume": "2015",
+   "year": "2016",
+   "owned": true
+  },
+  {
+   "order": 43,
+   "series": "The Amazing Spider-Man",
+   "issue": "8",
+   "volume": "2015",
+   "year": "2016",
+   "owned": true
+  },
+  {
+   "order": 44,
+   "series": "All-New Inhumans",
+   "issue": "5",
+   "volume": "2015",
+   "year": "2016",
+   "owned": false
+  },
+  {
+   "order": 45,
+   "series": "All-New Inhumans",
+   "issue": "6",
+   "volume": "2015",
+   "year": "2016",
+   "owned": false
+  },
+  {
+   "order": 46,
+   "series": "Agents of S.H.I.E.L.D.",
+   "issue": "5",
+   "volume": "2016",
+   "year": "2016",
+   "owned": false
+  },
+  {
+   "order": 47,
+   "series": "Invincible Iron Man",
+   "issue": "7",
+   "volume": "2015",
+   "year": "2016",
+   "owned": false
+  },
+  {
+   "order": 48,
+   "series": "Invincible Iron Man",
+   "issue": "8",
+   "volume": "2015",
+   "year": "2016",
+   "owned": false
+  },
+  {
+   "order": 49,
+   "series": "Invincible Iron Man",
+   "issue": "9",
+   "volume": "2015",
+   "year": "2016",
+   "owned": false
+  },
+  {
+   "order": 50,
+   "series": "Invincible Iron Man",
+   "issue": "10",
+   "volume": "2015",
+   "year": "2016",
+   "owned": true
+  },
+  {
+   "order": 51,
+   "series": "Invincible Iron Man",
+   "issue": "11",
+   "volume": "2015",
+   "year": "2016",
+   "owned": false
+  },
+  {
+   "order": 52,
+   "series": "The Amazing Spider-Man",
+   "issue": "9",
+   "volume": "2015",
+   "year": "2016",
+   "owned": true
+  },
+  {
+   "order": 53,
+   "series": "The Amazing Spider-Man",
+   "issue": "10",
+   "volume": "2015",
+   "year": "2016",
+   "owned": true
+  },
+  {
+   "order": 54,
+   "series": "The Amazing Spider-Man",
+   "issue": "11",
+   "volume": "2015",
+   "year": "2016",
+   "owned": true
+  },
+  {
+   "order": 55,
+   "series": "Spider-Man/Deadpool",
+   "issue": "6",
+   "volume": "2016",
+   "year": "2016",
+   "owned": true
+  },
+  {
+   "order": 56,
+   "series": "Spider-Man/Deadpool",
+   "issue": "7",
+   "volume": "2016",
+   "year": "2016",
+   "owned": true
+  },
+  {
+   "order": 57,
+   "series": "Spider-Man/Deadpool",
+   "issue": "8",
+   "volume": "2016",
+   "year": "2016",
+   "owned": true
+  },
+  {
+   "order": 58,
+   "series": "Spider-Man/Deadpool",
+   "issue": "9",
+   "volume": "2016",
+   "year": "2016",
+   "owned": true
+  },
+  {
+   "order": 59,
+   "series": "The Amazing Spider-Man",
+   "issue": "12",
+   "volume": "2015",
+   "year": "2016",
+   "owned": true
+  },
+  {
+   "order": 60,
+   "series": "The Amazing Spider-Man",
+   "issue": "13",
+   "volume": "2015",
+   "year": "2016",
+   "owned": true
+  },
+  {
+   "order": 61,
+   "series": "The Amazing Spider-Man",
+   "issue": "14",
+   "volume": "2015",
+   "year": "2016",
+   "owned": true
+  },
+  {
+   "order": 62,
+   "series": "The Amazing Spider-Man",
+   "issue": "15",
+   "volume": "2015",
+   "year": "2016",
+   "owned": true
+  },
+  {
+   "order": 63,
+   "series": "Spider-Man/Deadpool",
+   "issue": "10",
+   "volume": "2016",
+   "year": "2016",
+   "owned": true
+  },
+  {
+   "order": 64,
+   "series": "Spider-Man/Deadpool",
+   "issue": "11",
+   "volume": "2016",
+   "year": "2017",
+   "owned": true
+  },
+  {
+   "order": 65,
+   "series": "Spider-Man/Deadpool",
+   "issue": "12",
+   "volume": "2016",
+   "year": "2017",
+   "owned": true
+  },
+  {
+   "order": 66,
+   "series": "Spider-Man/Deadpool",
+   "issue": "13",
+   "volume": "2016",
+   "year": "2017",
+   "owned": true
+  },
+  {
+   "order": 67,
+   "series": "Spider-Man/Deadpool",
+   "issue": "14",
+   "volume": "2016",
+   "year": "2017",
+   "owned": true
+  },
+  {
+   "order": 68,
+   "series": "Avengers",
+   "issue": "1",
+   "volume": "2018",
+   "year": "2018",
+   "owned": true
+  },
+  {
+   "order": 69,
+   "series": "Avengers",
+   "issue": "2",
+   "volume": "2018",
+   "year": "2018",
+   "owned": true
+  },
+  {
+   "order": 70,
+   "series": "Avengers",
+   "issue": "3",
+   "volume": "2018",
+   "year": "2018",
+   "owned": true
+  },
+  {
+   "order": 71,
+   "series": "Avengers",
+   "issue": "4",
+   "volume": "2018",
+   "year": "2018",
+   "owned": true
+  },
+  {
+   "order": 72,
+   "series": "Avengers",
+   "issue": "5",
+   "volume": "2018",
+   "year": "2018",
+   "owned": true
+  },
+  {
+   "order": 73,
+   "series": "Avengers",
+   "issue": "6",
+   "volume": "2018",
+   "year": "2018",
+   "owned": true
+  },
+  {
+   "order": 74,
+   "series": "Deadpool",
+   "issue": "28",
+   "volume": "2015",
+   "year": "2017",
+   "owned": false
+  },
+  {
+   "order": 75,
+   "series": "Spider-Man/Deadpool",
+   "issue": "15",
+   "volume": "2016",
+   "year": "2017",
+   "owned": true
+  },
+  {
+   "order": 76,
+   "series": "Deadpool & The Mercs For Money",
+   "issue": "9",
+   "volume": "2016",
+   "year": "2017",
+   "owned": false
+  },
+  {
+   "order": 77,
+   "series": "Spider-Man/Deadpool",
+   "issue": "16",
+   "volume": "2016",
+   "year": "2017",
+   "owned": true
+  },
+  {
+   "order": 78,
+   "series": "Deadpool & The Mercs For Money",
+   "issue": "10",
+   "volume": "2016",
+   "year": "2017",
+   "owned": false
+  },
+  {
+   "order": 79,
+   "series": "Deadpool",
+   "issue": "29",
+   "volume": "2015",
+   "year": "2017",
+   "owned": false
+  },
+  {
+   "order": 80,
+   "series": "Spider-Man/Deadpool",
+   "issue": "17",
+   "volume": "2016",
+   "year": "2017",
+   "owned": true
+  },
+  {
+   "order": 81,
+   "series": "Spider-Man/Deadpool",
+   "issue": "18",
+   "volume": "2016",
+   "year": "2017",
+   "owned": true
+  },
+  {
+   "order": 82,
+   "series": "Spider-Man/Deadpool",
+   "issue": "19",
+   "volume": "2016",
+   "year": "2017",
+   "owned": true
+  },
+  {
+   "order": 83,
+   "series": "The Amazing Spider-Man",
+   "issue": "25",
+   "volume": "2015",
+   "year": "2017",
+   "owned": true
+  },
+  {
+   "order": 84,
+   "series": "The Amazing Spider-Man",
+   "issue": "26",
+   "volume": "2015",
+   "year": "2017",
+   "owned": true
+  },
+  {
+   "order": 85,
+   "series": "The Amazing Spider-Man",
+   "issue": "27",
+   "volume": "2015",
+   "year": "2017",
+   "owned": true
+  },
+  {
+   "order": 86,
+   "series": "The Amazing Spider-Man",
+   "issue": "28",
+   "volume": "2015",
+   "year": "2017",
+   "owned": true
+  },
+  {
+   "order": 87,
+   "series": "Peter Parker: The Spectacular Spider-Man",
+   "issue": "1",
+   "volume": "2017",
+   "year": "2017",
+   "owned": false
+  },
+  {
+   "order": 88,
+   "series": "Peter Parker: The Spectacular Spider-Man",
+   "issue": "2",
+   "volume": "2017",
+   "year": "2017",
+   "owned": false
+  },
+  {
+   "order": 89,
+   "series": "Peter Parker: The Spectacular Spider-Man",
+   "issue": "3",
+   "volume": "2017",
+   "year": "2017",
+   "owned": false
+  },
+  {
+   "order": 90,
+   "series": "Peter Parker: The Spectacular Spider-Man",
+   "issue": "4",
+   "volume": "2017",
+   "year": "2017",
+   "owned": false
+  },
+  {
+   "order": 91,
+   "series": "Peter Parker: The Spectacular Spider-Man",
+   "issue": "5",
+   "volume": "2017",
+   "year": "2017",
+   "owned": false
+  },
+  {
+   "order": 92,
+   "series": "Spider-Man/Deadpool",
+   "issue": "20",
+   "volume": "2016",
+   "year": "2017",
+   "owned": true
+  },
+  {
+   "order": 93,
+   "series": "Spider-Man/Deadpool",
+   "issue": "21",
+   "volume": "2016",
+   "year": "2017",
+   "owned": false
+  },
+  {
+   "order": 94,
+   "series": "Spider-Man/Deadpool",
+   "issue": "22",
+   "volume": "2016",
+   "year": "2017",
+   "owned": false
+  }
+ ]
+}

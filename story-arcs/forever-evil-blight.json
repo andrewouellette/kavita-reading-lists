@@ -1,0 +1,152 @@
+{
+ "arc": "Forever Evil- Blight",
+ "slug": "forever-evil-blight",
+ "issue_count": 18,
+ "owned_count": 6,
+ "entries": [
+  {
+   "order": 1,
+   "series": "Justice League Dark",
+   "issue": "24",
+   "volume": "2011",
+   "year": "2013",
+   "owned": true
+  },
+  {
+   "order": 2,
+   "series": "Justice League Dark",
+   "issue": "25",
+   "volume": "2011",
+   "year": "2014",
+   "owned": true
+  },
+  {
+   "order": 3,
+   "series": "The Phantom Stranger",
+   "issue": "14",
+   "volume": "2012",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 4,
+   "series": "Constantine",
+   "issue": "9",
+   "volume": "2013",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 5,
+   "series": "Trinity of Sin: Pandora",
+   "issue": "6",
+   "volume": "2013",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 6,
+   "series": "Justice League Dark",
+   "issue": "26",
+   "volume": "2011",
+   "year": "2014",
+   "owned": true
+  },
+  {
+   "order": 7,
+   "series": "The Phantom Stranger",
+   "issue": "15",
+   "volume": "2012",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 8,
+   "series": "Constantine",
+   "issue": "10",
+   "volume": "2013",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 9,
+   "series": "Trinity of Sin: Pandora",
+   "issue": "7",
+   "volume": "2013",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 10,
+   "series": "Justice League Dark",
+   "issue": "27",
+   "volume": "2011",
+   "year": "2014",
+   "owned": true
+  },
+  {
+   "order": 11,
+   "series": "The Phantom Stranger",
+   "issue": "16",
+   "volume": "2012",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 12,
+   "series": "Constantine",
+   "issue": "11",
+   "volume": "2013",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 13,
+   "series": "Trinity of Sin: Pandora",
+   "issue": "8",
+   "volume": "2013",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 14,
+   "series": "Justice League Dark",
+   "issue": "28",
+   "volume": "2011",
+   "year": "2014",
+   "owned": true
+  },
+  {
+   "order": 15,
+   "series": "The Phantom Stranger",
+   "issue": "17",
+   "volume": "2012",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 16,
+   "series": "Constantine",
+   "issue": "12",
+   "volume": "2013",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 17,
+   "series": "Trinity of Sin: Pandora",
+   "issue": "9",
+   "volume": "2013",
+   "year": "2014",
+   "owned": false
+  },
+  {
+   "order": 18,
+   "series": "Justice League Dark",
+   "issue": "29",
+   "volume": "2011",
+   "year": "2014",
+   "owned": true
+  }
+ ]
+}

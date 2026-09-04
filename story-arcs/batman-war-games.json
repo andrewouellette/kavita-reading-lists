@@ -1,0 +1,344 @@
+{
+ "arc": "Batman War Games",
+ "slug": "batman-war-games",
+ "issue_count": 42,
+ "owned_count": 3,
+ "entries": [
+  {
+   "order": 1,
+   "series": "Detective Comics",
+   "issue": "790",
+   "volume": "1937",
+   "year": "2004",
+   "owned": false
+  },
+  {
+   "order": 2,
+   "series": "Detective Comics",
+   "issue": "791",
+   "volume": "1937",
+   "year": "2004",
+   "owned": false
+  },
+  {
+   "order": 3,
+   "series": "Detective Comics",
+   "issue": "792",
+   "volume": "1937",
+   "year": "2004",
+   "owned": false
+  },
+  {
+   "order": 4,
+   "series": "Detective Comics",
+   "issue": "793",
+   "volume": "1937",
+   "year": "2004",
+   "owned": false
+  },
+  {
+   "order": 5,
+   "series": "Detective Comics",
+   "issue": "794",
+   "volume": "1937",
+   "year": "2004",
+   "owned": false
+  },
+  {
+   "order": 6,
+   "series": "Detective Comics",
+   "issue": "795",
+   "volume": "1937",
+   "year": "2004",
+   "owned": false
+  },
+  {
+   "order": 7,
+   "series": "Detective Comics",
+   "issue": "796",
+   "volume": "1937",
+   "year": "2004",
+   "owned": false
+  },
+  {
+   "order": 8,
+   "series": "Robin",
+   "issue": "126",
+   "volume": "1993",
+   "year": "2004",
+   "owned": false
+  },
+  {
+   "order": 9,
+   "series": "Robin",
+   "issue": "127",
+   "volume": "1993",
+   "year": "2004",
+   "owned": false
+  },
+  {
+   "order": 10,
+   "series": "Robin",
+   "issue": "128",
+   "volume": "1993",
+   "year": "2004",
+   "owned": false
+  },
+  {
+   "order": 11,
+   "series": "Batgirl",
+   "issue": "53",
+   "volume": "2000",
+   "year": "2004",
+   "owned": false
+  },
+  {
+   "order": 12,
+   "series": "Batman: The 12 Cent Adventure",
+   "issue": "1",
+   "volume": "2004",
+   "year": "2004",
+   "owned": false
+  },
+  {
+   "order": 13,
+   "series": "Detective Comics",
+   "issue": "797",
+   "volume": "1937",
+   "year": "2004",
+   "owned": false
+  },
+  {
+   "order": 14,
+   "series": "Batman: Legends of the Dark Knight",
+   "issue": "182",
+   "volume": "1992",
+   "year": "2004",
+   "owned": false
+  },
+  {
+   "order": 15,
+   "series": "Nightwing",
+   "issue": "96",
+   "volume": "1996",
+   "year": "2004",
+   "owned": false
+  },
+  {
+   "order": 16,
+   "series": "Batman: Gotham Knights",
+   "issue": "56",
+   "volume": "2000",
+   "year": "2004",
+   "owned": false
+  },
+  {
+   "order": 17,
+   "series": "Robin",
+   "issue": "129",
+   "volume": "1993",
+   "year": "2004",
+   "owned": false
+  },
+  {
+   "order": 18,
+   "series": "Batgirl",
+   "issue": "55",
+   "volume": "2000",
+   "year": "2004",
+   "owned": false
+  },
+  {
+   "order": 19,
+   "series": "Catwoman",
+   "issue": "34",
+   "volume": "2002",
+   "year": "2004",
+   "owned": false
+  },
+  {
+   "order": 20,
+   "series": "Batman",
+   "issue": "631",
+   "volume": "1940",
+   "year": "2004",
+   "owned": false
+  },
+  {
+   "order": 21,
+   "series": "Detective Comics",
+   "issue": "798",
+   "volume": "1937",
+   "year": "2004",
+   "owned": false
+  },
+  {
+   "order": 22,
+   "series": "Batman: Legends of the Dark Knight",
+   "issue": "183",
+   "volume": "1992",
+   "year": "2004",
+   "owned": false
+  },
+  {
+   "order": 23,
+   "series": "Nightwing",
+   "issue": "97",
+   "volume": "1996",
+   "year": "2004",
+   "owned": false
+  },
+  {
+   "order": 24,
+   "series": "Batman: Gotham Knights",
+   "issue": "57",
+   "volume": "2000",
+   "year": "2004",
+   "owned": false
+  },
+  {
+   "order": 25,
+   "series": "Robin",
+   "issue": "130",
+   "volume": "1993",
+   "year": "2004",
+   "owned": false
+  },
+  {
+   "order": 26,
+   "series": "Batgirl",
+   "issue": "56",
+   "volume": "2000",
+   "year": "2004",
+   "owned": false
+  },
+  {
+   "order": 27,
+   "series": "Catwoman",
+   "issue": "35",
+   "volume": "2002",
+   "year": "2004",
+   "owned": true
+  },
+  {
+   "order": 28,
+   "series": "Batman",
+   "issue": "632",
+   "volume": "1940",
+   "year": "2004",
+   "owned": false
+  },
+  {
+   "order": 29,
+   "series": "Detective Comics",
+   "issue": "799",
+   "volume": "1937",
+   "year": "2004",
+   "owned": false
+  },
+  {
+   "order": 30,
+   "series": "Batman: Legends of the Dark Knight",
+   "issue": "184",
+   "volume": "1992",
+   "year": "2004",
+   "owned": false
+  },
+  {
+   "order": 31,
+   "series": "Nightwing",
+   "issue": "98",
+   "volume": "1996",
+   "year": "2004",
+   "owned": true
+  },
+  {
+   "order": 32,
+   "series": "Robin",
+   "issue": "131",
+   "volume": "1993",
+   "year": "2004",
+   "owned": false
+  },
+  {
+   "order": 33,
+   "series": "Batman: Gotham Knights",
+   "issue": "58",
+   "volume": "2000",
+   "year": "2004",
+   "owned": false
+  },
+  {
+   "order": 34,
+   "series": "Batgirl",
+   "issue": "57",
+   "volume": "2000",
+   "year": "2004",
+   "owned": false
+  },
+  {
+   "order": 35,
+   "series": "Catwoman",
+   "issue": "36",
+   "volume": "2002",
+   "year": "2004",
+   "owned": true
+  },
+  {
+   "order": 36,
+   "series": "Batman",
+   "issue": "633",
+   "volume": "1940",
+   "year": "2004",
+   "owned": false
+  },
+  {
+   "order": 37,
+   "series": "Detective Comics",
+   "issue": "800",
+   "volume": "1937",
+   "year": "2005",
+   "owned": false
+  },
+  {
+   "order": 38,
+   "series": "Batman",
+   "issue": "634",
+   "volume": "1940",
+   "year": "2005",
+   "owned": false
+  },
+  {
+   "order": 39,
+   "series": "Detective Comics",
+   "issue": "809",
+   "volume": "1937",
+   "year": "2005",
+   "owned": false
+  },
+  {
+   "order": 40,
+   "series": "Batman",
+   "issue": "643",
+   "volume": "1940",
+   "year": "2005",
+   "owned": false
+  },
+  {
+   "order": 41,
+   "series": "Detective Comics",
+   "issue": "810",
+   "volume": "1937",
+   "year": "2005",
+   "owned": false
+  },
+  {
+   "order": 42,
+   "series": "Batman",
+   "issue": "644",
+   "volume": "1940",
+   "year": "2005",
+   "owned": false
+  }
+ ]
+}

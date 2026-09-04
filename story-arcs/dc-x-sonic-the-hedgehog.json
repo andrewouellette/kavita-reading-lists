@@ -1,0 +1,48 @@
+{
+ "arc": "DC x Sonic the Hedgehog",
+ "slug": "dc-x-sonic-the-hedgehog",
+ "issue_count": 5,
+ "owned_count": 4,
+ "entries": [
+  {
+   "order": 1,
+   "series": "DC x Sonic the Hedgehog",
+   "issue": "1",
+   "volume": "2025",
+   "year": "2025",
+   "owned": false
+  },
+  {
+   "order": 2,
+   "series": "DC x Sonic the Hedgehog",
+   "issue": "2",
+   "volume": "2025",
+   "year": "2025",
+   "owned": true
+  },
+  {
+   "order": 3,
+   "series": "DC x Sonic the Hedgehog",
+   "issue": "3",
+   "volume": "2025",
+   "year": "2025",
+   "owned": true
+  },
+  {
+   "order": 4,
+   "series": "DC x Sonic the Hedgehog",
+   "issue": "4",
+   "volume": "2025",
+   "year": "2025",
+   "owned": true
+  },
+  {
+   "order": 5,
+   "series": "DC x Sonic the Hedgehog",
+   "issue": "5",
+   "volume": "2025",
+   "year": "2025",
+   "owned": true
+  }
+ ]
+}
