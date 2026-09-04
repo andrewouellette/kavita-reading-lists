@@ -2,15 +2,16 @@
  "arc": "DC All In Special",
  "slug": "dc-all-in-special",
  "issue_count": 1,
- "owned_count": 0,
+ "source": "release-date sort (Mylar dates, CBL tie-break)",
+ "confidence": "high",
+ "note": "single series, ascending issue order",
  "entries": [
   {
    "order": 1,
    "series": "DC All In Special",
    "issue": "1",
-   "volume": "2024",
-   "year": "2024",
-   "owned": false
+   "role": "",
+   "release_date": "2024-10-02"
   }
  ]
 }

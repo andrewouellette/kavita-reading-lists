@@ -1,64 +1,122 @@
 {
  "arc": "DNX",
  "slug": "dnx",
- "issue_count": 7,
- "owned_count": 0,
+ "issue_count": 16,
+ "source": "League of Comic Geeks",
+ "confidence": "high",
+ "note": "curated publication order",
  "entries": [
   {
    "order": 1,
-   "series": "Comics Giveaway Day 2026: Armageddon/X-Men",
+   "series": "Comics Giveaway Day 2026: Armageddon / X-Men",
    "issue": "1",
-   "volume": "2026",
-   "year": "2026",
-   "owned": false
+   "role": "PROLOGUE",
+   "release_date": "May 2nd, 2026"
   },
   {
    "order": 2,
-   "series": "DNX",
-   "issue": "1",
-   "volume": "2026",
-   "year": "2026",
-   "owned": false
+   "series": "X-Men",
+   "issue": "35",
+   "role": "PROLOGUE",
+   "release_date": "Aug 12th, 2026"
   },
   {
    "order": 3,
-   "series": "Fantastic Four",
-   "issue": "17",
-   "volume": "2025",
-   "year": "2026",
-   "owned": false
+   "series": "X-Men",
+   "issue": "36",
+   "role": "PROLOGUE",
+   "release_date": "Aug 26th, 2026"
   },
   {
    "order": 4,
    "series": "DNX",
-   "issue": "2",
-   "volume": "2026",
-   "year": "2026",
-   "owned": false
+   "issue": "1",
+   "role": "CORE ISSUE",
+   "release_date": "Sep 16th, 2026"
   },
   {
    "order": 5,
-   "series": "DNX",
-   "issue": "3",
-   "volume": "2026",
-   "year": "2026",
-   "owned": false
+   "series": "X-Men",
+   "issue": "37",
+   "role": "TIE-IN",
+   "release_date": "Sep 16th, 2026"
   },
   {
    "order": 6,
    "series": "DNX",
-   "issue": "4",
-   "volume": "2026",
-   "year": "2026",
-   "owned": false
+   "issue": "2",
+   "role": "CORE ISSUE",
+   "release_date": "Sep 30th, 2026"
   },
   {
    "order": 7,
+   "series": "X-Men",
+   "issue": "38",
+   "role": "TIE-IN",
+   "release_date": "Sep 30th, 2026"
+  },
+  {
+   "order": 8,
+   "series": "Fantastic Four",
+   "issue": "17",
+   "role": "TIE-IN",
+   "release_date": "Sep 30th, 2026"
+  },
+  {
+   "order": 9,
+   "series": "DNX",
+   "issue": "3",
+   "role": "CORE ISSUE",
+   "release_date": "Oct 14th, 2026"
+  },
+  {
+   "order": 10,
+   "series": "X-Men",
+   "issue": "39",
+   "role": "TIE-IN",
+   "release_date": "Oct 14th, 2026"
+  },
+  {
+   "order": 11,
+   "series": "X-Men",
+   "issue": "40",
+   "role": "TIE-IN",
+   "release_date": "Oct 28th, 2026"
+  },
+  {
+   "order": 12,
+   "series": "Fantastic Four",
+   "issue": "18",
+   "role": "TIE-IN",
+   "release_date": "Oct 28th, 2026"
+  },
+  {
+   "order": 13,
+   "series": "DNX",
+   "issue": "4",
+   "role": "CORE ISSUE",
+   "release_date": "Nov 4th, 2026"
+  },
+  {
+   "order": 14,
+   "series": "X-Men",
+   "issue": "41",
+   "role": "TIE-IN",
+   "release_date": "Nov 11th, 2026"
+  },
+  {
+   "order": 15,
    "series": "DNX",
    "issue": "5",
-   "volume": "2026",
-   "year": "2027",
-   "owned": false
+   "role": "CORE ISSUE",
+   "release_date": "Nov 18th, 2026"
+  },
+  {
+   "order": 16,
+   "series": "Jean Grey",
+   "issue": "1",
+   "role": "EPILOGUE",
+   "release_date": "Nov 25th, 2026"
   }
  ]
 }

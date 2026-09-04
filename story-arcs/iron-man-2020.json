@@ -2,151 +2,135 @@
  "arc": "Iron Man 2020",
  "slug": "iron-man-2020",
  "issue_count": 18,
- "owned_count": 0,
+ "source": "League of Comic Geeks",
+ "confidence": "high",
+ "note": "curated publication order",
  "entries": [
   {
    "order": 1,
    "series": "Iron Man 2020",
    "issue": "1",
-   "volume": "2020",
-   "year": "2020",
-   "owned": false
+   "role": "CORE ISSUE",
+   "release_date": "Jan 15th, 2020"
   },
   {
    "order": 2,
    "series": "Iron Man 2020",
    "issue": "2",
-   "volume": "2020",
-   "year": "2020",
-   "owned": false
+   "role": "CORE ISSUE",
+   "release_date": "Feb 12th, 2020"
   },
   {
    "order": 3,
    "series": "2020 Machine Man",
    "issue": "1",
-   "volume": "2020",
-   "year": "2020",
-   "owned": false
+   "role": "TIE-IN",
+   "release_date": "Feb 19th, 2020"
   },
   {
    "order": 4,
    "series": "2020 Force Works",
    "issue": "1",
-   "volume": "2020",
-   "year": "2020",
-   "owned": false
+   "role": "TIE-IN",
+   "release_date": "Feb 26th, 2020"
   },
   {
    "order": 5,
-   "series": "Iron Man 2020",
-   "issue": "3",
-   "volume": "2020",
-   "year": "2020",
-   "owned": false
+   "series": "2020 Rescue",
+   "issue": "1",
+   "role": "TIE-IN",
+   "release_date": "Mar 4th, 2020"
   },
   {
    "order": 6,
-   "series": "2020 Machine Man",
-   "issue": "2",
-   "volume": "2020",
-   "year": "2020",
-   "owned": false
+   "series": "Iron Man 2020",
+   "issue": "3",
+   "role": "CORE ISSUE",
+   "release_date": "Mar 4th, 2020"
   },
   {
    "order": 7,
-   "series": "2020 Force Works",
-   "issue": "2",
-   "volume": "2020",
-   "year": "2020",
-   "owned": false
+   "series": "2020 Iron Age",
+   "issue": "1",
+   "role": "TIE-IN",
+   "release_date": "Mar 18th, 2020"
   },
   {
    "order": 8,
-   "series": "2020 Iron Age",
-   "issue": "1",
-   "volume": "2020",
-   "year": "2020",
-   "owned": false
+   "series": "2020 Machine Man",
+   "issue": "2",
+   "role": "TIE-IN",
+   "release_date": "Mar 18th, 2020"
   },
   {
    "order": 9,
-   "series": "2020 Rescue",
-   "issue": "1",
-   "volume": "2020",
-   "year": "2020",
-   "owned": false
+   "series": "2020 Force Works",
+   "issue": "2",
+   "role": "TIE-IN",
+   "release_date": "Mar 25th, 2020"
   },
   {
    "order": 10,
    "series": "2020 Ironheart",
    "issue": "1",
-   "volume": "2020",
-   "year": "2020",
-   "owned": false
+   "role": "TIE-IN",
+   "release_date": "May 20th, 2020"
   },
   {
    "order": 11,
-   "series": "Iron Man 2020",
-   "issue": "4",
-   "volume": "2020",
-   "year": "2020",
-   "owned": false
+   "series": "2020 Force Works",
+   "issue": "3",
+   "role": "TIE-IN",
+   "release_date": "Aug 26th, 2020"
   },
   {
    "order": 12,
-   "series": "2020 Force Works",
-   "issue": "3",
-   "volume": "2020",
-   "year": "2020",
-   "owned": false
+   "series": "2020 Ironheart",
+   "issue": "2",
+   "role": "TIE-IN",
+   "release_date": "Jun 17th, 2020"
   },
   {
    "order": 13,
-   "series": "2020 Rescue",
-   "issue": "2",
-   "volume": "2020",
-   "year": "2020",
-   "owned": false
+   "series": "Iron Man 2020",
+   "issue": "4",
+   "role": "CORE ISSUE",
+   "release_date": "Jun 24th, 2020"
   },
   {
    "order": 14,
-   "series": "2020 Ironheart",
+   "series": "2020 Rescue",
    "issue": "2",
-   "volume": "2020",
-   "year": "2020",
-   "owned": false
+   "role": "TIE-IN",
+   "release_date": "Jun 24th, 2020"
   },
   {
    "order": 15,
    "series": "2020 iWolverine",
    "issue": "1",
-   "volume": "2020",
-   "year": "2020",
-   "owned": false
+   "role": "TIE-IN",
+   "release_date": "Jul 15th, 2020"
   },
   {
    "order": 16,
    "series": "Iron Man 2020",
    "issue": "5",
-   "volume": "2020",
-   "year": "2020",
-   "owned": false
+   "role": "CORE ISSUE",
+   "release_date": "Jul 29th, 2020"
   },
   {
    "order": 17,
    "series": "2020 iWolverine",
    "issue": "2",
-   "volume": "2020",
-   "year": "2020",
-   "owned": false
+   "role": "TIE-IN",
+   "release_date": "Aug 26th, 2020"
   },
   {
    "order": 18,
    "series": "Iron Man 2020",
    "issue": "6",
-   "volume": "2020",
-   "year": "2020",
-   "owned": false
+   "role": "CORE ISSUE",
+   "release_date": "Aug 26th, 2020"
   }
  ]
 }

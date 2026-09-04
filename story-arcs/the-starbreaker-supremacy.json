@@ -2,55 +2,51 @@
  "arc": "The Starbreaker Supremacy",
  "slug": "the-starbreaker-supremacy",
  "issue_count": 6,
- "owned_count": 6,
+ "source": "release-date sort (Mylar dates, CBL tie-break)",
+ "confidence": "medium",
+ "note": "all 6 issues dated, chronological",
  "entries": [
   {
    "order": 1,
-   "series": "Green Lantern",
-   "issue": "25",
-   "volume": "2023",
-   "year": "2025",
-   "owned": true
+   "series": "Green Lantern Corps",
+   "issue": "7",
+   "role": "",
+   "release_date": "2012-03-21"
   },
   {
    "order": 2,
    "series": "Green Lantern Corps",
-   "issue": "7",
-   "volume": "2025",
-   "year": "2025",
-   "owned": true
+   "issue": "8",
+   "role": "",
+   "release_date": "2012-04-18"
   },
   {
    "order": 3,
-   "series": "Green Lantern",
-   "issue": "26",
-   "volume": "2023",
-   "year": "2025",
-   "owned": true
+   "series": "Green Lantern Corps",
+   "issue": "9",
+   "role": "",
+   "release_date": "2012-05-16"
   },
   {
    "order": 4,
-   "series": "Green Lantern Corps",
-   "issue": "8",
-   "volume": "2025",
-   "year": "2025",
-   "owned": true
+   "series": "Green Lantern",
+   "issue": "25",
+   "role": "",
+   "release_date": "2025-07-23"
   },
   {
    "order": 5,
    "series": "Green Lantern",
-   "issue": "27",
-   "volume": "2023",
-   "year": "2025",
-   "owned": true
+   "issue": "26",
+   "role": "",
+   "release_date": "2025-08-27"
   },
   {
    "order": 6,
-   "series": "Green Lantern Corps",
-   "issue": "9",
-   "volume": "2025",
-   "year": "2025",
-   "owned": true
+   "series": "Green Lantern",
+   "issue": "27",
+   "role": "",
+   "release_date": "2025-09-24"
   }
  ]
 }

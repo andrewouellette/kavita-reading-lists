@@ -2,7 +2,7 @@
  "description": "Comic story arc reading orders, exported from ComicBookList (.cbl) files.",
  "note": "order is the complete arc reading order. Arcs marked source=League of Comic Geeks are publication-order curated by LoCG and include role labels (PROLOGUE/CORE ISSUE/TIE-IN/EPILOGUE). The rest are derived from .cbl files and may group issues by title rather than interleaving them - see ORDERING.md",
  "arc_count": 258,
- "total_entries": 8877,
+ "total_entries": 8883,
  "arcs": [
   {
    "arc": "2099",
@@ -72,7 +72,8 @@
    "slug": "alien-costume-saga",
    "file": "alien-costume-saga.json",
    "issue_count": 51,
-   "owned_count": 0
+   "confidence": "low",
+   "source": "release-date sort (Mylar dates, CBL tie-break)"
   },
   {
    "arc": "Amazons Attack",
@@ -429,7 +430,8 @@
    "slug": "dc-all-in-special",
    "file": "dc-all-in-special.json",
    "issue_count": 1,
-   "owned_count": 0
+   "confidence": "high",
+   "source": "release-date sort (Mylar dates, CBL tie-break)"
   },
   {
    "arc": "DC K.O.",
@@ -450,14 +452,16 @@
    "slug": "dc-x-sonic-the-hedgehog",
    "file": "dc-x-sonic-the-hedgehog.json",
    "issue_count": 5,
-   "owned_count": 4
+   "confidence": "high",
+   "source": "release-date sort (Mylar dates, CBL tie-break)"
   },
   {
    "arc": "DCeased",
    "slug": "dceased",
    "file": "dceased.json",
    "issue_count": 40,
-   "owned_count": 27
+   "confidence": "low",
+   "source": "release-date sort (Mylar dates, CBL tie-break)"
   },
   {
    "arc": "Dead No More The Clone Conspiracy",
@@ -499,7 +503,8 @@
    "slug": "death-of-x",
    "file": "death-of-x.json",
    "issue_count": 4,
-   "owned_count": 0
+   "confidence": "high",
+   "source": "release-date sort (Mylar dates, CBL tie-break)"
   },
   {
    "arc": "Decimation",
@@ -519,8 +524,9 @@
    "arc": "DNX",
    "slug": "dnx",
    "file": "dnx.json",
-   "issue_count": 7,
-   "owned_count": 0
+   "issue_count": 16,
+   "confidence": "high",
+   "source": "League of Comic Geeks"
   },
   {
    "arc": "Doctor Strange: Damnation",
@@ -709,7 +715,8 @@
    "slug": "giant-size-x-men",
    "file": "giant-size-x-men.json",
    "issue_count": 6,
-   "owned_count": 2
+   "confidence": "medium",
+   "source": "release-date sort (Mylar dates, CBL tie-break)"
   },
   {
    "arc": "Goblin Nation",
@@ -765,14 +772,16 @@
    "slug": "heroes-reborn",
    "file": "heroes-reborn.json",
    "issue_count": 18,
-   "owned_count": 18
+   "confidence": "high",
+   "source": "League of Comic Geeks"
   },
   {
    "arc": "Heroic Age",
    "slug": "heroic-age",
    "file": "heroic-age.json",
    "issue_count": 116,
-   "owned_count": 19
+   "confidence": "low",
+   "source": "release-date sort (Mylar dates, CBL tie-break)"
   },
   {
    "arc": "House of Brainiac",
@@ -884,7 +893,8 @@
    "slug": "iron-man-2020",
    "file": "iron-man-2020.json",
    "issue_count": 18,
-   "owned_count": 0
+   "confidence": "high",
+   "source": "League of Comic Geeks"
   },
   {
    "arc": "JLA Avengers",
@@ -974,8 +984,9 @@
    "arc": "Lazarus Planet",
    "slug": "lazarus-planet",
    "file": "lazarus-planet.json",
-   "issue_count": 19,
-   "owned_count": 4
+   "issue_count": 16,
+   "confidence": "high",
+   "source": "League of Comic Geeks"
   },
   {
    "arc": "Lightning Saga",
@@ -989,7 +1000,8 @@
    "slug": "magneto-dark-seduction",
    "file": "magneto-dark-seduction.json",
    "issue_count": 4,
-   "owned_count": 0
+   "confidence": "high",
+   "source": "release-date sort (Mylar dates, CBL tie-break)"
   },
   {
    "arc": "Magneto War",
@@ -1003,7 +1015,8 @@
    "slug": "marvel-1602",
    "file": "marvel-1602.json",
    "issue_count": 23,
-   "owned_count": 0
+   "confidence": "low",
+   "source": "release-date sort (Mylar dates, CBL tie-break)"
   },
   {
    "arc": "Marvel Zombies",
@@ -1052,7 +1065,8 @@
    "slug": "multiversity",
    "file": "multiversity.json",
    "issue_count": 9,
-   "owned_count": 0
+   "confidence": "medium",
+   "source": "release-date sort (Mylar dates, CBL tie-break)"
   },
   {
    "arc": "Necrosha",
@@ -1297,7 +1311,8 @@
    "slug": "sins-of-sinister",
    "file": "sins-of-sinister.json",
    "issue_count": 13,
-   "owned_count": 13
+   "confidence": "high",
+   "source": "League of Comic Geeks"
   },
   {
    "arc": "Sins Rising and Last Remains",
@@ -1332,7 +1347,8 @@
    "slug": "spider-man-the-other",
    "file": "spider-man-the-other.json",
    "issue_count": 12,
-   "owned_count": 0
+   "confidence": "high",
+   "source": "League of Comic Geeks"
   },
   {
    "arc": "Spider-Man/Venom: Death Spiral",
@@ -1388,7 +1404,8 @@
    "slug": "superior-spider-man",
    "file": "superior-spider-man.json",
    "issue_count": 85,
-   "owned_count": 8
+   "confidence": "low",
+   "source": "release-date sort (Mylar dates, CBL tie-break)"
   },
   {
    "arc": "Superman Doomed",
@@ -1444,7 +1461,8 @@
    "slug": "symbiosis-necrosis",
    "file": "symbiosis-necrosis.json",
    "issue_count": 4,
-   "owned_count": 4
+   "confidence": "medium",
+   "source": "release-date sort (Mylar dates, CBL tie-break)"
   },
   {
    "arc": "The 8 Deaths of Spider-Man",
@@ -1549,7 +1567,8 @@
    "slug": "the-starbreaker-supremacy",
    "file": "the-starbreaker-supremacy.json",
    "issue_count": 6,
-   "owned_count": 6
+   "confidence": "medium",
+   "source": "release-date sort (Mylar dates, CBL tie-break)"
   },
   {
    "arc": "The Thanos Imperative",

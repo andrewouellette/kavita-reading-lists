@@ -2,55 +2,51 @@
  "arc": "Giant-Size X-Men",
  "slug": "giant-size-x-men",
  "issue_count": 6,
- "owned_count": 2,
+ "source": "release-date sort (Mylar dates, CBL tie-break)",
+ "confidence": "medium",
+ "note": "all 6 issues dated, chronological",
  "entries": [
   {
    "order": 1,
    "series": "Free Comic Book Day 2025: Fantastic Four/Giant-Size X-Men",
    "issue": "1",
-   "volume": "2025",
-   "year": "2025",
-   "owned": false
+   "role": "",
+   "release_date": "2025-05-03"
   },
   {
    "order": 2,
    "series": "Giant-Size X-Men",
    "issue": "1",
-   "volume": "2025",
-   "year": "2025",
-   "owned": false
+   "role": "",
+   "release_date": "2025-05-28"
   },
   {
    "order": 3,
    "series": "Giant-Size Dark Phoenix Saga",
    "issue": "1",
-   "volume": "2025",
-   "year": "2025",
-   "owned": false
+   "role": "",
+   "release_date": "2025-06-11"
   },
   {
    "order": 4,
    "series": "Giant-Size Age of Apocalypse",
    "issue": "1",
-   "volume": "2025",
-   "year": "2025",
-   "owned": false
+   "role": "",
+   "release_date": "2025-06-25"
   },
   {
    "order": 5,
    "series": "Giant-Size House of M",
    "issue": "1",
-   "volume": "2025",
-   "year": "2025",
-   "owned": true
+   "role": "",
+   "release_date": "2025-07-16"
   },
   {
    "order": 6,
    "series": "Giant-Size X-Men",
    "issue": "2",
-   "volume": "2025",
-   "year": "2025",
-   "owned": true
+   "role": "",
+   "release_date": "2025-08-13"
   }
  ]
 }

@@ -2,111 +2,100 @@
  "arc": "Sins of Sinister",
  "slug": "sins-of-sinister",
  "issue_count": 13,
- "owned_count": 13,
+ "source": "League of Comic Geeks",
+ "confidence": "high",
+ "note": "curated publication order",
  "entries": [
   {
    "order": 1,
    "series": "Immortal X-Men",
    "issue": "9",
-   "volume": "2022",
-   "year": "2023",
-   "owned": true
+   "role": "PROLOGUE",
+   "release_date": "Dec 7th, 2022"
   },
   {
    "order": 2,
    "series": "Immortal X-Men",
    "issue": "10",
-   "volume": "2022",
-   "year": "2023",
-   "owned": true
+   "role": "PROLOGUE",
+   "release_date": "Jan 18th, 2023"
   },
   {
    "order": 3,
    "series": "Sins of Sinister",
    "issue": "1",
-   "volume": "2023",
-   "year": "2023",
-   "owned": true
+   "role": "CORE ISSUE",
+   "release_date": "Jan 25th, 2023"
   },
   {
    "order": 4,
    "series": "Storm & The Brotherhood of Mutants",
    "issue": "1",
-   "volume": "2023",
-   "year": "2023",
-   "owned": true
+   "role": "CORE ISSUE",
+   "release_date": "Feb 8th, 2023"
   },
   {
    "order": 5,
    "series": "Nightcrawlers",
    "issue": "1",
-   "volume": "2023",
-   "year": "2023",
-   "owned": true
+   "role": "CORE ISSUE",
+   "release_date": "Feb 15th, 2023"
   },
   {
    "order": 6,
    "series": "Immoral X-Men",
    "issue": "1",
-   "volume": "2023",
-   "year": "2023",
-   "owned": true
+   "role": "CORE ISSUE",
+   "release_date": "Feb 22nd, 2023"
   },
   {
    "order": 7,
    "series": "Nightcrawlers",
    "issue": "2",
-   "volume": "2023",
-   "year": "2023",
-   "owned": true
+   "role": "CORE ISSUE",
+   "release_date": "Mar 8th, 2023"
   },
   {
    "order": 8,
    "series": "Immoral X-Men",
    "issue": "2",
-   "volume": "2023",
-   "year": "2023",
-   "owned": true
+   "role": "CORE ISSUE",
+   "release_date": "Mar 15th, 2023"
   },
   {
    "order": 9,
    "series": "Storm & The Brotherhood of Mutants",
    "issue": "2",
-   "volume": "2023",
-   "year": "2023",
-   "owned": true
+   "role": "CORE ISSUE",
+   "release_date": "Mar 22nd, 2023"
   },
   {
    "order": 10,
    "series": "Immoral X-Men",
    "issue": "3",
-   "volume": "2023",
-   "year": "2023",
-   "owned": true
+   "role": "CORE ISSUE",
+   "release_date": "Apr 5th, 2023"
   },
   {
    "order": 11,
    "series": "Storm & The Brotherhood of Mutants",
    "issue": "3",
-   "volume": "2023",
-   "year": "2023",
-   "owned": true
+   "role": "CORE ISSUE",
+   "release_date": "Apr 12th, 2023"
   },
   {
    "order": 12,
    "series": "Nightcrawlers",
    "issue": "3",
-   "volume": "2023",
-   "year": "2023",
-   "owned": true
+   "role": "CORE ISSUE",
+   "release_date": "Apr 19th, 2023"
   },
   {
    "order": 13,
    "series": "Sins of Sinister: Dominion",
    "issue": "1",
-   "volume": "2023",
-   "year": "2023",
-   "owned": true
+   "role": "CORE ISSUE",
+   "release_date": "Apr 26th, 2023"
   }
  ]
 }

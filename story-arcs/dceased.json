@@ -2,327 +2,289 @@
  "arc": "DCeased",
  "slug": "dceased",
  "issue_count": 40,
- "owned_count": 27,
+ "source": "release-date sort (Mylar dates, CBL tie-break)",
+ "confidence": "low",
+ "note": "8 of 40 issues undated - those keep original CBL position",
  "entries": [
   {
    "order": 1,
    "series": "DCeased",
    "issue": "1",
-   "volume": "2019",
-   "year": "2019",
-   "owned": false
+   "role": "",
+   "release_date": "2019-05-01"
   },
   {
    "order": 2,
    "series": "DCeased",
    "issue": "2",
-   "volume": "2019",
-   "year": "2019",
-   "owned": true
+   "role": "",
+   "release_date": "2019-06-05"
   },
   {
    "order": 3,
    "series": "DCeased",
    "issue": "3",
-   "volume": "2019",
-   "year": "2019",
-   "owned": true
+   "role": "",
+   "release_date": "2019-07-03"
   },
   {
    "order": 4,
    "series": "DCeased",
    "issue": "4",
-   "volume": "2019",
-   "year": "2019",
-   "owned": true
+   "role": "",
+   "release_date": "2019-08-07"
   },
   {
    "order": 5,
-   "series": "DCeased",
-   "issue": "5",
-   "volume": "2019",
-   "year": "2019",
-   "owned": false
+   "series": "DCeased: A Good Day To Die",
+   "issue": "1",
+   "role": "",
+   "release_date": "2019-09-04"
   },
   {
    "order": 6,
    "series": "DCeased",
-   "issue": "6",
-   "volume": "2019",
-   "year": "2019",
-   "owned": false
+   "issue": "5",
+   "role": "",
+   "release_date": "2019-10-02"
   },
   {
    "order": 7,
-   "series": "DCeased: A Good Day To Die",
-   "issue": "1",
-   "volume": "2019",
-   "year": "2019",
-   "owned": true
+   "series": "DCeased",
+   "issue": "6",
+   "role": "",
+   "release_date": "2019-10-30"
   },
   {
    "order": 8,
    "series": "DCeased: Unkillables",
    "issue": "1",
-   "volume": "2020",
-   "year": "2020",
-   "owned": true
+   "role": "",
+   "release_date": "2020-02-19"
   },
   {
    "order": 9,
    "series": "DCeased: Unkillables",
    "issue": "2",
-   "volume": "2020",
-   "year": "2020",
-   "owned": true
+   "role": "",
+   "release_date": "2020-03-18"
   },
   {
    "order": 10,
-   "series": "DCeased: Unkillables",
-   "issue": "3",
-   "volume": "2020",
-   "year": "2020",
-   "owned": true
+   "series": "DCeased: Hope At World's End",
+   "issue": "1",
+   "role": "",
+   "release_date": "2020-05-19"
   },
   {
    "order": 11,
-   "series": "DCeased: Hope At World's End",
-   "issue": "1",
-   "volume": "2020",
-   "year": "2020",
-   "owned": true
+   "series": "DCeased: Unkillables",
+   "issue": "3",
+   "role": "",
+   "release_date": "2020-05-20"
   },
   {
    "order": 12,
    "series": "DCeased: Hope At World's End",
    "issue": "2",
-   "volume": "2020",
-   "year": "2020",
-   "owned": true
+   "role": "",
+   "release_date": "2020-06-02"
   },
   {
    "order": 13,
    "series": "DCeased: Hope At World's End",
    "issue": "3",
-   "volume": "2020",
-   "year": "2020",
-   "owned": true
+   "role": "",
+   "release_date": "2020-06-16"
   },
   {
    "order": 14,
    "series": "DCeased: Hope At World's End",
    "issue": "4",
-   "volume": "2020",
-   "year": "2020",
-   "owned": true
+   "role": "",
+   "release_date": "2020-06-30"
   },
   {
    "order": 15,
-   "series": "DCeased: Hope At World's End",
-   "issue": "5",
-   "volume": "2020",
-   "year": "2020",
-   "owned": true
+   "series": "DCeased: Dead Planet",
+   "issue": "1",
+   "role": "",
+   "release_date": "2020-07-07"
   },
   {
    "order": 16,
    "series": "DCeased: Hope At World's End",
-   "issue": "6",
-   "volume": "2020",
-   "year": "2020",
-   "owned": true
+   "issue": "5",
+   "role": "",
+   "release_date": "2020-07-14"
   },
   {
    "order": 17,
    "series": "DCeased: Hope At World's End",
-   "issue": "7",
-   "volume": "2020",
-   "year": "2020",
-   "owned": true
+   "issue": "6",
+   "role": "",
+   "release_date": "2020-07-28"
   },
   {
    "order": 18,
-   "series": "DCeased: Hope At World's End",
-   "issue": "8",
-   "volume": "2020",
-   "year": "2020",
-   "owned": true
+   "series": "DCeased: Dead Planet",
+   "issue": "2",
+   "role": "",
+   "release_date": "2020-08-04"
   },
   {
    "order": 19,
    "series": "DCeased: Hope At World's End",
-   "issue": "9",
-   "volume": "2020",
-   "year": "2020",
-   "owned": true
+   "issue": "7",
+   "role": "",
+   "release_date": "2020-08-11"
   },
   {
    "order": 20,
    "series": "DCeased: Hope At World's End",
-   "issue": "10",
-   "volume": "2020",
-   "year": "2020",
-   "owned": true
+   "issue": "8",
+   "role": "",
+   "release_date": "2020-08-25"
   },
   {
    "order": 21,
-   "series": "DCeased: Hope At World's End",
-   "issue": "11",
-   "volume": "2020",
-   "year": "2020",
-   "owned": true
+   "series": "DCeased: Dead Planet",
+   "issue": "3",
+   "role": "",
+   "release_date": "2020-09-01"
   },
   {
    "order": 22,
    "series": "DCeased: Hope At World's End",
-   "issue": "12",
-   "volume": "2020",
-   "year": "2020",
-   "owned": false
+   "issue": "9",
+   "role": "",
+   "release_date": "2020-09-08"
   },
   {
    "order": 23,
    "series": "DCeased: Hope At World's End",
-   "issue": "13",
-   "volume": "2020",
-   "year": "2020",
-   "owned": true
+   "issue": "10",
+   "role": "",
+   "release_date": "2020-09-22"
   },
   {
    "order": 24,
    "series": "DCeased: Hope At World's End",
-   "issue": "14",
-   "volume": "2020",
-   "year": "2020",
-   "owned": true
+   "issue": "11",
+   "role": "",
+   "release_date": "2020-10-06"
   },
   {
    "order": 25,
-   "series": "DCeased: Hope At World's End",
-   "issue": "15",
-   "volume": "2020",
-   "year": "2020",
-   "owned": true
+   "series": "DCeased: Dead Planet",
+   "issue": "4",
+   "role": "",
+   "release_date": "2020-10-06"
   },
   {
    "order": 26,
-   "series": "DCeased: Dead Planet",
-   "issue": "1",
-   "volume": "2020",
-   "year": "2020",
-   "owned": true
+   "series": "DCeased: Hope At World's End",
+   "issue": "12",
+   "role": "",
+   "release_date": "2020-10-20"
   },
   {
    "order": 27,
-   "series": "DCeased: Dead Planet",
-   "issue": "2",
-   "volume": "2020",
-   "year": "2020",
-   "owned": true
+   "series": "DCeased: Hope At World's End",
+   "issue": "13",
+   "role": "",
+   "release_date": "2020-11-03"
   },
   {
    "order": 28,
    "series": "DCeased: Dead Planet",
-   "issue": "3",
-   "volume": "2020",
-   "year": "2020",
-   "owned": true
+   "issue": "5",
+   "role": "",
+   "release_date": "2020-11-03"
   },
   {
    "order": 29,
-   "series": "DCeased: Dead Planet",
-   "issue": "4",
-   "volume": "2020",
-   "year": "2020",
-   "owned": true
+   "series": "DCeased: Hope At World's End",
+   "issue": "14",
+   "role": "",
+   "release_date": "2020-11-17"
   },
   {
    "order": 30,
-   "series": "DCeased: Dead Planet",
-   "issue": "5",
-   "volume": "2020",
-   "year": "2021",
-   "owned": true
+   "series": "DCeased: Hope At World's End",
+   "issue": "15",
+   "role": "",
+   "release_date": "2020-12-01"
   },
   {
    "order": 31,
    "series": "DCeased: Dead Planet",
    "issue": "6",
-   "volume": "2020",
-   "year": "2021",
-   "owned": true
+   "role": "",
+   "release_date": "2020-12-01"
   },
   {
    "order": 32,
    "series": "DCeased: Dead Planet",
    "issue": "7",
-   "volume": "2020",
-   "year": "2021",
-   "owned": false
+   "role": "",
+   "release_date": "2021-01-19"
   },
   {
    "order": 33,
    "series": "DCeased: War of the Undead Gods",
    "issue": "1",
-   "volume": "2022",
-   "year": "2022",
-   "owned": false
+   "role": "",
+   "release_date": ""
   },
   {
    "order": 34,
    "series": "DCeased: War of the Undead Gods",
    "issue": "2",
-   "volume": "2022",
-   "year": "2022",
-   "owned": false
+   "role": "",
+   "release_date": ""
   },
   {
    "order": 35,
    "series": "DCeased: War of the Undead Gods",
    "issue": "3",
-   "volume": "2022",
-   "year": "2022",
-   "owned": false
+   "role": "",
+   "release_date": ""
   },
   {
    "order": 36,
    "series": "DCeased: War of the Undead Gods",
    "issue": "4",
-   "volume": "2022",
-   "year": "2023",
-   "owned": false
+   "role": "",
+   "release_date": ""
   },
   {
    "order": 37,
    "series": "DCeased: War of the Undead Gods",
    "issue": "5",
-   "volume": "2022",
-   "year": "2023",
-   "owned": false
+   "role": "",
+   "release_date": ""
   },
   {
    "order": 38,
    "series": "DCeased: War of the Undead Gods",
    "issue": "6",
-   "volume": "2022",
-   "year": "2023",
-   "owned": false
+   "role": "",
+   "release_date": ""
   },
   {
    "order": 39,
    "series": "DCeased: War of the Undead Gods",
    "issue": "7",
-   "volume": "2022",
-   "year": "2023",
-   "owned": false
+   "role": "",
+   "release_date": ""
   },
   {
    "order": 40,
    "series": "DCeased: War of the Undead Gods",
    "issue": "8",
-   "volume": "2022",
-   "year": "2023",
-   "owned": false
+   "role": "",
+   "release_date": ""
   }
  ]
 }

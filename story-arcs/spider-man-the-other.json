@@ -2,103 +2,93 @@
  "arc": "Spider-Man The Other",
  "slug": "spider-man-the-other",
  "issue_count": 12,
- "owned_count": 0,
+ "source": "League of Comic Geeks",
+ "confidence": "high",
+ "note": "curated publication order",
  "entries": [
   {
    "order": 1,
    "series": "Friendly Neighborhood Spider-Man",
    "issue": "1",
-   "volume": "2005",
-   "year": "2005",
-   "owned": false
+   "role": "CORE ISSUE",
+   "release_date": "Oct 12th, 2005"
   },
   {
    "order": 2,
    "series": "Marvel Knights Spider-Man",
    "issue": "19",
-   "volume": "2004",
-   "year": "2005",
-   "owned": false
+   "role": "CORE ISSUE",
+   "release_date": "Oct 19th, 2005"
   },
   {
    "order": 3,
    "series": "The Amazing Spider-Man",
    "issue": "525",
-   "volume": "1963",
-   "year": "2005",
-   "owned": false
+   "role": "CORE ISSUE",
+   "release_date": "Oct 26th, 2005"
   },
   {
    "order": 4,
    "series": "Friendly Neighborhood Spider-Man",
    "issue": "2",
-   "volume": "2005",
-   "year": "2006",
-   "owned": false
+   "role": "CORE ISSUE",
+   "release_date": "Nov 9th, 2005"
   },
   {
    "order": 5,
    "series": "Marvel Knights Spider-Man",
    "issue": "20",
-   "volume": "2004",
-   "year": "2006",
-   "owned": false
+   "role": "CORE ISSUE",
+   "release_date": "Nov 16th, 2005"
   },
   {
    "order": 6,
    "series": "The Amazing Spider-Man",
    "issue": "526",
-   "volume": "1963",
-   "year": "2006",
-   "owned": false
+   "role": "CORE ISSUE",
+   "release_date": "Nov 23rd, 2005"
   },
   {
    "order": 7,
    "series": "Friendly Neighborhood Spider-Man",
    "issue": "3",
-   "volume": "2005",
-   "year": "2006",
-   "owned": false
+   "role": "CORE ISSUE",
+   "release_date": "Dec 7th, 2005"
   },
   {
    "order": 8,
    "series": "Marvel Knights Spider-Man",
    "issue": "21",
-   "volume": "2004",
-   "year": "2006",
-   "owned": false
+   "role": "CORE ISSUE",
+   "release_date": "Dec 14th, 2005"
   },
   {
    "order": 9,
    "series": "The Amazing Spider-Man",
    "issue": "527",
-   "volume": "1963",
-   "year": "2006",
-   "owned": false
+   "role": "CORE ISSUE",
+   "release_date": "Dec 28th, 2005"
   },
   {
    "order": 10,
    "series": "Friendly Neighborhood Spider-Man",
    "issue": "4",
-   "volume": "2005",
-   "year": "2006",
-   "owned": false
+   "role": "CORE ISSUE",
+   "release_date": "Jan 18th, 2006"
   },
   {
    "order": 11,
    "series": "Marvel Knights Spider-Man",
    "issue": "22",
-   "volume": "2004",
-   "year": "2006",
-   "owned": false
+   "role": "CORE ISSUE",
+   "release_date": "Jan 18th, 2006"
   },
   {
    "order": 12,
    "series": "The Amazing Spider-Man",
    "issue": "528",
-   "volume": "1963",
-   "year": "2006",
-   "owned": false
+   "role": "CORE ISSUE",
+   "release_date": "Jan 25th, 2006"
   }
  ]
 }

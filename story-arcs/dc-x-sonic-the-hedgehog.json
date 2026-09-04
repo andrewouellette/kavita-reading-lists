@@ -2,47 +2,44 @@
  "arc": "DC x Sonic the Hedgehog",
  "slug": "dc-x-sonic-the-hedgehog",
  "issue_count": 5,
- "owned_count": 4,
+ "source": "release-date sort (Mylar dates, CBL tie-break)",
+ "confidence": "high",
+ "note": "single series, ascending issue order",
  "entries": [
   {
    "order": 1,
    "series": "DC x Sonic the Hedgehog",
    "issue": "1",
-   "volume": "2025",
-   "year": "2025",
-   "owned": false
+   "role": "",
+   "release_date": "2025-03-19"
   },
   {
    "order": 2,
    "series": "DC x Sonic the Hedgehog",
    "issue": "2",
-   "volume": "2025",
-   "year": "2025",
-   "owned": true
+   "role": "",
+   "release_date": "2025-04-16"
   },
   {
    "order": 3,
    "series": "DC x Sonic the Hedgehog",
    "issue": "3",
-   "volume": "2025",
-   "year": "2025",
-   "owned": true
+   "role": "",
+   "release_date": "2025-05-21"
   },
   {
    "order": 4,
    "series": "DC x Sonic the Hedgehog",
    "issue": "4",
-   "volume": "2025",
-   "year": "2025",
-   "owned": true
+   "role": "",
+   "release_date": "2025-06-25"
   },
   {
    "order": 5,
    "series": "DC x Sonic the Hedgehog",
    "issue": "5",
-   "volume": "2025",
-   "year": "2025",
-   "owned": true
+   "role": "",
+   "release_date": "2025-07-30"
   }
  ]
 }

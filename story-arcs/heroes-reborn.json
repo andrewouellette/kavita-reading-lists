@@ -2,151 +2,135 @@
  "arc": "Heroes Reborn",
  "slug": "heroes-reborn",
  "issue_count": 18,
- "owned_count": 18,
+ "source": "League of Comic Geeks",
+ "confidence": "high",
+ "note": "curated publication order",
  "entries": [
   {
    "order": 1,
    "series": "Heroes Reborn",
    "issue": "1",
-   "volume": "2021",
-   "year": "2021",
-   "owned": true
+   "role": "CORE ISSUE",
+   "release_date": "May 5th, 2021"
   },
   {
    "order": 2,
    "series": "Heroes Reborn: Hyperion & the Imperial Guard",
    "issue": "1",
-   "volume": "2021",
-   "year": "2021",
-   "owned": true
+   "role": "TIE-IN",
+   "release_date": "May 12th, 2021"
   },
   {
    "order": 3,
    "series": "Heroes Reborn: Peter Parker, The Amazing Shutterbug",
    "issue": "1",
-   "volume": "2021",
-   "year": "2021",
-   "owned": true
+   "role": "TIE-IN",
+   "release_date": "May 12th, 2021"
   },
   {
    "order": 4,
    "series": "Heroes Reborn",
    "issue": "2",
-   "volume": "2021",
-   "year": "2021",
-   "owned": true
+   "role": "CORE ISSUE",
+   "release_date": "May 12th, 2021"
   },
   {
    "order": 5,
    "series": "Heroes Reborn",
    "issue": "3",
-   "volume": "2021",
-   "year": "2021",
-   "owned": true
+   "role": "CORE ISSUE",
+   "release_date": "May 19th, 2021"
   },
   {
    "order": 6,
    "series": "Heroes Reborn",
    "issue": "4",
-   "volume": "2021",
-   "year": "2021",
-   "owned": true
+   "role": "CORE ISSUE",
+   "release_date": "May 26th, 2021"
   },
   {
    "order": 7,
    "series": "Heroes Reborn: Magneto & the Mutant Force",
    "issue": "1",
-   "volume": "2021",
-   "year": "2021",
-   "owned": true
+   "role": "TIE-IN",
+   "release_date": "May 26th, 2021"
   },
   {
    "order": 8,
    "series": "Heroes Reborn: Siege Society",
    "issue": "1",
-   "volume": "2021",
-   "year": "2021",
-   "owned": true
+   "role": "TIE-IN",
+   "release_date": "May 26th, 2021"
   },
   {
    "order": 9,
    "series": "Heroes Reborn: Young Squadron",
    "issue": "1",
-   "volume": "2021",
-   "year": "2021",
-   "owned": true
+   "role": "TIE-IN",
+   "release_date": "May 26th, 2021"
   },
   {
    "order": 10,
    "series": "Heroes Reborn",
    "issue": "5",
-   "volume": "2021",
-   "year": "2021",
-   "owned": true
+   "role": "CORE ISSUE",
+   "release_date": "Jun 2nd, 2021"
   },
   {
    "order": 11,
    "series": "Heroes Reborn: American Knights",
    "issue": "1",
-   "volume": "2021",
-   "year": "2021",
-   "owned": true
+   "role": "TIE-IN",
+   "release_date": "Jun 2nd, 2021"
   },
   {
    "order": 12,
    "series": "Heroes Reborn: Marvel Double Action",
    "issue": "1",
-   "volume": "2021",
-   "year": "2021",
-   "owned": true
+   "role": "TIE-IN",
+   "release_date": "Jun 2nd, 2021"
   },
   {
    "order": 13,
    "series": "Heroes Reborn",
    "issue": "6",
-   "volume": "2021",
-   "year": "2021",
-   "owned": true
+   "role": "CORE ISSUE",
+   "release_date": "Jun 9th, 2021"
   },
   {
    "order": 14,
    "series": "Heroes Reborn: Squadron Savage",
    "issue": "1",
-   "volume": "2021",
-   "year": "2021",
-   "owned": true
+   "role": "TIE-IN",
+   "release_date": "Jun 9th, 2021"
   },
   {
    "order": 15,
    "series": "Heroes Reborn: Night-Gwen",
    "issue": "1",
-   "volume": "2021",
-   "year": "2021",
-   "owned": true
+   "role": "TIE-IN",
+   "release_date": "Jun 9th, 2021"
   },
   {
    "order": 16,
    "series": "Heroes Reborn",
    "issue": "7",
-   "volume": "2021",
-   "year": "2021",
-   "owned": true
+   "role": "CORE ISSUE",
+   "release_date": "Jun 16th, 2021"
   },
   {
    "order": 17,
    "series": "Heroes Reborn: Weapon X & Final Flight",
    "issue": "1",
-   "volume": "2021",
-   "year": "2021",
-   "owned": true
+   "role": "TIE-IN",
+   "release_date": "Jun 16th, 2021"
   },
   {
    "order": 18,
    "series": "Heroes Return",
    "issue": "1",
-   "volume": "2021",
-   "year": "2021",
-   "owned": true
+   "role": "CORE ISSUE",
+   "release_date": "Jun 23rd, 2021"
   }
  ]
 }

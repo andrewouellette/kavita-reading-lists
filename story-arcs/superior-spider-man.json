@@ -2,687 +2,604 @@
  "arc": "Superior Spider-Man",
  "slug": "superior-spider-man",
  "issue_count": 85,
- "owned_count": 8,
+ "source": "release-date sort (Mylar dates, CBL tie-break)",
+ "confidence": "low",
+ "note": "10 of 85 issues undated - those keep original CBL position",
  "entries": [
   {
    "order": 1,
-   "series": "Avenging Spider-Man",
-   "issue": "15.1",
-   "volume": "2011",
-   "year": "2013",
-   "owned": false
+   "series": "Daredevil",
+   "issue": "21",
+   "role": "",
+   "release_date": "2012-12-19"
   },
   {
    "order": 2,
    "series": "Superior Spider-Man",
    "issue": "1",
-   "volume": "2013",
-   "year": "2013",
-   "owned": false
+   "role": "",
+   "release_date": "2013-01-09"
   },
   {
    "order": 3,
    "series": "Daredevil",
-   "issue": "21",
-   "volume": "2011",
-   "year": "2013",
-   "owned": false
+   "issue": "22",
+   "role": "",
+   "release_date": "2013-01-16"
   },
   {
    "order": 4,
-   "series": "Daredevil",
-   "issue": "22",
-   "volume": "2011",
-   "year": "2013",
-   "owned": false
+   "series": "Superior Spider-Man",
+   "issue": "2",
+   "role": "",
+   "release_date": "2013-01-30"
   },
   {
    "order": 5,
    "series": "Superior Spider-Man",
-   "issue": "2",
-   "volume": "2013",
-   "year": "2013",
-   "owned": false
+   "issue": "3",
+   "role": "",
+   "release_date": "2013-02-06"
   },
   {
    "order": 6,
-   "series": "Avenging Spider-Man",
-   "issue": "16",
-   "volume": "2011",
-   "year": "2013",
-   "owned": false
+   "series": "Superior Spider-Man",
+   "issue": "4",
+   "role": "",
+   "release_date": "2013-02-20"
   },
   {
    "order": 7,
-   "series": "Superior Spider-Man",
-   "issue": "3",
-   "volume": "2013",
-   "year": "2013",
-   "owned": false
+   "series": "Alpha: Big Time",
+   "issue": "1",
+   "role": "",
+   "release_date": "2013-02-20"
   },
   {
    "order": 8,
    "series": "Superior Spider-Man",
-   "issue": "4",
-   "volume": "2013",
-   "year": "2013",
-   "owned": false
+   "issue": "5",
+   "role": "",
+   "release_date": "2013-03-06"
   },
   {
    "order": 9,
-   "series": "Superior Spider-Man",
-   "issue": "5",
-   "volume": "2013",
-   "year": "2013",
-   "owned": false
+   "series": "Alpha: Big Time",
+   "issue": "2",
+   "role": "",
+   "release_date": "2013-03-13"
   },
   {
    "order": 10,
-   "series": "Avengers",
+   "series": "Superior Spider-Man",
    "issue": "6",
-   "volume": "2012",
-   "year": "2013",
-   "owned": true
+   "role": "",
+   "release_date": "2013-03-20"
   },
   {
    "order": 11,
-   "series": "Avengers",
+   "series": "Superior Spider-Man",
    "issue": "7",
-   "volume": "2012",
-   "year": "2013",
-   "owned": true
+   "role": "",
+   "release_date": "2013-04-03"
   },
   {
    "order": 12,
-   "series": "Avengers",
-   "issue": "8",
-   "volume": "2012",
-   "year": "2013",
-   "owned": true
+   "series": "Alpha: Big Time",
+   "issue": "3",
+   "role": "",
+   "release_date": "2013-04-10"
   },
   {
    "order": 13,
-   "series": "Avengers",
-   "issue": "9",
-   "volume": "2012",
-   "year": "2013",
-   "owned": false
+   "series": "Superior Spider-Man",
+   "issue": "8",
+   "role": "",
+   "release_date": "2013-04-17"
   },
   {
    "order": 14,
-   "series": "Avenging Spider-Man",
-   "issue": "17",
-   "volume": "2011",
-   "year": "2013",
-   "owned": false
+   "series": "Superior Spider-Man",
+   "issue": "9",
+   "role": "",
+   "release_date": "2013-05-01"
   },
   {
    "order": 15,
-   "series": "Avengers",
-   "issue": "12",
-   "volume": "2012",
-   "year": "2013",
-   "owned": true
+   "series": "Alpha: Big Time",
+   "issue": "4",
+   "role": "",
+   "release_date": "2013-05-08"
   },
   {
    "order": 16,
-   "series": "Avengers",
-   "issue": "13",
-   "volume": "2012",
-   "year": "2013",
-   "owned": true
+   "series": "Superior Spider-Man",
+   "issue": "10",
+   "role": "",
+   "release_date": "2013-05-22"
   },
   {
    "order": 17,
-   "series": "Avenging Spider-Man",
-   "issue": "18",
-   "volume": "2011",
-   "year": "2013",
-   "owned": false
+   "series": "Superior Spider-Man",
+   "issue": "11",
+   "role": "",
+   "release_date": "2013-06-05"
   },
   {
    "order": 18,
-   "series": "Superior Spider-Man",
-   "issue": "6",
-   "volume": "2013",
-   "year": "2013",
-   "owned": false
+   "series": "Alpha: Big Time",
+   "issue": "5",
+   "role": "",
+   "release_date": "2013-06-12"
   },
   {
    "order": 19,
-   "series": "Avenging Spider-Man",
-   "issue": "19",
-   "volume": "2011",
-   "year": "2013",
-   "owned": false
+   "series": "Morbius: The Living Vampire",
+   "issue": "6",
+   "role": "",
+   "release_date": "2013-06-19"
   },
   {
    "order": 20,
    "series": "Superior Spider-Man",
-   "issue": "7",
-   "volume": "2013",
-   "year": "2013",
-   "owned": false
+   "issue": "12",
+   "role": "",
+   "release_date": "2013-06-19"
   },
   {
    "order": 21,
    "series": "Superior Spider-Man",
-   "issue": "8",
-   "volume": "2013",
-   "year": "2013",
-   "owned": false
+   "issue": "13",
+   "role": "",
+   "release_date": "2013-07-10"
   },
   {
    "order": 22,
-   "series": "Superior Spider-Man",
-   "issue": "9",
-   "volume": "2013",
-   "year": "2013",
-   "owned": false
+   "series": "Morbius: The Living Vampire",
+   "issue": "7",
+   "role": "",
+   "release_date": "2013-07-17"
   },
   {
    "order": 23,
-   "series": "Morbius: The Living Vampire",
-   "issue": "6",
-   "volume": "2013",
-   "year": "2013",
-   "owned": false
+   "series": "Superior Carnage",
+   "issue": "1",
+   "role": "",
+   "release_date": "2013-07-17"
   },
   {
    "order": 24,
-   "series": "Morbius: The Living Vampire",
-   "issue": "7",
-   "volume": "2013",
-   "year": "2013",
-   "owned": false
+   "series": "Superior Spider-Man",
+   "issue": "14",
+   "role": "",
+   "release_date": "2013-07-24"
   },
   {
    "order": 25,
-   "series": "Superior Spider-Man",
-   "issue": "10",
-   "volume": "2013",
-   "year": "2013",
-   "owned": false
+   "series": "Superior Spider-Man Team-Up",
+   "issue": "1",
+   "role": "",
+   "release_date": "2013-07-24"
   },
   {
    "order": 26,
-   "series": "Avenging Spider-Man",
-   "issue": "20",
-   "volume": "2011",
-   "year": "2013",
-   "owned": false
+   "series": "Superior Spider-Man",
+   "issue": "15",
+   "role": "",
+   "release_date": "2013-08-07"
   },
   {
    "order": 27,
-   "series": "Avenging Spider-Man",
-   "issue": "21",
-   "volume": "2011",
-   "year": "2013",
-   "owned": false
+   "series": "Superior Carnage",
+   "issue": "2",
+   "role": "",
+   "release_date": "2013-08-07"
   },
   {
    "order": 28,
-   "series": "Superior Spider-Man",
-   "issue": "11",
-   "volume": "2013",
-   "year": "2013",
-   "owned": false
+   "series": "Superior Spider-Man Team-Up",
+   "issue": "2",
+   "role": "",
+   "release_date": "2013-08-14"
   },
   {
    "order": 29,
-   "series": "Alpha: Big Time",
-   "issue": "1",
-   "volume": "2013",
-   "year": "2013",
-   "owned": false
+   "series": "Scarlet Spider",
+   "issue": "20",
+   "role": "",
+   "release_date": "2013-08-14"
   },
   {
    "order": 30,
-   "series": "Alpha: Big Time",
-   "issue": "2",
-   "volume": "2013",
-   "year": "2013",
-   "owned": false
+   "series": "Superior Spider-Man",
+   "issue": "16",
+   "role": "",
+   "release_date": "2013-08-21"
   },
   {
    "order": 31,
-   "series": "Alpha: Big Time",
-   "issue": "3",
-   "volume": "2013",
-   "year": "2013",
-   "owned": false
+   "series": "Superior Spider-Man",
+   "issue": "17",
+   "role": "",
+   "release_date": "2013-09-04"
   },
   {
    "order": 32,
-   "series": "Alpha: Big Time",
-   "issue": "4",
-   "volume": "2013",
-   "year": "2013",
-   "owned": false
+   "series": "Mighty Avengers",
+   "issue": "1",
+   "role": "",
+   "release_date": "2013-09-11"
   },
   {
    "order": 33,
-   "series": "Alpha: Big Time",
-   "issue": "5",
-   "volume": "2013",
-   "year": "2013",
-   "owned": false
+   "series": "Superior Spider-Man",
+   "issue": "18",
+   "role": "",
+   "release_date": "2013-09-18"
   },
   {
    "order": 34,
-   "series": "Superior Spider-Man",
-   "issue": "12",
-   "volume": "2013",
-   "year": "2013",
-   "owned": false
+   "series": "Superior Carnage",
+   "issue": "3",
+   "role": "",
+   "release_date": "2013-09-18"
   },
   {
    "order": 35,
-   "series": "Superior Spider-Man",
-   "issue": "13",
-   "volume": "2013",
-   "year": "2013",
-   "owned": false
+   "series": "Superior Spider-Man Team-Up",
+   "issue": "3",
+   "role": "",
+   "release_date": "2013-09-25"
   },
   {
    "order": 36,
-   "series": "Avenging Spider-Man",
-   "issue": "22",
-   "volume": "2011",
-   "year": "2013",
-   "owned": false
+   "series": "All-New X-Men Special",
+   "issue": "1",
+   "role": "",
+   "release_date": "2013-10-02"
   },
   {
    "order": 37,
-   "series": "Superior Spider-Man",
-   "issue": "14",
-   "volume": "2013",
-   "year": "2013",
-   "owned": false
+   "series": "Mighty Avengers",
+   "issue": "2",
+   "role": "",
+   "release_date": "2013-10-02"
   },
   {
    "order": 38,
    "series": "Superior Spider-Man Team-Up",
-   "issue": "1",
-   "volume": "2013",
-   "year": "2013",
-   "owned": false
+   "issue": "4",
+   "role": "",
+   "release_date": "2013-10-09"
   },
   {
    "order": 39,
    "series": "Superior Spider-Man",
-   "issue": "15",
-   "volume": "2013",
-   "year": "2013",
-   "owned": false
+   "issue": "19",
+   "role": "",
+   "release_date": "2013-10-16"
   },
   {
    "order": 40,
-   "series": "Superior Spider-Man",
-   "issue": "16",
-   "volume": "2013",
-   "year": "2013",
-   "owned": false
+   "series": "Indestructible Hulk Special",
+   "issue": "1",
+   "role": "",
+   "release_date": "2013-10-16"
   },
   {
    "order": 41,
    "series": "Superior Spider-Man Team-Up",
-   "issue": "2",
-   "volume": "2013",
-   "year": "2013",
-   "owned": false
+   "issue": "5",
+   "role": "",
+   "release_date": "2013-10-23"
   },
   {
    "order": 42,
-   "series": "Scarlet Spider",
-   "issue": "20",
-   "volume": "2012",
-   "year": "2013",
-   "owned": false
+   "series": "Superior Carnage",
+   "issue": "4",
+   "role": "",
+   "release_date": "2013-10-23"
   },
   {
    "order": 43,
-   "series": "Superior Spider-Man",
-   "issue": "17",
-   "volume": "2013",
-   "year": "2013",
-   "owned": false
+   "series": "Superior Spider-Man Team-Up Special",
+   "issue": "1",
+   "role": "",
+   "release_date": "2013-10-30"
   },
   {
    "order": 44,
    "series": "Superior Spider-Man",
-   "issue": "18",
-   "volume": "2013",
-   "year": "2013",
-   "owned": false
+   "issue": "20",
+   "role": "",
+   "release_date": "2013-10-30"
   },
   {
    "order": 45,
-   "series": "Superior Spider-Man",
-   "issue": "19",
-   "volume": "2013",
-   "year": "2013",
-   "owned": false
+   "series": "Mighty Avengers",
+   "issue": "3",
+   "role": "",
+   "release_date": "2013-11-06"
   },
   {
    "order": 46,
-   "series": "All-New X-Men Special",
-   "issue": "1",
-   "volume": "2013",
-   "year": "2013",
-   "owned": false
+   "series": "Superior Spider-Man",
+   "issue": "21",
+   "role": "",
+   "release_date": "2013-11-13"
   },
   {
    "order": 47,
-   "series": "Indestructible Hulk Special",
-   "issue": "1",
-   "volume": "2013",
-   "year": "2013",
-   "owned": false
+   "series": "Superior Spider-Man Team-Up",
+   "issue": "6",
+   "role": "",
+   "release_date": "2013-11-20"
   },
   {
    "order": 48,
-   "series": "Superior Spider-Man Team-Up Special",
-   "issue": "1",
-   "volume": "2013",
-   "year": "2013",
-   "owned": false
+   "series": "Superior Spider-Man",
+   "issue": "22",
+   "role": "",
+   "release_date": "2013-11-27"
   },
   {
    "order": 49,
-   "series": "Avengers",
-   "issue": "14",
-   "volume": "2012",
-   "year": "2013",
-   "owned": true
+   "series": "Superior Carnage",
+   "issue": "5",
+   "role": "",
+   "release_date": "2013-11-27"
   },
   {
    "order": 50,
-   "series": "Avengers",
-   "issue": "15",
-   "volume": "2012",
-   "year": "2013",
-   "owned": true
+   "series": "Superior Spider-Man Team-Up",
+   "issue": "7",
+   "role": "",
+   "release_date": "2013-12-04"
   },
   {
    "order": 51,
-   "series": "Avengers",
-   "issue": "16",
-   "volume": "2012",
-   "year": "2013",
-   "owned": true
+   "series": "Superior Spider-Man",
+   "issue": "23",
+   "role": "",
+   "release_date": "2013-12-04"
   },
   {
    "order": 52,
-   "series": "Avengers",
-   "issue": "17",
-   "volume": "2012",
-   "year": "2013",
-   "owned": false
+   "series": "Superior Spider-Man Team-Up",
+   "issue": "8",
+   "role": "",
+   "release_date": "2013-12-18"
   },
   {
    "order": 53,
-   "series": "Mighty Avengers",
-   "issue": "1",
-   "volume": "2013",
-   "year": "2013",
-   "owned": false
+   "series": "Superior Spider-Man",
+   "issue": "24",
+   "role": "",
+   "release_date": "2013-12-18"
   },
   {
    "order": 54,
-   "series": "Mighty Avengers",
-   "issue": "2",
-   "volume": "2013",
-   "year": "2013",
-   "owned": false
+   "series": "Superior Spider-Man",
+   "issue": "25",
+   "role": "",
+   "release_date": "2014-01-15"
   },
   {
    "order": 55,
-   "series": "Mighty Avengers",
-   "issue": "3",
-   "volume": "2013",
-   "year": "2014",
-   "owned": false
+   "series": "Superior Spider-Man Team-Up",
+   "issue": "9",
+   "role": "",
+   "release_date": "2014-01-22"
   },
   {
    "order": 56,
-   "series": "Superior Spider-Man Team-Up",
-   "issue": "3",
-   "volume": "2013",
-   "year": "2013",
-   "owned": false
+   "series": "Superior Spider-Man",
+   "issue": "26",
+   "role": "",
+   "release_date": "2014-01-29"
   },
   {
    "order": 57,
-   "series": "Superior Spider-Man Team-Up",
-   "issue": "4",
-   "volume": "2013",
-   "year": "2013",
-   "owned": false
+   "series": "Superior Carnage Annual",
+   "issue": "1",
+   "role": "",
+   "release_date": "2014-02-05"
   },
   {
    "order": 58,
-   "series": "Superior Spider-Man Team-Up",
-   "issue": "5",
-   "volume": "2013",
-   "year": "2013",
-   "owned": false
+   "series": "Superior Spider-Man",
+   "issue": "27",
+   "role": "",
+   "release_date": "2014-02-12"
   },
   {
    "order": 59,
    "series": "Superior Spider-Man Team-Up",
-   "issue": "6",
-   "volume": "2013",
-   "year": "2014",
-   "owned": false
+   "issue": "10",
+   "role": "",
+   "release_date": "2014-02-19"
   },
   {
    "order": 60,
-   "series": "Superior Spider-Man Team-Up",
-   "issue": "7",
-   "volume": "2013",
-   "year": "2014",
-   "owned": false
+   "series": "Superior Spider-Man",
+   "issue": "28",
+   "role": "",
+   "release_date": "2014-02-26"
   },
   {
    "order": 61,
    "series": "Superior Spider-Man",
-   "issue": "20",
-   "volume": "2013",
-   "year": "2013",
-   "owned": false
+   "issue": "29",
+   "role": "",
+   "release_date": "2014-03-12"
   },
   {
    "order": 62,
-   "series": "Superior Spider-Man",
-   "issue": "21",
-   "volume": "2013",
-   "year": "2014",
-   "owned": false
+   "series": "Superior Spider-Man Team-Up",
+   "issue": "11",
+   "role": "",
+   "release_date": "2014-03-26"
   },
   {
    "order": 63,
-   "series": "Superior Spider-Man Annual",
-   "issue": "1",
-   "volume": "2013",
-   "year": "2014",
-   "owned": false
+   "series": "Superior Spider-Man",
+   "issue": "30",
+   "role": "",
+   "release_date": "2014-03-26"
   },
   {
    "order": 64,
-   "series": "Superior Spider-Man Team-Up",
-   "issue": "8",
-   "volume": "2013",
-   "year": "2014",
-   "owned": false
+   "series": "Superior Spider-Man",
+   "issue": "31",
+   "role": "",
+   "release_date": "2014-04-16"
   },
   {
    "order": 65,
-   "series": "Superior Spider-Man",
-   "issue": "22",
-   "volume": "2013",
-   "year": "2014",
-   "owned": false
+   "series": "Superior Spider-Man Team-Up",
+   "issue": "12",
+   "role": "",
+   "release_date": "2014-04-23"
   },
   {
    "order": 66,
-   "series": "Superior Spider-Man",
-   "issue": "23",
-   "volume": "2013",
-   "year": "2014",
-   "owned": false
+   "series": "Avengers",
+   "issue": "6",
+   "role": "",
+   "release_date": "2018-08-22"
   },
   {
    "order": 67,
-   "series": "Superior Spider-Man",
-   "issue": "24",
-   "volume": "2013",
-   "year": "2014",
-   "owned": false
+   "series": "Avengers",
+   "issue": "7",
+   "role": "",
+   "release_date": "2018-09-05"
   },
   {
    "order": 68,
-   "series": "Superior Spider-Man",
-   "issue": "25",
-   "volume": "2013",
-   "year": "2014",
-   "owned": false
+   "series": "Avengers",
+   "issue": "8",
+   "role": "",
+   "release_date": "2018-09-19"
   },
   {
    "order": 69,
-   "series": "Superior Carnage",
-   "issue": "1",
-   "volume": "2013",
-   "year": "2013",
-   "owned": false
+   "series": "Avengers",
+   "issue": "9",
+   "role": "",
+   "release_date": "2018-10-10"
   },
   {
    "order": 70,
-   "series": "Superior Carnage",
-   "issue": "2",
-   "volume": "2013",
-   "year": "2013",
-   "owned": false
+   "series": "Avengers",
+   "issue": "12",
+   "role": "",
+   "release_date": "2019-01-09"
   },
   {
    "order": 71,
-   "series": "Superior Carnage",
-   "issue": "3",
-   "volume": "2013",
-   "year": "2013",
-   "owned": false
+   "series": "Avengers",
+   "issue": "13",
+   "role": "",
+   "release_date": "2019-01-23"
   },
   {
    "order": 72,
-   "series": "Superior Carnage",
-   "issue": "4",
-   "volume": "2013",
-   "year": "2013",
-   "owned": false
+   "series": "Avengers",
+   "issue": "14",
+   "role": "",
+   "release_date": "2019-02-06"
   },
   {
    "order": 73,
-   "series": "Superior Carnage",
-   "issue": "5",
-   "volume": "2013",
-   "year": "2014",
-   "owned": false
+   "series": "Avengers",
+   "issue": "15",
+   "role": "",
+   "release_date": "2019-02-20"
   },
   {
    "order": 74,
-   "series": "Superior Carnage Annual",
-   "issue": "1",
-   "volume": "2014",
-   "year": "2014",
-   "owned": false
+   "series": "Avengers",
+   "issue": "16",
+   "role": "",
+   "release_date": "2019-03-06"
   },
   {
    "order": 75,
-   "series": "Superior Spider-Man",
-   "issue": "26",
-   "volume": "2013",
-   "year": "2014",
-   "owned": false
+   "series": "Avengers",
+   "issue": "17",
+   "role": "",
+   "release_date": "2019-03-20"
   },
   {
    "order": 76,
-   "series": "Superior Spider-Man Team-Up",
-   "issue": "9",
-   "volume": "2013",
-   "year": "2014",
-   "owned": false
+   "series": "Avenging Spider-Man",
+   "issue": "15.1",
+   "role": "",
+   "release_date": ""
   },
   {
    "order": 77,
-   "series": "Superior Spider-Man Team-Up",
-   "issue": "10",
-   "volume": "2013",
-   "year": "2014",
-   "owned": false
+   "series": "Avenging Spider-Man",
+   "issue": "16",
+   "role": "",
+   "release_date": ""
   },
   {
    "order": 78,
-   "series": "Superior Spider-Man",
-   "issue": "27",
-   "volume": "2013",
-   "year": "2014",
-   "owned": false
+   "series": "Avenging Spider-Man",
+   "issue": "17",
+   "role": "",
+   "release_date": ""
   },
   {
    "order": 79,
-   "series": "Superior Spider-Man",
-   "issue": "28",
-   "volume": "2013",
-   "year": "2014",
-   "owned": false
+   "series": "Avenging Spider-Man",
+   "issue": "18",
+   "role": "",
+   "release_date": ""
   },
   {
    "order": 80,
-   "series": "Superior Spider-Man",
-   "issue": "29",
-   "volume": "2013",
-   "year": "2014",
-   "owned": false
+   "series": "Avenging Spider-Man",
+   "issue": "19",
+   "role": "",
+   "release_date": ""
   },
   {
    "order": 81,
-   "series": "Superior Spider-Man Annual",
-   "issue": "2",
-   "volume": "2013",
-   "year": "2014",
-   "owned": false
+   "series": "Avenging Spider-Man",
+   "issue": "20",
+   "role": "",
+   "release_date": ""
   },
   {
    "order": 82,
-   "series": "Superior Spider-Man Team-Up",
-   "issue": "11",
-   "volume": "2013",
-   "year": "2014",
-   "owned": false
+   "series": "Avenging Spider-Man",
+   "issue": "21",
+   "role": "",
+   "release_date": ""
   },
   {
    "order": 83,
-   "series": "Superior Spider-Man Team-Up",
-   "issue": "12",
-   "volume": "2013",
-   "year": "2014",
-   "owned": false
+   "series": "Avenging Spider-Man",
+   "issue": "22",
+   "role": "",
+   "release_date": ""
   },
   {
    "order": 84,
-   "series": "Superior Spider-Man",
-   "issue": "30",
-   "volume": "2013",
-   "year": "2014",
-   "owned": false
+   "series": "Superior Spider-Man Annual",
+   "issue": "1",
+   "role": "",
+   "release_date": ""
   },
   {
    "order": 85,
-   "series": "Superior Spider-Man",
-   "issue": "31",
-   "volume": "2013",
-   "year": "2014",
-   "owned": false
+   "series": "Superior Spider-Man Annual",
+   "issue": "2",
+   "role": "",
+   "release_date": ""
   }
  ]
 }

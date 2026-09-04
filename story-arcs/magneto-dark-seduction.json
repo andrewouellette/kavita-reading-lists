@@ -2,39 +2,37 @@
  "arc": "Magneto - Dark Seduction",
  "slug": "magneto-dark-seduction",
  "issue_count": 4,
- "owned_count": 0,
+ "source": "release-date sort (Mylar dates, CBL tie-break)",
+ "confidence": "high",
+ "note": "single series, ascending issue order",
  "entries": [
   {
    "order": 1,
    "series": "Magneto Dark Seduction",
    "issue": "1",
-   "volume": "2000",
-   "year": "2000",
-   "owned": false
+   "role": "",
+   "release_date": ""
   },
   {
    "order": 2,
    "series": "Magneto Dark Seduction",
    "issue": "2",
-   "volume": "2000",
-   "year": "2000",
-   "owned": false
+   "role": "",
+   "release_date": ""
   },
   {
    "order": 3,
    "series": "Magneto Dark Seduction",
    "issue": "3",
-   "volume": "2000",
-   "year": "2000",
-   "owned": false
+   "role": "",
+   "release_date": ""
   },
   {
    "order": 4,
    "series": "Magneto Dark Seduction",
    "issue": "4",
-   "volume": "2000",
-   "year": "2000",
-   "owned": false
+   "role": "",
+   "release_date": ""
   }
  ]
 }
