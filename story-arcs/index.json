@@ -54,18 +54,18 @@
    "owned_count": 0
   },
   {
-   "arc": "Age of X-Man",
-   "slug": "age-of-x-man",
-   "file": "age-of-x-man.json",
-   "issue_count": 33,
-   "source": "League of Comic Geeks"
-  },
-  {
    "arc": "Age of X",
    "slug": "age-of-x",
    "file": "age-of-x.json",
    "issue_count": 11,
    "owned_count": 6
+  },
+  {
+   "arc": "Age of X-Man",
+   "slug": "age-of-x-man",
+   "file": "age-of-x-man.json",
+   "issue_count": 33,
+   "source": "League of Comic Geeks"
   },
   {
    "arc": "Alien Costume Saga",
@@ -82,6 +82,13 @@
    "owned_count": 9
   },
   {
+   "arc": "Annihilation",
+   "slug": "annihilation",
+   "file": "annihilation.json",
+   "issue_count": 29,
+   "source": "League of Comic Geeks"
+  },
+  {
    "arc": "Annihilation- Conquest",
    "slug": "annihilation-conquest",
    "file": "annihilation-conquest.json",
@@ -96,20 +103,6 @@
    "owned_count": 0
   },
   {
-   "arc": "Annihilation",
-   "slug": "annihilation",
-   "file": "annihilation.json",
-   "issue_count": 29,
-   "source": "League of Comic Geeks"
-  },
-  {
-   "arc": "Apocalypse- The Twelve",
-   "slug": "apocalypse-the-twelve",
-   "file": "apocalypse-the-twelve.json",
-   "issue_count": 51,
-   "owned_count": 4
-  },
-  {
    "arc": "Apocalypse Wars",
    "slug": "apocalypse-wars",
    "file": "apocalypse-wars.json",
@@ -117,11 +110,11 @@
    "owned_count": 8
   },
   {
-   "arc": "Avengers: Armageddon",
-   "slug": "avengers-armageddon",
-   "file": "avengers-armageddon.json",
-   "issue_count": 24,
-   "owned_count": 19
+   "arc": "Apocalypse- The Twelve",
+   "slug": "apocalypse-the-twelve",
+   "file": "apocalypse-the-twelve.json",
+   "issue_count": 51,
+   "owned_count": 4
   },
   {
    "arc": "Avengers Disassembled",
@@ -138,18 +131,25 @@
    "owned_count": 3
   },
   {
-   "arc": "Avengers: The Children's Crusade",
-   "slug": "avengers-the-children-s-crusade",
-   "file": "avengers-the-children-s-crusade.json",
-   "issue_count": 9,
-   "owned_count": 0
-  },
-  {
    "arc": "Avengers vs. X-Men",
    "slug": "avengers-vs-x-men",
    "file": "avengers-vs-x-men.json",
    "issue_count": 74,
    "owned_count": 22
+  },
+  {
+   "arc": "Avengers: Armageddon",
+   "slug": "avengers-armageddon",
+   "file": "avengers-armageddon.json",
+   "issue_count": 24,
+   "owned_count": 19
+  },
+  {
+   "arc": "Avengers: The Children's Crusade",
+   "slug": "avengers-the-children-s-crusade",
+   "file": "avengers-the-children-s-crusade.json",
+   "issue_count": 9,
+   "owned_count": 0
   },
   {
    "arc": "AXIS",
@@ -166,18 +166,32 @@
    "owned_count": 0
   },
   {
-   "arc": "Batman/Catwoman: The Gotham War",
-   "slug": "batman-catwoman-the-gotham-war",
-   "file": "batman-catwoman-the-gotham-war.json",
-   "issue_count": 9,
-   "owned_count": 2
-  },
-  {
    "arc": "Batman Endgame",
    "slug": "batman-endgame",
    "file": "batman-endgame.json",
    "issue_count": 11,
    "owned_count": 6
+  },
+  {
+   "arc": "Batman War Games",
+   "slug": "batman-war-games",
+   "file": "batman-war-games.json",
+   "issue_count": 42,
+   "owned_count": 3
+  },
+  {
+   "arc": "Batman Zero Year",
+   "slug": "batman-zero-year",
+   "file": "batman-zero-year.json",
+   "issue_count": 25,
+   "owned_count": 17
+  },
+  {
+   "arc": "Batman/Catwoman: The Gotham War",
+   "slug": "batman-catwoman-the-gotham-war",
+   "file": "batman-catwoman-the-gotham-war.json",
+   "issue_count": 9,
+   "owned_count": 2
   },
   {
    "arc": "Batman: Face the Face",
@@ -213,20 +227,6 @@
    "file": "batman-war-crimes.json",
    "issue_count": 4,
    "owned_count": 0
-  },
-  {
-   "arc": "Batman War Games",
-   "slug": "batman-war-games",
-   "file": "batman-war-games.json",
-   "issue_count": 42,
-   "owned_count": 3
-  },
-  {
-   "arc": "Batman Zero Year",
-   "slug": "batman-zero-year",
-   "file": "batman-zero-year.json",
-   "issue_count": 25,
-   "owned_count": 17
   },
   {
    "arc": "Battle for the Cowl",
@@ -285,18 +285,18 @@
    "owned_count": 6
   },
   {
-   "arc": "Bruce Wayne- Fugitive",
-   "slug": "bruce-wayne-fugitive",
-   "file": "bruce-wayne-fugitive.json",
-   "issue_count": 24,
-   "owned_count": 5
-  },
-  {
    "arc": "Bruce Wayne Murderer",
    "slug": "bruce-wayne-murderer",
    "file": "bruce-wayne-murderer.json",
    "issue_count": 13,
    "owned_count": 3
+  },
+  {
+   "arc": "Bruce Wayne- Fugitive",
+   "slug": "bruce-wayne-fugitive",
+   "file": "bruce-wayne-fugitive.json",
+   "issue_count": 24,
+   "owned_count": 5
   },
   {
    "arc": "Carnage Reigns",
@@ -320,18 +320,18 @@
    "owned_count": 14
   },
   {
-   "arc": "Civil War II",
-   "slug": "civil-war-ii",
-   "file": "civil-war-ii.json",
-   "issue_count": 153,
-   "owned_count": 32
-  },
-  {
    "arc": "Civil War",
    "slug": "civil-war",
    "file": "civil-war.json",
    "issue_count": 132,
    "owned_count": 16
+  },
+  {
+   "arc": "Civil War II",
+   "slug": "civil-war-ii",
+   "file": "civil-war-ii.json",
+   "issue_count": 153,
+   "owned_count": 32
   },
   {
    "arc": "Contest of Chaos",
@@ -670,18 +670,18 @@
    "owned_count": 5
   },
   {
-   "arc": "Forever Evil- Blight",
-   "slug": "forever-evil-blight",
-   "file": "forever-evil-blight.json",
-   "issue_count": 18,
-   "owned_count": 6
-  },
-  {
    "arc": "Forever Evil",
    "slug": "forever-evil",
    "file": "forever-evil.json",
    "issue_count": 95,
    "owned_count": 17
+  },
+  {
+   "arc": "Forever Evil- Blight",
+   "slug": "forever-evil-blight",
+   "file": "forever-evil-blight.json",
+   "issue_count": 18,
+   "owned_count": 6
   },
   {
    "arc": "Future State",
@@ -831,6 +831,13 @@
    "owned_count": 0
   },
   {
+   "arc": "Infinity",
+   "slug": "infinity",
+   "file": "infinity.json",
+   "issue_count": 56,
+   "owned_count": 15
+  },
+  {
    "arc": "Infinity Countdown",
    "slug": "infinity-countdown",
    "file": "infinity-countdown.json",
@@ -850,13 +857,6 @@
    "file": "infinity-watch.json",
    "issue_count": 9,
    "owned_count": 2
-  },
-  {
-   "arc": "Infinity",
-   "slug": "infinity",
-   "file": "infinity.json",
-   "issue_count": 56,
-   "owned_count": 15
   },
   {
    "arc": "Inhumanity",
@@ -894,13 +894,6 @@
    "owned_count": 0
   },
   {
-   "arc": "Joker's Last Laugh",
-   "slug": "joker-s-last-laugh",
-   "file": "joker-s-last-laugh.json",
-   "issue_count": 32,
-   "owned_count": 3
-  },
-  {
    "arc": "Joker War",
    "slug": "joker-war",
    "file": "joker-war.json",
@@ -908,18 +901,18 @@
    "owned_count": 26
   },
   {
+   "arc": "Joker's Last Laugh",
+   "slug": "joker-s-last-laugh",
+   "file": "joker-s-last-laugh.json",
+   "issue_count": 32,
+   "owned_count": 3
+  },
+  {
    "arc": "JSA- Black Reign",
    "slug": "jsa-black-reign",
    "file": "jsa-black-reign.json",
    "issue_count": 6,
    "owned_count": 3
-  },
-  {
-   "arc": "Justice League: Dream Girls",
-   "slug": "justice-league-dream-girls",
-   "file": "justice-league-dream-girls.json",
-   "issue_count": 5,
-   "owned_count": 0
   },
   {
    "arc": "Justice League Incarnate",
@@ -934,6 +927,13 @@
    "file": "justice-league-vs-suicide-squad.json",
    "issue_count": 11,
    "owned_count": 10
+  },
+  {
+   "arc": "Justice League: Dream Girls",
+   "slug": "justice-league-dream-girls",
+   "file": "justice-league-dream-girls.json",
+   "issue_count": 5,
+   "owned_count": 0
   },
   {
    "arc": "King in Black",
@@ -1328,13 +1328,6 @@
    "owned_count": 12
   },
   {
-   "arc": "Spider-Man: Identity Crisis",
-   "slug": "spider-man-identity-crisis",
-   "file": "spider-man-identity-crisis.json",
-   "issue_count": 8,
-   "owned_count": 0
-  },
-  {
    "arc": "Spider-Man The Other",
    "slug": "spider-man-the-other",
    "file": "spider-man-the-other.json",
@@ -1349,11 +1342,11 @@
    "owned_count": 8
   },
   {
-   "arc": "Spider-Verse vs Venomverse",
-   "slug": "spider-verse-vs-venomverse",
-   "file": "spider-verse-vs-venomverse.json",
-   "issue_count": 7,
-   "owned_count": 2
+   "arc": "Spider-Man: Identity Crisis",
+   "slug": "spider-man-identity-crisis",
+   "file": "spider-man-identity-crisis.json",
+   "issue_count": 8,
+   "owned_count": 0
   },
   {
    "arc": "Spider-Verse",
@@ -1361,6 +1354,13 @@
    "file": "spider-verse.json",
    "issue_count": 33,
    "owned_count": 18
+  },
+  {
+   "arc": "Spider-Verse vs Venomverse",
+   "slug": "spider-verse-vs-venomverse",
+   "file": "spider-verse-vs-venomverse.json",
+   "issue_count": 7,
+   "owned_count": 2
   },
   {
    "arc": "Spider-Women",
@@ -1398,6 +1398,20 @@
    "owned_count": 9
   },
   {
+   "arc": "Superman Reborn",
+   "slug": "superman-reborn",
+   "file": "superman-reborn.json",
+   "issue_count": 13,
+   "owned_count": 9
+  },
+  {
+   "arc": "Superman Savage Dawn",
+   "slug": "superman-savage-dawn",
+   "file": "superman-savage-dawn.json",
+   "issue_count": 10,
+   "owned_count": 0
+  },
+  {
    "arc": "Superman: Emperor Joker",
    "slug": "superman-emperor-joker",
    "file": "superman-emperor-joker.json",
@@ -1417,20 +1431,6 @@
    "file": "superman-new-krypton.json",
    "issue_count": 81,
    "owned_count": 9
-  },
-  {
-   "arc": "Superman Reborn",
-   "slug": "superman-reborn",
-   "file": "superman-reborn.json",
-   "issue_count": 13,
-   "owned_count": 9
-  },
-  {
-   "arc": "Superman Savage Dawn",
-   "slug": "superman-savage-dawn",
-   "file": "superman-savage-dawn.json",
-   "issue_count": 10,
-   "owned_count": 0
   },
   {
    "arc": "Superman: Up, Up, and Away!",
@@ -1713,6 +1713,13 @@
    "owned_count": 2
   },
   {
+   "arc": "X of Swords",
+   "slug": "x-of-swords",
+   "file": "x-of-swords.json",
+   "issue_count": 35,
+   "owned_count": 9
+  },
+  {
    "arc": "X-Manhunt",
    "slug": "x-manhunt",
    "file": "x-manhunt.json",
@@ -1783,13 +1790,6 @@
    "owned_count": 5
   },
   {
-   "arc": "X of Swords",
-   "slug": "x-of-swords",
-   "file": "x-of-swords.json",
-   "issue_count": 35,
-   "owned_count": 9
-  },
-  {
    "arc": "X-Termination",
    "slug": "x-termination",
    "file": "x-termination.json",
@@ -1797,18 +1797,18 @@
    "owned_count": 2
   },
   {
-   "arc": "Year of the Villain: Hell Arisen",
-   "slug": "year-of-the-villain-hell-arisen",
-   "file": "year-of-the-villain-hell-arisen.json",
-   "issue_count": 4,
-   "owned_count": 4
-  },
-  {
    "arc": "Year of the Villain",
    "slug": "year-of-the-villain",
    "file": "year-of-the-villain.json",
    "issue_count": 12,
    "owned_count": 11
+  },
+  {
+   "arc": "Year of the Villain: Hell Arisen",
+   "slug": "year-of-the-villain-hell-arisen",
+   "file": "year-of-the-villain-hell-arisen.json",
+   "issue_count": 4,
+   "owned_count": 4
   }
  ]
 }
