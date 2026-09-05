@@ -1,0 +1,3979 @@
+{
+ "source": "https://metron.cloud",
+ "generated": "2026-09-05T20:54:27Z",
+ "count": 429,
+ "lists": [
+  {
+   "id": 143,
+   "name": "A.X.E. Judgment Day",
+   "file": "a-x-e-judgment-day.cbl",
+   "issues": null,
+   "list_type": "Event",
+   "attribution_source": "LOCG",
+   "attribution_url": null,
+   "resumed": true
+  },
+  {
+   "id": 129,
+   "name": "Absolute Carnage",
+   "file": "absolute-carnage.cbl",
+   "issues": null,
+   "list_type": "Event",
+   "attribution_source": "LOCG",
+   "attribution_url": null,
+   "resumed": true
+  },
+  {
+   "id": 74,
+   "name": "Absolute Power",
+   "file": "absolute-power.cbl",
+   "issues": null,
+   "list_type": "Event",
+   "attribution_source": "LOCG",
+   "attribution_url": null,
+   "resumed": true
+  },
+  {
+   "id": 389,
+   "name": "Acts of Evil",
+   "file": "acts-of-evil.cbl",
+   "issues": null,
+   "list_type": "Event",
+   "attribution_source": "CMRO",
+   "attribution_url": null,
+   "resumed": true
+  },
+  {
+   "id": 390,
+   "name": "Acts of Vengeance (1989)",
+   "file": "acts-of-vengeance-1989.cbl",
+   "issues": null,
+   "list_type": "Event",
+   "attribution_source": "CMRO",
+   "attribution_url": null,
+   "resumed": true
+  },
+  {
+   "id": 391,
+   "name": "Acts of Vengeance (1991)",
+   "file": "acts-of-vengeance-1991.cbl",
+   "issues": null,
+   "list_type": "Story",
+   "attribution_source": "CMRO",
+   "attribution_url": null,
+   "resumed": true
+  },
+  {
+   "id": 392,
+   "name": "Adrenazon's Revenge",
+   "file": "adrenazon-s-revenge.cbl",
+   "issues": null,
+   "list_type": "Story",
+   "attribution_source": "CMRO",
+   "attribution_url": null,
+   "resumed": true
+  },
+  {
+   "id": 393,
+   "name": "Africa Saga",
+   "file": "africa-saga.cbl",
+   "issues": null,
+   "list_type": "Story",
+   "attribution_source": "CMRO",
+   "attribution_url": null,
+   "resumed": true
+  },
+  {
+   "id": 25,
+   "name": "Aftershock",
+   "file": "aftershock.cbl",
+   "issues": null,
+   "list_type": "Event",
+   "attribution_source": "LOCG",
+   "attribution_url": null,
+   "resumed": true
+  },
+  {
+   "id": 395,
+   "name": "Against a Rogue God",
+   "file": "against-a-rogue-god.cbl",
+   "issues": null,
+   "list_type": "Story",
+   "attribution_source": "CMRO",
+   "attribution_url": null,
+   "resumed": true
+  },
+  {
+   "id": 85,
+   "name": "Age of Apocalypse",
+   "file": "age-of-apocalypse.cbl",
+   "issues": null,
+   "list_type": "Event",
+   "attribution_source": "LOCG",
+   "attribution_url": null,
+   "resumed": true
+  },
+  {
+   "id": 169,
+   "name": "Age of Revelation",
+   "file": "age-of-revelation.cbl",
+   "issues": null,
+   "list_type": "Event",
+   "attribution_source": "LOCG",
+   "attribution_url": null,
+   "resumed": true
+  },
+  {
+   "id": 289,
+   "name": "Age of Ultron",
+   "file": "age-of-ultron.cbl",
+   "issues": null,
+   "list_type": "Event",
+   "attribution_source": "LOCG",
+   "attribution_url": null,
+   "resumed": true
+  },
+  {
+   "id": 396,
+   "name": "Age of X",
+   "file": "age-of-x.cbl",
+   "issues": null,
+   "list_type": "Event",
+   "attribution_source": "CMRO",
+   "attribution_url": null,
+   "resumed": true
+  },
+  {
+   "id": 290,
+   "name": "Age of X-Man",
+   "file": "age-of-x-man.cbl",
+   "issues": null,
+   "list_type": "Event",
+   "attribution_source": "LOCG",
+   "attribution_url": null,
+   "resumed": true
+  },
+  {
+   "id": 398,
+   "name": "Ages of Apocalypse",
+   "file": "ages-of-apocalypse.cbl",
+   "issues": null,
+   "list_type": "Story",
+   "attribution_source": "CMRO",
+   "attribution_url": null,
+   "resumed": true
+  },
+  {
+   "id": 278,
+   "name": "Amazing Spider-Man / Venom: Death Spiral",
+   "file": "amazing-spider-man-venom-death-spiral.cbl",
+   "issues": null,
+   "list_type": "Event",
+   "attribution_source": "LOCG",
+   "attribution_url": null,
+   "resumed": true
+  },
+  {
+   "id": 459,
+   "name": "Amazing Spider-Man by Michelinie and McFarlane",
+   "file": "amazing-spider-man-by-michelinie-and-mcfarlane.cbl",
+   "issues": null,
+   "list_type": "Creator",
+   "attribution_source": "OTHER",
+   "attribution_url": null,
+   "resumed": true
+  },
+  {
+   "id": 377,
+   "name": "Amazing Spider-Man: Last Remains",
+   "file": "amazing-spider-man-last-remains.cbl",
+   "issues": null,
+   "list_type": "Story",
+   "attribution_source": "HTLC",
+   "attribution_url": null,
+   "resumed": true
+  },
+  {
+   "id": 380,
+   "name": "Amazing Spider-Man: Sins Rising",
+   "file": "amazing-spider-man-sins-rising.cbl",
+   "issues": null,
+   "list_type": "Story",
+   "attribution_source": "HTLC",
+   "attribution_url": null,
+   "resumed": true
+  },
+  {
+   "id": 38,
+   "name": "Amazons Attack",
+   "file": "amazons-attack.cbl",
+   "issues": null,
+   "list_type": "Event",
+   "attribution_source": "LOCG",
+   "attribution_url": null,
+   "resumed": true
+  },
+  {
+   "id": 379,
+   "name": "American Vampire",
+   "file": "american-vampire.cbl",
+   "issues": null,
+   "list_type": "Master",
+   "attribution_source": "HTLC",
+   "attribution_url": null,
+   "resumed": true
+  },
+  {
+   "id": 403,
+   "name": "Amulet Quest",
+   "file": "amulet-quest.cbl",
+   "issues": null,
+   "list_type": "Story",
+   "attribution_source": "CMRO",
+   "attribution_url": null,
+   "resumed": true
+  },
+  {
+   "id": 405,
+   "name": "And Let There Be Light...",
+   "file": "and-let-there-be-light.cbl",
+   "issues": null,
+   "list_type": "Story",
+   "attribution_source": "CMRO",
+   "attribution_url": null,
+   "resumed": true
+  },
+  {
+   "id": 406,
+   "name": "And Ye Shall Remember This Day",
+   "file": "and-ye-shall-remember-this-day.cbl",
+   "issues": null,
+   "list_type": "Story",
+   "attribution_source": "CMRO",
+   "attribution_url": null,
+   "resumed": true
+  },
+  {
+   "id": 407,
+   "name": "Animal House",
+   "file": "animal-house.cbl",
+   "issues": null,
+   "list_type": "Story",
+   "attribution_source": "CMRO",
+   "attribution_url": null,
+   "resumed": true
+  },
+  {
+   "id": 94,
+   "name": "Annihilation",
+   "file": "annihilation.cbl",
+   "issues": null,
+   "list_type": "Event",
+   "attribution_source": "LOCG",
+   "attribution_url": null,
+   "resumed": true
+  },
+  {
+   "id": 96,
+   "name": "Annihilation Conquest",
+   "file": "annihilation-conquest.cbl",
+   "issues": null,
+   "list_type": "Event",
+   "attribution_source": "LOCG",
+   "attribution_url": null,
+   "resumed": true
+  },
+  {
+   "id": 130,
+   "name": "Annihilation Scourge",
+   "file": "annihilation-scourge.cbl",
+   "issues": null,
+   "list_type": "Event",
+   "attribution_source": "LOCG",
+   "attribution_url": null,
+   "resumed": true
+  },
+  {
+   "id": 409,
+   "name": "Apache Autumn",
+   "file": "apache-autumn.cbl",
+   "issues": null,
+   "list_type": "Story",
+   "attribution_source": "CMRO",
+   "attribution_url": null,
+   "resumed": true
+  },
+  {
+   "id": 410,
+   "name": "Apocalypse: The Twelve",
+   "file": "apocalypse-the-twelve.cbl",
+   "issues": null,
+   "list_type": "Story",
+   "attribution_source": "CMRO",
+   "attribution_url": null,
+   "resumed": true
+  },
+  {
+   "id": 411,
+   "name": "Apogee of Disaster",
+   "file": "apogee-of-disaster.cbl",
+   "issues": null,
+   "list_type": "Story",
+   "attribution_source": "CMRO",
+   "attribution_url": null,
+   "resumed": true
+  },
+  {
+   "id": 172,
+   "name": "Aquaman: Death of a Prince",
+   "file": "aquaman-death-of-a-prince.cbl",
+   "issues": null,
+   "list_type": "Event",
+   "attribution_source": "CBRO",
+   "attribution_url": null,
+   "resumed": true
+  },
+  {
+   "id": 221,
+   "name": "Armageddon 2001",
+   "file": "armageddon-2001.cbl",
+   "issues": null,
+   "list_type": "Event",
+   "attribution_source": "CBRO",
+   "attribution_url": null,
+   "resumed": true
+  },
+  {
+   "id": 416,
+   "name": "Assault on Armor City",
+   "file": "assault-on-armor-city.cbl",
+   "issues": null,
+   "list_type": "Story",
+   "attribution_source": "CMRO",
+   "attribution_url": null,
+   "resumed": true
+  },
+  {
+   "id": 417,
+   "name": "Assault on New Olympus",
+   "file": "assault-on-new-olympus.cbl",
+   "issues": null,
+   "list_type": "Story",
+   "attribution_source": "CMRO",
+   "attribution_url": null,
+   "resumed": true
+  },
+  {
+   "id": 419,
+   "name": "Assault on Weapon Plus",
+   "file": "assault-on-weapon-plus.cbl",
+   "issues": null,
+   "list_type": "Story",
+   "attribution_source": "CMRO",
+   "attribution_url": null,
+   "resumed": true
+  },
+  {
+   "id": 7,
+   "name": "Atlantis Attacks",
+   "file": "atlantis-attacks.cbl",
+   "issues": null,
+   "list_type": "Event",
+   "attribution_source": "LOCG",
+   "attribution_url": null,
+   "resumed": true
+  },
+  {
+   "id": 420,
+   "name": "Atlantis Rising",
+   "file": "atlantis-rising.cbl",
+   "issues": null,
+   "list_type": "Story",
+   "attribution_source": "CMRO",
+   "attribution_url": null,
+   "resumed": true
+  },
+  {
+   "id": 141,
+   "name": "Avengers Assemble",
+   "file": "avengers-assemble.cbl",
+   "issues": null,
+   "list_type": "Event",
+   "attribution_source": "LOCG",
+   "attribution_url": null,
+   "resumed": true
+  },
+  {
+   "id": 90,
+   "name": "Avengers Disassembled",
+   "file": "avengers-disassembled.cbl",
+   "issues": null,
+   "list_type": "Event",
+   "attribution_source": "LOCG",
+   "attribution_url": null,
+   "resumed": true
+  },
+  {
+   "id": 421,
+   "name": "Avengers Reborn",
+   "file": "avengers-reborn.cbl",
+   "issues": null,
+   "list_type": "Story",
+   "attribution_source": "CMRO",
+   "attribution_url": null,
+   "resumed": true
+  },
+  {
+   "id": 120,
+   "name": "Avengers Standoff",
+   "file": "avengers-standoff.cbl",
+   "issues": null,
+   "list_type": "Event",
+   "attribution_source": "LOCG",
+   "attribution_url": null,
+   "resumed": true
+  },
+  {
+   "id": 422,
+   "name": "Avengers vs. Defenders",
+   "file": "avengers-vs-defenders.cbl",
+   "issues": null,
+   "list_type": "Story",
+   "attribution_source": "CMRO",
+   "attribution_url": null,
+   "resumed": true
+  },
+  {
+   "id": 265,
+   "name": "Avengers vs. X-Men",
+   "file": "avengers-vs-x-men.cbl",
+   "issues": null,
+   "list_type": "Event",
+   "attribution_source": "LOCG",
+   "attribution_url": null,
+   "resumed": true
+  },
+  {
+   "id": 215,
+   "name": "Avengers: Armageddon",
+   "file": "avengers-armageddon.cbl",
+   "issues": null,
+   "list_type": "Event",
+   "attribution_source": "LOCG",
+   "attribution_url": null,
+   "resumed": true
+  },
+  {
+   "id": 114,
+   "name": "AXIS",
+   "file": "axis.cbl",
+   "issues": null,
+   "list_type": "Event",
+   "attribution_source": "LOCG",
+   "attribution_url": null,
+   "resumed": true
+  },
+  {
+   "id": 441,
+   "name": "Batgirl: Forget-Me-Not",
+   "file": "batgirl-forget-me-not.cbl",
+   "issues": null,
+   "list_type": "Story",
+   "attribution_source": "",
+   "attribution_url": null,
+   "resumed": true
+  },
+  {
+   "id": 197,
+   "name": "Batgirl: Mother",
+   "file": "batgirl-mother.cbl",
+   "issues": null,
+   "list_type": "Story",
+   "attribution_source": "",
+   "attribution_url": null,
+   "resumed": true
+  },
+  {
+   "id": 437,
+   "name": "Batgirl: The Book of Shiva",
+   "file": "batgirl-the-book-of-shiva.cbl",
+   "issues": null,
+   "list_type": "Story",
+   "attribution_source": "",
+   "attribution_url": null,
+   "resumed": true
+  },
+  {
+   "id": 440,
+   "name": "Batgirl: The Curse of the Blood",
+   "file": "batgirl-the-curse-of-the-blood.cbl",
+   "issues": null,
+   "list_type": "Story",
+   "attribution_source": "",
+   "attribution_url": null,
+   "resumed": true
+  },
+  {
+   "id": 438,
+   "name": "Batgirl: The Three Swords",
+   "file": "batgirl-the-three-swords.cbl",
+   "issues": null,
+   "list_type": "Story",
+   "attribution_source": "",
+   "attribution_url": null,
+   "resumed": true
+  },
+  {
+   "id": 439,
+   "name": "Batgirl: The War of Shadows",
+   "file": "batgirl-the-war-of-shadows.cbl",
+   "issues": null,
+   "list_type": "Story",
+   "attribution_source": "",
+   "attribution_url": null,
+   "resumed": true
+  },
+  {
+   "id": 180,
+   "name": "Batman R.I.P.",
+   "file": "batman-r-i-p.cbl",
+   "issues": null,
+   "list_type": "Event",
+   "attribution_source": "LOCG",
+   "attribution_url": null,
+   "resumed": true
+  },
+  {
+   "id": 223,
+   "name": "Batman: A Lonely Place of Dying",
+   "file": "batman-a-lonely-place-of-dying.cbl",
+   "issues": null,
+   "list_type": "Event",
+   "attribution_source": "CBRO",
+   "attribution_url": null,
+   "resumed": true
+  },
+  {
+   "id": 365,
+   "name": "Batman: Bad Seeds",
+   "file": "batman-bad-seeds.cbl",
+   "issues": null,
+   "list_type": "Event",
+   "attribution_source": "LOCG",
+   "attribution_url": null,
+   "resumed": true
+  },
+  {
+   "id": 50,
+   "name": "Batman: Endgame",
+   "file": "batman-endgame.cbl",
+   "issues": null,
+   "list_type": "Event",
+   "attribution_source": "LOCG",
+   "attribution_url": null,
+   "resumed": true
+  },
+  {
+   "id": 222,
+   "name": "Batman: Face the Face",
+   "file": "batman-face-the-face.cbl",
+   "issues": null,
+   "list_type": "Event",
+   "attribution_source": "CBRO",
+   "attribution_url": null,
+   "resumed": true
+  },
+  {
+   "id": 34,
+   "name": "Batman: War Games",
+   "file": "batman-war-games.cbl",
+   "issues": null,
+   "list_type": "Event",
+   "attribution_source": "LOCG",
+   "attribution_url": null,
+   "resumed": true
+  },
+  {
+   "id": 45,
+   "name": "Batman: Zero Year",
+   "file": "batman-zero-year.cbl",
+   "issues": null,
+   "list_type": "Event",
+   "attribution_source": "LOCG",
+   "attribution_url": null,
+   "resumed": true
+  },
+  {
+   "id": 428,
+   "name": "Battle for Britain",
+   "file": "battle-for-britain.cbl",
+   "issues": null,
+   "list_type": "Story",
+   "attribution_source": "CMRO",
+   "attribution_url": null,
+   "resumed": true
+  },
+  {
+   "id": 161,
+   "name": "Battle for the Cowl",
+   "file": "battle-for-the-cowl.cbl",
+   "issues": null,
+   "list_type": "Event",
+   "attribution_source": "LOCG",
+   "attribution_url": null,
+   "resumed": true
+  },
+  {
+   "id": 224,
+   "name": "Battle of the Atom",
+   "file": "battle-of-the-atom.cbl",
+   "issues": null,
+   "list_type": "Event",
+   "attribution_source": "CBRO",
+   "attribution_url": null,
+   "resumed": true
+  },
+  {
+   "id": 321,
+   "name": "Battle of the Atom",
+   "file": "battle-of-the-atom.cbl",
+   "issues": null,
+   "list_type": "Event",
+   "attribution_source": "LOCG",
+   "attribution_url": null,
+   "resumed": true
+  },
+  {
+   "id": 181,
+   "name": "Behold! The Millennium Giants!",
+   "file": "behold-the-millennium-giants.cbl",
+   "issues": null,
+   "list_type": "Event",
+   "attribution_source": "LOCG",
+   "attribution_url": null,
+   "resumed": true
+  },
+  {
+   "id": 489,
+   "name": "Big Guns",
+   "file": "big-guns.cbl",
+   "issues": null,
+   "list_type": "Story",
+   "attribution_source": "",
+   "attribution_url": null,
+   "resumed": true
+  },
+  {
+   "id": 449,
+   "name": "Big Trouble in Little Mogadishu",
+   "file": "big-trouble-in-little-mogadishu.cbl",
+   "issues": null,
+   "list_type": "Story",
+   "attribution_source": "CMRO",
+   "attribution_url": null,
+   "resumed": true
+  },
+  {
+   "id": 452,
+   "name": "Black Panther: Black and White: A Crime Novel",
+   "file": "black-panther-black-and-white-a-crime-novel.cbl",
+   "issues": null,
+   "list_type": "Story",
+   "attribution_source": "CMRO",
+   "attribution_url": null,
+   "resumed": true
+  },
+  {
+   "id": 157,
+   "name": "Blackest Night",
+   "file": "blackest-night.cbl",
+   "issues": null,
+   "list_type": "Event",
+   "attribution_source": "LOCG",
+   "attribution_url": null,
+   "resumed": true
+  },
+  {
+   "id": 80,
+   "name": "Blood and Thunder",
+   "file": "blood-and-thunder.cbl",
+   "issues": null,
+   "list_type": "Event",
+   "attribution_source": "LOCG",
+   "attribution_url": null,
+   "resumed": true
+  },
+  {
+   "id": 151,
+   "name": "Blood Hunt",
+   "file": "blood-hunt.cbl",
+   "issues": null,
+   "list_type": "Event",
+   "attribution_source": "LOCG",
+   "attribution_url": null,
+   "resumed": true
+  },
+  {
+   "id": 182,
+   "name": "Bloodlines",
+   "file": "bloodlines.cbl",
+   "issues": null,
+   "list_type": "Event",
+   "attribution_source": "LOCG",
+   "attribution_url": null,
+   "resumed": true
+  },
+  {
+   "id": 81,
+   "name": "Bloodties",
+   "file": "bloodties.cbl",
+   "issues": null,
+   "list_type": "Event",
+   "attribution_source": "LOCG",
+   "attribution_url": null,
+   "resumed": true
+  },
+  {
+   "id": 159,
+   "name": "Brightest Day",
+   "file": "brightest-day.cbl",
+   "issues": null,
+   "list_type": "Event",
+   "attribution_source": "LOCG",
+   "attribution_url": null,
+   "resumed": true
+  },
+  {
+   "id": 214,
+   "name": "Bring on the Bad Guys",
+   "file": "bring-on-the-bad-guys.cbl",
+   "issues": null,
+   "list_type": "Event",
+   "attribution_source": "LOCG",
+   "attribution_url": null,
+   "resumed": true
+  },
+  {
+   "id": 26,
+   "name": "Brotherhood of the Fist",
+   "file": "brotherhood-of-the-fist.cbl",
+   "issues": null,
+   "list_type": "Event",
+   "attribution_source": "LOCG",
+   "attribution_url": null,
+   "resumed": true
+  },
+  {
+   "id": 31,
+   "name": "Bruce Wayne: Fugitive",
+   "file": "bruce-wayne-fugitive.cbl",
+   "issues": null,
+   "list_type": "Event",
+   "attribution_source": "LOCG",
+   "attribution_url": null,
+   "resumed": true
+  },
+  {
+   "id": 32,
+   "name": "Bruce Wayne: Murderer?",
+   "file": "bruce-wayne-murderer.cbl",
+   "issues": null,
+   "list_type": "Event",
+   "attribution_source": "LOCG",
+   "attribution_url": null,
+   "resumed": true
+  },
+  {
+   "id": 401,
+   "name": "Captain America: American Nightmare",
+   "file": "captain-america-american-nightmare.cbl",
+   "issues": null,
+   "list_type": "Story",
+   "attribution_source": "CMRO",
+   "attribution_url": null,
+   "resumed": true
+  },
+  {
+   "id": 147,
+   "name": "Captain America: Cold War",
+   "file": "captain-america-cold-war.cbl",
+   "issues": null,
+   "list_type": "Event",
+   "attribution_source": "LOCG",
+   "attribution_url": null,
+   "resumed": true
+  },
+  {
+   "id": 148,
+   "name": "Carnage Reigns",
+   "file": "carnage-reigns.cbl",
+   "issues": null,
+   "list_type": "Event",
+   "attribution_source": "LOCG",
+   "attribution_url": null,
+   "resumed": true
+  },
+  {
+   "id": 27,
+   "name": "Cataclysm",
+   "file": "cataclysm.cbl",
+   "issues": null,
+   "list_type": "Event",
+   "attribution_source": "LOCG",
+   "attribution_url": null,
+   "resumed": true
+  },
+  {
+   "id": 104,
+   "name": "Chaos War",
+   "file": "chaos-war.cbl",
+   "issues": null,
+   "list_type": "Event",
+   "attribution_source": "LOCG",
+   "attribution_url": null,
+   "resumed": true
+  },
+  {
+   "id": 183,
+   "name": "Circle of Fire",
+   "file": "circle-of-fire.cbl",
+   "issues": null,
+   "list_type": "Event",
+   "attribution_source": "LOCG",
+   "attribution_url": null,
+   "resumed": true
+  },
+  {
+   "id": 322,
+   "name": "Citizen Kang",
+   "file": "citizen-kang.cbl",
+   "issues": null,
+   "list_type": "Event",
+   "attribution_source": "LOCG",
+   "attribution_url": null,
+   "resumed": true
+  },
+  {
+   "id": 238,
+   "name": "City of Bane",
+   "file": "city-of-bane.cbl",
+   "issues": null,
+   "list_type": "Event",
+   "attribution_source": "CBRO",
+   "attribution_url": null,
+   "resumed": true
+  },
+  {
+   "id": 176,
+   "name": "Civil War",
+   "file": "civil-war.cbl",
+   "issues": null,
+   "list_type": "Event",
+   "attribution_source": "LOCG",
+   "attribution_url": null,
+   "resumed": true
+  },
+  {
+   "id": 117,
+   "name": "Civil War II",
+   "file": "civil-war-ii.cbl",
+   "issues": null,
+   "list_type": "Event",
+   "attribution_source": "LOCG",
+   "attribution_url": null,
+   "resumed": true
+  },
+  {
+   "id": 372,
+   "name": "Conan the Barbarian: Scourge of the Serpent",
+   "file": "conan-the-barbarian-scourge-of-the-serpent.cbl",
+   "issues": null,
+   "list_type": "Event",
+   "attribution_source": "HTLC",
+   "attribution_url": null,
+   "resumed": true
+  },
+  {
+   "id": 374,
+   "name": "Conan: Battle of the Black Stone",
+   "file": "conan-battle-of-the-black-stone.cbl",
+   "issues": null,
+   "list_type": "Event",
+   "attribution_source": "HTLC",
+   "attribution_url": null,
+   "resumed": true
+  },
+  {
+   "id": 23,
+   "name": "Contagion",
+   "file": "contagion.cbl",
+   "issues": null,
+   "list_type": "Event",
+   "attribution_source": "LOCG",
+   "attribution_url": null,
+   "resumed": true
+  },
+  {
+   "id": 250,
+   "name": "Contest of Champions",
+   "file": "contest-of-champions.cbl",
+   "issues": null,
+   "list_type": "Event",
+   "attribution_source": "",
+   "attribution_url": null,
+   "resumed": true
+  },
+  {
+   "id": 149,
+   "name": "Contest of Chaos",
+   "file": "contest-of-chaos.cbl",
+   "issues": null,
+   "list_type": "Event",
+   "attribution_source": "LOCG",
+   "attribution_url": null,
+   "resumed": true
+  },
+  {
+   "id": 56,
+   "name": "Convergence",
+   "file": "convergence.cbl",
+   "issues": null,
+   "list_type": "Event",
+   "attribution_source": "LOCG",
+   "attribution_url": null,
+   "resumed": true
+  },
+  {
+   "id": 361,
+   "name": "Criminal (Story Chronology)",
+   "file": "criminal-story-chronology.cbl",
+   "issues": null,
+   "list_type": "Master",
+   "attribution_source": "CBH",
+   "attribution_url": null,
+   "resumed": true
+  },
+  {
+   "id": 1,
+   "name": "Crisis on Infinite Earths",
+   "file": "crisis-on-infinite-earths.cbl",
+   "issues": null,
+   "list_type": "Event",
+   "attribution_source": "LOCG",
+   "attribution_url": null,
+   "resumed": true
+  },
+  {
+   "id": 376,
+   "name": "Curse of the Man-Thing",
+   "file": "curse-of-the-man-thing.cbl",
+   "issues": null,
+   "list_type": "Event",
+   "attribution_source": "HTLC",
+   "attribution_url": null,
+   "resumed": true
+  },
+  {
+   "id": 323,
+   "name": "Curse of the Mutants",
+   "file": "curse-of-the-mutants.cbl",
+   "issues": null,
+   "list_type": "Event",
+   "attribution_source": "LOCG",
+   "attribution_url": null,
+   "resumed": true
+  },
+  {
+   "id": 457,
+   "name": "Daredevil by Frank Miller",
+   "file": "daredevil-by-frank-miller.cbl",
+   "issues": null,
+   "list_type": "Creator",
+   "attribution_source": "OTHER",
+   "attribution_url": null,
+   "resumed": true
+  },
+  {
+   "id": 69,
+   "name": "Dark Crisis on Infinite Earths",
+   "file": "dark-crisis-on-infinite-earths.cbl",
+   "issues": null,
+   "list_type": "Event",
+   "attribution_source": "LOCG",
+   "attribution_url": null,
+   "resumed": true
+  },
+  {
+   "id": 177,
+   "name": "Dark Nights: Death Metal",
+   "file": "dark-nights-death-metal.cbl",
+   "issues": null,
+   "list_type": "Event",
+   "attribution_source": "LOCG",
+   "attribution_url": null,
+   "resumed": true
+  },
+  {
+   "id": 60,
+   "name": "Dark Nights: Metal",
+   "file": "dark-nights-metal.cbl",
+   "issues": null,
+   "list_type": "Event",
+   "attribution_source": "LOCG",
+   "attribution_url": null,
+   "resumed": true
+  },
+  {
+   "id": 204,
+   "name": "Dark Web",
+   "file": "dark-web.cbl",
+   "issues": null,
+   "list_type": "Event",
+   "attribution_source": "LOCG",
+   "attribution_url": null,
+   "resumed": true
+  },
+  {
+   "id": 28,
+   "name": "Day of Judgment",
+   "file": "day-of-judgment.cbl",
+   "issues": null,
+   "list_type": "Event",
+   "attribution_source": "LOCG",
+   "attribution_url": null,
+   "resumed": true
+  },
+  {
+   "id": 184,
+   "name": "Day of Vengeance",
+   "file": "day-of-vengeance.cbl",
+   "issues": null,
+   "list_type": "Event",
+   "attribution_source": "LOCG",
+   "attribution_url": null,
+   "resumed": true
+  },
+  {
+   "id": 156,
+   "name": "DC K.O.",
+   "file": "dc-k-o.cbl",
+   "issues": null,
+   "list_type": "Event",
+   "attribution_source": "LOCG",
+   "attribution_url": null,
+   "resumed": true
+  },
+  {
+   "id": 253,
+   "name": "DC Master Reading Order: DC Rebirth, Part 1",
+   "file": "dc-master-reading-order-dc-rebirth-part-1.cbl",
+   "issues": null,
+   "list_type": "Master",
+   "attribution_source": "CBRO",
+   "attribution_url": null,
+   "resumed": true
+  },
+  {
+   "id": 255,
+   "name": "DC Master Reading Order: DC Rebirth, Part 2",
+   "file": "dc-master-reading-order-dc-rebirth-part-2.cbl",
+   "issues": 861,
+   "list_type": "Master",
+   "attribution_source": "CBRO",
+   "attribution_url": null
+  },
+  {
+   "id": 257,
+   "name": "DC Master Reading Order: DC Rebirth, Part 3",
+   "file": "dc-master-reading-order-dc-rebirth-part-3.cbl",
+   "issues": 967,
+   "list_type": "Master",
+   "attribution_source": "CBRO",
+   "attribution_url": null
+  },
+  {
+   "id": 252,
+   "name": "DC Master Reading Order: DC You",
+   "file": "dc-master-reading-order-dc-you.cbl",
+   "issues": 619,
+   "list_type": "Master",
+   "attribution_source": "CBRO",
+   "attribution_url": null
+  },
+  {
+   "id": 251,
+   "name": "DC Master Reading Order: Infinite Frontier",
+   "file": "dc-master-reading-order-infinite-frontier.cbl",
+   "issues": 822,
+   "list_type": "Master",
+   "attribution_source": "CBRO",
+   "attribution_url": null
+  },
+  {
+   "id": 259,
+   "name": "DC Master Reading Order: New 52, Part 1",
+   "file": "dc-master-reading-order-new-52-part-1.cbl",
+   "issues": 688,
+   "list_type": "Master",
+   "attribution_source": "CBRO",
+   "attribution_url": null
+  },
+  {
+   "id": 260,
+   "name": "DC Master Reading Order: New 52, Part 2",
+   "file": "dc-master-reading-order-new-52-part-2.cbl",
+   "issues": 728,
+   "list_type": "Master",
+   "attribution_source": "CBRO",
+   "attribution_url": null
+  },
+  {
+   "id": 261,
+   "name": "DC Master Reading Order: New 52, Part 3",
+   "file": "dc-master-reading-order-new-52-part-3.cbl",
+   "issues": 1098,
+   "list_type": "Master",
+   "attribution_source": "CBRO",
+   "attribution_url": null
+  },
+  {
+   "id": 185,
+   "name": "DC One Million",
+   "file": "dc-one-million.cbl",
+   "issues": 39,
+   "list_type": "Event",
+   "attribution_source": "LOCG",
+   "attribution_url": null
+  },
+  {
+   "id": 375,
+   "name": "DC vs. Vampires",
+   "file": "dc-vs-vampires.cbl",
+   "issues": 33,
+   "list_type": "Master",
+   "attribution_source": "HTLC",
+   "attribution_url": null
+  },
+  {
+   "id": 229,
+   "name": "DCeased",
+   "file": "dceased.cbl",
+   "issues": null,
+   "list_type": "Event",
+   "attribution_source": "CBRO",
+   "attribution_url": null,
+   "resumed": true
+  },
+  {
+   "id": 324,
+   "name": "Dead Man's Hand",
+   "file": "dead-man-s-hand.cbl",
+   "issues": 9,
+   "list_type": "Event",
+   "attribution_source": "LOCG",
+   "attribution_url": null
+  },
+  {
+   "id": 118,
+   "name": "Dead No More: The Clone Conspiracy",
+   "file": "dead-no-more-the-clone-conspiracy.cbl",
+   "issues": 25,
+   "list_type": "Event",
+   "attribution_source": "LOCG",
+   "attribution_url": null
+  },
+  {
+   "id": 325,
+   "name": "Deadpool: 'Til Death Do Us...",
+   "file": "deadpool-til-death-do-us.cbl",
+   "issues": 6,
+   "list_type": "Event",
+   "attribution_source": "LOCG",
+   "attribution_url": null
+  },
+  {
+   "id": 397,
+   "name": "Deadpool: Agent of Weapon X",
+   "file": "deadpool-agent-of-weapon-x.cbl",
+   "issues": 4,
+   "list_type": "Story",
+   "attribution_source": "CMRO",
+   "attribution_url": null
+  },
+  {
+   "id": 134,
+   "name": "Death of Doctor Strange",
+   "file": "death-of-doctor-strange.cbl",
+   "issues": 12,
+   "list_type": "Event",
+   "attribution_source": "LOCG",
+   "attribution_url": null
+  },
+  {
+   "id": 326,
+   "name": "Death of Spider-Man",
+   "file": "death-of-spider-man.cbl",
+   "issues": 24,
+   "list_type": "Event",
+   "attribution_source": "LOCG",
+   "attribution_url": null
+  },
+  {
+   "id": 42,
+   "name": "Death of the Family",
+   "file": "death-of-the-family.cbl",
+   "issues": 27,
+   "list_type": "Event",
+   "attribution_source": "LOCG",
+   "attribution_url": null
+  },
+  {
+   "id": 450,
+   "name": "Deathlok: The Biohazard Agenda",
+   "file": "deathlok-the-biohazard-agenda.cbl",
+   "issues": 4,
+   "list_type": "Story",
+   "attribution_source": "CMRO",
+   "attribution_url": null
+  },
+  {
+   "id": 189,
+   "name": "Deathtrap",
+   "file": "deathtrap.cbl",
+   "issues": 9,
+   "list_type": "Event",
+   "attribution_source": "LOCG",
+   "attribution_url": null
+  },
+  {
+   "id": 91,
+   "name": "Decimation",
+   "file": "decimation.cbl",
+   "issues": 52,
+   "list_type": "Event",
+   "attribution_source": "LOCG",
+   "attribution_url": null
+  },
+  {
+   "id": 327,
+   "name": "Demon Days",
+   "file": "demon-days.cbl",
+   "issues": 6,
+   "list_type": "Event",
+   "attribution_source": "LOCG",
+   "attribution_url": null
+  },
+  {
+   "id": 328,
+   "name": "Demon Wars",
+   "file": "demon-wars.cbl",
+   "issues": 4,
+   "list_type": "Event",
+   "attribution_source": "LOCG",
+   "attribution_url": null
+  },
+  {
+   "id": 135,
+   "name": "Devil's Reign",
+   "file": "devil-s-reign.cbl",
+   "issues": 25,
+   "list_type": "Event",
+   "attribution_source": "LOCG",
+   "attribution_url": null
+  },
+  {
+   "id": 369,
+   "name": "DNX",
+   "file": "dnx.cbl",
+   "issues": 10,
+   "list_type": "Event",
+   "attribution_source": "LOCG",
+   "attribution_url": null
+  },
+  {
+   "id": 399,
+   "name": "Doctor Strange by Jason Aaron & Chris Bachalo",
+   "file": "doctor-strange-by-jason-aaron-chris-bachalo.cbl",
+   "issues": 22,
+   "list_type": "Creator",
+   "attribution_source": "OTHER",
+   "attribution_url": null
+  },
+  {
+   "id": 126,
+   "name": "Doctor Strange: Damnation",
+   "file": "doctor-strange-damnation.cbl",
+   "issues": 15,
+   "list_type": "Event",
+   "attribution_source": "LOCG",
+   "attribution_url": null
+  },
+  {
+   "id": 461,
+   "name": "Dr Doom",
+   "file": "dr-doom.cbl",
+   "issues": 72,
+   "list_type": "Characters",
+   "attribution_source": "",
+   "attribution_url": null
+  },
+  {
+   "id": 64,
+   "name": "Drowned Earth",
+   "file": "drowned-earth.cbl",
+   "issues": 8,
+   "list_type": "Event",
+   "attribution_source": "LOCG",
+   "attribution_url": null
+  },
+  {
+   "id": 188,
+   "name": "Eclipso: The Darkness Within",
+   "file": "eclipso-the-darkness-within.cbl",
+   "issues": 21,
+   "list_type": "Event",
+   "attribution_source": "LOCG",
+   "attribution_url": null
+  },
+  {
+   "id": 402,
+   "name": "Elektra: American Samurai",
+   "file": "elektra-american-samurai.cbl",
+   "issues": 3,
+   "list_type": "Story",
+   "attribution_source": "CMRO",
+   "attribution_url": null
+  },
+  {
+   "id": 128,
+   "name": "Empyre",
+   "file": "empyre.cbl",
+   "issues": 37,
+   "list_type": "Event",
+   "attribution_source": "LOCG",
+   "attribution_url": null
+  },
+  {
+   "id": 65,
+   "name": "Endless Winter",
+   "file": "endless-winter.cbl",
+   "issues": 9,
+   "list_type": "Event",
+   "attribution_source": "LOCG",
+   "attribution_url": null
+  },
+  {
+   "id": 483,
+   "name": "Energon Universe: Year One",
+   "file": "energon-universe-year-one.cbl",
+   "issues": 25,
+   "list_type": "Master",
+   "attribution_source": "CBT",
+   "attribution_url": null
+  },
+  {
+   "id": 485,
+   "name": "Energon Universe: Year Three",
+   "file": "energon-universe-year-three.cbl",
+   "issues": 29,
+   "list_type": "Master",
+   "attribution_source": "CBT",
+   "attribution_url": null
+  },
+  {
+   "id": 484,
+   "name": "Energon Universe: Year Two",
+   "file": "energon-universe-year-two.cbl",
+   "issues": 40,
+   "list_type": "Master",
+   "attribution_source": "CBT",
+   "attribution_url": null
+  },
+  {
+   "id": 190,
+   "name": "Event Leviathan",
+   "file": "event-leviathan.cbl",
+   "issues": 31,
+   "list_type": "Event",
+   "attribution_source": "LOCG",
+   "attribution_url": null
+  },
+  {
+   "id": 329,
+   "name": "Exiled",
+   "file": "exiled.cbl",
+   "issues": 5,
+   "list_type": "Event",
+   "attribution_source": "LOCG",
+   "attribution_url": null
+  },
+  {
+   "id": 137,
+   "name": "Extreme Carnage",
+   "file": "extreme-carnage.cbl",
+   "issues": 8,
+   "list_type": "Event",
+   "attribution_source": "LOCG",
+   "attribution_url": null
+  },
+  {
+   "id": 291,
+   "name": "Fables",
+   "file": "fables.cbl",
+   "issues": 3,
+   "list_type": "Event",
+   "attribution_source": "LOCG",
+   "attribution_url": null
+  },
+  {
+   "id": 187,
+   "name": "Fall of Metropolis",
+   "file": "fall-of-metropolis.cbl",
+   "issues": 12,
+   "list_type": "Event",
+   "attribution_source": "LOCG",
+   "attribution_url": null
+  },
+  {
+   "id": 225,
+   "name": "Fall of the Hulks",
+   "file": "fall-of-the-hulks.cbl",
+   "issues": 15,
+   "list_type": "Event",
+   "attribution_source": "CBRO",
+   "attribution_url": null
+  },
+  {
+   "id": 456,
+   "name": "Fantastic Four by John Byrne",
+   "file": "fantastic-four-by-john-byrne.cbl",
+   "issues": 67,
+   "list_type": "Creator",
+   "attribution_source": "OTHER",
+   "attribution_url": null
+  },
+  {
+   "id": 144,
+   "name": "Fantastic Four: Reckoning War",
+   "file": "fantastic-four-reckoning-war.cbl",
+   "issues": 8,
+   "list_type": "Event",
+   "attribution_source": "LOCG",
+   "attribution_url": null
+  },
+  {
+   "id": 82,
+   "name": "Fatal Attractions",
+   "file": "fatal-attractions.cbl",
+   "issues": 6,
+   "list_type": "Event",
+   "attribution_source": "LOCG",
+   "attribution_url": null
+  },
+  {
+   "id": 203,
+   "name": "Fear Itself",
+   "file": "fear-itself.cbl",
+   "issues": 125,
+   "list_type": "Event",
+   "attribution_source": "LOCG",
+   "attribution_url": null
+  },
+  {
+   "id": 68,
+   "name": "Fear State",
+   "file": "fear-state.cbl",
+   "issues": 31,
+   "list_type": "Event",
+   "attribution_source": "LOCG",
+   "attribution_url": null
+  },
+  {
+   "id": 77,
+   "name": "Final Crisis",
+   "file": "final-crisis.cbl",
+   "issues": 43,
+   "list_type": "Event",
+   "attribution_source": "LOCG",
+   "attribution_url": null
+  },
+  {
+   "id": 354,
+   "name": "Fire and Stone",
+   "file": "fire-and-stone.cbl",
+   "issues": 18,
+   "list_type": "Event",
+   "attribution_source": "LOCG",
+   "attribution_url": null
+  },
+  {
+   "id": 378,
+   "name": "Firefly: Blue Sun Rising",
+   "file": "firefly-blue-sun-rising.cbl",
+   "issues": 7,
+   "list_type": "Story",
+   "attribution_source": "HTLC",
+   "attribution_url": null
+  },
+  {
+   "id": 386,
+   "name": "Flash by Geoff Johns",
+   "file": "flash-by-geoff-johns.cbl",
+   "issues": 97,
+   "list_type": "Creator",
+   "attribution_source": "OTHER",
+   "attribution_url": null
+  },
+  {
+   "id": 191,
+   "name": "Flash: Dead Heat",
+   "file": "flash-dead-heat.cbl",
+   "issues": 8,
+   "list_type": "Event",
+   "attribution_source": "LOCG",
+   "attribution_url": null
+  },
+  {
+   "id": 160,
+   "name": "Flashpoint",
+   "file": "flashpoint.cbl",
+   "issues": 66,
+   "list_type": "Event",
+   "attribution_source": "LOCG",
+   "attribution_url": null
+  },
+  {
+   "id": 162,
+   "name": "Forever Evil",
+   "file": "forever-evil.cbl",
+   "issues": 70,
+   "list_type": "Event",
+   "attribution_source": "LOCG",
+   "attribution_url": null
+  },
+  {
+   "id": 192,
+   "name": "Funeral for a Friend",
+   "file": "funeral-for-a-friend.cbl",
+   "issues": 9,
+   "list_type": "Event",
+   "attribution_source": "LOCG",
+   "attribution_url": null
+  },
+  {
+   "id": 240,
+   "name": "Future State",
+   "file": "future-state.cbl",
+   "issues": 52,
+   "list_type": "Event",
+   "attribution_source": "CBRO",
+   "attribution_url": null
+  },
+  {
+   "id": 198,
+   "name": "Gang War",
+   "file": "gang-war.cbl",
+   "issues": 38,
+   "list_type": "Event",
+   "attribution_source": "LOCG",
+   "attribution_url": null
+  },
+  {
+   "id": 205,
+   "name": "Genesis",
+   "file": "genesis.cbl",
+   "issues": 28,
+   "list_type": "Event",
+   "attribution_source": "LOCG",
+   "attribution_url": null
+  },
+  {
+   "id": 150,
+   "name": "Ghost Rider / Wolverine: Weapons of Vengeance",
+   "file": "ghost-rider-wolverine-weapons-of-vengeance.cbl",
+   "issues": 4,
+   "list_type": "Event",
+   "attribution_source": "LOCG",
+   "attribution_url": null
+  },
+  {
+   "id": 434,
+   "name": "Ghost Rider: Betrayals",
+   "file": "ghost-rider-betrayals.cbl",
+   "issues": 4,
+   "list_type": "Story",
+   "attribution_source": "CMRO",
+   "attribution_url": null
+  },
+  {
+   "id": 292,
+   "name": "Ghosts",
+   "file": "ghosts.cbl",
+   "issues": 8,
+   "list_type": "Event",
+   "attribution_source": "LOCG",
+   "attribution_url": null
+  },
+  {
+   "id": 330,
+   "name": "Giant-Size X-Men: Second Genesis",
+   "file": "giant-size-x-men-second-genesis.cbl",
+   "issues": 6,
+   "list_type": "Event",
+   "attribution_source": "LOCG",
+   "attribution_url": null
+  },
+  {
+   "id": 51,
+   "name": "Gothtopia",
+   "file": "gothtopia.cbl",
+   "issues": 10,
+   "list_type": "Event",
+   "attribution_source": "LOCG",
+   "attribution_url": null
+  },
+  {
+   "id": 200,
+   "name": "Green Arrow & Black Canary: The Wedding",
+   "file": "green-arrow-black-canary-the-wedding.cbl",
+   "issues": 11,
+   "list_type": "Event",
+   "attribution_source": "LOCG",
+   "attribution_url": null
+  },
+  {
+   "id": 385,
+   "name": "Green Lantern by Geoff Johns",
+   "file": "green-lantern-by-geoff-johns.cbl",
+   "issues": 234,
+   "list_type": "Creator",
+   "attribution_source": "OTHER",
+   "attribution_url": null
+  },
+  {
+   "id": 165,
+   "name": "Green Lantern: Godhead",
+   "file": "green-lantern-godhead.cbl",
+   "issues": 20,
+   "list_type": "Event",
+   "attribution_source": "LOCG",
+   "attribution_url": null
+  },
+  {
+   "id": 48,
+   "name": "Green Lantern: Lights Out",
+   "file": "green-lantern-lights-out.cbl",
+   "issues": 5,
+   "list_type": "Event",
+   "attribution_source": "LOCG",
+   "attribution_url": null
+  },
+  {
+   "id": 116,
+   "name": "Guardians of the Galaxy & X-Men: The Black Vortex",
+   "file": "guardians-of-the-galaxy-x-men-the-black-vortex.cbl",
+   "issues": 13,
+   "list_type": "Event",
+   "attribution_source": "LOCG",
+   "attribution_url": null
+  },
+  {
+   "id": 43,
+   "name": "H'El on Earth",
+   "file": "h-el-on-earth.cbl",
+   "issues": 14,
+   "list_type": "Event",
+   "attribution_source": "LOCG",
+   "attribution_url": null
+  },
+  {
+   "id": 293,
+   "name": "Hawkman: Wanted",
+   "file": "hawkman-wanted.cbl",
+   "issues": 6,
+   "list_type": "Event",
+   "attribution_source": "LOCG",
+   "attribution_url": null
+  },
+  {
+   "id": 138,
+   "name": "Hellfire Gala",
+   "file": "hellfire-gala.cbl",
+   "issues": 12,
+   "list_type": "Event",
+   "attribution_source": "LOCG",
+   "attribution_url": null
+  },
+  {
+   "id": 301,
+   "name": "Hellmouth",
+   "file": "hellmouth.cbl",
+   "issues": 14,
+   "list_type": "Event",
+   "attribution_source": "LOCG",
+   "attribution_url": null
+  },
+  {
+   "id": 194,
+   "name": "Helmet of Fate",
+   "file": "helmet-of-fate.cbl",
+   "issues": 5,
+   "list_type": "Event",
+   "attribution_source": "LOCG",
+   "attribution_url": null
+  },
+  {
+   "id": 63,
+   "name": "Heroes in Crisis",
+   "file": "heroes-in-crisis.cbl",
+   "issues": 27,
+   "list_type": "Event",
+   "attribution_source": "LOCG",
+   "attribution_url": null
+  },
+  {
+   "id": 139,
+   "name": "Heroes Reborn (2021)",
+   "file": "heroes-reborn-2021.cbl",
+   "issues": 18,
+   "list_type": "Event",
+   "attribution_source": "LOCG",
+   "attribution_url": null
+  },
+  {
+   "id": 75,
+   "name": "House of Brainiac",
+   "file": "house-of-brainiac.cbl",
+   "issues": 14,
+   "list_type": "Event",
+   "attribution_source": "LOCG",
+   "attribution_url": null
+  },
+  {
+   "id": 92,
+   "name": "House of M",
+   "file": "house-of-m.cbl",
+   "issues": 51,
+   "list_type": "Event",
+   "attribution_source": "LOCG",
+   "attribution_url": null
+  },
+  {
+   "id": 145,
+   "name": "Hulk vs. Thor: Banner of War",
+   "file": "hulk-vs-thor-banner-of-war.cbl",
+   "issues": 5,
+   "list_type": "Event",
+   "attribution_source": "LOCG",
+   "attribution_url": null
+  },
+  {
+   "id": 448,
+   "name": "Hulk: Big Things",
+   "file": "hulk-big-things.cbl",
+   "issues": 4,
+   "list_type": "Story",
+   "attribution_source": "CMRO",
+   "attribution_url": null
+  },
+  {
+   "id": 35,
+   "name": "Identity Crisis",
+   "file": "identity-crisis.cbl",
+   "issues": 23,
+   "list_type": "Event",
+   "attribution_source": "LOCG",
+   "attribution_url": null
+  },
+  {
+   "id": 286,
+   "name": "Imperial",
+   "file": "imperial.cbl",
+   "issues": 10,
+   "list_type": "Event",
+   "attribution_source": "LOCG",
+   "attribution_url": null
+  },
+  {
+   "id": 36,
+   "name": "Infinite Crisis",
+   "file": "infinite-crisis.cbl",
+   "issues": 124,
+   "list_type": "Event",
+   "attribution_source": "LOCG",
+   "attribution_url": null
+  },
+  {
+   "id": 109,
+   "name": "Infinity",
+   "file": "infinity.cbl",
+   "issues": 56,
+   "list_type": "Event",
+   "attribution_source": "LOCG",
+   "attribution_url": null
+  },
+  {
+   "id": 127,
+   "name": "Infinity Countdown",
+   "file": "infinity-countdown.cbl",
+   "issues": 18,
+   "list_type": "Event",
+   "attribution_source": "LOCG",
+   "attribution_url": null
+  },
+  {
+   "id": 83,
+   "name": "Infinity Crusade",
+   "file": "infinity-crusade.cbl",
+   "issues": 45,
+   "list_type": "Event",
+   "attribution_source": "LOCG",
+   "attribution_url": null
+  },
+  {
+   "id": 10,
+   "name": "Infinity Gauntlet",
+   "file": "infinity-gauntlet.cbl",
+   "issues": 58,
+   "list_type": "Event",
+   "attribution_source": "LOCG",
+   "attribution_url": null
+  },
+  {
+   "id": 11,
+   "name": "Infinity War",
+   "file": "infinity-war.cbl",
+   "issues": 64,
+   "list_type": "Event",
+   "attribution_source": "LOCG",
+   "attribution_url": null
+  },
+  {
+   "id": 125,
+   "name": "Infinity Wars",
+   "file": "infinity-wars.cbl",
+   "issues": 31,
+   "list_type": "Event",
+   "attribution_source": "LOCG",
+   "attribution_url": null
+  },
+  {
+   "id": 164,
+   "name": "Inhumanity",
+   "file": "inhumanity.cbl",
+   "issues": 21,
+   "list_type": "Event",
+   "attribution_source": "LOCG",
+   "attribution_url": null
+  },
+  {
+   "id": 119,
+   "name": "Inhumans vs. X-Men",
+   "file": "inhumans-vs-x-men.cbl",
+   "issues": 24,
+   "list_type": "Event",
+   "attribution_source": "LOCG",
+   "attribution_url": null
+  },
+  {
+   "id": 232,
+   "name": "Injustice",
+   "file": "injustice.cbl",
+   "issues": 265,
+   "list_type": "Event",
+   "attribution_source": "CBRO",
+   "attribution_url": null
+  },
+  {
+   "id": 294,
+   "name": "Invasion!",
+   "file": "invasion.cbl",
+   "issues": 47,
+   "list_type": "Event",
+   "attribution_source": "LOCG",
+   "attribution_url": null
+  },
+  {
+   "id": 133,
+   "name": "Iron Man 2020",
+   "file": "iron-man-2020.cbl",
+   "issues": 18,
+   "list_type": "Event",
+   "attribution_source": "LOCG",
+   "attribution_url": null
+  },
+  {
+   "id": 412,
+   "name": "Iron Man: Armor Wars",
+   "file": "iron-man-armor-wars.cbl",
+   "issues": 9,
+   "list_type": "Story",
+   "attribution_source": "CMRO",
+   "attribution_url": null
+  },
+  {
+   "id": 413,
+   "name": "Iron Man: Armor Wars II",
+   "file": "iron-man-armor-wars-ii.cbl",
+   "issues": 9,
+   "list_type": "Story",
+   "attribution_source": "CMRO",
+   "attribution_url": null
+  },
+  {
+   "id": 432,
+   "name": "Iron Man: The Best Defense",
+   "file": "iron-man-the-best-defense.cbl",
+   "issues": 6,
+   "list_type": "Story",
+   "attribution_source": "CMRO",
+   "attribution_url": null
+  },
+  {
+   "id": 167,
+   "name": "Jack Kirby's Fourth World",
+   "file": "jack-kirby-s-fourth-world.cbl",
+   "issues": 56,
+   "list_type": "Master",
+   "attribution_source": "CBRO",
+   "attribution_url": null
+  },
+  {
+   "id": 195,
+   "name": "JLApe: Gorilla Warfare!",
+   "file": "jlape-gorilla-warfare.cbl",
+   "issues": 9,
+   "list_type": "Event",
+   "attribution_source": "LOCG",
+   "attribution_url": null
+  },
+  {
+   "id": 66,
+   "name": "Joker War",
+   "file": "joker-war.cbl",
+   "issues": 26,
+   "list_type": "Event",
+   "attribution_source": "LOCG",
+   "attribution_url": null
+  },
+  {
+   "id": 29,
+   "name": "Joker's Last Laugh",
+   "file": "joker-s-last-laugh.cbl",
+   "issues": 32,
+   "list_type": "Event",
+   "attribution_source": "LOCG",
+   "attribution_url": null
+  },
+  {
+   "id": 384,
+   "name": "JSA by Geoff Johns",
+   "file": "jsa-by-geoff-johns.cbl",
+   "issues": 149,
+   "list_type": "Creator",
+   "attribution_source": "OTHER",
+   "attribution_url": null
+  },
+  {
+   "id": 231,
+   "name": "JSA: Black Reign",
+   "file": "jsa-black-reign.cbl",
+   "issues": 6,
+   "list_type": "Event",
+   "attribution_source": "CBRO",
+   "attribution_url": null
+  },
+  {
+   "id": 40,
+   "name": "Judgment on Gotham",
+   "file": "judgment-on-gotham.cbl",
+   "issues": 4,
+   "list_type": "Event",
+   "attribution_source": "LOCG",
+   "attribution_url": null
+  },
+  {
+   "id": 57,
+   "name": "Justice League vs. Suicide Squad",
+   "file": "justice-league-vs-suicide-squad.cbl",
+   "issues": 11,
+   "list_type": "Event",
+   "attribution_source": "LOCG",
+   "attribution_url": null
+  },
+  {
+   "id": 226,
+   "name": "Justice League: Breakdowns",
+   "file": "justice-league-breakdowns.cbl",
+   "issues": 17,
+   "list_type": "Event",
+   "attribution_source": "CBRO",
+   "attribution_url": null
+  },
+  {
+   "id": 363,
+   "name": "Justice League: Dream Girls",
+   "file": "justice-league-dream-girls.cbl",
+   "issues": 5,
+   "list_type": "Event",
+   "attribution_source": "HTLC",
+   "attribution_url": null
+  },
+  {
+   "id": 53,
+   "name": "Justice League: The Darkseid War",
+   "file": "justice-league-the-darkseid-war.cbl",
+   "issues": 18,
+   "list_type": "Event",
+   "attribution_source": "LOCG",
+   "attribution_url": null
+  },
+  {
+   "id": 335,
+   "name": "King in Black",
+   "file": "king-in-black.cbl",
+   "issues": 68,
+   "list_type": "Event",
+   "attribution_source": "LOCG",
+   "attribution_url": null
+  },
+  {
+   "id": 370,
+   "name": "Kingdom of Zod",
+   "file": "kingdom-of-zod.cbl",
+   "issues": 9,
+   "list_type": "Event",
+   "attribution_source": "LOCG",
+   "attribution_url": null
+  },
+  {
+   "id": 178,
+   "name": "Knight Terrors",
+   "file": "knight-terrors.cbl",
+   "issues": 47,
+   "list_type": "Event",
+   "attribution_source": "LOCG",
+   "attribution_url": null
+  },
+  {
+   "id": 206,
+   "name": "Knightfall",
+   "file": "knightfall.cbl",
+   "issues": 36,
+   "list_type": "Event",
+   "attribution_source": "LOCG",
+   "attribution_url": null
+  },
+  {
+   "id": 207,
+   "name": "Knightquest: The Crusade",
+   "file": "knightquest-the-crusade.cbl",
+   "issues": 30,
+   "list_type": "Event",
+   "attribution_source": "LOCG",
+   "attribution_url": null
+  },
+  {
+   "id": 208,
+   "name": "Knightquest: The Search",
+   "file": "knightquest-the-search.cbl",
+   "issues": 9,
+   "list_type": "Event",
+   "attribution_source": "LOCG",
+   "attribution_url": null
+  },
+  {
+   "id": 209,
+   "name": "KnightsEnd",
+   "file": "knightsend.cbl",
+   "issues": 13,
+   "list_type": "Event",
+   "attribution_source": "LOCG",
+   "attribution_url": null
+  },
+  {
+   "id": 241,
+   "name": "Kree-Skrull War",
+   "file": "kree-skrull-war.cbl",
+   "issues": 9,
+   "list_type": "Story",
+   "attribution_source": "",
+   "attribution_url": null
+  },
+  {
+   "id": 295,
+   "name": "Krisis of the Krimson Kryptonite",
+   "file": "krisis-of-the-krimson-kryptonite.cbl",
+   "issues": 5,
+   "list_type": "Event",
+   "attribution_source": "LOCG",
+   "attribution_url": null
+  },
+  {
+   "id": 472,
+   "name": "L.E.G.I.O.N. and R.E.B.E.L.S.",
+   "file": "l-e-g-i-o-n-and-r-e-b-e-l-s.cbl",
+   "issues": 155,
+   "list_type": "Master",
+   "attribution_source": "",
+   "attribution_url": null
+  },
+  {
+   "id": 201,
+   "name": "Last Rites",
+   "file": "last-rites.cbl",
+   "issues": 10,
+   "list_type": "Event",
+   "attribution_source": "LOCG",
+   "attribution_url": null
+  },
+  {
+   "id": 73,
+   "name": "Lazarus Planet",
+   "file": "lazarus-planet.cbl",
+   "issues": 16,
+   "list_type": "Event",
+   "attribution_source": "LOCG",
+   "attribution_url": null
+  },
+  {
+   "id": 22,
+   "name": "Legacy",
+   "file": "legacy.cbl",
+   "issues": 14,
+   "list_type": "Event",
+   "attribution_source": "LOCG",
+   "attribution_url": null
+  },
+  {
+   "id": 5,
+   "name": "Legends",
+   "file": "legends.cbl",
+   "issues": 28,
+   "list_type": "Event",
+   "attribution_source": "LOCG",
+   "attribution_url": null
+  },
+  {
+   "id": 473,
+   "name": "Legion of Super-Heroes (Bendisboot)",
+   "file": "legion-of-super-heroes-bendisboot.cbl",
+   "issues": 25,
+   "list_type": "Master",
+   "attribution_source": "",
+   "attribution_url": null
+  },
+  {
+   "id": 471,
+   "name": "Legion of Super-Heroes (Five Years Later)",
+   "file": "legion-of-super-heroes-five-years-later.cbl",
+   "issues": 103,
+   "list_type": "Master",
+   "attribution_source": "",
+   "attribution_url": null
+  },
+  {
+   "id": 478,
+   "name": "Legion of Super-Heroes (Legacyboot)",
+   "file": "legion-of-super-heroes-legacyboot.cbl",
+   "issues": 2,
+   "list_type": "Master",
+   "attribution_source": "",
+   "attribution_url": null
+  },
+  {
+   "id": 470,
+   "name": "Legion of Super-Heroes (Original)",
+   "file": "legion-of-super-heroes-original.cbl",
+   "issues": 378,
+   "list_type": "Master",
+   "attribution_source": "",
+   "attribution_url": null
+  },
+  {
+   "id": 476,
+   "name": "Legion of Super-Heroes (Reboot)",
+   "file": "legion-of-super-heroes-reboot.cbl",
+   "issues": 241,
+   "list_type": "Master",
+   "attribution_source": "",
+   "attribution_url": null
+  },
+  {
+   "id": 475,
+   "name": "Legion of Super-Heroes (Retroboot)",
+   "file": "legion-of-super-heroes-retroboot.cbl",
+   "issues": 120,
+   "list_type": "Master",
+   "attribution_source": "",
+   "attribution_url": null
+  },
+  {
+   "id": 474,
+   "name": "Legion of Super-Heroes (Threeboot)",
+   "file": "legion-of-super-heroes-threeboot.cbl",
+   "issues": 51,
+   "list_type": "Master",
+   "attribution_source": "",
+   "attribution_url": null
+  },
+  {
+   "id": 355,
+   "name": "Life and Death",
+   "file": "life-and-death.cbl",
+   "issues": 17,
+   "list_type": "Event",
+   "attribution_source": "LOCG",
+   "attribution_url": null
+  },
+  {
+   "id": 8,
+   "name": "Life in the Mad Dog Ward",
+   "file": "life-in-the-mad-dog-ward.cbl",
+   "issues": 3,
+   "list_type": "Event",
+   "attribution_source": "LOCG",
+   "attribution_url": null
+  },
+  {
+   "id": 228,
+   "name": "Lightning Saga",
+   "file": "lightning-saga.cbl",
+   "issues": 6,
+   "list_type": "Event",
+   "attribution_source": "CBRO",
+   "attribution_url": null
+  },
+  {
+   "id": 336,
+   "name": "Live Kree or Die!",
+   "file": "live-kree-or-die.cbl",
+   "issues": 4,
+   "list_type": "Event",
+   "attribution_source": "LOCG",
+   "attribution_url": null
+  },
+  {
+   "id": 296,
+   "name": "Long Hot Summer",
+   "file": "long-hot-summer.cbl",
+   "issues": 24,
+   "list_type": "Event",
+   "attribution_source": "LOCG",
+   "attribution_url": null
+  },
+  {
+   "id": 479,
+   "name": "March to Hulk War",
+   "file": "march-to-hulk-war.cbl",
+   "issues": 2,
+   "list_type": "Event",
+   "attribution_source": "LOCG",
+   "attribution_url": null
+  },
+  {
+   "id": 246,
+   "name": "Marvel Super Heroes Secret Wars",
+   "file": "marvel-super-heroes-secret-wars.cbl",
+   "issues": 12,
+   "list_type": "Event",
+   "attribution_source": "",
+   "attribution_url": null
+  },
+  {
+   "id": 84,
+   "name": "Maximum Carnage",
+   "file": "maximum-carnage.cbl",
+   "issues": 14,
+   "list_type": "Event",
+   "attribution_source": "LOCG",
+   "attribution_url": null
+  },
+  {
+   "id": 89,
+   "name": "Maximum Security",
+   "file": "maximum-security.cbl",
+   "issues": 20,
+   "list_type": "Event",
+   "attribution_source": "LOCG",
+   "attribution_url": null
+  },
+  {
+   "id": 337,
+   "name": "Messiah War",
+   "file": "messiah-war.cbl",
+   "issues": 9,
+   "list_type": "Event",
+   "attribution_source": "LOCG",
+   "attribution_url": null
+  },
+  {
+   "id": 263,
+   "name": "Midnight Sons",
+   "file": "midnight-sons.cbl",
+   "issues": 46,
+   "list_type": "Event",
+   "attribution_source": "",
+   "attribution_url": null
+  },
+  {
+   "id": 6,
+   "name": "Millennium",
+   "file": "millennium.cbl",
+   "issues": 45,
+   "list_type": "Event",
+   "attribution_source": "LOCG",
+   "attribution_url": null
+  },
+  {
+   "id": 107,
+   "name": "Minimum Carnage",
+   "file": "minimum-carnage.cbl",
+   "issues": 6,
+   "list_type": "Event",
+   "attribution_source": "LOCG",
+   "attribution_url": null
+  },
+  {
+   "id": 216,
+   "name": "Monsters Unleashed",
+   "file": "monsters-unleashed.cbl",
+   "issues": 13,
+   "list_type": "Event",
+   "attribution_source": "LOCG",
+   "attribution_url": null
+  },
+  {
+   "id": 258,
+   "name": "Multiversity",
+   "file": "multiversity.cbl",
+   "issues": 9,
+   "list_type": "Event",
+   "attribution_source": "",
+   "attribution_url": null
+  },
+  {
+   "id": 338,
+   "name": "Mutant Massacre",
+   "file": "mutant-massacre.cbl",
+   "issues": 13,
+   "list_type": "Event",
+   "attribution_source": "LOCG",
+   "attribution_url": null
+  },
+  {
+   "id": 233,
+   "name": "New 52: Futures End",
+   "file": "new-52-futures-end.cbl",
+   "issues": 90,
+   "list_type": "Event",
+   "attribution_source": "CBRO",
+   "attribution_url": null
+  },
+  {
+   "id": 297,
+   "name": "New Krypton",
+   "file": "new-krypton.cbl",
+   "issues": 11,
+   "list_type": "Event",
+   "attribution_source": "LOCG",
+   "attribution_url": null
+  },
+  {
+   "id": 431,
+   "name": "New Mutants: The Beginning of the End",
+   "file": "new-mutants-the-beginning-of-the-end.cbl",
+   "issues": 3,
+   "list_type": "Story",
+   "attribution_source": "CMRO",
+   "attribution_url": null
+  },
+  {
+   "id": 388,
+   "name": "New Mutants: The Ties That Bind",
+   "file": "new-mutants-the-ties-that-bind.cbl",
+   "issues": 6,
+   "list_type": "Story",
+   "attribution_source": "CMRO",
+   "attribution_url": null
+  },
+  {
+   "id": 59,
+   "name": "Night of the Monster Men",
+   "file": "night-of-the-monster-men.cbl",
+   "issues": 6,
+   "list_type": "Event",
+   "attribution_source": "LOCG",
+   "attribution_url": null
+  },
+  {
+   "id": 46,
+   "name": "Night of the Owls",
+   "file": "night-of-the-owls.cbl",
+   "issues": 14,
+   "list_type": "Event",
+   "attribution_source": "LOCG",
+   "attribution_url": null
+  },
+  {
+   "id": 24,
+   "name": "No Man's Land",
+   "file": "no-man-s-land.cbl",
+   "issues": 100,
+   "list_type": "Event",
+   "attribution_source": "LOCG",
+   "attribution_url": null
+  },
+  {
+   "id": 400,
+   "name": "Nomad: American Dreamers",
+   "file": "nomad-american-dreamers.cbl",
+   "issues": 4,
+   "list_type": "Story",
+   "attribution_source": "CMRO",
+   "attribution_url": null
+  },
+  {
+   "id": 30,
+   "name": "Officer Down",
+   "file": "officer-down.cbl",
+   "issues": 8,
+   "list_type": "Event",
+   "attribution_source": "LOCG",
+   "attribution_url": null
+  },
+  {
+   "id": 99,
+   "name": "One More Day",
+   "file": "one-more-day.cbl",
+   "issues": 4,
+   "list_type": "Event",
+   "attribution_source": "LOCG",
+   "attribution_url": null
+  },
+  {
+   "id": 154,
+   "name": "One World Under Doom",
+   "file": "one-world-under-doom.cbl",
+   "issues": 82,
+   "list_type": "Event",
+   "attribution_source": "LOCG",
+   "attribution_url": null
+  },
+  {
+   "id": 339,
+   "name": "Onslaught",
+   "file": "onslaught.cbl",
+   "issues": 40,
+   "list_type": "Event",
+   "attribution_source": "LOCG",
+   "attribution_url": null
+  },
+  {
+   "id": 78,
+   "name": "Operation: Galactic Storm",
+   "file": "operation-galactic-storm.cbl",
+   "issues": 22,
+   "list_type": "Event",
+   "attribution_source": "LOCG",
+   "attribution_url": null
+  },
+  {
+   "id": 340,
+   "name": "Original Sin",
+   "file": "original-sin.cbl",
+   "issues": 67,
+   "list_type": "Event",
+   "attribution_source": "LOCG",
+   "attribution_url": null
+  },
+  {
+   "id": 227,
+   "name": "Our Worlds at War",
+   "file": "our-worlds-at-war.cbl",
+   "issues": 41,
+   "list_type": "Event",
+   "attribution_source": "CBRO",
+   "attribution_url": null
+  },
+  {
+   "id": 299,
+   "name": "Our Worlds At War",
+   "file": "our-worlds-at-war.cbl",
+   "issues": null,
+   "list_type": "Event",
+   "attribution_source": "LOCG",
+   "attribution_url": null,
+   "resumed": true
+  },
+  {
+   "id": 298,
+   "name": "Panic In The Sky!",
+   "file": "panic-in-the-sky.cbl",
+   "issues": 8,
+   "list_type": "Event",
+   "attribution_source": "LOCG",
+   "attribution_url": null
+  },
+  {
+   "id": 86,
+   "name": "Phalanx Covenant",
+   "file": "phalanx-covenant.cbl",
+   "issues": 9,
+   "list_type": "Event",
+   "attribution_source": "LOCG",
+   "attribution_url": null
+  },
+  {
+   "id": 87,
+   "name": "Planet of the Symbiotes",
+   "file": "planet-of-the-symbiotes.cbl",
+   "issues": 5,
+   "list_type": "Event",
+   "attribution_source": "LOCG",
+   "attribution_url": null
+  },
+  {
+   "id": 341,
+   "name": "Poison-X",
+   "file": "poison-x.cbl",
+   "issues": 5,
+   "list_type": "Event",
+   "attribution_source": "LOCG",
+   "attribution_url": null
+  },
+  {
+   "id": 300,
+   "name": "Prodigal",
+   "file": "prodigal.cbl",
+   "issues": 12,
+   "list_type": "Event",
+   "attribution_source": "LOCG",
+   "attribution_url": null
+  },
+  {
+   "id": 404,
+   "name": "Punisher: An Eye for an Eye",
+   "file": "punisher-an-eye-for-an-eye.cbl",
+   "issues": 3,
+   "list_type": "Story",
+   "attribution_source": "CMRO",
+   "attribution_url": null
+  },
+  {
+   "id": 342,
+   "name": "Punisher: Suicide Run",
+   "file": "punisher-suicide-run.cbl",
+   "issues": 13,
+   "list_type": "Event",
+   "attribution_source": "LOCG",
+   "attribution_url": null
+  },
+  {
+   "id": 333,
+   "name": "Queen in Black",
+   "file": "queen-in-black.cbl",
+   "issues": 21,
+   "list_type": "Event",
+   "attribution_source": "LOCG",
+   "attribution_url": null
+  },
+  {
+   "id": 103,
+   "name": "Realm of Kings",
+   "file": "realm-of-kings.cbl",
+   "issues": 24,
+   "list_type": "Event",
+   "attribution_source": "LOCG",
+   "attribution_url": null
+  },
+  {
+   "id": 235,
+   "name": "Red Daughter of Krypton",
+   "file": "red-daughter-of-krypton.cbl",
+   "issues": 17,
+   "list_type": "Event",
+   "attribution_source": "CBRO",
+   "attribution_url": null
+  },
+  {
+   "id": 280,
+   "name": "Reign of the Superboys",
+   "file": "reign-of-the-superboys.cbl",
+   "issues": 20,
+   "list_type": "Event",
+   "attribution_source": "LOCG",
+   "attribution_url": null
+  },
+  {
+   "id": 303,
+   "name": "Reign of the Supermen!",
+   "file": "reign-of-the-supermen.cbl",
+   "issues": 22,
+   "list_type": "Event",
+   "attribution_source": "LOCG",
+   "attribution_url": null
+  },
+  {
+   "id": 304,
+   "name": "Return of Bruce Wayne",
+   "file": "return-of-bruce-wayne.cbl",
+   "issues": 25,
+   "list_type": "Event",
+   "attribution_source": "LOCG",
+   "attribution_url": null
+  },
+  {
+   "id": 166,
+   "name": "Revolutionary War",
+   "file": "revolutionary-war.cbl",
+   "issues": 8,
+   "list_type": "Event",
+   "attribution_source": "LOCG",
+   "attribution_url": null
+  },
+  {
+   "id": 199,
+   "name": "Rick and Morty vs. the Universe",
+   "file": "rick-and-morty-vs-the-universe.cbl",
+   "issues": 7,
+   "list_type": "Event",
+   "attribution_source": "HTLC",
+   "attribution_url": null
+  },
+  {
+   "id": 79,
+   "name": "Rise of the Midnight Sons",
+   "file": "rise-of-the-midnight-sons.cbl",
+   "issues": 6,
+   "list_type": "Event",
+   "attribution_source": "LOCG",
+   "attribution_url": null
+  },
+  {
+   "id": 44,
+   "name": "Rise of the Third Army",
+   "file": "rise-of-the-third-army.cbl",
+   "issues": 18,
+   "list_type": "Event",
+   "attribution_source": "LOCG",
+   "attribution_url": null
+  },
+  {
+   "id": 343,
+   "name": "Robin Rises",
+   "file": "robin-rises.cbl",
+   "issues": 11,
+   "list_type": "Event",
+   "attribution_source": "CBRO",
+   "attribution_url": null
+  },
+  {
+   "id": 54,
+   "name": "Robin War",
+   "file": "robin-war.cbl",
+   "issues": 9,
+   "list_type": "Event",
+   "attribution_source": "LOCG",
+   "attribution_url": null
+  },
+  {
+   "id": 234,
+   "name": "Rotworld",
+   "file": "rotworld.cbl",
+   "issues": 18,
+   "list_type": "Event",
+   "attribution_source": "CBRO",
+   "attribution_url": null
+  },
+  {
+   "id": 123,
+   "name": "Secret Empire",
+   "file": "secret-empire.cbl",
+   "issues": 78,
+   "list_type": "Event",
+   "attribution_source": "LOCG",
+   "attribution_url": null
+  },
+  {
+   "id": 264,
+   "name": "Secret Invasion",
+   "file": "secret-invasion.cbl",
+   "issues": 115,
+   "list_type": "Event",
+   "attribution_source": "LOCG",
+   "attribution_url": null
+  },
+  {
+   "id": 467,
+   "name": "Secret wars",
+   "file": "secret-wars.cbl",
+   "issues": 253,
+   "list_type": "Event",
+   "attribution_source": "",
+   "attribution_url": null
+  },
+  {
+   "id": 266,
+   "name": "Secret Wars",
+   "file": "secret-wars.cbl",
+   "issues": null,
+   "list_type": "Event",
+   "attribution_source": "LOCG",
+   "attribution_url": null,
+   "resumed": true
+  },
+  {
+   "id": 244,
+   "name": "Secret Wars II",
+   "file": "secret-wars-ii.cbl",
+   "issues": 42,
+   "list_type": "Event",
+   "attribution_source": "CBRO",
+   "attribution_url": null
+  },
+  {
+   "id": 262,
+   "name": "Seven Soldiers",
+   "file": "seven-soldiers.cbl",
+   "issues": 30,
+   "list_type": "Event",
+   "attribution_source": "CBH",
+   "attribution_url": null
+  },
+  {
+   "id": 70,
+   "name": "Shadow War",
+   "file": "shadow-war.cbl",
+   "issues": 9,
+   "list_type": "Event",
+   "attribution_source": "LOCG",
+   "attribution_url": null
+  },
+  {
+   "id": 305,
+   "name": "Shadow War (Dakotaverse)",
+   "file": "shadow-war-dakotaverse.cbl",
+   "issues": 6,
+   "list_type": "Event",
+   "attribution_source": "LOCG",
+   "attribution_url": null
+  },
+  {
+   "id": 106,
+   "name": "Shadowland",
+   "file": "shadowland.cbl",
+   "issues": 31,
+   "list_type": "Event",
+   "attribution_source": "LOCG",
+   "attribution_url": null
+  },
+  {
+   "id": 2,
+   "name": "Shattered Heroes",
+   "file": "shattered-heroes.cbl",
+   "issues": 73,
+   "list_type": "Event",
+   "attribution_source": "CBRO",
+   "attribution_url": null
+  },
+  {
+   "id": 436,
+   "name": "She-Hulk: The Big Picture",
+   "file": "she-hulk-the-big-picture.cbl",
+   "issues": 2,
+   "list_type": "Story",
+   "attribution_source": "CMRO",
+   "attribution_url": null
+  },
+  {
+   "id": 344,
+   "name": "Siege",
+   "file": "siege.cbl",
+   "issues": 50,
+   "list_type": "Event",
+   "attribution_source": "LOCG",
+   "attribution_url": null
+  },
+  {
+   "id": 331,
+   "name": "Silver Age",
+   "file": "silver-age.cbl",
+   "issues": 12,
+   "list_type": "Event",
+   "attribution_source": "",
+   "attribution_url": null
+  },
+  {
+   "id": 142,
+   "name": "Sins of Sinister",
+   "file": "sins-of-sinister.cbl",
+   "issues": 13,
+   "list_type": "Event",
+   "attribution_source": "LOCG",
+   "attribution_url": null
+  },
+  {
+   "id": 306,
+   "name": "Sins of Youth",
+   "file": "sins-of-youth.cbl",
+   "issues": 12,
+   "list_type": "Event",
+   "attribution_source": "LOCG",
+   "attribution_url": null
+  },
+  {
+   "id": 362,
+   "name": "Something is Killing the Children (Slaughterverse Comics)",
+   "file": "something-is-killing-the-children-slaughterverse-comics.cbl",
+   "issues": 90,
+   "list_type": "Master",
+   "attribution_source": "CBH",
+   "attribution_url": null
+  },
+  {
+   "id": 269,
+   "name": "Spider-Geddon",
+   "file": "spider-geddon.cbl",
+   "issues": 27,
+   "list_type": "Event",
+   "attribution_source": "LOCG",
+   "attribution_url": null
+  },
+  {
+   "id": 271,
+   "name": "Spider-Hunt",
+   "file": "spider-hunt.cbl",
+   "issues": 4,
+   "list_type": "Event",
+   "attribution_source": "LOCG",
+   "attribution_url": null
+  },
+  {
+   "id": 202,
+   "name": "Spider-Island",
+   "file": "spider-island.cbl",
+   "issues": 35,
+   "list_type": "Event",
+   "attribution_source": "LOCG",
+   "attribution_url": null
+  },
+  {
+   "id": 9,
+   "name": "Spider-Man Kraven's Last Hunt",
+   "file": "spider-man-kraven-s-last-hunt.cbl",
+   "issues": 6,
+   "list_type": "Event",
+   "attribution_source": "LOCG",
+   "attribution_url": null
+  },
+  {
+   "id": 394,
+   "name": "Spider-Man: Aftershocks",
+   "file": "spider-man-aftershocks.cbl",
+   "issues": 2,
+   "list_type": "Story",
+   "attribution_source": "CMRO",
+   "attribution_url": null
+  },
+  {
+   "id": 414,
+   "name": "Spider-Man: Art Attack!",
+   "file": "spider-man-art-attack.cbl",
+   "issues": 4,
+   "list_type": "Story",
+   "attribution_source": "CMRO",
+   "attribution_url": null
+  },
+  {
+   "id": 424,
+   "name": "Spider-Man: Back From the Edge",
+   "file": "spider-man-back-from-the-edge.cbl",
+   "issues": 4,
+   "list_type": "Story",
+   "attribution_source": "CMRO",
+   "attribution_url": null
+  },
+  {
+   "id": 425,
+   "name": "Spider-Man: Back in Black",
+   "file": "spider-man-back-in-black.cbl",
+   "issues": 21,
+   "list_type": "Story",
+   "attribution_source": "CMRO",
+   "attribution_url": null
+  },
+  {
+   "id": 435,
+   "name": "Spider-Man: Beware the Rage of a Desperate Man!",
+   "file": "spider-man-beware-the-rage-of-a-desperate-man.cbl",
+   "issues": 4,
+   "list_type": "Story",
+   "attribution_source": "CMRO",
+   "attribution_url": null
+  },
+  {
+   "id": 270,
+   "name": "Spider-Man: Identity Crisis",
+   "file": "spider-man-identity-crisis.cbl",
+   "issues": 12,
+   "list_type": "Event",
+   "attribution_source": "LOCG",
+   "attribution_url": null
+  },
+  {
+   "id": 415,
+   "name": "Spider-Man: The Assassin-Nation Plot",
+   "file": "spider-man-the-assassin-nation-plot.cbl",
+   "issues": 6,
+   "list_type": "Story",
+   "attribution_source": "CMRO",
+   "attribution_url": null
+  },
+  {
+   "id": 93,
+   "name": "Spider-Man: The Other",
+   "file": "spider-man-the-other.cbl",
+   "issues": 12,
+   "list_type": "Event",
+   "attribution_source": "LOCG",
+   "attribution_url": null
+  },
+  {
+   "id": 113,
+   "name": "Spider-Verse",
+   "file": "spider-verse.cbl",
+   "issues": 33,
+   "list_type": "Event",
+   "attribution_source": "LOCG",
+   "attribution_url": null
+  },
+  {
+   "id": 121,
+   "name": "Spider-Women",
+   "file": "spider-women.cbl",
+   "issues": 8,
+   "list_type": "Event",
+   "attribution_source": "LOCG",
+   "attribution_url": null
+  },
+  {
+   "id": 357,
+   "name": "Star Trek: Day of Blood",
+   "file": "star-trek-day-of-blood.cbl",
+   "issues": 7,
+   "list_type": "Event",
+   "attribution_source": "LOCG",
+   "attribution_url": null
+  },
+  {
+   "id": 358,
+   "name": "Star Trek: Lore War",
+   "file": "star-trek-lore-war.cbl",
+   "issues": 7,
+   "list_type": "Event",
+   "attribution_source": "LOCG",
+   "attribution_url": null
+  },
+  {
+   "id": 267,
+   "name": "Star Wars: Crimson Reign",
+   "file": "star-wars-crimson-reign.cbl",
+   "issues": 31,
+   "list_type": "Event",
+   "attribution_source": "LOCG",
+   "attribution_url": null
+  },
+  {
+   "id": 146,
+   "name": "Star Wars: Dark Droids",
+   "file": "star-wars-dark-droids.cbl",
+   "issues": 29,
+   "list_type": "Event",
+   "attribution_source": "LOCG",
+   "attribution_url": null
+  },
+  {
+   "id": 124,
+   "name": "Star Wars: The Screaming Citadel",
+   "file": "star-wars-the-screaming-citadel.cbl",
+   "issues": 5,
+   "list_type": "Event",
+   "attribution_source": "LOCG",
+   "attribution_url": null
+  },
+  {
+   "id": 115,
+   "name": "Star Wars: Vader Down",
+   "file": "star-wars-vader-down.cbl",
+   "issues": 6,
+   "list_type": "Event",
+   "attribution_source": "LOCG",
+   "attribution_url": null
+  },
+  {
+   "id": 356,
+   "name": "Star Wars: Vector",
+   "file": "star-wars-vector.cbl",
+   "issues": 12,
+   "list_type": "Event",
+   "attribution_source": "LOCG",
+   "attribution_url": null
+  },
+  {
+   "id": 345,
+   "name": "Star Wars: War of the Bounty Hunters",
+   "file": "star-wars-war-of-the-bounty-hunters.cbl",
+   "issues": 34,
+   "list_type": "Event",
+   "attribution_source": "LOCG",
+   "attribution_url": null
+  },
+  {
+   "id": 272,
+   "name": "Starblast",
+   "file": "starblast.cbl",
+   "issues": 13,
+   "list_type": "Event",
+   "attribution_source": "LOCG",
+   "attribution_url": null
+  },
+  {
+   "id": 307,
+   "name": "Super Sons of Tomorrow",
+   "file": "super-sons-of-tomorrow.cbl",
+   "issues": 5,
+   "list_type": "Event",
+   "attribution_source": "LOCG",
+   "attribution_url": null
+  },
+  {
+   "id": 52,
+   "name": "Superman: Doomed",
+   "file": "superman-doomed.cbl",
+   "issues": 21,
+   "list_type": "Event",
+   "attribution_source": "LOCG",
+   "attribution_url": null
+  },
+  {
+   "id": 220,
+   "name": "Superman: Emperor Joker",
+   "file": "superman-emperor-joker.cbl",
+   "issues": 9,
+   "list_type": "Event",
+   "attribution_source": "CBRO",
+   "attribution_url": null
+  },
+  {
+   "id": 308,
+   "name": "Superman: Emperor Joker",
+   "file": "superman-emperor-joker.cbl",
+   "issues": null,
+   "list_type": "Event",
+   "attribution_source": "LOCG",
+   "attribution_url": null,
+   "resumed": true
+  },
+  {
+   "id": 309,
+   "name": "Superman: Ending Battle",
+   "file": "superman-ending-battle.cbl",
+   "issues": 8,
+   "list_type": "Event",
+   "attribution_source": "LOCG",
+   "attribution_url": null
+  },
+  {
+   "id": 218,
+   "name": "Superman: New Krypton",
+   "file": "superman-new-krypton.cbl",
+   "issues": 81,
+   "list_type": "Event",
+   "attribution_source": "CBRO",
+   "attribution_url": null
+  },
+  {
+   "id": 61,
+   "name": "Superman: Reborn",
+   "file": "superman-reborn.cbl",
+   "issues": 13,
+   "list_type": "Event",
+   "attribution_source": "LOCG",
+   "attribution_url": null
+  },
+  {
+   "id": 55,
+   "name": "Superman: Savage Dawn",
+   "file": "superman-savage-dawn.cbl",
+   "issues": 10,
+   "list_type": "Event",
+   "attribution_source": "LOCG",
+   "attribution_url": null
+  },
+  {
+   "id": 381,
+   "name": "Superman: The Truth",
+   "file": "superman-the-truth.cbl",
+   "issues": 8,
+   "list_type": "Event",
+   "attribution_source": "HTLC",
+   "attribution_url": null
+  },
+  {
+   "id": 217,
+   "name": "Superman: Up, Up, and Away",
+   "file": "superman-up-up-and-away.cbl",
+   "issues": 8,
+   "list_type": "Event",
+   "attribution_source": "CBRO",
+   "attribution_url": null
+  },
+  {
+   "id": 383,
+   "name": "Swamp Thing by Alan Moore",
+   "file": "swamp-thing-by-alan-moore.cbl",
+   "issues": 46,
+   "list_type": "Creator",
+   "attribution_source": "",
+   "attribution_url": null
+  },
+  {
+   "id": 359,
+   "name": "Swords of Sorrow",
+   "file": "swords-of-sorrow.cbl",
+   "issues": 21,
+   "list_type": "Event",
+   "attribution_source": "LOCG",
+   "attribution_url": null
+  },
+  {
+   "id": 346,
+   "name": "Thanos War",
+   "file": "thanos-war.cbl",
+   "issues": 12,
+   "list_type": "Event",
+   "attribution_source": "LOCG",
+   "attribution_url": null
+  },
+  {
+   "id": 273,
+   "name": "The Best Defense",
+   "file": "the-best-defense.cbl",
+   "issues": 5,
+   "list_type": "Event",
+   "attribution_source": "LOCG",
+   "attribution_url": null
+  },
+  {
+   "id": 236,
+   "name": "The Black Diamond Probability",
+   "file": "the-black-diamond-probability.cbl",
+   "issues": 16,
+   "list_type": "Event",
+   "attribution_source": "CBRO",
+   "attribution_url": null
+  },
+  {
+   "id": 283,
+   "name": "The Button",
+   "file": "the-button.cbl",
+   "issues": 4,
+   "list_type": "Story",
+   "attribution_source": "",
+   "attribution_url": null
+  },
+  {
+   "id": 310,
+   "name": "The Children's Crusade",
+   "file": "the-children-s-crusade.cbl",
+   "issues": 7,
+   "list_type": "Event",
+   "attribution_source": "LOCG",
+   "attribution_url": null
+  },
+  {
+   "id": 47,
+   "name": "The Culling",
+   "file": "the-culling.cbl",
+   "issues": 7,
+   "list_type": "Event",
+   "attribution_source": "LOCG",
+   "attribution_url": null
+  },
+  {
+   "id": 371,
+   "name": "The Cursed Library",
+   "file": "the-cursed-library.cbl",
+   "issues": 4,
+   "list_type": "Story",
+   "attribution_source": "HTLC",
+   "attribution_url": null
+  },
+  {
+   "id": 136,
+   "name": "The Darkhold Saga",
+   "file": "the-darkhold-saga.cbl",
+   "issues": 7,
+   "list_type": "Event",
+   "attribution_source": "LOCG",
+   "attribution_url": null
+  },
+  {
+   "id": 311,
+   "name": "The Death of Superman",
+   "file": "the-death-of-superman.cbl",
+   "issues": 11,
+   "list_type": "Event",
+   "attribution_source": "LOCG",
+   "attribution_url": null
+  },
+  {
+   "id": 88,
+   "name": "The Eighth Day",
+   "file": "the-eighth-day.cbl",
+   "issues": 5,
+   "list_type": "Event",
+   "attribution_source": "LOCG",
+   "attribution_url": null
+  },
+  {
+   "id": 110,
+   "name": "The Enemy Within",
+   "file": "the-enemy-within.cbl",
+   "issues": 7,
+   "list_type": "Event",
+   "attribution_source": "LOCG",
+   "attribution_url": null
+  },
+  {
+   "id": 274,
+   "name": "The Fall of the Hammer",
+   "file": "the-fall-of-the-hammer.cbl",
+   "issues": 7,
+   "list_type": "Event",
+   "attribution_source": "LOCG",
+   "attribution_url": null
+  },
+  {
+   "id": 58,
+   "name": "The Final Days of Superman",
+   "file": "the-final-days-of-superman.cbl",
+   "issues": 8,
+   "list_type": "Event",
+   "attribution_source": "LOCG",
+   "attribution_url": null
+  },
+  {
+   "id": 312,
+   "name": "The Final Night",
+   "file": "the-final-night.cbl",
+   "issues": 26,
+   "list_type": "Event",
+   "attribution_source": "LOCG",
+   "attribution_url": null
+  },
+  {
+   "id": 275,
+   "name": "The Gathering of Five",
+   "file": "the-gathering-of-five.cbl",
+   "issues": 9,
+   "list_type": "Event",
+   "attribution_source": "LOCG",
+   "attribution_url": null
+  },
+  {
+   "id": 179,
+   "name": "The Gotham War",
+   "file": "the-gotham-war.cbl",
+   "issues": 9,
+   "list_type": "Event",
+   "attribution_source": "LOCG",
+   "attribution_url": null
+  },
+  {
+   "id": 268,
+   "name": "The Great Fables Crossover",
+   "file": "the-great-fables-crossover.cbl",
+   "issues": 9,
+   "list_type": "Event",
+   "attribution_source": "LOCG",
+   "attribution_url": null
+  },
+  {
+   "id": 239,
+   "name": "The Infected",
+   "file": "the-infected.cbl",
+   "issues": 23,
+   "list_type": "Event",
+   "attribution_source": "CBRO",
+   "attribution_url": null
+  },
+  {
+   "id": 152,
+   "name": "The Infinity Watch",
+   "file": "the-infinity-watch.cbl",
+   "issues": 9,
+   "list_type": "Event",
+   "attribution_source": "LOCG",
+   "attribution_url": null
+  },
+  {
+   "id": 14,
+   "name": "The Janus Directive",
+   "file": "the-janus-directive.cbl",
+   "issues": 11,
+   "list_type": "Event",
+   "attribution_source": "LOCG",
+   "attribution_url": null
+  },
+  {
+   "id": 230,
+   "name": "The Justice Society Returns!",
+   "file": "the-justice-society-returns.cbl",
+   "issues": 9,
+   "list_type": "Event",
+   "attribution_source": "CBRO",
+   "attribution_url": null
+  },
+  {
+   "id": 140,
+   "name": "The Last Annihilation",
+   "file": "the-last-annihilation.cbl",
+   "issues": 7,
+   "list_type": "Event",
+   "attribution_source": "LOCG",
+   "attribution_url": null
+  },
+  {
+   "id": 62,
+   "name": "The Lazarus Contract",
+   "file": "the-lazarus-contract.cbl",
+   "issues": 5,
+   "list_type": "Event",
+   "attribution_source": "LOCG",
+   "attribution_url": null
+  },
+  {
+   "id": 313,
+   "name": "The OMAC Project",
+   "file": "the-omac-project.cbl",
+   "issues": 24,
+   "list_type": "Event",
+   "attribution_source": "LOCG",
+   "attribution_url": null
+  },
+  {
+   "id": 108,
+   "name": "The Omega Effect",
+   "file": "the-omega-effect.cbl",
+   "issues": 3,
+   "list_type": "Event",
+   "attribution_source": "LOCG",
+   "attribution_url": null
+  },
+  {
+   "id": 276,
+   "name": "The Punisher: Countdown",
+   "file": "the-punisher-countdown.cbl",
+   "issues": 5,
+   "list_type": "Event",
+   "attribution_source": "LOCG",
+   "attribution_url": null
+  },
+  {
+   "id": 37,
+   "name": "The Resurrection of Ra's al Ghul",
+   "file": "the-resurrection-of-ra-s-al-ghul.cbl",
+   "issues": 11,
+   "list_type": "Event",
+   "attribution_source": "LOCG",
+   "attribution_url": null
+  },
+  {
+   "id": 314,
+   "name": "The Siege of the Zi Charam",
+   "file": "the-siege-of-the-zi-charam.cbl",
+   "issues": 5,
+   "list_type": "Event",
+   "attribution_source": "LOCG",
+   "attribution_url": null
+  },
+  {
+   "id": 39,
+   "name": "The Sinestro Corps War",
+   "file": "the-sinestro-corps-war.cbl",
+   "issues": 18,
+   "list_type": "Event",
+   "attribution_source": "LOCG",
+   "attribution_url": null
+  },
+  {
+   "id": 105,
+   "name": "The Thanos Imperative",
+   "file": "the-thanos-imperative.cbl",
+   "issues": 10,
+   "list_type": "Event",
+   "attribution_source": "LOCG",
+   "attribution_url": null
+  },
+  {
+   "id": 315,
+   "name": "The Trial of Superman!",
+   "file": "the-trial-of-superman.cbl",
+   "issues": 16,
+   "list_type": "Event",
+   "attribution_source": "LOCG",
+   "attribution_url": null
+  },
+  {
+   "id": 168,
+   "name": "The Witching Hour",
+   "file": "the-witching-hour.cbl",
+   "issues": 5,
+   "list_type": "Event",
+   "attribution_source": "LOCG",
+   "attribution_url": null
+  },
+  {
+   "id": 460,
+   "name": "Thor by Dan Jurgens",
+   "file": "thor-by-dan-jurgens.cbl",
+   "issues": 82,
+   "list_type": "Creator",
+   "attribution_source": "OTHER",
+   "attribution_url": null
+  },
+  {
+   "id": 382,
+   "name": "Thor by Jason Aaron",
+   "file": "thor-by-jason-aaron.cbl",
+   "issues": 115,
+   "list_type": "Creator",
+   "attribution_source": "HTLC",
+   "attribution_url": null
+  },
+  {
+   "id": 458,
+   "name": "Thor by Walt Simonson",
+   "file": "thor-by-walt-simonson.cbl",
+   "issues": 48,
+   "list_type": "Creator",
+   "attribution_source": "OTHER",
+   "attribution_url": null
+  },
+  {
+   "id": 453,
+   "name": "Thor: Black Galaxy Saga",
+   "file": "thor-black-galaxy-saga.cbl",
+   "issues": 6,
+   "list_type": "Story",
+   "attribution_source": "CMRO",
+   "attribution_url": null
+  },
+  {
+   "id": 237,
+   "name": "Throne of Atlantis",
+   "file": "throne-of-atlantis.cbl",
+   "issues": 7,
+   "list_type": "Event",
+   "attribution_source": "CBRO",
+   "attribution_url": null
+  },
+  {
+   "id": 429,
+   "name": "Thunderbolts: Becoming Heroes",
+   "file": "thunderbolts-becoming-heroes.cbl",
+   "issues": 5,
+   "list_type": "Story",
+   "attribution_source": "CMRO",
+   "attribution_url": null
+  },
+  {
+   "id": 430,
+   "name": "Thunderbolts: Becoming Villains",
+   "file": "thunderbolts-becoming-villains.cbl",
+   "issues": 5,
+   "list_type": "Story",
+   "attribution_source": "CMRO",
+   "attribution_url": null
+  },
+  {
+   "id": 285,
+   "name": "ThunderCats X SilverHawks",
+   "file": "thundercats-x-silverhawks.cbl",
+   "issues": 16,
+   "list_type": "Event",
+   "attribution_source": "LOCG",
+   "attribution_url": null
+  },
+  {
+   "id": 72,
+   "name": "Titans: Beast World",
+   "file": "titans-beast-world.cbl",
+   "issues": 22,
+   "list_type": "Event",
+   "attribution_source": "LOCG",
+   "attribution_url": null
+  },
+  {
+   "id": 316,
+   "name": "Total Chaos",
+   "file": "total-chaos.cbl",
+   "issues": 9,
+   "list_type": "Event",
+   "attribution_source": "LOCG",
+   "attribution_url": null
+  },
+  {
+   "id": 219,
+   "name": "Trial of Superman",
+   "file": "trial-of-superman.cbl",
+   "issues": 13,
+   "list_type": "Event",
+   "attribution_source": "CBRO",
+   "attribution_url": null
+  },
+  {
+   "id": 67,
+   "name": "Trial of the Amazons",
+   "file": "trial-of-the-amazons.cbl",
+   "issues": 21,
+   "list_type": "Event",
+   "attribution_source": "LOCG",
+   "attribution_url": null
+  },
+  {
+   "id": 186,
+   "name": "Trinity",
+   "file": "trinity.cbl",
+   "issues": 8,
+   "list_type": "Event",
+   "attribution_source": "LOCG",
+   "attribution_url": null
+  },
+  {
+   "id": 163,
+   "name": "Trinity War",
+   "file": "trinity-war.cbl",
+   "issues": 11,
+   "list_type": "Event",
+   "attribution_source": "LOCG",
+   "attribution_url": null
+  },
+  {
+   "id": 317,
+   "name": "Troika",
+   "file": "troika.cbl",
+   "issues": 6,
+   "list_type": "Event",
+   "attribution_source": "LOCG",
+   "attribution_url": null
+  },
+  {
+   "id": 347,
+   "name": "Ultimate Endgame",
+   "file": "ultimate-endgame.cbl",
+   "issues": 17,
+   "list_type": "Event",
+   "attribution_source": "LOCG",
+   "attribution_url": null
+  },
+  {
+   "id": 468,
+   "name": "Ultimate Spider-man",
+   "file": "ultimate-spider-man.cbl",
+   "issues": 172,
+   "list_type": "Story",
+   "attribution_source": "",
+   "attribution_url": null
+  },
+  {
+   "id": 454,
+   "name": "Ultimate Universe",
+   "file": "ultimate-universe.cbl",
+   "issues": 4,
+   "list_type": "Event",
+   "attribution_source": "",
+   "attribution_url": null
+  },
+  {
+   "id": 277,
+   "name": "Ultimatum",
+   "file": "ultimatum.cbl",
+   "issues": 26,
+   "list_type": "Event",
+   "attribution_source": "LOCG",
+   "attribution_url": null
+  },
+  {
+   "id": 348,
+   "name": "Utopia",
+   "file": "utopia.cbl",
+   "issues": 12,
+   "list_type": "Event",
+   "attribution_source": "LOCG",
+   "attribution_url": null
+  },
+  {
+   "id": 122,
+   "name": "Venom Inc.",
+   "file": "venom-inc.cbl",
+   "issues": 6,
+   "list_type": "Event",
+   "attribution_source": "LOCG",
+   "attribution_url": null
+  },
+  {
+   "id": 153,
+   "name": "Venom War",
+   "file": "venom-war.cbl",
+   "issues": 37,
+   "list_type": "Event",
+   "attribution_source": "LOCG",
+   "attribution_url": null
+  },
+  {
+   "id": 71,
+   "name": "War for Earth-3",
+   "file": "war-for-earth-3.cbl",
+   "issues": 5,
+   "list_type": "Event",
+   "attribution_source": "LOCG",
+   "attribution_url": null
+  },
+  {
+   "id": 95,
+   "name": "War of Kings",
+   "file": "war-of-kings.cbl",
+   "issues": 43,
+   "list_type": "Event",
+   "attribution_source": "LOCG",
+   "attribution_url": null
+  },
+  {
+   "id": 15,
+   "name": "War of the Gods",
+   "file": "war-of-the-gods.cbl",
+   "issues": 34,
+   "list_type": "Event",
+   "attribution_source": "LOCG",
+   "attribution_url": null
+  },
+  {
+   "id": 41,
+   "name": "War of the Green Lanterns",
+   "file": "war-of-the-green-lanterns.cbl",
+   "issues": 14,
+   "list_type": "Event",
+   "attribution_source": "LOCG",
+   "attribution_url": null
+  },
+  {
+   "id": 131,
+   "name": "War of the Realms",
+   "file": "war-of-the-realms.cbl",
+   "issues": 63,
+   "list_type": "Event",
+   "attribution_source": "LOCG",
+   "attribution_url": null
+  },
+  {
+   "id": 455,
+   "name": "Watchmen",
+   "file": "watchmen.cbl",
+   "issues": 49,
+   "list_type": "Master",
+   "attribution_source": "OTHER",
+   "attribution_url": null
+  },
+  {
+   "id": 319,
+   "name": "Way of the Warrior",
+   "file": "way-of-the-warrior.cbl",
+   "issues": 8,
+   "list_type": "Event",
+   "attribution_source": "LOCG",
+   "attribution_url": null
+  },
+  {
+   "id": 76,
+   "name": "We Are Yesterday",
+   "file": "we-are-yesterday.cbl",
+   "issues": 8,
+   "list_type": "Event",
+   "attribution_source": "LOCG",
+   "attribution_url": null
+  },
+  {
+   "id": 360,
+   "name": "When Worlds Collide",
+   "file": "when-worlds-collide.cbl",
+   "issues": 12,
+   "list_type": "Event",
+   "attribution_source": "LOCG",
+   "attribution_url": null
+  },
+  {
+   "id": 302,
+   "name": "Who Are the Unbelievables?",
+   "file": "who-are-the-unbelievables.cbl",
+   "issues": 7,
+   "list_type": "Event",
+   "attribution_source": "LOCG",
+   "attribution_url": null
+  },
+  {
+   "id": 17,
+   "name": "WildStorm Rising",
+   "file": "wildstorm-rising.cbl",
+   "issues": 11,
+   "list_type": "Event",
+   "attribution_source": "LOCG",
+   "attribution_url": null
+  },
+  {
+   "id": 480,
+   "name": "Wolverine: Black Shadow! White Shadow!",
+   "file": "wolverine-black-shadow-white-shadow.cbl",
+   "issues": 10,
+   "list_type": "Story",
+   "attribution_source": "CMRO",
+   "attribution_url": null
+  },
+  {
+   "id": 481,
+   "name": "Wolverine: Blood and Claws",
+   "file": "wolverine-blood-and-claws.cbl",
+   "issues": 3,
+   "list_type": "Story",
+   "attribution_source": "CMRO",
+   "attribution_url": null
+  },
+  {
+   "id": 433,
+   "name": "Wolverine: The Best There is",
+   "file": "wolverine-the-best-there-is.cbl",
+   "issues": 3,
+   "list_type": "Story",
+   "attribution_source": "CMRO",
+   "attribution_url": null
+  },
+  {
+   "id": 349,
+   "name": "World War 3",
+   "file": "world-war-3.cbl",
+   "issues": 4,
+   "list_type": "Event",
+   "attribution_source": "LOCG",
+   "attribution_url": null
+  },
+  {
+   "id": 97,
+   "name": "World War Hulk",
+   "file": "world-war-hulk.cbl",
+   "issues": 43,
+   "list_type": "Event",
+   "attribution_source": "LOCG",
+   "attribution_url": null
+  },
+  {
+   "id": 33,
+   "name": "World Without Young Justice",
+   "file": "world-without-young-justice.cbl",
+   "issues": 7,
+   "list_type": "Event",
+   "attribution_source": "LOCG",
+   "attribution_url": null
+  },
+  {
+   "id": 318,
+   "name": "Worlds Collide",
+   "file": "worlds-collide.cbl",
+   "issues": 14,
+   "list_type": "Event",
+   "attribution_source": "LOCG",
+   "attribution_url": null
+  },
+  {
+   "id": 245,
+   "name": "Wraith War",
+   "file": "wraith-war.cbl",
+   "issues": 35,
+   "list_type": "Event",
+   "attribution_source": "CBRO",
+   "attribution_url": null
+  },
+  {
+   "id": 49,
+   "name": "Wrath of the First Lantern",
+   "file": "wrath-of-the-first-lantern.cbl",
+   "issues": 16,
+   "list_type": "Event",
+   "attribution_source": "LOCG",
+   "attribution_url": null
+  },
+  {
+   "id": 132,
+   "name": "X of Swords",
+   "file": "x-of-swords.cbl",
+   "issues": 35,
+   "list_type": "Event",
+   "attribution_source": "LOCG",
+   "attribution_url": null
+  },
+  {
+   "id": 155,
+   "name": "X-Manhunt",
+   "file": "x-manhunt.cbl",
+   "issues": 8,
+   "list_type": "Event",
+   "attribution_source": "LOCG",
+   "attribution_url": null
+  },
+  {
+   "id": 373,
+   "name": "X-Men of Apocalypse",
+   "file": "x-men-of-apocalypse.cbl",
+   "issues": 7,
+   "list_type": "Story",
+   "attribution_source": "HTLC",
+   "attribution_url": null
+  },
+  {
+   "id": 350,
+   "name": "X-Men: Apocalypse Wars",
+   "file": "x-men-apocalypse-wars.cbl",
+   "issues": 13,
+   "list_type": "Event",
+   "attribution_source": "LOCG",
+   "attribution_url": null
+  },
+  {
+   "id": 451,
+   "name": "X-Men: Bizarre Love Triangle",
+   "file": "x-men-bizarre-love-triangle.cbl",
+   "issues": 4,
+   "list_type": "Story",
+   "attribution_source": "CMRO",
+   "attribution_url": null
+  },
+  {
+   "id": 247,
+   "name": "X-Men: Dark Phoenix Saga",
+   "file": "x-men-dark-phoenix-saga.cbl",
+   "issues": 9,
+   "list_type": "Story",
+   "attribution_source": "",
+   "attribution_url": null
+  },
+  {
+   "id": 248,
+   "name": "X-Men: Days of Future Past",
+   "file": "x-men-days-of-future-past.cbl",
+   "issues": 2,
+   "list_type": "Story",
+   "attribution_source": "",
+   "attribution_url": null
+  },
+  {
+   "id": 102,
+   "name": "X-Men: Divided We Stand",
+   "file": "x-men-divided-we-stand.cbl",
+   "issues": 40,
+   "list_type": "Event",
+   "attribution_source": "LOCG",
+   "attribution_url": null
+  },
+  {
+   "id": 100,
+   "name": "X-Men: Endangered Species",
+   "file": "x-men-endangered-species.cbl",
+   "issues": 17,
+   "list_type": "Event",
+   "attribution_source": "LOCG",
+   "attribution_url": null
+  },
+  {
+   "id": 101,
+   "name": "X-Men: Manifest Destiny",
+   "file": "x-men-manifest-destiny.cbl",
+   "issues": 35,
+   "list_type": "Event",
+   "attribution_source": "LOCG",
+   "attribution_url": null
+  },
+  {
+   "id": 98,
+   "name": "X-Men: Messiah Complex",
+   "file": "x-men-messiah-complex.cbl",
+   "issues": 13,
+   "list_type": "Event",
+   "attribution_source": "LOCG",
+   "attribution_url": null
+  },
+  {
+   "id": 351,
+   "name": "X-Men: Original Sin",
+   "file": "x-men-original-sin.cbl",
+   "issues": 6,
+   "list_type": "Event",
+   "attribution_source": "LOCG",
+   "attribution_url": null
+  },
+  {
+   "id": 242,
+   "name": "X-Men: Phoenix Saga",
+   "file": "x-men-phoenix-saga.cbl",
+   "issues": 8,
+   "list_type": "Event",
+   "attribution_source": "",
+   "attribution_url": null
+  },
+  {
+   "id": 352,
+   "name": "X-Men: Second Coming",
+   "file": "x-men-second-coming.cbl",
+   "issues": 22,
+   "list_type": "Event",
+   "attribution_source": "LOCG",
+   "attribution_url": null
+  },
+  {
+   "id": 353,
+   "name": "X-Necrosha",
+   "file": "x-necrosha.cbl",
+   "issues": 15,
+   "list_type": "Event",
+   "attribution_source": "LOCG",
+   "attribution_url": null
+  },
+  {
+   "id": 423,
+   "name": "X-Statix: Back from the Dead",
+   "file": "x-statix-back-from-the-dead.cbl",
+   "issues": 6,
+   "list_type": "Story",
+   "attribution_source": "CMRO",
+   "attribution_url": null
+  },
+  {
+   "id": 170,
+   "name": "Zatanna\u2019s Search",
+   "file": "zatanna-s-search.cbl",
+   "issues": 6,
+   "list_type": "Event",
+   "attribution_source": "CBRO",
+   "attribution_url": null
+  },
+  {
+   "id": 16,
+   "name": "Zero Hour",
+   "file": "zero-hour.cbl",
+   "issues": 42,
+   "list_type": "Event",
+   "attribution_source": "LOCG",
+   "attribution_url": null
+  }
+ ]
+}
