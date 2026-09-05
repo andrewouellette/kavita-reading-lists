@@ -1,7 +1,8 @@
 {
  "source": "https://metron.cloud",
  "generated": "2026-09-05T20:54:27Z",
- "count": 429,
+ "note": "Story arcs and events only. Chronologies, creator runs and character orders are in non-arcs/.",
+ "count": 392,
  "lists": [
   {
    "id": 143,
@@ -174,16 +175,6 @@
    "resumed": true
   },
   {
-   "id": 459,
-   "name": "Amazing Spider-Man by Michelinie and McFarlane",
-   "file": "amazing-spider-man-by-michelinie-and-mcfarlane.cbl",
-   "issues": null,
-   "list_type": "Creator",
-   "attribution_source": "OTHER",
-   "attribution_url": null,
-   "resumed": true
-  },
-  {
    "id": 377,
    "name": "Amazing Spider-Man: Last Remains",
    "file": "amazing-spider-man-last-remains.cbl",
@@ -210,16 +201,6 @@
    "issues": null,
    "list_type": "Event",
    "attribution_source": "LOCG",
-   "attribution_url": null,
-   "resumed": true
-  },
-  {
-   "id": 379,
-   "name": "American Vampire",
-   "file": "american-vampire.cbl",
-   "issues": null,
-   "list_type": "Master",
-   "attribution_source": "HTLC",
    "attribution_url": null,
    "resumed": true
   },
@@ -944,16 +925,6 @@
    "resumed": true
   },
   {
-   "id": 361,
-   "name": "Criminal (Story Chronology)",
-   "file": "criminal-story-chronology.cbl",
-   "issues": null,
-   "list_type": "Master",
-   "attribution_source": "CBH",
-   "attribution_url": null,
-   "resumed": true
-  },
-  {
    "id": 1,
    "name": "Crisis on Infinite Earths",
    "file": "crisis-on-infinite-earths.cbl",
@@ -980,16 +951,6 @@
    "issues": null,
    "list_type": "Event",
    "attribution_source": "LOCG",
-   "attribution_url": null,
-   "resumed": true
-  },
-  {
-   "id": 457,
-   "name": "Daredevil by Frank Miller",
-   "file": "daredevil-by-frank-miller.cbl",
-   "issues": null,
-   "list_type": "Creator",
-   "attribution_source": "OTHER",
    "attribution_url": null,
    "resumed": true
   },
@@ -1064,94 +1025,12 @@
    "resumed": true
   },
   {
-   "id": 253,
-   "name": "DC Master Reading Order: DC Rebirth, Part 1",
-   "file": "dc-master-reading-order-dc-rebirth-part-1.cbl",
-   "issues": null,
-   "list_type": "Master",
-   "attribution_source": "CBRO",
-   "attribution_url": null,
-   "resumed": true
-  },
-  {
-   "id": 255,
-   "name": "DC Master Reading Order: DC Rebirth, Part 2",
-   "file": "dc-master-reading-order-dc-rebirth-part-2.cbl",
-   "issues": 861,
-   "list_type": "Master",
-   "attribution_source": "CBRO",
-   "attribution_url": null
-  },
-  {
-   "id": 257,
-   "name": "DC Master Reading Order: DC Rebirth, Part 3",
-   "file": "dc-master-reading-order-dc-rebirth-part-3.cbl",
-   "issues": 967,
-   "list_type": "Master",
-   "attribution_source": "CBRO",
-   "attribution_url": null
-  },
-  {
-   "id": 252,
-   "name": "DC Master Reading Order: DC You",
-   "file": "dc-master-reading-order-dc-you.cbl",
-   "issues": 619,
-   "list_type": "Master",
-   "attribution_source": "CBRO",
-   "attribution_url": null
-  },
-  {
-   "id": 251,
-   "name": "DC Master Reading Order: Infinite Frontier",
-   "file": "dc-master-reading-order-infinite-frontier.cbl",
-   "issues": 822,
-   "list_type": "Master",
-   "attribution_source": "CBRO",
-   "attribution_url": null
-  },
-  {
-   "id": 259,
-   "name": "DC Master Reading Order: New 52, Part 1",
-   "file": "dc-master-reading-order-new-52-part-1.cbl",
-   "issues": 688,
-   "list_type": "Master",
-   "attribution_source": "CBRO",
-   "attribution_url": null
-  },
-  {
-   "id": 260,
-   "name": "DC Master Reading Order: New 52, Part 2",
-   "file": "dc-master-reading-order-new-52-part-2.cbl",
-   "issues": 728,
-   "list_type": "Master",
-   "attribution_source": "CBRO",
-   "attribution_url": null
-  },
-  {
-   "id": 261,
-   "name": "DC Master Reading Order: New 52, Part 3",
-   "file": "dc-master-reading-order-new-52-part-3.cbl",
-   "issues": 1098,
-   "list_type": "Master",
-   "attribution_source": "CBRO",
-   "attribution_url": null
-  },
-  {
    "id": 185,
    "name": "DC One Million",
    "file": "dc-one-million.cbl",
    "issues": 39,
    "list_type": "Event",
    "attribution_source": "LOCG",
-   "attribution_url": null
-  },
-  {
-   "id": 375,
-   "name": "DC vs. Vampires",
-   "file": "dc-vs-vampires.cbl",
-   "issues": 33,
-   "list_type": "Master",
-   "attribution_source": "HTLC",
    "attribution_url": null
   },
   {
@@ -1291,30 +1170,12 @@
    "attribution_url": null
   },
   {
-   "id": 399,
-   "name": "Doctor Strange by Jason Aaron & Chris Bachalo",
-   "file": "doctor-strange-by-jason-aaron-chris-bachalo.cbl",
-   "issues": 22,
-   "list_type": "Creator",
-   "attribution_source": "OTHER",
-   "attribution_url": null
-  },
-  {
    "id": 126,
    "name": "Doctor Strange: Damnation",
    "file": "doctor-strange-damnation.cbl",
    "issues": 15,
    "list_type": "Event",
    "attribution_source": "LOCG",
-   "attribution_url": null
-  },
-  {
-   "id": 461,
-   "name": "Dr Doom",
-   "file": "dr-doom.cbl",
-   "issues": 72,
-   "list_type": "Characters",
-   "attribution_source": "",
    "attribution_url": null
   },
   {
@@ -1360,33 +1221,6 @@
    "issues": 9,
    "list_type": "Event",
    "attribution_source": "LOCG",
-   "attribution_url": null
-  },
-  {
-   "id": 483,
-   "name": "Energon Universe: Year One",
-   "file": "energon-universe-year-one.cbl",
-   "issues": 25,
-   "list_type": "Master",
-   "attribution_source": "CBT",
-   "attribution_url": null
-  },
-  {
-   "id": 485,
-   "name": "Energon Universe: Year Three",
-   "file": "energon-universe-year-three.cbl",
-   "issues": 29,
-   "list_type": "Master",
-   "attribution_source": "CBT",
-   "attribution_url": null
-  },
-  {
-   "id": 484,
-   "name": "Energon Universe: Year Two",
-   "file": "energon-universe-year-two.cbl",
-   "issues": 40,
-   "list_type": "Master",
-   "attribution_source": "CBT",
    "attribution_url": null
   },
   {
@@ -1441,15 +1275,6 @@
    "issues": 15,
    "list_type": "Event",
    "attribution_source": "CBRO",
-   "attribution_url": null
-  },
-  {
-   "id": 456,
-   "name": "Fantastic Four by John Byrne",
-   "file": "fantastic-four-by-john-byrne.cbl",
-   "issues": 67,
-   "list_type": "Creator",
-   "attribution_source": "OTHER",
    "attribution_url": null
   },
   {
@@ -1513,15 +1338,6 @@
    "issues": 7,
    "list_type": "Story",
    "attribution_source": "HTLC",
-   "attribution_url": null
-  },
-  {
-   "id": 386,
-   "name": "Flash by Geoff Johns",
-   "file": "flash-by-geoff-johns.cbl",
-   "issues": 97,
-   "list_type": "Creator",
-   "attribution_source": "OTHER",
    "attribution_url": null
   },
   {
@@ -1639,15 +1455,6 @@
    "issues": 11,
    "list_type": "Event",
    "attribution_source": "LOCG",
-   "attribution_url": null
-  },
-  {
-   "id": 385,
-   "name": "Green Lantern by Geoff Johns",
-   "file": "green-lantern-by-geoff-johns.cbl",
-   "issues": 234,
-   "list_type": "Creator",
-   "attribution_source": "OTHER",
    "attribution_url": null
   },
   {
@@ -1930,15 +1737,6 @@
    "attribution_url": null
   },
   {
-   "id": 167,
-   "name": "Jack Kirby's Fourth World",
-   "file": "jack-kirby-s-fourth-world.cbl",
-   "issues": 56,
-   "list_type": "Master",
-   "attribution_source": "CBRO",
-   "attribution_url": null
-  },
-  {
    "id": 195,
    "name": "JLApe: Gorilla Warfare!",
    "file": "jlape-gorilla-warfare.cbl",
@@ -1963,15 +1761,6 @@
    "issues": 32,
    "list_type": "Event",
    "attribution_source": "LOCG",
-   "attribution_url": null
-  },
-  {
-   "id": 384,
-   "name": "JSA by Geoff Johns",
-   "file": "jsa-by-geoff-johns.cbl",
-   "issues": 149,
-   "list_type": "Creator",
-   "attribution_source": "OTHER",
    "attribution_url": null
   },
   {
@@ -2110,15 +1899,6 @@
    "attribution_url": null
   },
   {
-   "id": 472,
-   "name": "L.E.G.I.O.N. and R.E.B.E.L.S.",
-   "file": "l-e-g-i-o-n-and-r-e-b-e-l-s.cbl",
-   "issues": 155,
-   "list_type": "Master",
-   "attribution_source": "",
-   "attribution_url": null
-  },
-  {
    "id": 201,
    "name": "Last Rites",
    "file": "last-rites.cbl",
@@ -2152,69 +1932,6 @@
    "issues": 28,
    "list_type": "Event",
    "attribution_source": "LOCG",
-   "attribution_url": null
-  },
-  {
-   "id": 473,
-   "name": "Legion of Super-Heroes (Bendisboot)",
-   "file": "legion-of-super-heroes-bendisboot.cbl",
-   "issues": 25,
-   "list_type": "Master",
-   "attribution_source": "",
-   "attribution_url": null
-  },
-  {
-   "id": 471,
-   "name": "Legion of Super-Heroes (Five Years Later)",
-   "file": "legion-of-super-heroes-five-years-later.cbl",
-   "issues": 103,
-   "list_type": "Master",
-   "attribution_source": "",
-   "attribution_url": null
-  },
-  {
-   "id": 478,
-   "name": "Legion of Super-Heroes (Legacyboot)",
-   "file": "legion-of-super-heroes-legacyboot.cbl",
-   "issues": 2,
-   "list_type": "Master",
-   "attribution_source": "",
-   "attribution_url": null
-  },
-  {
-   "id": 470,
-   "name": "Legion of Super-Heroes (Original)",
-   "file": "legion-of-super-heroes-original.cbl",
-   "issues": 378,
-   "list_type": "Master",
-   "attribution_source": "",
-   "attribution_url": null
-  },
-  {
-   "id": 476,
-   "name": "Legion of Super-Heroes (Reboot)",
-   "file": "legion-of-super-heroes-reboot.cbl",
-   "issues": 241,
-   "list_type": "Master",
-   "attribution_source": "",
-   "attribution_url": null
-  },
-  {
-   "id": 475,
-   "name": "Legion of Super-Heroes (Retroboot)",
-   "file": "legion-of-super-heroes-retroboot.cbl",
-   "issues": 120,
-   "list_type": "Master",
-   "attribution_source": "",
-   "attribution_url": null
-  },
-  {
-   "id": 474,
-   "name": "Legion of Super-Heroes (Threeboot)",
-   "file": "legion-of-super-heroes-threeboot.cbl",
-   "issues": 51,
-   "list_type": "Master",
-   "attribution_source": "",
    "attribution_url": null
   },
   {
@@ -2823,15 +2540,6 @@
    "attribution_url": null
   },
   {
-   "id": 362,
-   "name": "Something is Killing the Children (Slaughterverse Comics)",
-   "file": "something-is-killing-the-children-slaughterverse-comics.cbl",
-   "issues": 90,
-   "list_type": "Master",
-   "attribution_source": "CBH",
-   "attribution_url": null
-  },
-  {
    "id": 269,
    "name": "Spider-Geddon",
    "file": "spider-geddon.cbl",
@@ -3127,15 +2835,6 @@
    "issues": 8,
    "list_type": "Event",
    "attribution_source": "CBRO",
-   "attribution_url": null
-  },
-  {
-   "id": 383,
-   "name": "Swamp Thing by Alan Moore",
-   "file": "swamp-thing-by-alan-moore.cbl",
-   "issues": 46,
-   "list_type": "Creator",
-   "attribution_source": "",
    "attribution_url": null
   },
   {
@@ -3436,33 +3135,6 @@
    "attribution_url": null
   },
   {
-   "id": 460,
-   "name": "Thor by Dan Jurgens",
-   "file": "thor-by-dan-jurgens.cbl",
-   "issues": 82,
-   "list_type": "Creator",
-   "attribution_source": "OTHER",
-   "attribution_url": null
-  },
-  {
-   "id": 382,
-   "name": "Thor by Jason Aaron",
-   "file": "thor-by-jason-aaron.cbl",
-   "issues": 115,
-   "list_type": "Creator",
-   "attribution_source": "HTLC",
-   "attribution_url": null
-  },
-  {
-   "id": 458,
-   "name": "Thor by Walt Simonson",
-   "file": "thor-by-walt-simonson.cbl",
-   "issues": 48,
-   "list_type": "Creator",
-   "attribution_source": "OTHER",
-   "attribution_url": null
-  },
-  {
    "id": 453,
    "name": "Thor: Black Galaxy Saga",
    "file": "thor-black-galaxy-saga.cbl",
@@ -3676,15 +3348,6 @@
    "issues": 63,
    "list_type": "Event",
    "attribution_source": "LOCG",
-   "attribution_url": null
-  },
-  {
-   "id": 455,
-   "name": "Watchmen",
-   "file": "watchmen.cbl",
-   "issues": 49,
-   "list_type": "Master",
-   "attribution_source": "OTHER",
    "attribution_url": null
   },
   {
