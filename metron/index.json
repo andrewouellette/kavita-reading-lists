@@ -1,7 +1,7 @@
 {
  "source": "https://metron.cloud",
  "generated": "2026-09-05T20:54:27Z",
- "note": "Story arcs and events only. Chronologies, creator runs and character orders are in non-arcs/.",
+ "note": "Story arcs and events only. Chronologies, creator runs and character orders are in non-arcs/. Four events are curated by two different sources; the League of ComicGeeks order keeps the plain slug and the other is suffixed with its source tag.",
  "count": 392,
  "lists": [
   {
@@ -607,22 +607,24 @@
   {
    "id": 224,
    "name": "Battle of the Atom",
-   "file": "battle-of-the-atom.cbl",
-   "issues": null,
+   "file": "battle-of-the-atom-cbro.cbl",
+   "issues": 10,
    "list_type": "Event",
    "attribution_source": "CBRO",
    "attribution_url": null,
-   "resumed": true
+   "resumed": true,
+   "source_tag": "cbro"
   },
   {
    "id": 321,
    "name": "Battle of the Atom",
    "file": "battle-of-the-atom.cbl",
-   "issues": null,
+   "issues": 10,
    "list_type": "Event",
    "attribution_source": "LOCG",
    "attribution_url": null,
-   "resumed": true
+   "resumed": true,
+   "source_tag": "locg"
   },
   {
    "id": 181,
@@ -2207,21 +2209,23 @@
   {
    "id": 227,
    "name": "Our Worlds at War",
-   "file": "our-worlds-at-war.cbl",
+   "file": "our-worlds-at-war-cbro.cbl",
    "issues": 41,
    "list_type": "Event",
    "attribution_source": "CBRO",
-   "attribution_url": null
+   "attribution_url": null,
+   "source_tag": "cbro"
   },
   {
    "id": 299,
    "name": "Our Worlds At War",
    "file": "our-worlds-at-war.cbl",
-   "issues": null,
+   "issues": 43,
    "list_type": "Event",
    "attribution_source": "LOCG",
    "attribution_url": null,
-   "resumed": true
+   "resumed": true,
+   "source_tag": "locg"
   },
   {
    "id": 298,
@@ -2424,21 +2428,23 @@
   {
    "id": 467,
    "name": "Secret wars",
-   "file": "secret-wars.cbl",
+   "file": "secret-wars-alt.cbl",
    "issues": 253,
    "list_type": "Event",
    "attribution_source": "",
-   "attribution_url": null
+   "attribution_url": null,
+   "source_tag": "alt"
   },
   {
    "id": 266,
    "name": "Secret Wars",
    "file": "secret-wars.cbl",
-   "issues": null,
+   "issues": 229,
    "list_type": "Event",
    "attribution_source": "LOCG",
    "attribution_url": null,
-   "resumed": true
+   "resumed": true,
+   "source_tag": "locg"
   },
   {
    "id": 244,
@@ -2767,21 +2773,23 @@
   {
    "id": 220,
    "name": "Superman: Emperor Joker",
-   "file": "superman-emperor-joker.cbl",
+   "file": "superman-emperor-joker-cbro.cbl",
    "issues": 9,
    "list_type": "Event",
    "attribution_source": "CBRO",
-   "attribution_url": null
+   "attribution_url": null,
+   "source_tag": "cbro"
   },
   {
    "id": 308,
    "name": "Superman: Emperor Joker",
    "file": "superman-emperor-joker.cbl",
-   "issues": null,
+   "issues": 9,
    "list_type": "Event",
    "attribution_source": "LOCG",
    "attribution_url": null,
-   "resumed": true
+   "resumed": true,
+   "source_tag": "locg"
   },
   {
    "id": 309,

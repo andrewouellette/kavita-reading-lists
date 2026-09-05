@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <Name>Our Worlds At War</Name>
+  <Name>Our Worlds at War</Name>
   <Books>
     <Book Series="Superman" Number="171" Volume="1987" Year="2001"/>
     <Book Series="Green Lantern: Our Worlds At War" Number="1" Volume="2001" Year="2001"/>
@@ -43,7 +43,5 @@
     <Book Series="Superman / Batman" Number="69" Volume="2003" Year="2010"/>
     <Book Series="Superman / Batman" Number="70" Volume="2003" Year="2010"/>
     <Book Series="Superman / Batman" Number="71" Volume="2003" Year="2010"/>
-    <Book Series="Young Justice" Number="37" Volume="1998" Year="2001"/>
-    <Book Series="Impulse" Number="78" Volume="1995" Year="2001"/>
   </Books>
 </ReadingList>
