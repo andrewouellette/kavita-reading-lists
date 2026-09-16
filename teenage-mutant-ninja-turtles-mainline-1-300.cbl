@@ -302,5 +302,7 @@
     <Book Series="Teenage Mutant Ninja Turtles" Number="18" Volume="2024" Year="2026" />
     <Book Series="Teenage Mutant Ninja Turtles" Number="19" Volume="2024" Year="2026" />
     <Book Series="Teenage Mutant Ninja Turtles" Number="20" Volume="2024" Year="2026" />
+    <Book Series="Teenage Mutant Ninja Turtles" Number="21" Volume="2024" Year="2026" />
+    <Book Series="Teenage Mutant Ninja Turtles" Number="22" Volume="2024" Year="2026" />
   </Books>
 </ReadingList>

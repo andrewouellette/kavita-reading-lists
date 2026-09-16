@@ -423,5 +423,22 @@
     <Book Series="Aquaman/Green Arrow: Deep Target" Number="5" Volume="2021" Year="2022" />
     <Book Series="Aquaman/Green Arrow: Deep Target" Number="6" Volume="2021" Year="2022" />
     <Book Series="Aquaman/Green Arrow: Deep Target" Number="7" Volume="2021" Year="2022" />
+    <Book Series="Batman/Superman: World's Finest" Number="53" Volume="2022" Year="2026" />
+    <Book Series="Catwoman" Number="89" Volume="2018" Year="2026" />
+    <Book Series="Nightwing" Number="140" Volume="2016" Year="2026" />
+    <Book Series="Action Comics" Number="1100" Volume="2016" Year="2026" />
+    <Book Series="Detective Comics" Number="1111" Volume="2016" Year="2026" />
+    <Book Series="Harley Quinn" Number="64" Volume="2021" Year="2026" />
+    <Book Series="Action Comics" Number="1101" Volume="2016" Year="2026" />
+    <Book Series="Batman/Superman: World's Finest" Number="54" Volume="2022" Year="2026" />
+    <Book Series="Catwoman" Number="90" Volume="2018" Year="2026" />
+    <Book Series="Nightwing" Number="141" Volume="2016" Year="2026" />
+    <Book Series="Detective Comics" Number="1112" Volume="2016" Year="2026" />
+    <Book Series="Harley Quinn" Number="65" Volume="2021" Year="2026" />
+    <Book Series="Action Comics" Number="1102" Volume="2016" Year="2026" />
+    <Book Series="Batman/Superman: World's Finest" Number="55" Volume="2022" Year="2026" />
+    <Book Series="Catwoman" Number="91" Volume="2018" Year="2026" />
+    <Book Series="Detective Comics" Number="1113" Volume="2016" Year="2026" />
+    <Book Series="Nightwing" Number="142" Volume="2016" Year="2026" />
   </Books>
 </ReadingList>
