@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <Name>Batman: Bad Seeds</Name>
+  <Books>
     <Book Series="Poison Ivy" Number="45" Volume="2022" Year="2026" />
     <Book Series="Poison Ivy" Number="46" Volume="2022" Year="2026" />
     <Book Series="Poison Ivy" Number="47" Volume="2022" Year="2026" />

@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <Name>DNX</Name>
+  <Books>
     <Book Series="Armageddon / X-Men CGD 2026" Number="1" Volume="2026" Year="2026" />
     <Book Series="X-Men" Number="35" Volume="2024" Year="2026" />
     <Book Series="X-Men" Number="36" Volume="2024" Year="2026" />
