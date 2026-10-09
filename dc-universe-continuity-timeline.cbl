@@ -440,5 +440,6 @@
     <Book Series="Catwoman" Number="91" Volume="2018" Year="2026" />
     <Book Series="Detective Comics" Number="1113" Volume="2016" Year="2026" />
     <Book Series="Nightwing" Number="142" Volume="2016" Year="2026" />
+    <Book Series="Harley Quinn" Number="66" Volume="2021" Year="2026" />
   </Books>
 </ReadingList>
