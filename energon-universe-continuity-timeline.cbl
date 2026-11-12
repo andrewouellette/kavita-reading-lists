@@ -127,5 +127,9 @@
     <Book Series="Void Rivals" Number="34" Volume="2023" Year="2026" />
     <Book Series="M.A.S.K." Number="5" Volume="2026" Year="2026" />
     <Book Series="Transformers" Number="37" Volume="2023" Year="2026" />
+    <Book Series="G.I. Joe" Number="27" Volume="2024" Year="2026" />
+    <Book Series="Void Rivals" Number="35" Volume="2023" Year="2026" />
+    <Book Series="M.A.S.K." Number="6" Volume="2026" Year="2026" />
+    <Book Series="Transformers" Number="38" Volume="2023" Year="2026" />
   </Books>
 </ReadingList>

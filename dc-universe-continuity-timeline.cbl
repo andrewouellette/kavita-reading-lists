@@ -441,5 +441,12 @@
     <Book Series="Detective Comics" Number="1113" Volume="2016" Year="2026" />
     <Book Series="Nightwing" Number="142" Volume="2016" Year="2026" />
     <Book Series="Harley Quinn" Number="66" Volume="2021" Year="2026" />
+    <Book Series="Action Comics" Number="1103" Volume="2016" Year="2026" />
+    <Book Series="Batman/Superman: World's Finest" Number="56" Volume="2022" Year="2026" />
+    <Book Series="Catwoman" Number="92" Volume="2018" Year="2026" />
+    <Book Series="Detective Comics" Number="1114" Volume="2016" Year="2026" />
+    <Book Series="Nightwing" Number="143" Volume="2016" Year="2026" />
+    <Book Series="Harley Quinn" Number="67" Volume="2021" Year="2026" />
+    <Book Series="Action Comics" Number="1104" Volume="2016" Year="2026" />
   </Books>
 </ReadingList>

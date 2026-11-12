@@ -293,5 +293,6 @@
     <Book Series="Savage Dragon" Number="280" Volume="1993" Year="2026" />
     <Book Series="Savage Dragon" Number="281" Volume="1993" Year="2026" />
     <Book Series="Invincible Universe: Battle Beast" Number="12" Volume="2025" Year="2026" />
+    <Book Series="Savage Dragon" Number="282" Volume="1993" Year="2026" />
   </Books>
 </ReadingList>
